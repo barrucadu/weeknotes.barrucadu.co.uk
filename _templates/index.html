@@ -1,43 +1,18 @@
 {% extends "_layout.html" %}
-{% block sidebar %}
-{% include "_list_sidebar.html" %}
+{% block subtitle %}
+subscribe to the <a class="link" href="atom.xml">feed</a> — a&nbsp;new entry every Sunday
 {% endblock %}
 {% block body %}
-<h2 class="heading heading--first">Weeknotes</h2>
-
-<p>A new entry every Sunday.  Subscribe to the <a class="link" href="taxon/weeknotes.xml">Atom feed</a>.</p>
-
 <div class="weeknotes">
-  {% for memo in memos %}
-    {% if memo.title.startswith("Weeknotes: ") %}
-      <div class="weeknote-card">
-        <h3 class="weeknote-card__heading"><a class="link link--no-underline" href="{{ memo.link }}">
-            #{{ memo.link.split("weeknotes-")[1].split(".")[0] }}
-        </a></h3>
-        <time class="weeknote-card__time" datetime="{{ memo.published_iso }}">{{ memo.published_pp }}</time>
-      </div>
-    {% elif memo.title.startswith("Weeknote Special: ") %}
-      <div class="weeknote-card weeknote-card--special">
-        <h3 class="weeknote-card__heading"><a class="link link--no-underline" href="{{ memo.link }}">
-            #{{ memo.link.split("weeknotes-")[1].split(".")[0] }} — End of {{ memo.title.removeprefix("Weeknote Special: ") }} Special
-        </a></h3>
-        <time class="weeknote-card__time" datetime="{{ memo.published_iso }}">{{ memo.published_pp }}</time>
-      </div>
-    {% endif %}
+  {% for note in notes %}
+    <div class="weeknote-card{% if note.annual_special_for is defined %} weeknote-card--special{% endif %}">
+      <h3 class="weeknote-card__heading"><a class="link link--no-underline" href="{{ note.link }}">{{ note.title }}</a></h3>
+      <time class="weeknote-card__time" datetime="{{ note.published_iso }}">{{ note.published_pp }}</time>
+    </div>
   {% endfor %}
 </div>
-
-<h2 class="heading">Everything Else</h2>
-
-<p>Atom feed for <a class="link" href="atom.xml">all memos</a> (includes weeknotes).</p>
-
-<ol class="navigation-list navigation-list--index">
-{% for memo in memos %}
-  {% if memo.title.startswith("Weeknotes: ") %}
-  {% elif memo.title.startswith("Weeknote Special: ") %}
-  {% else %}
-     <li class="navigation-list__item"><a class="link link--no-underline" href="{{ memo.link }}">{{ memo.title }}</a></li>
-  {% endif %}
-{% endfor %}
-</ol>
+{% endblock %}
+{% block footer %}
+<p>Copyright 2022+ <a class="link" href="https://www.barrucadu.co.uk">Michael Walker</a>, available under the terms of the <a class="link" href="https://creativecommons.org/licenses/by-nc-sa/4.0/"><abbr title="Creative Commons">CC</abbr> <abbr title="Attribution-NonCommercial-ShareAlike 4.0 International">BY-NC-SA 4.0</abbr> license</a>.</p>
+<p>The body text and headings use <a class="link" href="https://mbtype.com/fonts/valkyrie/">Valkyrie</a>, code samples use <a class="link" href="https://fonts.google.com/specimen/Fira+Mono">Fira Mono</a>.</p>
 {% endblock %}

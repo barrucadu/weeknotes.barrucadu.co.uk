@@ -1,0 +1,14 @@
+{% extends "_layout.html" %}
+{% block subtitle %}
+{{ note.published_pp }}
+{% endblock %}
+{% block body %}
+<div class="markdown">
+  {{ note.body | safe }}
+</div>
+{% endblock %}
+{% block footer %}
+{% if note.next is defined %}<p><a class="link" href="{{ note.next.link }}">← {{ note.next.title }}</a></p>{% endif %}
+{% if note.prev is defined %}<p><a class="link" href="{{ note.prev.link }}">{{ note.prev.title }} →</a></p>{% endif %}
+<p><a class="link" href="">Return</a></p>
+{% endblock %}

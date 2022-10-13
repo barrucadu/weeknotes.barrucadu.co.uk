@@ -7,66 +7,49 @@ resource_types:
       password: ((docker-registry-password))
 
 resources:
-  - name: builder-git
-    type: git
-    source:
-      uri: https://github.com/barrucadu/memo.barrucadu.co.uk.git
-      paths:
-        - concourse/Dockerfile
   - name: builder-image
     type: docker-image
     source:
       repository: registry.barrucadu.dev/memo-builder
       username: registry
       password: ((docker-registry-password))
-  - name: memo-git
+  - name: weeknotes-git
     type: git
     source:
-      uri: https://github.com/barrucadu/memo.barrucadu.co.uk.git
-  - name: memo-rsync
+      uri: https://github.com/barrucadu/weeknotes.barrucadu.co.uk.git
+  - name: weeknotes-rsync
     type: rsync-resource
     source:
       server: carcosa.barrucadu.co.uk
-      remote_dir: /persist/srv/http/barrucadu.co.uk/memo
+      remote_dir: /persist/srv/http/barrucadu.co.uk/weeknotes
       private_key: ((carcosa-ssh-private-key))
 
 jobs:
   - name: update-pipeline
     plan:
-      - get: memo-git
+      - get: weeknotes-git
         trigger: true
-      - set_pipeline: memo-barrucadu-co-uk
-        file: memo-git/concourse/pipeline.yml
-
-  - name: memo-builder
-    serial: true
-    plan:
-      - get: builder-git
-        trigger: true
-      - put: builder-image
-        params:
-          build: builder-git
-          dockerfile: builder-git/concourse/Dockerfile
-          tag_as_latest: true
+      - set_pipeline: weeknotes-barrucadu-co-uk
+        file: weeknotes-git/concourse/pipeline.yml
 
   - name: build-and-deploy
     serial: true
     plan:
       - get: builder-image
-      - get: memo-git
+      - get: weeknotes-git
         trigger: true
       - task: build-site
         image: builder-image
         params:
-          OUT_DIR: memo
+          OUT_DIR: weeknotes
         config:
           platform: linux
           inputs:
-            - name: memo-git
+            - name: weeknotes-git
           outputs:
             - name: site
           run:
-            dir: memo-git
+            dir: weeknotes-git
             path: sh
             args:
               - -cex
@@ -75,8 +58,8 @@ jobs:
                 source venv/bin/activate
                 pip install -r requirements-freeze.txt
                 PATH=.:$PATH ./build --out="../site/${OUT_DIR}"
-      - put: memo-rsync
+      - put: weeknotes-rsync
         params:
-          path: site/memo
+          path: site/weeknotes
           rsync_args:
             - --delete

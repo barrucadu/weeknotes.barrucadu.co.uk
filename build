@@ -8,10 +8,10 @@ Usage:
 
 Options:
   -h --help       Show this screen.
-  --drafts        Include draft memos as well.
+  --drafts        Include draft notes as well.
   --cache=<dir>   Directory to cache generated HTML in [default: _cache]
   --out=<dir>     Directory to generate site in [default: _site]
-  --root=<url>    Root of the website [default: https://memo.barrucadu.co.uk/]
+  --root=<url>    Root of the website [default: https://weeknotes.barrucadu.co.uk/]
 
 """
 
@@ -22,6 +22,7 @@ import os
 import pypandoc
 import subprocess
 import yaml
+import sys
 
 from bs4 import BeautifulSoup
 from datetime import datetime, timedelta
@@ -39,84 +40,27 @@ JINJA2_ENV = jinja2.Environment(
     loader=jinja2.FileSystemLoader("_templates"),
 )
 
-TAXON_DIR = "taxon"
+SITE_NAME = "barrucadu's weeknotes"
+NOTE_DIR = "notes"
 
 DATE_ISO_FORMAT = "%Y-%m-%d"
 DATE_PP_FORMAT = "%b %-d, %Y"
 
 
-# this is a list so they can be ordered
-TAXA = [
-    {"name": "General", "slug": "general"},
-    {"name": "Games", "slug": "games"},
-    {"name": "Campaign Notes", "slug": "games-campaigns", "parent": "games"},
-    {"name": "Weeknotes", "slug": "weeknotes"},
-    {"name": "2022", "slug": "weeknotes-2022", "parent": "weeknotes"},
-    {"name": "2021", "slug": "weeknotes-2021", "parent": "weeknotes"},
-    {"name": "2020", "slug": "weeknotes-2020", "parent": "weeknotes"},
-    {"name": "2019", "slug": "weeknotes-2019", "parent": "weeknotes"},
-    {"name": "2018", "slug": "weeknotes-2018", "parent": "weeknotes"},
-    {"name": "Research", "slug": "research"},
-    {"name": "Deja Fu / CoCo", "slug": "research-dejafucoco", "parent": "research"},
-    {"name": "Summaries", "slug": "research-summary", "parent": "research"},
-    {"name": "Tech Docs", "slug": "techdocs"},
-    {"name": "Practices", "slug": "techdocs-practices", "parent": "techdocs"},
-    {"name": "Runbooks", "slug": "techdocs-runbooks", "parent": "techdocs"},
-    {"name": "Incident Reports", "slug": "techdocs-incidents", "parent": "techdocs"},
-    {"name": "Self", "slug": "self"},
-    {"name": "Possessions", "slug": "self-possessions", "parent": "self"},
-    {"name": "Systems", "slug": "self-systems", "parent": "self"},
-]
-
-TAXA_BY_SLUG = {taxon["slug"]: taxon for taxon in TAXA}
-
-DEFAULT_TAXON = "general"
-
-for taxon in TAXA:
-    taxon["long_name"] = taxon["name"]
-    taxon["has_children"] = False
-    taxon["link"] = f"{TAXON_DIR}/{taxon['slug']}.html"
-    taxon["permalink"] = f"{BASE_HREF}{taxon['link']}"
-    taxon["feed_link"] = f"{TAXON_DIR}/{taxon['slug']}.xml"
-    taxon["feed_permalink"] = f"{BASE_HREF}{taxon['feed_link']}"
-    taxon["parent"] = taxon.get("parent", "")
-    if taxon["parent"]:
-        parent = TAXA_BY_SLUG[taxon["parent"]]
-        parent["has_children"] = True
-        taxon["long_name"] = f"{parent['long_name']} ({taxon['name']})"
-        taxon["parent_name"] = parent["long_name"]
-        taxon["parent_link"] = parent["link"]
-        taxon["draft"] = taxon.get("draft", parent.get("draft", False))
-
-
-def title_for(taxon=None):
-    """Title for a memo listing or feed."""
-
-    if taxon is not None:
-        return f"barrucadu's memos - {taxon['long_name']}"
-    else:
-        return "barrucadu's memos"
-
-
-def pandocise_memo(fname, link, text, toc):
-    """Render a memo's content using pandoc."""
+def pandocise_note(fname, link, text):
+    """Render a note's content using pandoc."""
 
     text_hash = hashlib.sha256()
     text_hash.update(text.encode())
     cache_file = os.path.join(CACHE_DIR, f"sha256-{text_hash.hexdigest()}.json")
     try:
         cached = json.load(open(cache_file))
-        return cached["html"], cached["toc"]
+        return cached["html"]
     except (OSError, json.decoder.JSONDecodeError):
-        _, fmt = os.path.splitext(fname)
-        fmt = fmt[1:]
-        if fmt == "lhs":
-            fmt = "markdown+literate_haskell"
-
         html = pypandoc.convert_text(
             text,
             "html",
-            format=fmt,
+            format="markdown",
             filters=[
                 "pandoc-filter-transform-code",
             ],
@@ -128,39 +72,32 @@ def pandocise_memo(fname, link, text, toc):
         # this can't be done as a pandoc filter sadly, because the footnote
         # links don't exist when the filter runs
         html = html.replace("href=\"#fn", f"href=\"{link}#fn")
-        soup = BeautifulSoup(html, features="html.parser")
-
-        if toc:
-            def link_titles(soup, links):
-                for link in links:
-                    if "anchor" in link and "title" not in link:
-                        link["title"] = soup.find(id=link["anchor"]).text
-                    if "children" in link:
-                        link["children"] = link_titles(soup, link["children"])
-                return links
-
-            toc = link_titles(soup, toc)
-        else:
-            toc = []
-            for tag in soup.find_all("h2"):
-                toc.append(
-                    {
-                        "title": tag.text,
-                        "anchor": tag["id"],
-                    }
-                )
 
         try:
-            json.dump({"html": html, "toc": toc}, open(cache_file, "w"))
+            json.dump({"html": html}, open(cache_file, "w"))
         except OSError as err:
             print(f"could not cache generated HTML for {fname}: {err.strerror}")
 
-        return html, toc
+        return html
 
 
-ALL_MEMOS = []
-for fname in os.listdir("memos"):
-    fpath = os.path.join("memos", fname)
+def render(link, template, **metadata):
+    """Render a jinja2 template."""
+    with open(os.path.join(OUT_DIR, link), "w") as f:
+        rendered = JINJA2_ENV.get_template(template).render(
+            base_href=BASE_HREF,
+            hashed_links=HASHED_LINKS,
+            site_name=SITE_NAME,
+            link=link,
+            permalink=f"{BASE_HREF}{link}",
+            **metadata,
+        )
+        print(rendered, file=f)
+
+
+ALL_NOTES = []
+for fname in os.listdir("notes"):
+    fpath = os.path.join("notes", fname)
     if not os.path.isfile(fpath):
         continue
 
@@ -168,73 +105,38 @@ for fname in os.listdir("memos"):
         lines = f.readlines()
         metadata_end_idx = lines[1:].index("---\n") + 1
         text_start_idx = metadata_end_idx + 1
-        memo = yaml.load("".join(lines[1:metadata_end_idx]), Loader=yaml.SafeLoader)
+        note = yaml.load("".join(lines[1:metadata_end_idx]), Loader=yaml.SafeLoader)
 
-        # default metadata
-        if "published" not in memo:
-            datestr = subprocess.check_output(
-                [
-                    "git",
-                    "log",
-                    "--diff-filter=A",
-                    "--follow",
-                    "--date=short",
-                    "--format=%ad",
-                    "-1",
-                    "--",
-                    fpath,
-                ]
-            )
-            try:
-                memo["published"] = datetime.strptime(
-                    datestr.decode("utf-8").strip(), "%Y-%m-%d"
-                )
-            except Exception:
-                # this will be reached if the file hasn't been committed
-                memo["published"] = datetime.now()
-        memo["modified"] = memo.get("modified", memo.get("date", memo["published"]))
-        if not isinstance(memo["published"], datetime):
-            memo["published"] = datetime(
-                memo["published"].year, memo["published"].month, memo["published"].day
-            )
-        if not isinstance(memo["modified"], datetime):
-            memo["modified"] = datetime(
-                memo["modified"].year, memo["modified"].month, memo["modified"].day
-            )
-        if memo["published"] > memo["modified"]:
-            memo["published"] = memo["modified"]
+        note["slug"], _ = os.path.splitext(os.path.basename(fpath))
+        note["link"] = f"{NOTE_DIR}/{note['slug']}.html"
+        note["permalink"] = f"{BASE_HREF}{note['link']}"
 
-        memo["published_iso"] = memo["published"].strftime(DATE_ISO_FORMAT)
-        memo["published_pp"] = memo["published"].strftime(DATE_PP_FORMAT)
-        memo["modified_iso"] = memo["modified"].strftime(DATE_ISO_FORMAT)
-        memo["modified_pp"] = memo["modified"].strftime(DATE_PP_FORMAT)
-        memo["slug"], _ = os.path.splitext(os.path.basename(fpath))
-        memo["link"] = f"{memo['slug']}.html"
-        memo["permalink"] = f"{BASE_HREF}{memo['slug']}.html"
+        note["title"] = f"#{note['slug']}"
+        if "annual_special_for" in note:
+            note["title"] += f" — End of {note['annual_special_for']} Special"
 
-        # get the taxon
-        taxon_slug = memo.get("taxon", DEFAULT_TAXON)
-        taxon = TAXA_BY_SLUG[taxon_slug]
-        memo["taxon"] = taxon
-        memo["taxa"] = [taxon]
-        while taxon["parent"]:
-            taxon = TAXA_BY_SLUG[taxon["parent"]]
-            memo["taxa"].append(taxon)
+        if "date" not in note:
+            print(f"missing date in metadata for {fpath}")
+            sys.exit(1)
+
+        note["published_iso"] = note["date"].strftime(DATE_ISO_FORMAT)
+        note["published_pp"] = note["date"].strftime(DATE_PP_FORMAT)
 
         # render the body
-        memo["text"] = "".join(lines[text_start_idx:])
-        memo["body"], toc = pandocise_memo(fname, memo["link"], memo["text"], memo.get("toc"))
-        if toc:
-            memo["toc"] = toc
+        note["text"] = "".join(lines[text_start_idx:])
+        note["body"] = pandocise_note(fname, note["link"], note["text"])
 
-    if memo.get("draft", False) and not DRAFT_MODE:
+    if note.get("draft", False) and not DRAFT_MODE:
         continue
-    ALL_MEMOS.append(memo)
+    ALL_NOTES.append(note)
+ALL_NOTES.sort(key=lambda note: note["date"], reverse=True)
 
-MEMOS_BY_SLUG = {memo["slug"]: memo for memo in ALL_MEMOS}
-for memo in ALL_MEMOS:
-    if "superseded_by" in memo:
-        memo["superseded_by"] = MEMOS_BY_SLUG[memo["superseded_by"]]
+prev = None
+for note in reversed(ALL_NOTES):
+    if prev is not None:
+        note["prev"] = prev
+        prev["next"] = note
+    prev = note
 
 HASHED_LINKS = {}
 for fname in os.listdir("hashed-static"):
@@ -253,93 +155,7 @@ for fname in os.listdir("hashed-static"):
     HASHED_LINKS[fname] = f"{base}-sha256-{file_hash.hexdigest()}{ext}"
 
 
-def render(link, template, **metadata):
-    with open(os.path.join(OUT_DIR, link), "w") as f:
-        rendered = JINJA2_ENV.get_template(template).render(
-            base_href=BASE_HREF,
-            hashed_links=HASHED_LINKS,
-            site_name=title_for(),
-            is_root=link == "index.html",
-            is_memo=template == "memo.html",
-            link=link,
-            permalink=f"{BASE_HREF}{link}",
-            **metadata,
-        )
-        print(rendered, file=f)
-
-
-def render_memo_list(memos, taxon=None, taxa=[]):
-    """Render a memo listing page."""
-
-    metadata = {
-        "title": title_for(taxon=taxon),
-        "taxa": taxa,
-    }
-
-    link = "index.html"
-    if taxon is not None:
-        link = os.path.join(TAXON_DIR, taxon["slug"] + ".html")
-        metadata["taxon"] = taxon
-        memos = [memo for memo in memos if taxon in memo["taxa"]]
-
-    if memos:
-        metadata["memos"] = memos
-    else:
-        raise Exception(f"no memos (taxon={taxon})")
-
-    render(link, "index.html" if link == "index.html" else "list.html", **metadata)
-
-
-def render_memo_feed(memos, taxon=None, num=10):
-    """Render a memo listing feed."""
-
-    link = "atom.xml"
-    if taxon is not None:
-        link = os.path.join(TAXON_DIR, taxon["slug"] + ".xml")
-        memos = [memo for memo in memos if taxon in memo["taxa"]]
-
-    metadata = {
-        "title": title_for(taxon=taxon),
-        "taxon": taxon,
-        "memos": memos[:num],
-    }
-    if memos:
-        metadata["feed_date"] = memos[0]["modified_iso"]
-
-    render(link, "atom.xml", **metadata)
-
-
-def memo_sort_key(memo, sort_important=True):
-    timestamp = memo["modified"]
-
-    # weeknotes are in publication order even if they've since been
-    # modified
-    if "weeknotes" in memo["taxon"]["slug"]:
-        timestamp = memo["published"]
-
-    # bump up important memos (should I retire this field, perhaps?)
-    if sort_important and "important" in memo:
-        timestamp += timedelta(days=365 * 1000)
-
-    return timestamp
-
-
-memos_for_lists = sorted(
-    [memo for memo in ALL_MEMOS if "superseded_by" not in memo],
-    key=lambda memo: memo_sort_key(memo, True),
-    reverse=True,
-)
-
-memos_for_feeds = sorted(
-    [memo for memo in memos_for_lists],
-    key=lambda memo: memo_sort_key(memo, False),
-    reverse=True,
-)
-
 dir_util.copy_tree("static", OUT_DIR)
-dir_util.copy_tree("MathJax/es5", os.path.join(OUT_DIR, "mathjax"))
-
-dir_util.mkpath(os.path.join(OUT_DIR, TAXON_DIR))
 
 for source, target in HASHED_LINKS.items():
     file_util.copy_file(
@@ -347,21 +163,11 @@ for source, target in HASHED_LINKS.items():
     )
 
 render("robots.txt", "robots.txt")
-render("sitemap.xml", "sitemap.xml", memos=ALL_MEMOS, taxa=TAXA)
+render("sitemap.xml", "sitemap.xml", notes=ALL_NOTES)
 
-render_memo_list(memos_for_lists, taxa=TAXA)
-render_memo_feed(memos_for_feeds)
+render("index.html", "index.html", title=SITE_NAME, notes=ALL_NOTES)
+render("atom.xml", "atom.xml", title=SITE_NAME, notes=ALL_NOTES[:10], feed_date=ALL_NOTES[0]["published_iso"])
 
-
-def build_taxon_pages_recursive(taxon):
-    render_memo_list(memos_for_lists, taxon=taxon, taxa=TAXA)
-    render_memo_feed(memos_for_feeds, taxon=taxon)
-    for t in taxon.get("children", []):
-        build_taxon_pages_recursive(t)
-
-
-for taxon in TAXA:
-    build_taxon_pages_recursive(taxon)
-
-for memo in ALL_MEMOS:
-    render(f"{memo['slug']}.html", "memo.html", title=memo["title"], memo=memo)
+dir_util.mkpath(os.path.join(OUT_DIR, NOTE_DIR))
+for note in ALL_NOTES:
+    render(note["link"], "note.html", title=note["title"], note=note)
