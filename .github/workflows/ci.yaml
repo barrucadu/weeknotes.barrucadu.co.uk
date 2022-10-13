@@ -3,18 +3,6 @@ name: Run tests
 on: pull_request
 
 jobs:
-  lint:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v2.4.0
-      - uses: actions/setup-python@v2
-      - name: Lint
-        run: |
-          set -ex
-          pip install flake8 black
-          black -l 100 build pandoc-filter-* post-pleroma-status
-          flake8 --max-line-length 100 build pandoc-filter-* post-pleroma-status
-          git diff --exit-code
   test:
     runs-on: ubuntu-latest
     steps:
