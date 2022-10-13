@@ -70,14 +70,14 @@ just regenerate the file by rebooting.  Though I wouldn't have been
 messing with that file if I hadn't been trying to move it to my
 `/persist` volume, so...
 
-![Screenshot of the Prometheus / Grafana monitoring dashboard](weeknotes-106/dashboard.png)
+![Screenshot of the Prometheus / Grafana monitoring dashboard](notes/106/dashboard.png)
 
 I decided to set up [Prometheus][] for monitoring, and even ended up
 writing my own [speedtest.net monitoring plugin][].  I'm undecided on
 whether I *really* need to run a speedtest every 5 minutes, but for
 now it's neat.
 
-![Screenshot of the start page](weeknotes-106/startpage.png)
+![Screenshot of the start page](notes/106/startpage.png)
 
 I also revamped my start page, after finding [/r/startpages][] and
 feeling that my old one was a bit inadequate.  The data is from [the

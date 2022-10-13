@@ -35,7 +35,7 @@ This week I read:
   much the style of the translator matters.
 
 [Overlord]: https://en.wikipedia.org/wiki/Overlord_(novel_series)
-[when I read volume 13]: weeknotes-142.html
+[when I read volume 13]: notes/142.html
 
 
 ## Miscellaneous

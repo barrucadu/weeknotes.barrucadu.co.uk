@@ -228,7 +228,7 @@ Photos would be easy because I barely use those at all.  However, I've
 found that I use Docs more than I thought I did.  I often use it for
 writing up notes before my Call of Cthulhu sessions:
 
-![Excerpt of a Google Doc used for Call of Cthulhu session planning.](weeknotes-071/docs.png)
+![Excerpt of a Google Doc used for Call of Cthulhu session planning.](notes/071/docs.png)
 
 So I decided to find a replacement for Docs.
 
@@ -238,7 +238,7 @@ In a thread about campaign management software on [/r/rpg][], I found
 overwhelming, and lets you make templates for common tasks.  I whipped
 up a Masks of Nyarlathotep page:
 
-![Screenshot of a Notion page with Masks of Nyarlathotep information.](weeknotes-071/notion.png)
+![Screenshot of a Notion page with Masks of Nyarlathotep information.](notes/071/notion.png)
 
 I've not filled in all of those subpages, only the overview, music,
 pre- and post-session checklists, and the most recent set of Kenya
@@ -249,7 +249,7 @@ So far I've only thought about how I *could* use Notion to plan a
 session; I've not actually done it yet.  I'll be able to report on
 that in the next weeknote instalment.
 
-[I switched to ProtonMail]: weeknotes-046.html
+[I switched to ProtonMail]: notes/046.html
 [ProtonMail announced that they were making a calendar]: https://proton.me/news/protoncalendar-beta-announcement
 [/r/rpg]: https://old.reddit.com/r/rpg
 [Notion]: https://www.notion.so

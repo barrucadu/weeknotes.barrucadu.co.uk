@@ -23,7 +23,7 @@ Finally, I did some work towards moving the account "dashboard" page
 out of the account manager prototype and onto GOV.UK.  That's still
 ongoing.
 
-[I mentioned last week]: weeknotes-143.html#work
+[I mentioned last week]: notes/143.html#work
 
 
 ## The Plague
@@ -41,7 +41,7 @@ periphery.
 But at least I have an appointment now.  If it's 8 to 11 weeks between
 jabs, I should get the second one in late August or early September.
 
-[Last week]: weeknotes-143.html#the-plague
+[Last week]: notes/143.html#the-plague
 
 
 ## Books
@@ -79,7 +79,7 @@ more powerful player characters.
 So I'm wondering about how to make it a bit faster-paced and a bit
 more pulpy going forward.
 
-[Last time]: weeknotes-142.html#gaming
+[Last time]: notes/142.html#gaming
 
 ### Godbound
 

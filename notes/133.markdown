@@ -31,7 +31,7 @@ non-team-related work, or team-related-work which is either something
 for me to do specifically (as tech lead) or which is too small to be
 worth writing a proper card for and taking to planning:
 
-![Work to-do list.](weeknotes-133/to-do.jpg)
+![Work to-do list.](notes/133/to-do.jpg)
 
 I've also been working through the [DDaT framework][], making a list
 of evidence for each skill I'm supposed to have, so that I can talk

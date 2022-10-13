@@ -99,7 +99,7 @@ more important things than usual.
 
 I'll be tweaking the system for the next couple of weeks and, when I'm happy with it, I'll update the [Self Organisation][] memo.
 
-[Last time]: weeknotes-071.html
+[Last time]: notes/071.html
 [Self Organisation]: self-organisation.html
 
 ## Link Roundup

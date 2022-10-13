@@ -8,7 +8,7 @@ date: 2019-11-24
   [/bank-holidays][] and [/when-do-the-clocks-change][] pages, so now
   if you google for "bank holidays" Google gives a rich result:
 
-  ![Screenshot of Google results page showing rich result for the GOV.UK bank holidays page.](weeknotes-062/bank-holidays.png)
+  ![Screenshot of Google results page showing rich result for the GOV.UK bank holidays page.](notes/062/bank-holidays.png)
 
   This whole experience has heightened my Scotland-bank-holiday-envy.
   Not only do they have an extra one, theirs seem to be slightly more

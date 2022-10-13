@@ -44,7 +44,7 @@ goes away.  This is a pretty common pattern in Rails apps, but it
 requires a little more care to make it work when you have multiple
 frontend apps which don't share the Rails session cookie.
 
-[continued looking at Fastly's Compute@Edge stuff]: weeknotes-150.html#work
+[continued looking at Fastly's Compute@Edge stuff]: notes/150.html#work
 [edge-side includes (ESI)]: https://en.wikipedia.org/wiki/Edge_Side_Includes
 [The Fastly ESI docs]: https://developer.fastly.com/reference/vcl/statements/esi/
 [a way of sticking flash messages in our session cookie]: https://github.com/alphagov/govuk_personalisation/pull/9
@@ -72,7 +72,7 @@ This week I read:
   pictures.
 
 [The Rise and Fall of the Third Reich]: https://en.wikipedia.org/wiki/The_Rise_and_Fall_of_the_Third_Reich
-[in Janaury last year]: weeknotes-068.html#miscellaneous
+[in Janaury last year]: notes/068.html#miscellaneous
 [some significant criticisms]: https://en.wikipedia.org/wiki/The_Rise_and_Fall_of_the_Third_Reich#Criticism
 [Little Nuns]: https://www.kickstarter.com/projects/diva01/litttle-nuns
 [Diva]: https://twitter.com/hyxpk

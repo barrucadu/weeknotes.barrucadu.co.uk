@@ -14,7 +14,7 @@ Not ideal, but perhaps better than implementing something and
 immediately discovering it's flawed.  At some point a decision needs
 to be made though, even if we then revisit it in the future.
 
-[the RFC]: weeknotes-124.html
+[the RFC]: notes/124.html
 
 
 ## Books

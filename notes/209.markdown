@@ -57,7 +57,7 @@ monstrous action.
 
 I started playing [Cult of the Lamb][] today, it's a lot of fun.
 
-![Normal behaviour for woodland creatures.](weeknotes-209/cult-of-the-lamb.jpg)
+![Normal behaviour for woodland creatures.](notes/209/cult-of-the-lamb.jpg)
 
 It's about being an undead lamb in service to a dark god, recruiting followers
 and furthering your aims through extreme violence.  I'm not very far into it

@@ -56,7 +56,7 @@ This week I read:
 
 [The Hydrogen Sonata]: https://en.wikipedia.org/wiki/The_Hydrogen_Sonata
 [Culture series]: https://en.wikipedia.org/wiki/Culture_series
-[I did Surface Detail]: weeknotes-122.html
+[I did Surface Detail]: notes/122.html
 [sequels of Neuromancer]: https://en.wikipedia.org/wiki/Sprawl_trilogy
 [The Book of the New Sun]: https://en.wikipedia.org/wiki/The_Book_of_the_New_Sun
 [The Great Indoors]: http://emilyanthes.com/thegreatindoors/

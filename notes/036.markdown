@@ -18,7 +18,7 @@ date: 2019-05-26
 - I started making changes to [licence-finder][] and [search-api][] to
   make them compatible with Elasticsearch 6.
 
-[the previous weekend]: weeknotes-035.html
+[the previous weekend]: notes/035.html
 [licence-finder]: https://github.com/alphagov/licence-finder/pull/530
 [search-api]: https://github.com/alphagov/search-api/pull/1553
 

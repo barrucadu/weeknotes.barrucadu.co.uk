@@ -164,7 +164,7 @@ around.  I'll hold a session 0 after we finish the adventure and see
 what everyone's interested in.
 
 [Winter's Daughter]: https://necroticgnome.com/products/dolmenwood-winters-daughter
-[my Forbidden Lands one-shot]: weeknotes-193.html#roleplaying-games
+[my Forbidden Lands one-shot]: notes/193.html#roleplaying-games
 
 
 ## Miscellaneous

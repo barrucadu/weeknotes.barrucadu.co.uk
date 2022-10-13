@@ -39,7 +39,7 @@ This week I read:
   poetry every other page.
 
 [Olympos]: https://en.wikipedia.org/wiki/Ilium/Olympos
-[a fortnight ago]: weeknotes-145.html
+[a fortnight ago]: notes/145.html
 
 
 ## Gaming
@@ -76,9 +76,9 @@ for me, but I'm also going to share them with my players.
 
 I've now got cheatsheets for:
 
-- [The core rules & combat](weeknotes-147/basics.pdf)
-- [Spacecraft operations & space combat](weeknotes-147/spacecraft.pdf)
-- [How to read a UWP](weeknotes-147/uwp.pdf)
+- [The core rules & combat](notes/147/basics.pdf)
+- [Spacecraft operations & space combat](notes/147/spacecraft.pdf)
+- [How to read a UWP](notes/147/uwp.pdf)
 
 These might change before the campaign, which won't be starting for a
 few more months yet, but making these has really helped cement my

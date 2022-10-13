@@ -97,7 +97,7 @@ understanding of the sorts of problems Kubernetes needs to solve, so
 maybe I'll have another go at learning that.  I think I'd do better
 this time.
 
-[Last week]: weeknotes-134.html
+[Last week]: notes/134.html
 [making a start]: https://github.com/barrucadu/ozymandias
 [Ozymandias]: https://en.wikipedia.org/wiki/Ozymandias
 [podman]: https://podman.io/
@@ -145,7 +145,7 @@ Universe skill][], which I gave one of my Call of Cthulhu characters
 [back in January][].
 
 [Knowledge of the Future of the Universe skill]: https://www.lookwhattheshoggothdraggedin.com/post/knowledge-of-the-future-of-the-universe.html
-[back in January]: weeknotes-120.html
+[back in January]: notes/120.html
 
 
 ## Link Roundup

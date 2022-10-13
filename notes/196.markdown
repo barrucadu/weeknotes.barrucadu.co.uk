@@ -47,7 +47,7 @@ This week I read:
 
 This week I got the Old School Essentials books and GM screen:
 
-![Old School Essentials Advanced Fantasy Player's & Referee's Tomes, plus screen.](weeknotes-196/ose-photo.jpg)
+![Old School Essentials Advanced Fantasy Player's & Referee's Tomes, plus screen.](notes/196/ose-photo.jpg)
 
 I've already read the PDFs, but the books are nice to have too.
 They're really well organised, with most topics fitting onto either a
@@ -78,8 +78,8 @@ rarely a tragedy.  Secondly, if I'm spending the extra money to get a
 physical book (as opposed to just a PDF), I don't think it's
 unreasonable to want it to look nice on my bookcase.
 
-[the current cover]: weeknotes-196/hot-springs-island-current-cover.jpg
-[The new cover]: weeknotes-196/hot-springs-island-new-cover.jpg
+[the current cover]: notes/196/hot-springs-island-current-cover.jpg
+[The new cover]: notes/196/hot-springs-island-new-cover.jpg
 
 ### And New Story Arcs
 
@@ -97,7 +97,7 @@ join (adjacent light purple region with dashed border):[^tm]
 [^tm]: The [Traveller Map poster maker][] is a great resource for this
     sort of thing.
 
-![The Kingdom of Drinax, and areas under its influence.](weeknotes-196/traveller-map.png)
+![The Kingdom of Drinax, and areas under its influence.](notes/196/traveller-map.png)
 
 While still giving the players plenty of choice in what they can do,
 I'm planning that the next "arc" of the campaign will culminate with

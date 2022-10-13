@@ -35,6 +35,6 @@ I've only been reading Traveller supplements this week.
 
 ## Miscellaneous
 
-![Temperature measurements from my living room, showing a current temperature of 29.6C](weeknotes-148/temperature.png)
+![Temperature measurements from my living room, showing a current temperature of 29.6C](notes/148/temperature.png)
 
 It's too hot.

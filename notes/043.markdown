@@ -59,7 +59,7 @@ date: 2019-07-14
   I've mostly got over fonts looking weird.
 
 [The Historian]: https://en.wikipedia.org/wiki/The_Historian
-[a couple of weeks ago]: weeknotes-041.html
+[a couple of weeks ago]: notes/041.html
 [The Lathe of Heaven]: https://en.wikipedia.org/wiki/The_Lathe_of_Heaven
 [Guild Wars 2]: https://www.guildwars2.com
 [Heart of Thorns expansion]: https://heartofthorns.guildwars2.com/

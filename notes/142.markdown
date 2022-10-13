@@ -77,7 +77,7 @@ This week I read:
 
 [Mona Lisa Overdrive]: https://en.wikipedia.org/wiki/Mona_Lisa_Overdrive
 [Sprawl trilogy]: https://en.wikipedia.org/wiki/Sprawl_trilogy
-[Count Zero]: weeknotes-129.html
+[Count Zero]: notes/129.html
 [Borges]: https://en.wikipedia.org/wiki/Jorge_Luis_Borges
 [the story of the same name]: http://www.phinnweb.org/links/literature/borges/aleph.html
 [Hellstar Remina]: https://junjiitomanga.fandom.com/wiki/Hellstar_Remina

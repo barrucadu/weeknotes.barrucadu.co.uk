@@ -86,7 +86,7 @@ entirely in favour of command-line arguments, improving logging, and
 reloading all the zone & hosts files with SIGHUP.  But those can come
 later.
 
-[last week]: weeknotes-180.html#programming
+[last week]: notes/180.html#programming
 [Put it on GitHub]: https://github.com/barrucadu/resolved
 [recursive resolution]: https://github.com/barrucadu/resolved/blob/master/src/resolver/mod.rs
 [a size-bounded LRU cache]: https://github.com/barrucadu/resolved/pull/15

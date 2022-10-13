@@ -103,7 +103,7 @@ date: 2019-11-03
 [Rails 6 came out recently]: https://edgeguides.rubyonrails.org/6_0_release_notes.html
 [finder-frontend]: https://github.com/alphagov/finder-frontend/pull/1709
 [Overleaf]: https://www.overleaf.com/
-[I investigated a few weeks ago in the team hackathon]: weeknotes-056.html
+[I investigated a few weeks ago in the team hackathon]: notes/056.html
 
 ## Miscellaneous
 

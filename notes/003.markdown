@@ -93,7 +93,7 @@ date: 2018-10-07
 [net_http]: https://www.rubydoc.info/stdlib/net/Net/HTTP
 [we disabled tracing of aws-sdk requests]: https://github.com/alphagov/govuk_app_config/pull/61
 [raised an issue on aws-xray-sdk]: https://github.com/aws/aws-xray-sdk-ruby/issues/13
-[Weeknotes: 001]: weeknotes-001.html
+[Weeknotes: 001]: notes/001.html
 [transition]: https://github.com/alphagov/transition
 
 ## Miscellaneous

@@ -6,7 +6,7 @@ date: 2019-02-03
 
 - I passed.
 
-  ![Section of Ph.D report showing that the examiners recommend the degree be awarded with no corrections.](weeknotes-020/thesis.png)
+  ![Section of Ph.D report showing that the examiners recommend the degree be awarded with no corrections.](notes/020/thesis.png)
 
   There's one optional correction, writing about some closely related
   work I haven't mentioned, but I'm undecided whether I want to do

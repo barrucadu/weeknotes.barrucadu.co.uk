@@ -83,7 +83,7 @@ date: 2018-11-04
 [information pages for "World Locations"]: https://github.com/alphagov/whitehall/pull/4465
 [load-testing the GOV.UK frontend apps]: https://github.com/alphagov/govuk-load-testing
 [holiday entitlement calculator]: https://www.gov.uk/calculate-your-holiday-entitlement
-[sent to BEIS for a fact-check]: weeknotes-005.html#work
+[sent to BEIS for a fact-check]: notes/005.html#work
 
 ## Miscellaneous
 

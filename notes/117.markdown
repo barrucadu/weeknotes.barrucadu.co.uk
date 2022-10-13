@@ -35,7 +35,7 @@ We've got another frontend developer joining the team next week, which
 will be very handy as we've had a lot of frontend work in recent
 weeks.
 
-[I was thinking about last week]: weeknotes-116.html
+[I was thinking about last week]: notes/116.html
 [sticking extra params in the OAuth redirect URI is not cool]: https://www.oauth.com/oauth2-servers/redirect-uris/redirect-uri-registration/#per-request
 
 ## Books
@@ -96,7 +96,7 @@ sorts of activities are just lumped together into untracked time.
 I've now been doing this for a few days, so I have a little data built
 up:
 
-!["Leisure Breakdown" graph from my "Quantified Self" dashboard.](weeknotes-117/leisure-breakdown.png)
+!["Leisure Breakdown" graph from my "Quantified Self" dashboard.](notes/117/leisure-breakdown.png)
 
 In the graph, "systems" refers to my [personal finance system][],
 [self organisation system][], and now my time tracking system.  So as

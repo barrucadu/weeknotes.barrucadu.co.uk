@@ -102,7 +102,7 @@ after that, England.
 
 ## RPG Blog
 
-[![It's called Look What the Shoggoth Dragged In](weeknotes-128/lookwhattheshoggothdraggedin.png)][blog]
+[![It's called Look What the Shoggoth Dragged In](notes/128/lookwhattheshoggothdraggedin.png)][blog]
 
 I did end up starting that [RPG blog][blog].
 

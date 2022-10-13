@@ -41,6 +41,7 @@ JINJA2_ENV = jinja2.Environment(
 )
 
 SITE_NAME = "barrucadu's weeknotes"
+NOTE_DIR = "notes"
 
 DATE_ISO_FORMAT = "%Y-%m-%d"
 DATE_PP_FORMAT = "%b %-d, %Y"
@@ -107,8 +108,8 @@ for fname in os.listdir("notes"):
         note = yaml.load("".join(lines[1:metadata_end_idx]), Loader=yaml.SafeLoader)
 
         note["slug"], _ = os.path.splitext(os.path.basename(fpath))
-        note["link"] = f"{note['slug']}.html"
-        note["permalink"] = f"{BASE_HREF}{note['slug']}.html"
+        note["link"] = f"{NOTE_DIR}/{note['slug']}.html"
+        note["permalink"] = f"{BASE_HREF}{note['link']}"
 
         note["title"] = f"#{note['slug']}"
         if "annual_special_for" in note:
@@ -167,5 +168,6 @@ render("sitemap.xml", "sitemap.xml", notes=ALL_NOTES)
 render("index.html", "index.html", title=SITE_NAME, notes=ALL_NOTES)
 render("atom.xml", "atom.xml", title=SITE_NAME, notes=ALL_NOTES[:10], feed_date=ALL_NOTES[0]["published_iso"])
 
+dir_util.mkpath(os.path.join(OUT_DIR, NOTE_DIR))
 for note in ALL_NOTES:
     render(note["link"], "note.html", title=note["title"], note=note)

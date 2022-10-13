@@ -33,7 +33,7 @@ This week I read:
 
 [Deadhouse Gates]: https://malazan.fandom.com/wiki/Deadhouse_Gates
 [Malazan Book of the Fallen]: https://en.wikipedia.org/wiki/Malazan_Book_of_the_Fallen
-[in August 2020]: weeknotes-098.html
+[in August 2020]: notes/098.html
 [Gardens of the Moon]: https://malazan.fandom.com/wiki/Gardens_of_the_Moon
 
 

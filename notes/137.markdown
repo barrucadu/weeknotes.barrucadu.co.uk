@@ -19,8 +19,8 @@ the few remaining cards for that work.
 
 [^ithc]: Pentest.
 
-[I started last week]: weeknotes-136.html
-[levels of authentication]: weeknotes-135.html
+[I started last week]: notes/136.html
+[levels of authentication]: notes/135.html
 
 ## Books
 

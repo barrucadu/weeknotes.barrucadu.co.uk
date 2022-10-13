@@ -52,7 +52,7 @@ date: 2019-01-13
   somewhere between two weeks and two months.
 
 [kombucha]: https://en.wikipedia.org/wiki/Kombucha
-[started fermenting last week]: weeknotes-016.html
+[started fermenting last week]: notes/016.html
 
 ## Link Roundup
 

@@ -10,7 +10,7 @@ weeknote format.
 It's been an unusual year for sure, but overall a pretty good one
 (well, for me personally).
 
-[the last Sunday of the year]: weeknotes-067.html
+[the last Sunday of the year]: notes/067.html
 
 
 ## The Plague
@@ -28,7 +28,7 @@ a small flat in a busy part of London for 9 months would have been
 much more stressful.
 
 I've not caught the coronavirus (yet?), but I did [come down with a
-case of shingles](weeknotes-107.html#shingles) back in September.
+case of shingles](notes/107.html#shingles) back in September.
 That wasn't very fun.
 
 

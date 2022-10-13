@@ -13,7 +13,7 @@ date: 2019-01-06
   he'll get back to me at some point about with a suggestion of what
   to do next.
 
-[as suggested by my supervisor]: weeknotes-014.html
+[as suggested by my supervisor]: notes/014.html
 
 ## Work
 

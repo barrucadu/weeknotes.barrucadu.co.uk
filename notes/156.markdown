@@ -18,7 +18,7 @@ recreate the bookdb database][] after it got corrupted in 2019.  I'm
 sure some new use for these weeknotes will come up in the future too.
 
 [my bookmarks database]: https://bookmarks.barrucadu.co.uk/search
-[used old entries to recreate the bookdb database]: https://memo.barrucadu.co.uk/weeknotes-067.html#reading
+[used old entries to recreate the bookdb database]: notes/067.html#reading
 
 
 ## Work

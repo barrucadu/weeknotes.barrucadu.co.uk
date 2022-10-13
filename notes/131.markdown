@@ -108,7 +108,7 @@ I'm now pretty happy with my CI / CD set-up, and have [written a
 memo][] about it, though there are a few more areas of potential
 improvement.
 
-[last week]: weeknotes-130.html
+[last week]: notes/130.html
 [the pipeline to deploy this site]: https://github.com/barrucadu/memo.barrucadu.co.uk/blob/master/concourse/pipeline.yml
 [a small repository]: https://github.com/barrucadu/ops
 [GitHub Actions]: https://github.com/features/actions

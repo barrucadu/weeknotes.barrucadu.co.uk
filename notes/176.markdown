@@ -138,7 +138,7 @@ bribe Lord So-and-so X million credits, then his positive relationship
 with the party will jump up 3 levels, which means he'll be willing to
 do tasks A, B, and C for them now.
 
-![NPC assets of the players](weeknotes-176/assets.png)
+![NPC assets of the players](notes/176/assets.png)
 
 It's very gamey.  But my hope is that it'll encourage the players to
 engage more with NPCs and NPC factions if it's very clear (1) what
@@ -148,7 +148,7 @@ Matt Colville released [a video about rewards][] a few weeks ago which
 advocates for doing the same sort of thing, and this is what tipped me
 over the edge to doing it.
 
-[a piracy cheatsheet]: weeknotes-176/piracy.pdf
+[a piracy cheatsheet]: notes/176/piracy.pdf
 [a video about rewards]: https://www.youtube.com/watch?v=zwpQwCWdhL8
 
 

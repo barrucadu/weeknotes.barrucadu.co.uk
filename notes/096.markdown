@@ -47,8 +47,8 @@ Cthulhu][] and [a spellbook for my D&D character][], but then in
 today's D&D session my spellbook got erased by some sort of magical
 being, so the utility of that PDF was short-lived.
 
-[a cheat "sheet" for Pulp Cthulhu]: weeknotes-096/cheatsheet.pdf
-[a spellbook for my D&D character]: weeknotes-096/spellbook.pdf
+[a cheat "sheet" for Pulp Cthulhu]: notes/096/cheatsheet.pdf
+[a spellbook for my D&D character]: notes/096/spellbook.pdf
 
 
 ## Link Roundup

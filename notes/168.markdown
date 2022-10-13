@@ -140,7 +140,7 @@ month or so, as there have also been a few other changes since I last
 did: e.g., I'm now tracking on my dashboard my FIRE progress.
 
 [my systems]: taxon/self-systems.html
-[about a year ago]: weeknotes-117.html#time-tracking
+[about a year ago]: notes/117.html#time-tracking
 [personal finance memo]: personal-finance.html
 
 

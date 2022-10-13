@@ -82,7 +82,7 @@ This week I read:
 
 [Surface Detail]: https://en.wikipedia.org/wiki/Surface_Detail
 [Culture series]: https://en.wikipedia.org/wiki/Culture_series
-[in November]: https://misc.barrucadu.co.uk/_site/weeknotes-113.html
+[in November]: notes/113.html
 [Black Wings of Cthulhu]: https://www.goodreads.com/book/show/17978538-black-wings-of-cthulhu-2
 
 

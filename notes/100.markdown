@@ -9,7 +9,7 @@ to the team, so I whipped out the old "Apply for a Barking Permit",
 which we used in the GDS Learn to Code sessions several months ago
 (back in the before times, when people would visit the office):
 
-![Screenshot of the service, showing one previous application in the state "observing good boys".](weeknotes-100/barking-permit.png)
+![Screenshot of the service, showing one previous application in the state "observing good boys".](notes/100/barking-permit.png)
 
 I think it went down pretty well.
 

@@ -57,7 +57,7 @@ to run [my campaign][] for the last few months.
 My books escaped containment (see photo) a few months ago, and I
 really wanted some more bookcases, but didn't know where I'd fit them.
 
-![The book leak.](weeknotes-178/book-leak.jpg)
+![The book leak.](notes/178/book-leak.jpg)
 
 In a moment of sheer brilliance, I realised that I *don't* just have
 to put all my furniture against the walls, leaving the centre of the

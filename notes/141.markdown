@@ -80,7 +80,7 @@ almost all of which had moved to Libera.Chat.
 rasengan may be overlord of Freenode, but people are rapidly fleeing
 his realm.
 
-[the Freenode drama]: weeknotes-140.html#freenode-drama
+[the Freenode drama]: notes/140.html#freenode-drama
 [Libera.Chat]: https://libera.chat/
 [#haskell]: https://old.reddit.com/r/haskell/comments/nl74hc/freenode_has_unilaterally_taken_over_haskell/
 [#emacs]: https://www.emacswiki.org/emacs/EmacsChannel

@@ -81,7 +81,7 @@ that already does timestamps.
 
 My dashboard, which uses most of the new metrics, looks like this:
 
-![DNS resolver dashboard](weeknotes-184/dns-dashboard.png)
+![DNS resolver dashboard](notes/184/dns-dashboard.png)
 
 And it's already giving some interesting insights!
 

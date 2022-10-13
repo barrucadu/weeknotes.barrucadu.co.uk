@@ -99,7 +99,7 @@ date: 2019-08-25
   week.
 
 [ranking evaluation API]: https://www.elastic.co/guide/en/elasticsearch/reference/current/search-rank-eval.html
-[the old scoring behaviour of `should` queries in ES5 and below]: weeknotes-046.html
+[the old scoring behaviour of `should` queries in ES5 and below]: notes/046.html
 
 ## Miscellaneous
 

@@ -48,7 +48,7 @@ I also finished reading The Return of the King.  And I started reading
 [The Vorrh][].
 
 [The Unicorn Project]: https://www.goodreads.com/book/show/44333183-the-unicorn-project
-[a few weeks ago]: weeknotes-074.html
+[a few weeks ago]: notes/074.html
 [The Vorrh]: https://en.wikipedia.org/wiki/The_Vorrh
 
 ### Games

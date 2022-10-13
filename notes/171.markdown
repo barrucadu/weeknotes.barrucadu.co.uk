@@ -66,7 +66,7 @@ saved / invested: not quite financial independence, but getting there.
 I also [ditched my emergency fund][] and updated my [personal finances
 memo][].
 
-[ditched my emergency fund]: weeknotes-168.html#systems
+[ditched my emergency fund]: notes/168.html#systems
 [personal finances memo]: personal-finance.html
 
 
@@ -226,4 +226,4 @@ stopped][].  After almost a year I decided that it wasn't worth the
 effort and introduced some poor incentives, and so I decided to drop
 it.
 
-[I stopped]: weeknotes-168.html#systems
+[I stopped]: notes/168.html#systems
