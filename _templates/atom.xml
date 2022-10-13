@@ -11,15 +11,15 @@
   {% if feed_date is defined %}
   <updated>{{ feed_date }}T00:00:00Z</updated>
   {% endif %}
-  {% for memo in memos %}
+  {% for note in notes %}
   <entry>
-    <title>{{ memo.title }}</title>
-    <link href="{{ memo.permalink }}" />
-    <id>{{ memo.permalink }}</id>
-    <published>{{ memo.published_iso }}T00:00:00Z</published>
+    <title>{{ note.title }}</title>
+    <link href="{{ note.permalink }}" />
+    <id>{{ note.permalink }}</id>
+    <published>{{ note.published_iso }}T00:00:00Z</published>
     <summary type="html">
       <![CDATA[
-{{ memo.body | safe }}
+{{ note.body | safe }}
       ]]>
     </summary>
   </entry>
