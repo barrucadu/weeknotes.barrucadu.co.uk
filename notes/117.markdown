@@ -122,8 +122,8 @@ That should improve with practice.
   work (including the lunch break) tracked for that day...
 
 [timedot file]: https://hledger.org/timedot.html
-[personal finance system]: personal-finance.html
-[self organisation system]: self-organisation.html
+[personal finance system]: https://memo.barrucadu.co.uk/personal-finance.html
+[self organisation system]: https://memo.barrucadu.co.uk/self-organisation.html
 [Malazan continues]: https://en.wikipedia.org/wiki/The_Bonehunters
 
 ## Link Roundup

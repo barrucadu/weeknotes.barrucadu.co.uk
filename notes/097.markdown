@@ -31,7 +31,7 @@ of Cthulhu game; that would be fun to try out.
 [On Murderer Considered as one of the Fine Arts]: https://en.wikipedia.org/wiki/On_Murder_Considered_as_one_of_the_Fine_Arts
 [Malazan]: https://en.wikipedia.org/wiki/Malazan_Book_of_the_Fallen
 [RuneQuest Glorantha]: https://www.chaosium.com/runequest-glorantha/
-[the RPG section of my book wishlist]: book-wishlist.html#roleplaying-games
+[the RPG section of my book wishlist]: https://memo.barrucadu.co.uk/book-wishlist.html#roleplaying-games
 
 
 ## Games
@@ -76,7 +76,7 @@ that it's used in a similar context to "Great Old Ones" and "Elder
 Gods" in weird fiction!
 
 [AI Dungeon]: https://play.aidungeon.io/
-[this cool short story]: ai-dungeon-the-red-sign.html
+[this cool short story]: https://memo.barrucadu.co.uk/ai-dungeon-the-red-sign.html
 
 
 ## Link Roundup

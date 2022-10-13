@@ -90,7 +90,7 @@ if music was paused for too long, so we'd occasionally get the Discord
 disconnect/reconnect jingles.  Maybe I can find a silent video for it
 to "play" when I've not got any particular background music to put on.
 
-[my Call of Cthulhu game]: masks-of-nyarlathotep.html
+[my Call of Cthulhu game]: https://memo.barrucadu.co.uk/campaign-notes-2018-09-masks-of-nyarlathotep.html
 [Groovy]: https://groovy.bot/
 
 ### SAT and SMT solvers

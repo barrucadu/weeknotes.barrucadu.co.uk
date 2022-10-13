@@ -68,7 +68,7 @@ It's easy to feel productive by doing a dozen small tasks, but if
 there's a lot of more important tasks you're procrastinating by doing
 those small tasks, are you *really* being productive?
 
-[self organisation]: self-organisation.html
+[self organisation]: https://memo.barrucadu.co.uk/self-organisation.html
 
 ## Link Roundup
 

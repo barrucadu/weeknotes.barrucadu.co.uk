@@ -66,7 +66,7 @@ easy, but it was a neat idea.
 I think this sort of thing might work better in Traveller, using its
 "task chain" mechanic.
 
-[running an "interlude"]: campaign-notes-2020-05-call-of-cthulhu.html#mon-interlude-1
+[running an "interlude"]: https://memo.barrucadu.co.uk/campaign-notes-2020-05-call-of-cthulhu.html#mon-interlude-1
 
 ### Traveller
 

@@ -16,7 +16,7 @@ wishlist][], a new game, and subscriptions to [a tea-of-the-month
 service][] and [a boardgame magazine][]).  I got a card.  It was all
 very nice.
 
-[my wishlist]: book-wishlist.html
+[my wishlist]: https://memo.barrucadu.co.uk/book-wishlist.html
 [a tea-of-the-month service]: https://www.bruutea.co.uk/
 [a boardgame magazine]: https://senetmagazine.com/
 
@@ -49,7 +49,7 @@ This week I shared [my Traveller cheatsheets][], which I've been using
 to run [my campaign][] for the last few months.
 
 [my Traveller cheatsheets]: https://www.lookwhattheshoggothdraggedin.com/post/traveller-cheatsheets.html
-[my campaign]: campaign-notes-2021-10-traveller.html
+[my campaign]: https://memo.barrucadu.co.uk/campaign-notes-2021-10-traveller.html
 
 
 ## Miscellaneous

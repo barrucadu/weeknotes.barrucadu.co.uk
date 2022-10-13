@@ -79,9 +79,9 @@ date: 2019-03-17
     only learned about this on Sunday morning, but it feels fitting we
     were playing Masks on his final day.
 
-[`sed`-as-a-service]: sed-as-a-service.html
+[`sed`-as-a-service]: https://memo.barrucadu.co.uk/sed-as-a-service.html
 [water kefir]: https://en.wikipedia.org/wiki/Tibicos
-[Masks of Nyarlathotep game]: masks-of-nyarlathotep.html
+[Masks of Nyarlathotep game]:https://memo.barrucadu.co.uk/campaign-notes-2018-09-masks-of-nyarlathotep.html
 [Babylon 5]: https://en.wikipedia.org/wiki/Babylon_5
 
 ## Link Roundup

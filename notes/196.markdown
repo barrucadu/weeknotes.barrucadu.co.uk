@@ -117,7 +117,7 @@ But I'll prepare the political intrigue just in case.
 And then after Torpol and Clarke go purple, it's time for another
 break and another one-shot!
 
-[the nascent Kingdom of Drinax]: campaign-notes-2021-10-traveller/poster.png
+[the nascent Kingdom of Drinax]: https://memo.barrucadu.co.uk/campaign-notes-2021-10-traveller/poster.png
 [Traveller Map poster maker]: https://travellermap.com/make/poster
 
 

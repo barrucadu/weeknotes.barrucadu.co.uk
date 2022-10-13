@@ -85,7 +85,7 @@ I also wrote a memo on [game systems][].
 
 [FAE for Pokemon]: https://www.reddit.com/r/FATErpg/comments/8vfc2u/fate_accelerated_pokemon_version_3/
 [Mythras]: http://thedesignmechanism.com/
-[game systems]: game-systems.html
+[game systems]: https://memo.barrucadu.co.uk/game-systems.html
 
 ## Link Roundup
 

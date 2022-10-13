@@ -142,7 +142,7 @@ qualms with Apocalypse World which Wicked Ones avoids).
 Having a future campaign to plan flexes those GMing muscles that Wicked Ones
 does not.
 
-[a map]: campaign-notes-2023-03-sylea-rising/poster.png
+[a map]: https://memo.barrucadu.co.uk/campaign-notes-2023-03-sylea-rising/poster.png
 [Traveller Map poster maker]: https://travellermap.com/make/poster
 
 

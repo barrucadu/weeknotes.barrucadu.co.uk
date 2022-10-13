@@ -58,7 +58,7 @@ So I've spent the last few days studying the rulebook, making some
 personal cheatsheets, and before the first session on Tuesday I'll run
 through character creation a few times.
 
-[the Traveller campaign I'm running]: campaign-notes-2021-10-traveller.html
+[the Traveller campaign I'm running]: https://memo.barrucadu.co.uk/campaign-notes-2021-10-traveller.html
 
 
 ## Link Roundup

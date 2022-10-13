@@ -119,7 +119,7 @@ date: 2019-11-03
   start failing to renew][].
 
 [Lord of Chaos]: https://en.wikipedia.org/wiki/Lord_of_Chaos
-[implemented the cascade algorithm]: css-cascade.html
+[implemented the cascade algorithm]: https://memo.barrucadu.co.uk/css-cascade.html
 [LetsEncrypt certificates wouldn't start failing to renew]: https://github.com/NixOS/nixpkgs/pull/71953
 
 ## Link Roundup

@@ -159,7 +159,7 @@ And I opened the following new issues:
   same way as I manage all the other services on my systems.
 
 [my DNS server]: https://github.com/barrucadu/resolved
-[a memo on how the cache works]: dns-cache.html
+[a memo on how the cache works]: https://memo.barrucadu.co.uk/dns-cache.html
 [This Week in Rust 433]: https://this-week-in-rust.org/blog/2022/03/09/this-week-in-rust-433/
 [the algorithm in RFC 1034]: https://datatracker.ietf.org/doc/html/rfc1034#section-4.3.2
 [RFC 6761]: https://datatracker.ietf.org/doc/html/rfc6761

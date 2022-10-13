@@ -63,8 +63,8 @@ date: 2019-06-30
   case in both Windows and Linux.  Not a great first impression, I
   have to say.
 
-[I've written before]: scheduling-problems.html
-[a little programming language for ILP]: ilp-generator.html
+[I've written before]: https://memo.barrucadu.co.uk/scheduling-problems.html
+[a little programming language for ILP]: https://memo.barrucadu.co.uk/ilp-generator.html
 [The Historian]: https://en.wikipedia.org/wiki/The_Historian
 [have discovered that they render fonts differently]: https://twitter.com/barrucadu/status/1145103412813553666
 

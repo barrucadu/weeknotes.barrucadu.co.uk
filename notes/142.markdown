@@ -94,7 +94,7 @@ flying monsters.  It subsequently blew up.  Very pulpy.
 Next time we'll be having a one-shot of [Godbound][], so I can have
 some fun running a throw-away high-level fantasy adventure.
 
-[my Call of Cthulhu campaign]: campaign-notes-2020-05-call-of-cthulhu.html
+[my Call of Cthulhu campaign]: https://memo.barrucadu.co.uk/campaign-notes-2020-05-call-of-cthulhu.html
 [Godbound]: https://www.drivethrurpg.com/product/185959/Godbound-A-Game-of-Divine-Heroes-Free-Edition
 
 

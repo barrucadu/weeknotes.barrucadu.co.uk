@@ -17,7 +17,7 @@ date: 2018-11-04
   I think this shows fairly clearly that I've been putting off the
   more tedious corrections until the end.
 
-[using Trello to track my to-do lists]: self-organisation.html
+[using Trello to track my to-do lists]: https://memo.barrucadu.co.uk/self-organisation.html
 
 ## Work
 

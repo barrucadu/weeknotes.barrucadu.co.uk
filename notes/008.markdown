@@ -101,12 +101,12 @@ date: 2018-11-11
   Elixir rather than Go.
 
 [I last read in December 2012]: https://www.barrucadu.co.uk/bookdb
-[my session notes from Call of Cthulhu]: masks-of-nyarlathotep.html
+[my session notes from Call of Cthulhu]: https://memo.barrucadu.co.uk/campaign-notes-2018-09-masks-of-nyarlathotep.html
 [my broken server]: notes/007.html
 [Elixir]: https://elixir-lang.org/
 [the guides]: https://elixir-lang.org/getting-started/introduction.html
 [GOV.UK router]: https://github.com/alphagov/router
-[in my budget]: personal-finance.html
+[in my budget]: https://memo.barrucadu.co.uk/personal-finance.html
 
 ## Link Roundup
 

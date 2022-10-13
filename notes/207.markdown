@@ -138,7 +138,7 @@ there's no built-in check for non-negative asset balances, and that's something
 I've wanted on occasion.  I now have this set up as a pre-commit hook, so when I
 do my weekly reconciliation I'm more likely to catch these small mistakes.
 
-[hledger files]: personal-finance.html
+[hledger files]: https://memo.barrucadu.co.uk/personal-finance.html
 
 ### Dotfiles
 

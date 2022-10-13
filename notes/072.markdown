@@ -44,7 +44,7 @@ end.
 
 Now I need to decide what the next game will be.
 
-[nearly 400,000 words of notes]: masks-of-nyarlathotep.html
+[nearly 400,000 words of notes]: https://memo.barrucadu.co.uk/campaign-notes-2018-09-masks-of-nyarlathotep.html
 
 ### Dhall for Kubernetes
 
@@ -100,7 +100,7 @@ more important things than usual.
 I'll be tweaking the system for the next couple of weeks and, when I'm happy with it, I'll update the [Self Organisation][] memo.
 
 [Last time]: notes/071.html
-[Self Organisation]: self-organisation.html
+[Self Organisation]: https://memo.barrucadu.co.uk/self-organisation.html
 
 ## Link Roundup
 

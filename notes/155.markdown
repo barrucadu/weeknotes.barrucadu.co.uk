@@ -147,7 +147,7 @@ were firmly connected.
 
 I [wrote up an incident report][] covering my debugging steps.
 
-[wrote up an incident report]: incident-20210901-nyarlathotep-zpool-degraded.html
+[wrote up an incident report]: https://memo.barrucadu.co.uk/incident-20210901-nyarlathotep-zpool-degraded.html
 
 
 ## Link Roundup

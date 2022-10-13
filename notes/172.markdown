@@ -54,5 +54,5 @@ week at least, I've been taking it easy.
 [Taiwan "Charcoal Roasted" Oolong Tea]: https://what-cha.com/products/taiwan-charcoal-roasted-oolong-tea
 [Malawi Leafy Ripe Dark Tea]: https://what-cha.com/products/malawi-2018-leafy-ripe-dark-tea
 [India Darjeeling 2nd Flush "Japonica Muscatel" Black Tea]: https://what-cha.com/products/india-darjeeling-2nd-flush-gopaldhara-japonica-black-tea
-[self organisation system]: self-organisation.html#calendars-for-routines
-[rotate my journal files]: personal-finance.html#annually
+[self organisation system]: https://memo.barrucadu.co.uk/self-organisation.html#calendars-for-routines
+[rotate my journal files]: https://memo.barrucadu.co.uk/personal-finance.html#annually

@@ -84,9 +84,9 @@ around, like the Anglo-Saxon gift economy.
 So now I'm only running one of the four different fortnightly games
 I'm in.
 
-[my Apocalypse World game]: campaign-notes-2020-02-apocalypse-world.html
-[my Call of Cthulhu game]: campaign-notes-2020-05-call-of-cthulhu.html
-[I wrote up some ideas]: games-i-would-like-to-run.html
+[my Apocalypse World game]: https://memo.barrucadu.co.uk/campaign-notes-2020-02-apocalypse-world.html
+[my Call of Cthulhu game]: https://memo.barrucadu.co.uk/campaign-notes-2020-05-call-of-cthulhu.html
+[I wrote up some ideas]: https://memo.barrucadu.co.uk/games-i-would-like-to-run.html
 [Wolves of God]: https://www.drivethrurpg.com/product/308470/Wolves-of-God-Adventures-in-Dark-Ages-England
 
 ## Link Roundup

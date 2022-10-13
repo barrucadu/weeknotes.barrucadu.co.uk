@@ -61,7 +61,7 @@ one of the endpoints had a fairly awkward interface which could be
 simplified.  I found this a lot when I was writing documentation or
 blog posts for dejafu.
 
-[one year at home]: at-home-for-one-year.html
+[one year at home]: https://memo.barrucadu.co.uk/at-home-for-one-year.html
 [Pact]: https://docs.pact.io/
 
 
@@ -113,7 +113,7 @@ improvement.
 [a small repository]: https://github.com/barrucadu/ops
 [GitHub Actions]: https://github.com/features/actions
 [Dependabot]: https://dependabot.com/
-[written a memo]: ci-cd.html
+[written a memo]: https://memo.barrucadu.co.uk/ci-cd.html
 
 
 ## Gaming
@@ -126,7 +126,7 @@ they used up by going to Australia, and how likely it is that tales of
 their exploits in New York have spread to the rest of the cults by
 now.
 
-[Call of Cthulhu campaign]: campaign-notes-2020-05-call-of-cthulhu.html
+[Call of Cthulhu campaign]: https://memo.barrucadu.co.uk/campaign-notes-2020-05-call-of-cthulhu.html
 
 
 ## Miscellaneous

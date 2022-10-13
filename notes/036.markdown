@@ -34,7 +34,7 @@ date: 2019-05-26
   well written.  But I didn't find it as engaging or as enjoyable as
   his more weird fiction like [The Great God Pan][].
 
-[Call of Cthulhu campaign]: masks-of-nyarlathotep.html
+[Call of Cthulhu campaign]: https://memo.barrucadu.co.uk/campaign-notes-2018-09-masks-of-nyarlathotep.html
 [The Hill of Dreams]: https://en.wikipedia.org/wiki/The_Hill_of_Dreams
 [The Great God Pan]: https://en.wikipedia.org/wiki/The_Great_God_Pan
 

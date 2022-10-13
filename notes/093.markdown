@@ -44,7 +44,7 @@ spiciness of the sauce.  Definitely a recipe to remember.
 And finally, I've added some new papers to my [Interesting Research][]
 memo.
 
-[Interesting Research]: interesting-research.html
+[Interesting Research]: https://memo.barrucadu.co.uk/interesting-research.html
 
 
 ## Link Roundup

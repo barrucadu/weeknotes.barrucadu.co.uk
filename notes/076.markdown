@@ -85,7 +85,7 @@ human woman in this.  I guess they felt a talking spider might be a
 bit much.
 
 [Apocalypse World]: http://apocalypse-world.com/
-[session notes]: apotheosis-session-notes.html
+[session notes]: https://memo.barrucadu.co.uk/campaign-notes-2020-02-apocalypse-world.html
 [Taur]: https://store.steampowered.com/app/1227780/Taur/
 [Middle-earth: Shadow of War]: https://store.steampowered.com/app/356190/Middleearth_Shadow_of_War/
 [Shadow of Mordor]: https://store.steampowered.com/app/241930/Middleearth_Shadow_of_Mordor/

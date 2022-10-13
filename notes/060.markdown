@@ -49,7 +49,7 @@ date: 2019-11-10
 [A Crown of Swords]: https://en.wikipedia.org/wiki/A_Crown_of_Swords
 [Kubernetes]: https://kubernetes.io/
 [getting GOV.UK running on Kubernetes]: https://github.com/barrucadu/govuk-k8s
-[using GADTs for alternative datatype representations]: alternate-datatype-representations.html
+[using GADTs for alternative datatype representations]: https://memo.barrucadu.co.uk/alternate-datatype-representations.html
 
 ## Link Roundup
 

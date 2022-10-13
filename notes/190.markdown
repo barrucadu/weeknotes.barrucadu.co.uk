@@ -45,7 +45,7 @@ hand when I am.  And I can add to it as I have more ideas in the
 future.
 
 [High and Dry]: https://www.youtube.com/watch?v=Tym86AcYwuU
-[a short list of campaign ideas]: campaign-ideas.html
+[a short list of campaign ideas]: https://memo.barrucadu.co.uk/campaign-ideas.html
 
 
 ## Miscellaneous

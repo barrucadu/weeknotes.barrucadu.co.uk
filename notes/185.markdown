@@ -46,7 +46,7 @@ too much D&D for me and so bowed out.
 No significant changes this week, but I wrote a memo on [how DNS
 works][].
 
-[how DNS works]: how-dns-works.html
+[how DNS works]: https://memo.barrucadu.co.uk/how-dns-works.html
 
 
 ## Miscellaneous
@@ -93,7 +93,7 @@ rather than using it as a Haskell library as my old script did.
 And now it's [so much simpler][].
 
 [promscale]: https://github.com/timescale/promscale
-[personal finance memo]: personal-finance.html
+[personal finance memo]: https://memo.barrucadu.co.uk/personal-finance.html
 [quite a lot of pre-processing]: https://github.com/barrucadu/hledger-scripts/blob/master/hledger-to-influxdb.hs
 [hledger]: https://hledger.org/
 [so much simpler]: https://github.com/barrucadu/nixfiles/blob/ba59fce93c1bf615fde1a7556d39b5faebe29914/hosts/nyarlathotep/jobs/hledger-export-to-promscale.py

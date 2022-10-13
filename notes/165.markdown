@@ -63,7 +63,7 @@ But we persevered, and I'll be running the first real session next
 week.  This is a weekly game, so it'll be much faster-paced than other
 games I've run.
 
-[my new Ars Magica campaign]: campaign-notes-2021-11-ars-magica.html
+[my new Ars Magica campaign]: https://memo.barrucadu.co.uk/campaign-notes-2021-11-ars-magica.html
 
 ## Miscellaneous
 

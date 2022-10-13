@@ -53,7 +53,7 @@ date: 2019-09-01
   financial concerns.
 
 [Rise to Ruins]: https://risetoruins.com/
-[Personal Finance]: personal-finance.html
+[Personal Finance]: https://memo.barrucadu.co.uk/personal-finance.html
 
 ## Link Roundup
 

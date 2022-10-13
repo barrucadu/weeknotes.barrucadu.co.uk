@@ -128,7 +128,7 @@ date: 2019-08-04
   prepare the next big chunk.
 
 [ProtonMail]: https://protonmail.com/
-[Call of Cthulhu game]: masks-of-nyarlathotep.html
+[Call of Cthulhu game]: https://memo.barrucadu.co.uk/campaign-notes-2018-09-masks-of-nyarlathotep.html
 
 ## Link Roundup
 

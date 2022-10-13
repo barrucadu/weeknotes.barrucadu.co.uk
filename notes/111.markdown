@@ -73,7 +73,7 @@ machines][].  This was pretty smooth, other than needing to rewrite my
 support in [PuTTY][], and had to upgrade PuTTY to fix it---perhaps a
 change to the terminfo in NixOS 20.09?
 
-[my home network set-up]: home-network.html
+[my home network set-up]: https://memo.barrucadu.co.uk/home-network.html
 [NixOS 20.09]: https://nixos.org/news.html
 [I upgraded all my machines]: https://github.com/barrucadu/nixfiles/pull/4
 [Caddy]: https://caddyserver.com/

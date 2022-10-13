@@ -129,7 +129,7 @@ date: 2018-10-07
   out-of-date dependencies?][] At GOV.UK, the answer is definitely a
   resounding "yes".
 
-[C is not Turing-complete]: c-is-not-turing-complete.html
+[C is not Turing-complete]: https://memo.barrucadu.co.uk/c-is-not-turing-complete.html
 [posted to lobste.rs]: https://lobste.rs/s/bovwsx/c_is_not_turing_complete_2017
 [general protection fault]: https://en.wikipedia.org/wiki/General_protection_fault
 [a small documentation fix to pleroma]: https://git.pleroma.social/pleroma/pleroma/merge_requests/364

@@ -18,7 +18,7 @@ date: 2019-01-13
   sort of problem][].
 
 [tech support rota generator]: https://github.com/barrucadu/govuk-2ndline-rota-generator
-[solving this sort of problem]: scheduling-problems.html
+[solving this sort of problem]: https://memo.barrucadu.co.uk/scheduling-problems.html
 
 ## Miscellaneous
 

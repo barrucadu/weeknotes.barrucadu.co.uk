@@ -70,7 +70,7 @@ And going forward I'll just have to keep an eye on the sort of content
 I'm preparing and be vigilant that I'm not prioritising something just
 because it's easy.
 
-[Traveller game]: campaign-notes-2021-10-traveller.html
+[Traveller game]: https://memo.barrucadu.co.uk/campaign-notes-2021-10-traveller.html
 [a mid-campaign check-in]: https://www.lookwhattheshoggothdraggedin.com/post/mid-campaign-check-in.html
 
 

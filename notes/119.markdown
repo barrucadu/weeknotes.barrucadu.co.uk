@@ -85,7 +85,7 @@ I've only used cash 4 times this year, which has definitely helped
 with not losing track.  It's much easier to keep on top of things when
 they're listed on a statement somewhere.
 
-[my system]: personal-finance.html
+[my system]: https://memo.barrucadu.co.uk/personal-finance.html
 
 
 ## Reading
@@ -241,7 +241,7 @@ favourite.  But a few did stand out:
   ending to be kind of rubbish, like I did.
 
 [bookdb]: https://bookdb.barrucadu.co.uk/search
-[one book wishlist to rule them all]: book-wishlist.html
+[one book wishlist to rule them all]: https://memo.barrucadu.co.uk/book-wishlist.html
 [reading plan]: https://www.artofmanliness.com/articles/why-you-need-a-reading-plan/
 [SF Masterworks]: https://en.wikipedia.org/wiki/SF_Masterworks
 [Fantasy Masterworks]: https://en.wikipedia.org/wiki/Fantasy_Masterworks
@@ -265,7 +265,7 @@ take down DNS for my entire network.  I also finally set up an alert
 for if my backup script fails to run, as back in August I noticed it
 had been silently failing for months.
 
-[my home network]: home-network.html
+[my home network]: https://memo.barrucadu.co.uk/home-network.html
 
 
 ## Gaming

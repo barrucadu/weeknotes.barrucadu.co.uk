@@ -72,10 +72,10 @@ date: 2018-11-25
   investigating][] the gruesome murder of their good friend Jackson
   Elias, after a four-year time skip.
 
-[I wrote up my recipe]: recipe-cottage-pie.html
+[I wrote up my recipe]: https://memo.barrucadu.co.uk/recipe-cottage-pie.html
 [NVMe M.2 SSDs]: https://en.wikipedia.org/wiki/M.2
 [look up a video on youtube]: https://www.youtube.com/watch?v=NCIqZjo34rw
-[the players have begun investigating]: masks-of-nyarlathotep.html
+[the players have begun investigating]: https://memo.barrucadu.co.uk/campaign-notes-2018-09-masks-of-nyarlathotep.html
 
 ## Link Roundup
 

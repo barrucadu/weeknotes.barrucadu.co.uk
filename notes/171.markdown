@@ -67,7 +67,7 @@ I also [ditched my emergency fund][] and updated my [personal finances
 memo][].
 
 [ditched my emergency fund]: notes/168.html#systems
-[personal finances memo]: personal-finance.html
+[personal finances memo]: https://memo.barrucadu.co.uk/personal-finance.html
 
 
 ## Reading

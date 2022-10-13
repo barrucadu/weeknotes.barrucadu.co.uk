@@ -128,7 +128,7 @@ date: 2019-06-23
   of the real people the characters were based on.  It's definitely
   worth watching.
 
-[I replaced a static site generator with a script to generate static sites]: static-site-generators.html
+[I replaced a static site generator with a script to generate static sites]: https://memo.barrucadu.co.uk/static-site-generators.html
 [the coverage map]: https://hyperoptic.com/map/?residential
 [Chernobyl]: https://www.hbo.com/chernobyl
 

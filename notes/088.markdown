@@ -59,7 +59,7 @@ I also published [my book wishlist][].
 [Malazan Book of the Fallen]: https://en.wikipedia.org/wiki/Malazan_Book_of_the_Fallen
 [ASoIaF]: https://en.wikipedia.org/wiki/A_Song_of_Ice_and_Fire
 [Penguin Little Black Classics]: http://www.littleblackclassics.com/list
-[my book wishlist]: book-wishlist.html
+[my book wishlist]: https://memo.barrucadu.co.uk/book-wishlist.html
 
 
 ## Link Roundup

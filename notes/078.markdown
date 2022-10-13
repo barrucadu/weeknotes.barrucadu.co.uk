@@ -61,7 +61,7 @@ goes", which is much coarser grained.  I'm trying to give it a fair
 chance before deciding, though.
 
 [Apocalypse World]: http://www.apocalypse-world.com/
-[coc-dice]: call-of-cthulhu-dice-rolls.html
+[coc-dice]: https://www.lookwhattheshoggothdraggedin.com/post/dice-rolls-in-call-of-cthulhu.html
 
 ### Miscellaneous
 

@@ -62,11 +62,11 @@ easily and enjoyed the game.  I did float the idea of changing game
 systems if people had had enough of Call of Cthulhu now, but no, they
 wanted to continue.
 
-[Call of Cthulhu game]: campaign-notes-2020-05-call-of-cthulhu.html
-[a few unforeseen consequences]: campaign-notes-2020-05-call-of-cthulhu/the-aftermath.png
+[Call of Cthulhu game]: https://memo.barrucadu.co.uk/campaign-notes-2020-05-call-of-cthulhu.html
+[a few unforeseen consequences]: https://memo.barrucadu.co.uk/campaign-notes-2020-05-call-of-cthulhu/the-aftermath.png
 [Pulp Cthulhu]: https://www.chaosium.com/pulp-cthulhu-hardcover/
 [Masks of Nyarlathotep]: https://en.wikipedia.org/wiki/Masks_of_Nyarlathotep
-[I have run MoN before]: campaign-notes-2018-09-masks-of-nyarlathotep.html
+[I have run MoN before]: https://memo.barrucadu.co.uk/campaign-notes-2018-09-masks-of-nyarlathotep.html
 
 
 ## Link Roundup

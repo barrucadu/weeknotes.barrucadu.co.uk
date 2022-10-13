@@ -98,7 +98,7 @@ longer...
 This week I set up [automatic tagging for podcast episodes I download
 and CDs I rip][], using systemd and inotify.
 
-[automatic tagging for podcast episodes I download and CDs I rip]: automatically-tagging-music.html
+[automatic tagging for podcast episodes I download and CDs I rip]: https://memo.barrucadu.co.uk/automatically-tagging-music.html
 
 
 ## Link Roundup

@@ -100,7 +100,7 @@ abilities (one of them had a new skill "Knowledge of the Future of the
 Universe" implanted into their brain by an alien) and gadgets is
 entirely in-keeping with the tone.
 
-[Call of Cthulhu campaign]: campaign-notes-2020-05-call-of-cthulhu.html
+[Call of Cthulhu campaign]: https://memo.barrucadu.co.uk/campaign-notes-2020-05-call-of-cthulhu.html
 
 
 ## Miscellaneous

@@ -72,7 +72,7 @@ held together with spit and glue.
 
 It is getting easier though.
 
-[Call of Cthulhu game]: campaign-notes-2020-05-call-of-cthulhu.html
+[Call of Cthulhu game]: https://memo.barrucadu.co.uk/campaign-notes-2020-05-call-of-cthulhu.html
 
 
 ## Miscellaneous
@@ -83,7 +83,7 @@ Ph.D thesis.  It's hard to imagine going back to my previous approach
 of just scribbling things down on bits of paper, having everything in
 one place is so much nicer.
 
-[Trello as a to-do list]: self-organisation.html
+[Trello as a to-do list]: https://memo.barrucadu.co.uk/self-organisation.html
 
 
 ## Link Roundup

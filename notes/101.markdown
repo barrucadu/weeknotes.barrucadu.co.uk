@@ -139,8 +139,8 @@ it.
 [gitea]: https://gitea.io/en-us/
 [AWS SNS]: https://aws.amazon.com/sns/
 [that bit out of my monitoring scripts]: https://github.com/barrucadu/dotfiles/commit/cd3bc569062c0cbfc5151f4373b772bad7cb0b8e
-[backups]: backups.html
-[monitoring]: monitoring.html
+[backups]: https://memo.barrucadu.co.uk/backups.html
+[monitoring]: https://memo.barrucadu.co.uk/monitoring.html
 
 ## Link Roundup
 

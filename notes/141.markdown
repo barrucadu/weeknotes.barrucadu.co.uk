@@ -97,7 +97,7 @@ no-op to unmask an interruptible operation][], I [wrote a memo][]
 about how you can find that issue with [dejafu][].
 
 [it's not a no-op to unmask an interruptible operation]: https://old.reddit.com/r/haskell/comments/nntfui/its_not_a_noop_to_unmask_an_interruptible/
-[wrote a memo]: restore-interruptible.html
+[wrote a memo]: https://memo.barrucadu.co.uk/restore-interruptible.html
 [dejafu]: http://hackage.haskell.org/package/dejafu
 
 

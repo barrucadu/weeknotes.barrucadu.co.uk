@@ -115,8 +115,8 @@ think that would have happened without the board.
 [get rid of my janky systemd-unit-which-starts-tmux approach]: https://github.com/barrucadu/nixfiles/commit/d99e02eb1699baed830109cd85aa35fb2d12ca98
 [unifi-poller]: https://github.com/unifi-poller/unifi-poller
 [get UniFi metrics into Prometheus (and so Grafana)]: https://github.com/barrucadu/nixfiles/compare/d99e02eb1699baed830109cd85aa35fb2d12ca98..0e89fdc2e94d749fad42f1a7d05de8a716e0aa77
-[updated my list of RPG one-shot ideas]: one-shot-ideas.html
-[my to-do Trello board]: self-organisation.html
+[updated my list of RPG one-shot ideas]: https://memo.barrucadu.co.uk/one-shot-ideas.html
+[my to-do Trello board]: https://memo.barrucadu.co.uk/self-organisation.html
 
 ## Link Roundup
 

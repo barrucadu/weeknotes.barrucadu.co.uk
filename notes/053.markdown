@@ -66,7 +66,7 @@ date: 2019-09-22
 [Ars Magica]: https://en.wikipedia.org/wiki/Ars_Magica
 [Platonic]: https://en.wikipedia.org/wiki/Platonic_realism
 [Aristotelian]: https://en.wikipedia.org/wiki/Aristotle%27s_theory_of_universals
-[metaphysical backing for Hermetic magic]: hermetic-metaphysics.html
+[metaphysical backing for Hermetic magic]: https://memo.barrucadu.co.uk/hermetic-metaphysics.html
 
 ## Link Roundup
 

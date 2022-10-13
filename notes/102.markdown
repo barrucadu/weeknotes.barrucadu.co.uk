@@ -113,7 +113,7 @@ This week I've:
 [on GitHub]: https://github.com/barrucadu/bookmarks
 [bookdb]: https://bookdb.barrucadu.co.uk/search
 [barrucadu.dev]: https://www.barrucadu.dev/
-[slow cooker chilli recipe]: recipe-chilli-slow-cooker.html
+[slow cooker chilli recipe]: https://memo.barrucadu.co.uk/recipe-chilli-slow-cooker.html
 [pleroma]: https://pleroma.social/
 [ap.barrucadu.co.uk]: https://ap.barrucadu.co.uk
 [social.lainon.life]: https://social.lainon.life

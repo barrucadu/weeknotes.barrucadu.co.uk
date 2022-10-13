@@ -209,7 +209,7 @@ an alternative to the standard sequential round structure, which I
 think addresses some problems with the system.
 
 [Microscope]: http://www.lamemage.com/microscope/
-[phased real-time combat for Call of Cthulhu]: phased-realtime-combat-call-of-cthulhu.html
+[phased real-time combat for Call of Cthulhu]: https://memo.barrucadu.co.uk/phased-realtime-combat-call-of-cthulhu.html
 
 ## Link Roundup
 

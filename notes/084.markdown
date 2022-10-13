@@ -40,7 +40,7 @@ were together.  And it seems to be working well.
 
 I started writing up my Golden Sky Stories [session notes][].
 
-[session notes]: golden-sky-stories.html
+[session notes]: https://memo.barrucadu.co.uk/campaign-notes-2020-04-golden-sky-stories.html
 
 ## Link Roundup
 
