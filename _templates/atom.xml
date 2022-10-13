@@ -17,7 +17,6 @@
     <link href="{{ memo.permalink }}" />
     <id>{{ memo.permalink }}</id>
     <published>{{ memo.published_iso }}T00:00:00Z</published>
-    <updated>{{ memo.modified_iso }}T00:00:00Z</updated>
     <summary type="html">
       <![CDATA[
 {{ memo.body | safe }}

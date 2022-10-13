@@ -1,43 +1,14 @@
 {% extends "_layout.html" %}
-{% block head %}
-<link rel="stylesheet preload" href="{{ hashed_links['code.css'] }}" as="style" type="text/css">
-{% endblock %}
-{% block sidebar %}
-<div class="sidebar__sticky">
-  {% if memo.superseded_by is defined %}
-  <section class="sidebar-box sidebar-box--notice">
-    <p>This memo is <strong>superseded</strong>.  It has been replaced by <a class="link link--notice" href="{{ memo.superseded_by.link }}">{{ memo.superseded_by.title }}</a>.</p>
-  </section>
-  {% endif %}
-
-  <section class="sidebar-box sidebar-box--notice">
-    <dl class="memo-metadata">
-      <dt class="memo-metadata__label">Published</dt>
-      <dd class="memo-metadata__value"><time datetime="{{ memo.published_iso }}">{{ memo.published_pp }}</time></dd>
-{%- if memo.published_iso != memo.modified_iso %}
-      <dt class="memo-metadata__label">Modified</dt>
-      <dd class="memo-metadata__value"><time datetime="{{ memo.modified_iso }}">{{ memo.modified_pp }}</time></dd>
-{%- endif %}
-      <dt class="memo-metadata__label">Taxon</dt>
-      <dd class="memo-metadata__value"><a class="link link--notice" href="{{ memo.taxon.link }}">{{ memo.taxon.long_name }}</a></dd>
-    </dl>
-  </section>
-
-  {% if memo.toc is defined %}
-  <section class="sidebar-box">
-    <ol class="navigation-list">
-      {% with toc = memo.toc %}{% include "_toc_tree.html" %}{% endwith %}
-    </ol>
-  </section>
-  {% endif %}
-
-  <section class="sidebar-box">
-    <p>Back to <a class="link" href="">all memos</a>.</p>
-  </section>
-</div>
+{% block subtitle %}
+{{ memo.published_pp }}
 {% endblock %}
 {% block body %}
 <div class="markdown">
   {{ memo.body | safe }}
 </div>
+{% endblock %}
+{% block footer %}
+{% if memo.next is defined %}<p><a class="link" href="{{ memo.next.link }}">← {{ memo.next.title }}</a></p>{% endif %}
+{% if memo.prev is defined %}<p><a class="link" href="{{ memo.prev.link }}">{{ memo.prev.title }} →</a></p>{% endif %}
+<p><a class="link" href="">Return</a></p>
 {% endblock %}

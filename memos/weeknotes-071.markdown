@@ -2,7 +2,6 @@
 title: "Weeknotes: 071"
 taxon: weeknotes-2020
 published: 2020-01-26
-modified: 2022-06-14
 ---
 
 ## Work

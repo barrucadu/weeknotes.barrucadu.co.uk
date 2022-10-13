@@ -22,35 +22,23 @@
     <title>{{ title }}</title>
 
     <link rel="stylesheet preload" href="{{ hashed_links['style.css'] }}" as="style" type="text/css">
+    <link rel="stylesheet preload" href="{{ hashed_links['code.css'] }}" as="style" type="text/css">
 
-    {% if taxon is defined %}
-    <link rel="alternate" type="application/atom+xml" title="{{ title }}" href="{{ taxon.feed_link }}">
-    {% endif %}
     <link rel="alternate" type="application/atom+xml" title="{{ site_name }}" href="atom.xml">
-
-    {% block head %}{% endblock %}
   </head>
 
   <body>
-    <div id="outer-wrapper">
-      <div id="inner-wrapper" class="{% if is_memo %}wrapper-for-memo{% else %}wrapper-for-list{% endif %}">
-        <header id="header">
-          <h1 class="main-heading">{{ title }}</h1>
-        </header>
+    <header>
+      <p class="subtitle">{% block subtitle %}{% endblock %}</p>
+      <h1 class="main-heading">{{ title }}</h1>
+    </header>
 
-        <main id="main">
-          {% block body %}{% endblock %}
-        </main>
+    <main>
+      {% block body %}{% endblock %}
+    </main>
 
-        <nav id="sidebar">
-          {% block sidebar %}{% endblock %}
-        </nav>
-      </div>
-    </div>
-
-    <footer class="footer">
-      <p>Copyright 2021+ <a class="link" href="https://www.barrucadu.co.uk">Michael Walker</a>, available under the terms of the <a class="link" href="https://creativecommons.org/licenses/by-nc-sa/4.0/"><abbr title="Creative Commons">CC</abbr> <abbr title="Attribution-NonCommercial-ShareAlike 4.0 International">BY-NC-SA 4.0</abbr> license</a>.</p>
-      <p>The body text uses the following fonts: <a class="link" href="https://fonts.google.com/specimen/Fira+Mono">Fira Mono</a>, <a class="link" href="https://fonts.google.com/specimen/Gentium+Book+Basic">Gentium Book Basic</a>, and <a class="link" href="https://fonts.google.com/specimen/Staatliches">Staatliches</a>.</p>
+    <footer>
+      {% block footer %}{% endblock %}
     </footer>
   </body>
 </html>

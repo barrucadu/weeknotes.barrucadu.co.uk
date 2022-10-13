@@ -39,6 +39,8 @@ JINJA2_ENV = jinja2.Environment(
     loader=jinja2.FileSystemLoader("_templates"),
 )
 
+SITE_NAME = "barrucadu's weeknotes"
+
 TAXON_DIR = "taxon"
 
 DATE_ISO_FORMAT = "%Y-%m-%d"
@@ -74,15 +76,6 @@ for taxon in TAXA:
         taxon["parent_name"] = parent["long_name"]
         taxon["parent_link"] = parent["link"]
         taxon["draft"] = taxon.get("draft", parent.get("draft", False))
-
-
-def title_for(taxon=None):
-    """Title for a memo listing or feed."""
-
-    if taxon is not None:
-        return f"barrucadu's weeknotes - {taxon['name']}"
-    else:
-        return "barrucadu's weeknotes"
 
 
 def pandocise_memo(fname, link, text, toc):
@@ -193,8 +186,6 @@ for fname in os.listdir("memos"):
 
         memo["published_iso"] = memo["published"].strftime(DATE_ISO_FORMAT)
         memo["published_pp"] = memo["published"].strftime(DATE_PP_FORMAT)
-        memo["modified_iso"] = memo["modified"].strftime(DATE_ISO_FORMAT)
-        memo["modified_pp"] = memo["modified"].strftime(DATE_PP_FORMAT)
         memo["slug"], _ = os.path.splitext(os.path.basename(fpath))
         memo["link"] = f"{memo['slug']}.html"
         memo["permalink"] = f"{BASE_HREF}{memo['slug']}.html"
@@ -245,7 +236,7 @@ def render(link, template, **metadata):
         rendered = JINJA2_ENV.get_template(template).render(
             base_href=BASE_HREF,
             hashed_links=HASHED_LINKS,
-            site_name=title_for(),
+            site_name=SITE_NAME,
             is_root=link == "index.html",
             is_memo=template == "memo.html",
             link=link,
@@ -259,7 +250,7 @@ def render_memo_list(memos, taxon=None, taxa=[]):
     """Render a memo listing page."""
 
     metadata = {
-        "title": title_for(taxon=taxon),
+        "title": SITE_NAME,
         "taxa": taxa,
     }
 
@@ -286,7 +277,7 @@ def render_memo_feed(memos, taxon=None, num=10):
         memos = [memo for memo in memos if taxon in memo["taxa"]]
 
     metadata = {
-        "title": title_for(taxon=taxon),
+        "title": SITE_NAME,
         "taxon": taxon,
         "memos": memos[:num],
     }
@@ -317,6 +308,13 @@ memos_for_lists = sorted(
     reverse=True,
 )
 
+prev = None
+for memo in reversed(memos_for_lists):
+    if prev is not None:
+        memo["prev"] = prev
+        prev["next"] = memo
+    prev = memo
+
 memos_for_feeds = sorted(
     [memo for memo in memos_for_lists],
     key=lambda memo: memo_sort_key(memo, False),
@@ -338,16 +336,8 @@ render("sitemap.xml", "sitemap.xml", memos=ALL_MEMOS, taxa=TAXA)
 render_memo_list(memos_for_lists, taxa=TAXA)
 render_memo_feed(memos_for_feeds)
 
-
-def build_taxon_pages_recursive(taxon):
-    render_memo_list(memos_for_lists, taxon=taxon, taxa=TAXA)
-    render_memo_feed(memos_for_feeds, taxon=taxon)
-    for t in taxon.get("children", []):
-        build_taxon_pages_recursive(t)
-
-
 for taxon in TAXA:
-    build_taxon_pages_recursive(taxon)
+    render_memo_feed(memos_for_feeds, taxon=taxon)
 
 for memo in ALL_MEMOS:
     render(f"{memo['slug']}.html", "memo.html", title=memo["title"], memo=memo)

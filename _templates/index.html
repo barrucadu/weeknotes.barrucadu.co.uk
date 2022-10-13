@@ -1,10 +1,8 @@
 {% extends "_layout.html" %}
-{% block sidebar %}
-{% include "_list_sidebar.html" %}
+{% block subtitle %}
+subscribe to the <a class="link" href="atom.xml">feed</a> — a&nbsp;new entry every Sunday
 {% endblock %}
 {% block body %}
-<p>A new entry every Sunday.  Subscribe to the <a class="link" href="taxon/weeknotes.xml">Atom feed</a>.</p>
-
 <div class="weeknotes">
   {% for memo in memos %}
     {% if memo.title.startswith("Weeknotes: ") %}
@@ -24,4 +22,8 @@
     {% endif %}
   {% endfor %}
 </div>
+{% endblock %}
+{% block footer %}
+<p>Copyright 2022+ <a class="link" href="https://www.barrucadu.co.uk">Michael Walker</a>, available under the terms of the <a class="link" href="https://creativecommons.org/licenses/by-nc-sa/4.0/"><abbr title="Creative Commons">CC</abbr> <abbr title="Attribution-NonCommercial-ShareAlike 4.0 International">BY-NC-SA 4.0</abbr> license</a>.</p>
+<p>The body text and headings use <a class="link" href="https://mbtype.com/fonts/valkyrie/">Valkyrie</a>, code samples use <a class="link" href="https://fonts.google.com/specimen/Fira+Mono">Fira Mono</a>.</p>
 {% endblock %}
