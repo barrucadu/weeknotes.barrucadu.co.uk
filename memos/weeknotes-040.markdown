@@ -1,6 +1,5 @@
 ---
 title: "Weeknotes: 040"
-taxon: weeknotes-2019
 published: 2019-06-23
 ---
 

@@ -1,6 +1,5 @@
 ---
 title: "Weeknotes: 007"
-taxon: weeknotes-2018
 date: 2018-11-04
 ---
 

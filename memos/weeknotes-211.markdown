@@ -1,6 +1,5 @@
 ---
 title: "Weeknotes: 211"
-taxon: weeknotes-2022
 date: 2022-10-02
 ---
 

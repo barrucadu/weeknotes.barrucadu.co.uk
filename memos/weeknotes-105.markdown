@@ -1,6 +1,5 @@
 ---
 title: "Weeknotes: 105"
-taxon: weeknotes-2020
 date: 2020-09-20 21:00:00
 ---
 

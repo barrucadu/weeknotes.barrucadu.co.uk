@@ -1,6 +1,5 @@
 ---
 title: "Weeknotes: 077"
-taxon: weeknotes-2020
 date: 2020-03-08
 ---
 

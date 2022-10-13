@@ -1,6 +1,5 @@
 ---
 title: "Weeknotes: 164"
-taxon: weeknotes-2021
 date: 2021-11-07
 ---
 

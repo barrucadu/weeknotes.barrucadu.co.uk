@@ -1,6 +1,5 @@
 ---
 title: "Weeknotes: 137"
-taxon: weeknotes-2021
 date: 2021-05-02 20:00:00
 ---
 

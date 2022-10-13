@@ -1,6 +1,5 @@
 ---
 title: "Weeknotes: 136"
-taxon: weeknotes-2021
 date: 2021-04-25
 ---
 

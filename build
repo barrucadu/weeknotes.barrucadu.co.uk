@@ -41,41 +41,8 @@ JINJA2_ENV = jinja2.Environment(
 
 SITE_NAME = "barrucadu's weeknotes"
 
-TAXON_DIR = "taxon"
-
 DATE_ISO_FORMAT = "%Y-%m-%d"
 DATE_PP_FORMAT = "%b %-d, %Y"
-
-
-# this is a list so they can be ordered
-TAXA = [
-    {"name": "Weeknotes", "slug": "weeknotes"},
-    {"name": "2022", "slug": "weeknotes-2022", "parent": "weeknotes"},
-    {"name": "2021", "slug": "weeknotes-2021", "parent": "weeknotes"},
-    {"name": "2020", "slug": "weeknotes-2020", "parent": "weeknotes"},
-    {"name": "2019", "slug": "weeknotes-2019", "parent": "weeknotes"},
-    {"name": "2018", "slug": "weeknotes-2018", "parent": "weeknotes"},
-]
-
-TAXA_BY_SLUG = {taxon["slug"]: taxon for taxon in TAXA}
-
-DEFAULT_TAXON = "general"
-
-for taxon in TAXA:
-    taxon["long_name"] = taxon["name"]
-    taxon["has_children"] = False
-    taxon["link"] = f"{TAXON_DIR}/{taxon['slug']}.html"
-    taxon["permalink"] = f"{BASE_HREF}{taxon['link']}"
-    taxon["feed_link"] = f"{TAXON_DIR}/{taxon['slug']}.xml"
-    taxon["feed_permalink"] = f"{BASE_HREF}{taxon['feed_link']}"
-    taxon["parent"] = taxon.get("parent", "")
-    if taxon["parent"]:
-        parent = TAXA_BY_SLUG[taxon["parent"]]
-        parent["has_children"] = True
-        taxon["long_name"] = f"{parent['long_name']} ({taxon['name']})"
-        taxon["parent_name"] = parent["long_name"]
-        taxon["parent_link"] = parent["link"]
-        taxon["draft"] = taxon.get("draft", parent.get("draft", False))
 
 
 def pandocise_memo(fname, link, text, toc):
@@ -190,15 +157,6 @@ for fname in os.listdir("memos"):
         memo["link"] = f"{memo['slug']}.html"
         memo["permalink"] = f"{BASE_HREF}{memo['slug']}.html"
 
-        # get the taxon
-        taxon_slug = memo.get("taxon", DEFAULT_TAXON)
-        taxon = TAXA_BY_SLUG[taxon_slug]
-        memo["taxon"] = taxon
-        memo["taxa"] = [taxon]
-        while taxon["parent"]:
-            taxon = TAXA_BY_SLUG[taxon["parent"]]
-            memo["taxa"].append(taxon)
-
         # render the body
         memo["text"] = "".join(lines[text_start_idx:])
         memo["body"], toc = pandocise_memo(fname, memo["link"], memo["text"], memo.get("toc"))
@@ -246,54 +204,8 @@ def render(link, template, **metadata):
         print(rendered, file=f)
 
 
-def render_memo_list(memos, taxon=None, taxa=[]):
-    """Render a memo listing page."""
-
-    metadata = {
-        "title": SITE_NAME,
-        "taxa": taxa,
-    }
-
-    link = "index.html"
-    if taxon is not None:
-        link = os.path.join(TAXON_DIR, taxon["slug"] + ".html")
-        metadata["taxon"] = taxon
-        memos = [memo for memo in memos if taxon in memo["taxa"]]
-
-    if memos:
-        metadata["memos"] = memos
-    else:
-        raise Exception(f"no memos (taxon={taxon})")
-
-    render(link, "index.html" if link == "index.html" else "list.html", **metadata)
-
-
-def render_memo_feed(memos, taxon=None, num=10):
-    """Render a memo listing feed."""
-
-    link = "atom.xml"
-    if taxon is not None:
-        link = os.path.join(TAXON_DIR, taxon["slug"] + ".xml")
-        memos = [memo for memo in memos if taxon in memo["taxa"]]
-
-    metadata = {
-        "title": SITE_NAME,
-        "taxon": taxon,
-        "memos": memos[:num],
-    }
-    if memos:
-        metadata["feed_date"] = memos[0]["modified_iso"]
-
-    render(link, "atom.xml", **metadata)
-
-
 def memo_sort_key(memo, sort_important=True):
-    timestamp = memo["modified"]
-
-    # weeknotes are in publication order even if they've since been
-    # modified
-    if "weeknotes" in memo["taxon"]["slug"]:
-        timestamp = memo["published"]
+    timestamp = memo["published"]
 
     # bump up important memos (should I retire this field, perhaps?)
     if sort_important and "important" in memo:
@@ -323,21 +235,16 @@ memos_for_feeds = sorted(
 
 dir_util.copy_tree("static", OUT_DIR)
 
-dir_util.mkpath(os.path.join(OUT_DIR, TAXON_DIR))
-
 for source, target in HASHED_LINKS.items():
     file_util.copy_file(
         os.path.join("hashed-static", source), os.path.join(OUT_DIR, target)
     )
 
 render("robots.txt", "robots.txt")
-render("sitemap.xml", "sitemap.xml", memos=ALL_MEMOS, taxa=TAXA)
+render("sitemap.xml", "sitemap.xml", memos=ALL_MEMOS)
 
-render_memo_list(memos_for_lists, taxa=TAXA)
-render_memo_feed(memos_for_feeds)
-
-for taxon in TAXA:
-    render_memo_feed(memos_for_feeds, taxon=taxon)
+render("index.html", "index.html", title=SITE_NAME, memos=memos_for_lists)
+render("atom.xml", "atom.xml", title=SITE_NAME, memos=memos_for_feeds[:10], feed_date=memos_for_feeds[0]["published_iso"])
 
 for memo in ALL_MEMOS:
     render(f"{memo['slug']}.html", "memo.html", title=memo["title"], memo=memo)

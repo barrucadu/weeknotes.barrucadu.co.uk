@@ -1,6 +1,5 @@
 ---
 title: "Weeknotes: 195"
-taxon: weeknotes-2022
 date: 2022-06-12
 ---
 

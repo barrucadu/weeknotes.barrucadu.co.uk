@@ -1,6 +1,5 @@
 ---
 title: "Weeknotes: 011"
-taxon: weeknotes-2018
 date: 2018-12-02
 ---
 

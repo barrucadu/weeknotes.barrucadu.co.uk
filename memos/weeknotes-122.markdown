@@ -1,6 +1,5 @@
 ---
 title: "Weeknotes: 122"
-taxon: weeknotes-2021
 date: 2021-01-17 21:00:00
 ---
 

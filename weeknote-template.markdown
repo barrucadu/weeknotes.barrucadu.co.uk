@@ -1,6 +1,5 @@
 ---
 title: "Weeknotes: NNN"
-taxon: weeknotes-YYYY
 date: YYYY-MM-DD
 ---
 

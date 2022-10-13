@@ -1,6 +1,5 @@
 ---
 title: "Weeknotes: 158"
-taxon: weeknotes-2021
 date: 2021-09-26
 ---
 

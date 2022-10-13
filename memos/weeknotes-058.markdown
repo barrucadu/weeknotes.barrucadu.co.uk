@@ -1,6 +1,5 @@
 ---
 title: "Weeknotes: 058"
-taxon: weeknotes-2019
 date: 2019-10-27
 ---
 

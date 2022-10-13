@@ -1,6 +1,5 @@
 ---
 title: "Weeknotes: 206"
-taxon: weeknotes-2022
 date: 2022-08-28
 ---
 

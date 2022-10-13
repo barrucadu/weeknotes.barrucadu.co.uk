@@ -5,7 +5,4 @@
   {% for memo in memos %}
   <url><loc>{{ memo.permalink }}</loc></url>
   {% endfor %}
-  {% for taxon in taxa %}
-  <url><loc>{{ taxon.feed_permalink }}</loc></url>
-  {% endfor %}
 </urlset>

@@ -1,6 +1,5 @@
 ---
 title: "Weeknotes: 186"
-taxon: weeknotes-2022
 date: 2022-04-10
 ---
 

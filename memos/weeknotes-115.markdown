@@ -1,6 +1,5 @@
 ---
 title: "Weeknotes: 115"
-taxon: weeknotes-2020
 date: 2020-11-29
 ---
 

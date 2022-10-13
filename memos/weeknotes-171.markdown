@@ -1,6 +1,5 @@
 ---
 title: "Weeknote Special: 2021"
-taxon: weeknotes-2021
 date: 2021-12-31
 ---
 

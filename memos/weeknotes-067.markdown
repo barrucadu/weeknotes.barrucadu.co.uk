@@ -1,6 +1,5 @@
 ---
 title: "Weeknote Special: 2019"
-taxon: weeknotes-2019
 date: 2019-12-29
 ---
 

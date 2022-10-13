@@ -1,6 +1,5 @@
 ---
 title: "Weeknotes: 071"
-taxon: weeknotes-2020
 published: 2020-01-26
 ---
 
