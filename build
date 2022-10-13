@@ -110,6 +110,10 @@ for fname in os.listdir("notes"):
         note["link"] = f"{note['slug']}.html"
         note["permalink"] = f"{BASE_HREF}{note['slug']}.html"
 
+        note["title"] = f"#{note['slug']}"
+        if "annual_special_for" in note:
+            note["title"] += f" — End of {note['annual_special_for']} Special"
+
         if "date" not in note:
             print(f"missing date in metadata for {fpath}")
             sys.exit(1)

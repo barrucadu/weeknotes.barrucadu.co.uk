@@ -1,5 +1,4 @@
 ---
-title: "Weeknotes: NNN"
 date: YYYY-MM-DD
 ---
 

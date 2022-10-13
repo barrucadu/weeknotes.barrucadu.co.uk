@@ -5,21 +5,10 @@ subscribe to the <a class="link" href="atom.xml">feed</a> — a&nbsp;new entry e
 {% block body %}
 <div class="weeknotes">
   {% for note in notes %}
-    {% if note.title.startswith("Weeknotes: ") %}
-      <div class="weeknote-card">
-        <h3 class="weeknote-card__heading"><a class="link link--no-underline" href="{{ note.link }}">
-            #{{ note.link.split("weeknotes-")[1].split(".")[0] }}
-        </a></h3>
-        <time class="weeknote-card__time" datetime="{{ note.published_iso }}">{{ note.published_pp }}</time>
-      </div>
-    {% elif note.title.startswith("Weeknote Special: ") %}
-      <div class="weeknote-card weeknote-card--special">
-        <h3 class="weeknote-card__heading"><a class="link link--no-underline" href="{{ note.link }}">
-            #{{ note.link.split("weeknotes-")[1].split(".")[0] }} — End of {{ note.title.removeprefix("Weeknote Special: ") }} Special
-        </a></h3>
-        <time class="weeknote-card__time" datetime="{{ note.published_iso }}">{{ note.published_pp }}</time>
-      </div>
-    {% endif %}
+    <div class="weeknote-card{% if note.annual_special_for is defined %} weeknote-card--special{% endif %}">
+      <h3 class="weeknote-card__heading"><a class="link link--no-underline" href="{{ note.link }}">{{ note.title }}</a></h3>
+      <time class="weeknote-card__time" datetime="{{ note.published_iso }}">{{ note.published_pp }}</time>
+    </div>
   {% endfor %}
 </div>
 {% endblock %}
