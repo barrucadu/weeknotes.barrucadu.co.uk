@@ -57,8 +57,6 @@
 
     --border: #b1b4b6;
 
-    --highlight: #ff0000;
-
     --separator: #730b0b;
 
     --thead-fg: #ffffff;
@@ -189,18 +187,6 @@ p {
 
 .markdown p, .markdown li {
     margin-bottom: 16px;
-}
-
-.markdown span.highlight {
-    color: var(--highlight);
-    font-weight: bold;
-}
-
-.markdown aside.highlight {
-    padding: 16px;
-    margin: 16px 0;
-    border: 5px solid var(--highlight);
-    font-weight: bold;
 }
 
 .markdown figure {
