@@ -175,12 +175,15 @@ p {
     margin: 16px 0;
 }
 
-.markdown blockquote, .markdown pre.code {
+.markdown blockquote {
     border-left: 5px solid var(--border);
-    padding: 1em;
+    padding-left: 1em;
 }
 
 .markdown pre.code {
+    border-left: 5px solid var(--border);
+    /* full padding because the background colour looks too "tight" otherwise */
+    padding: 1em;
     overflow: auto;
     font-size: 0.8rem;
 }
