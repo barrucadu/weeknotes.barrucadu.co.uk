@@ -1,0 +1,243 @@
+---
+date: 2022-10-16
+---
+
+## weeknotes.barrucadu.co.uk
+
+You've made it to the new domain!  No longer are weeknotes on
+[memo.barrucadu.co.uk][], they're now here on [weeknotes.barrucadu.co.uk][]!
+And the CSS is different!
+
+So let's talk about why.
+
+[memo.barrucadu.co.uk]: https://memo.barrucadu.co.uk/
+[weeknotes.barrucadu.co.uk]: https://weeknotes.barrucadu.co.uk/
+
+### Weeknotes and memos were unhappy bedfellows
+
+Let's start with a bold statement: *putting weeknotes and memos together was a
+mistake from the beginning*.
+
+I started writing memos to help me think through implementation details of
+[dejafu][] and [coco][].  Now, thinking-by-writing works best for me if I
+imagine I'm writing for an audience, so you'd be forgiven for thinking that
+[Reducing Combinatorial Explosion][] is intended for general consumption (it was
+for me to get straight in my head the different techniques and work out how to
+explain them to others), though others like [Representation & Evaluation of
+Typed Expressions][] are much more clearly just for my own edification.
+
+But there are others that genuinely *are* for public consumption, like [Writing
+a Concurrency Testing Library (Part 1)][] or [Solving Scheduling Problems with
+Integer Linear Programming][].
+
+But *then* there are others which are clearly of no interest whatsoever to
+people other than myself, like [How to: fix LainRadio][].
+
+So we have this weird mishmash of public, semi-public, and personal memos, all
+in one place because... well, there's no good reason really.  I just didn't
+think to set up a separate place.  I did eventually set up [an RPG blog][] last
+year since I wrote a very popular memo on [Dice Rolls in Call of Cthulhu][] and
+thought "maybe I could be an RPG blogger" (I couldn't, it's very hard coming up
+with ideas).
+
+Weeknotes fall entirely into the "intended for public consumption" category.
+
+The format and writing style have changed over time but, even from [#001][],
+these were supposed to be a public diary of sorts, which someone could read if
+they wanted to keep up with my life.
+
+For a while, putting weeknotes and memos together worked, but eventually there
+were issues:
+
+- Memos were displayed in a long list ordered by updated-at time, but there's a
+  lot of weeknotes and a very long list doesn't look good.  So I added some CSS
+  to display weeknotes in the current grid format, and so split the site into
+  "weeknotes" and "not-weeknotes".
+
+- Because there were so many weeknotes, they crowded memos off the bottom of the
+  screen, even with the grid display, so if I wanted to read something else I
+  had to scroll way down to find it.
+
+- Much stuff that was useful for memos, like tags, or a taxonomy, or even just
+  an auto-generated table of contents, was just not useful for weeknotes.  So
+  that stuff all just felt like a waste of space---but I didn't want to make the
+  layout of weeknotes themselves inconsistent with memos (even if the index page
+  already was).
+
+- But most significantly, I started to feel like everything had to be written
+  for public consumption, since the vast majority of the content *was*.
+
+I knew I wanted to split weeknotes out from the rest of the memos for a while,
+but I kept procrastinating.  In the end, it wasn't really much effort at all,
+and in fact I spent more time fiddling with the CSS than I did actually setting
+up the separate site, deployment pipeline, and redirects for old URLs.
+
+[dejafu]: https://github.com/barrucadu/dejafu/
+[coco]: https://github.com/barrucadu/coco/
+[Reducing Combinatorial Explosion]: https://memo.barrucadu.co.uk/reducing-combinatorial-explosion.html
+[Representation & Evaluation of Typed Expressions]: https://memo.barrucadu.co.uk/representation-and-evaluation-of-typed-expressions.html
+[Writing a Concurrency Testing Library (Part 1)]: https://memo.barrucadu.co.uk/minifu-01.html
+[Solving Scheduling Problems with Integer Linear Programming]: https://memo.barrucadu.co.uk/scheduling-problems.html
+[How to: fix LainRadio]: https://memo.barrucadu.co.uk/how-to-fix-lainradio.html
+[an RPG blog]: https://www.lookwhattheshoggothdraggedin.com/
+[Dice Rolls in Call of Cthulhu]: https://www.lookwhattheshoggothdraggedin.com/post/dice-rolls-in-call-of-cthulhu.html
+[#001]: notes/001.html
+
+### A new site, a new look
+
+With a site now dedicated to weeknotes, I could tweak the design to fit.
+
+The three-column memo layout of sidebar, content, and sidenotes never really
+worked for me since switching to a portrait monitor: the sidenotes either made
+the content area too narrow, or were hidden off the side of the screen.  So I
+turned sidenotes back into footnotes.  The memos still keep the navigation
+sidebar, but the weeknotes dropped that too.
+
+With only one column now, I could make the text bigger.  But the font I was
+using, [Gentium Book Basic][] looked kind of bad at the new size, I got aliasing
+artefacts.  So I swapped it out for [Valkyrie][].[^mbtype]
+
+I simplified the headings too, switching them over to Valkyrie as well, and
+removing all of my totally arbitrary font sizes.  So now the browser just picks
+sensible relative sizes based on the body font size---which is really how I
+should always have done it.
+
+I also decided to make links smallcaps, which I think looks pretty nice.
+
+[^mbtype]: Valkyrie is a non-free font created by the author of [Butterick's
+  Practical Typography][], a resource I referred to a lot while writing (or
+  putting off writing) [my Ph.D thesis][].  I use a few of his fonts in my
+  thesis, and picked up the rest a couple of years ago.
+
+Navigation was a puzzle, but the left / right navigation of [the Rust book][]
+caught my eye and, while I ended up not implementing the arrow key controls,
+realising that weeknotes were a sequence which it would make sense to navigate
+forwards and backwards through was the push I needed to think of the new footer
+links.
+
+Finally, I threw out the old semi-responsive design based on media query
+breakpoints, because the new one-column layout handles narrow displays pretty
+well by itself.
+
+The current design is much cleaner, and I'm happer with it.
+
+[Gentium Book Basic]: https://fonts.google.com/specimen/Gentium+Book+Basic
+[Valkyrie]: https://mbtype.com/fonts/valkyrie/
+[Butterick's Practical Typography]: https://practicaltypography.com/
+[my Ph.D thesis]: https://www.barrucadu.co.uk/publications/thesis.pdf
+[the Rust book]: https://doc.rust-lang.org/book/ch01-00-getting-started.html
+
+
+## Books
+
+No books this week either!  I spent all of it playing [Crusader Kings 3][]...
+
+[Crusader Kings 3]: https://en.wikipedia.org/wiki/Crusader_Kings_III
+
+
+## Roleplaying Games
+
+A rare week in which I didn't run *any* games at all.  The weekly Wicked Ones
+game was paused for one of the players to run a Genesys one-shot.
+
+Once, I considered using Genesys for a campaign.  It's narrative but has an
+appealing mechanical heft to it.  But having played a couple of one-shots now,
+the weird dice are a bigger barrier than I thought they would be.  It's not just
+that everyone has to learn how to read them, it's also that a single roll can
+give the GM so much to incorporate into the fiction, and I feel like actually
+doing that in a way which feels meaningful and satisfying, and not arbitrary,
+*all the time* would be hard.
+
+I'm much more a fan of simple binary pass / fail where the GM can incorporate
+degrees of success or failure on the fly if they want to.  For example, in Call
+of Cthulhu I might only ask for a regular roll, but if the player gets a hard
+success or an extreme success, I'll often give them something more.  Or if they
+only just fail, I might show that by having lessened consequences.  But,
+equally, I might not: the game doesn't say you have to do that, so it's up to
+whatever feels right in the moment.  With the Genesys narrative dice, the GM has
+a lot less flexibility in that regard.
+
+Though, I recognise that the *entire point* of the narrative dice is to force
+the game to go in directions nobody expected, it's not that they're a needlessly
+restrictive mechanic, it's just not the sort of thing I think I would like to
+run.
+
+
+## Miscellaneous
+
+### Crusader Kings 3
+
+So yeah, I spent almost all of my free time this week playing [Crusader Kings
+3][].  I've been trying to reform the Roman Empire.  I'm not there yet, but I
+think I'm doing an alright job:
+
+![The Empire of Italia](notes/213/ck3.jpg)
+
+So right now I have most of Western Europe (the Iberian Peninsula being the big
+exception, where I've only made small inroads), some of Eastern Europe, and even
+a bit of Scandinavia.  The darker patches inside the empire are internal wars
+between vassals, but the land is all ultimately under my control: there are no
+independent realms entirely surrounded by Italia.
+
+My next big goal is to conquer the lands of [Illyricum][], which currently the
+Byzantine Empire holds most of, which will let me take the "Unify Italy"
+decision, a prerequisite for the "Restore the Roman Empire" decision.  I also
+need to subjugate [Lotharingia][] at some point soon: they've had it too good
+for too long.
+
+Unfortunately, my empire is now so large that succession is a major problem.
+The last few times, I've had to deal with rebel kings who have demanded
+independence (and some have briefly attained it before my following character
+beat them into submission again).  I need to do some restructuring of the realm
+to make these powerful vassals happier: perhaps lowering their feudal
+obligations, or even by tyrannically revoking some kingdom titles so that I have
+a larger number of smaller vassals, and not a smaller number of larger vassals.
+
+[Illyricum]: https://en.wikipedia.org/wiki/Illyricum_(Roman_province)
+[Lotharingia]: https://en.wikipedia.org/wiki/Lotharingia
+
+### The Rings of Power
+
+Season 1 of Amazon's LoTR series [The Rings of Power][] finished this week.
+Eight to ten episodes, each of which is an hour to an hour and a half in length,
+seems a pretty common format for streaming shows these days.  I think personally
+I'd prefer longer seasons of shorter episodes.
+
+Overall, I quite enjoyed it, and I'm looking forward to season 2.  It had a slow
+start, but got better towards the end.  I liked the little tie-ins to the story
+of The Lord of the Rings.  Though, I felt that Halbrand, when confronted, was
+just a bit too willing to admit that he was Sauron.
+
+Also, the forging of the rings went differently to how I expected.  I don't know
+if this is covered in Tolkien's works which I've not read, but I'd always
+imagined that Sauron and Celebrimbor together first made the Nine, then the
+Seven, and then Sauron was exposed and fled before the making of the Three,
+whereupon he made the One in secret.  So the Three represent the culmination of
+Celebrimbor's earlier work, honed by making 16 other rings of power.  But from
+what we saw, Sauron and Celebrimbor skipped straight to the making of the Three,
+so I guess making the Nine and the Seven will be *entirely* the work of Sauron.
+Though, this also makes sense: it's just that in this version it was Sauron, not
+Celebrimbor, who was practicing.
+
+[The Rings of Power]: https://en.wikipedia.org/wiki/The_Lord_of_the_Rings:_The_Rings_of_Power
+
+
+## Link Roundup
+
+### Roleplaying games
+
+- [Well Begun is Half Done](https://theangrygm.com/well-begun-is-half-done/)
+- [Introducing: Your Character](https://theangrygm.com/introducing-my-character/)
+
+### Software engineering
+
+- [Worry-free NixOS refactors](https://www.tweag.io/blog/2022-10-11-stable-narhashes/)
+
+### Miscellaneous
+
+- Teaching Paradox, Crusader Kings III:
+  - [Part I: Making It Personal](https://acoup.blog/2022/09/16/collections-teaching-paradox-crusader-kings-iii-part-i-making-it-personal/)
+  - [Part IIa: Rascally Vassals](https://acoup.blog/2022/09/23/collections-teaching-paradox-crusader-kings-iii-part-iia-rascally-vassals/)
+  - [Part IIb: Cracks in the House of Islam](https://acoup.blog/2022/09/30/collections-teaching-paradox-crusader-kings-iii-part-iib-cracks-in-the-house-of-islam/)
+  - [Part III: Constructivisting a Kingdom](https://acoup.blog/2022/10/07/collections-teaching-paradox-crusader-kings-iii-part-iii-constructivisting-a-kingdom/)
+  - [Part IV: Emperors, Soldiers and Peasants](https://acoup.blog/2022/10/14/collections-teaching-paradox-crusader-kings-iii-part-iv-emperors-soldiers-and-peasants/)
