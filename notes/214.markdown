@@ -1,0 +1,78 @@
+---
+date: 2022-10-23
+---
+
+## Books
+
+This week I read:
+
+- [Chronicles of the Black Company][] by Glen Cook
+
+  Which covers the first 3 books, and the first big arc of the story.  I'd
+  [already read the first book][], because I am silly and didn't think to buy
+  the collected book up front.
+  
+  It was good, I liked it.  I think the second book was better than the first,
+  and the third was better still.  The first book felt a bit weak in parts,
+  because the story is very character-driven but didn't (I think) really develop
+  them enough.  So spending more time with these characters really helped.
+  
+  Furthermore, I think the writing style of very short chapters which jump
+  between viewpoint characters they focus on works well for this sort of story.
+
+[Chronicles of the Black Company]: https://en.wikipedia.org/wiki/The_Black_Company
+[already read the first book]: notes/210.html
+
+
+## Roleplaying Games
+
+This was supposed to be another week of three games, which is fun if a bit
+hectic, but then I had to cancel work D&D since all but one player dropped out.
+Unfortunately, this is the third time it's happened---one of those times I was
+able to run a solo session for the player who could make it, rather than
+skip---so in (almost) three months we've had three proper sessions and one
+basically-a-oneshot.  That's a bit less frequent than the fortnightly schedule
+everyone was on board with up front.
+
+Next session is supposed to be on the 2nd of November, but already 3 of the 6
+players have said they can't make it.  If this keeps up, it might be best to
+drop the game; [only recently][] I restructured the campaign to better deal with
+flaky attendance, but I fear even that won't be enough.  Playing, on average,
+2.5 hours a month with a random subset of the players isn't very conducive to
+people actually knowing what's going on, and also it's not great for anyone
+really if I keep scheduling games which then get cancelled shortly beforehand.
+
+[only recently]: notes/211.html
+
+
+## Miscellaneous
+
+This weekend I've been playing around with [Phoenix][], the big [Elixir][] web
+framework, something I last looked into [in 2019][] when I tried to rewrite
+[bookdb][].  I didn't get very far at the time, and in fact didn't even remember
+I'd tried until I grepped through old weeknotes.
+
+I'm trying to write a little CRUD thing to keep track of stuff I've watched or
+am watching, since I often forget, then start to watch something, and realise a
+little while in that I've seen it before.  Not very complicated, and Phoenix can
+actually [generate a bunch of boilerplate for me][], but since it's a new
+language and a new framework I've gone back to the beginning and started again a
+couple of times.
+
+I don't have much to show yet, right now I'm working on uploading poster images.
+Then I'll concentrate on the UI for a bit, maybe see if I can use [LiveView][]
+for some parts of it.
+
+[Phoenix]: https://www.phoenixframework.org/
+[Elixir]: https://elixir-lang.org/
+[in 2019]: notes/030.html
+[bookdb]: https://bookdb.barrucadu.co.uk/search
+[generate a bunch of boilerplate for me]: https://hexdocs.pm/phoenix/contexts.html
+[LiveView]: https://hexdocs.pm/phoenix_live_view/installation.html
+
+
+## Link Roundup
+
+### Roleplaying games
+
+- [Yoon-Suin 2nd Edition Kickstarter Update](https://monstersandmanuals.blogspot.com/2022/10/yoon-suin-2nd-edition-kickstarter-update.html)
