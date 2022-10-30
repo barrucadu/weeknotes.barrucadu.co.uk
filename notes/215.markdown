@@ -1,0 +1,114 @@
+---
+date: 2022-10-30
+---
+
+## Books
+
+This week I read:
+
+- [Where the Wheat Grows Tall][] by Camilla Freer and Evlyn Moreau
+
+  More on this below.
+
+[Where the Wheat Grows Tall]: https://www.allrolledup.co.uk/product/where-the-wheat-grows-tall-rpg-adventure/
+
+
+## Roleplaying Games
+
+![The Haul](notes/215/haul.jpg)
+
+This month's haul of RPG books has all arrived: mostly OSR, a book of fictional
+mushrooms, and one Call of Cthulhu scenario.  I also picked up a bunch of PDFs
+from the DriveThruRPG Halloween sale.  I've got:
+
+- **Rakham Vale**[^rv], a kind of fairytale fantasy setting inspired by the art
+  of [Arthur Rackham][].  I *might* put this south of Dolmenwood in my current
+  campaign, though we've still got a lot of Dolmenwood to go (and the campaign
+  is specifically about mapping Dolmenwood, not just random adventuring in the
+  region) so maybe that'll feature in a future campaign.
+
+- **Fungi of the Far Realms**[^ffr], a system-neutral supplement all about
+  fictional mushrooms.  This is by the Melsonian Arts Council, the creators of
+  [Troika][], so I've had my eye on it for a while.  No idea what I'll use it
+  for yet, but it's certainly a very nice book, physically: hardback covers with
+  bookcloth, a sewn binding, and nice thick paper.  The only letdown is that,
+  despite the sewn binding, it doesn't lay completely flat, maybe it just needs
+  breaking in a bit.
+
+- **Longwinter**[^l], a fantasy setting and adventure by [Luka Rejec][], creator
+  of Ultraviolet Grasslands and many other adventures.  It's a charming generic
+  European alpine setting with winter approaching... and then the horrifying
+  winter spirit who wants that winter *to never end*.  There are two books, a
+  guidebook for the players and a setting book for the referee, which is an
+  approach I quite like.
+
+- **The Stygian Library**[^sl], a depthcrawl by [Emmy Allen][], creator of The
+  Gardens of Ynn.  It's a neat little adventure where the referee rolls up
+  locations (made up of a room, feature, and encounter), with the rolls modified
+  by how deep into the library the party is.  The goal is to delve into the
+  depths and find some information, but the library gets more weird and
+  dangerous the further you go.
+
+- **Where the Wheat Grows Tall**[^wtwgt], a Slavic fairytale adventure, which
+  isn't something I'm very familiar with.  If nothing else, it's nice seeing
+  characters with names other than "made up Anglosphere or maybe Roman".  I read
+  through it on the train today, I think I might be able to fit into one of my
+  current campaigns (e.g., maybe the farm is inside Fairy (unbeknownst to the
+  inhabitants) and can be reached from Dolmenwood).  I'm a little unsure as to
+  how to actually run the adventure though, we're given this setting and a bunch
+  of things in it, but not much guidance on how it should actually play out.
+  I'll have to read through it again and think.
+
+- **Witchburner**[^w], another adventure by Luka Rejec.  This is about hunting
+  down a witch who has been ruining crops and spoiling milk and whatnot with
+  their fell powers... but the twist is that *there's actually no witch*.  The
+  players will end up in this difficult situation where the highly superstitious
+  townsfolk demand a witch to burn, perhaps even attacking and attempting to
+  burn the player characters themselves if they fail to produce one.  I'm
+  tempted to run this on an isolated backwater planet in my future Traveller
+  campaign, which is a setting without magic *at all*, which will give it an
+  interesting thematic twist.
+
+- **Viral**[^v], a modern-day Call of Cthulhu scenario about a bunch of
+  obnoxious youtubers live-streaming their investigation of an abandoned
+  hospital off the coast of Italy.  When I came across this, it spawned an
+  entire campaign idea: I want to run the *rest* of the lives of these obnoxious
+  youtubers, where they keep investigating stuff for their channel and most of
+  it is just mundane, but *some of it* is the real deal, and the investigations
+  we cover in sessions would be the real ones, with weeks or months of time
+  passing for the characters (and repeated discouragement and dead ends) between
+  each one.  I think that would be a great game.
+
+And there you have it.  This month's haul of books.  I'm definitely not going to
+get to use all these in the near future, but I want to at some point, and even
+if I never run these things as written, just reading them is a good source of
+inspiration (or so I keep telling my budget).
+
+[Arthur Rackham]: https://en.wikipedia.org/wiki/Arthur_Rackham
+[Troika]: https://www.troikarpg.com/
+[Luka Rejec]: https://www.wizardthieffighter.com/
+[Emmy Allen]: http://cavegirlgames.blogspot.com/
+
+[^rv]: [Review of Rackham Vale](https://www.youtube.com/watch?v=WmbF0AaaIJA) by Questing Beast.
+[^ffr]: [Review of Fungi of the Far Realms](https://www.youtube.com/watch?v=iRFyWvVhheo) by Questing Beast.
+[^l]: [Review of Longwinter](https://www.youtube.com/watch?v=Xbo9uXYNBdQ) by Questing Beast.
+[^sl]: [Review of The Stygian Library](https://thealexandrian.net/wordpress/48556/roleplaying-games/review-the-gardens-of-ynn-the-stygian-library) by The Alexandrian.
+[^wtwgt]: [Review of Where the Wheat Grows Tall](https://bonesofcontention.blogspot.com/2022/03/grave-trespass-where-wheat-grows-tall.html) by Yochai Gal.
+[^w]: [Review of Witchburner](https://www.youtube.com/watch?v=kDHviCQcVg4) by Questing Beast.
+[^v]: [Review of Viral](https://www.youtube.com/watch?v=yARYswKpalw) by Seth Skorkowsky.
+
+
+## Miscellaneous
+
+I've still been playing around with [Phoenix][] a bit this week.  I think I've
+got everything needed for a basic anime / movie / TV tracking site (which isn't
+a very complex thing, really), including a not-terrible UI, so I guess I need to
+decide if I'm really going ahead with this and---if so---begin the data entry.
+
+[Phoenix]: https://www.phoenixframework.org/
+
+## Link Roundup
+
+### Roleplaying games
+
+- [Nested Monster Hit Dice](https://mindstorm.blot.im/nested-monster-hit-dice)
