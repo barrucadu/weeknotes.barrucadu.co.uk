@@ -1,0 +1,238 @@
+---
+date: 2022-11-06
+---
+
+## Books
+
+This week I read:
+
+- [The Books of the South][] by Glen Cook
+
+  This collects three more books of the Black Company series: *Shadow Games*,
+  *Dreams of Steel*, and *The Silver Spike*.  But these are a strange three
+  books to publish together in one volume in that order.
+
+  At the end of the the preceding book, *The White Rose*, the Black Company is
+  almost destroyed.  There are only a few members left, and they decide to split
+  into two groups and go their separate ways.  One group remaining in the north,
+  one group heading south in search of the Company's origins.
+
+  *Shadow Games* and *Dreams of Steel* follow that second group: they head
+  south, start to uncover old history, and gradually learn that the Black
+  Company has its origins in a weird religious cult which practices human
+  sacrifice in the name of a dark god.  But rather than finishing that story, we
+  then move onto *The Silver Spike*, which is more of a spin-off, following the
+  group who *didn't* head south, and which happens concurrently with the early
+  parts of *Shadow Games*.
+
+  So we get two books following one set of characters and then suddenly jump
+  back to some unrelated stuff a different set of characters did a year
+  previously.  It just doesn't really fit, it's a weird choice, it would have
+  made much more sense to have *The Silver Spike* as the first or second book in
+  this volume[^spike], not the last.
+
+  All good stories, but a strange arrangement.
+
+- [The Hellbound Heart][] by Clive Barker
+
+  Now this is a book I've not read in a *long* time: I started tracking
+  last-read dates in [BookDB][] back in 2012 (so long ago the commit is lost to
+  history), and I last read *The Hellbound Heart* before that.
+
+  On Friday, I watched [the new Hellraiser film][], I liked it, and I felt like
+  re-reading the book.  So I did.  It's only a short book, 128 small pages in my
+  copy, but in that limited count it does a good job of telling its story and
+  eliciting gruesome body horror.
+
+  I've not read much Clive Barker---just this and *Mister B. Gone*---maybe I
+  should pick up some more of his stuff.
+
+[^spike]: Indeed, if the collection was arranged in publication order, *The
+  Silver Spike* would be second.
+
+[The Books of the South]: https://en.wikipedia.org/wiki/The_Black_Company
+[The Hellbound Heart]: https://en.wikipedia.org/wiki/The_Hellbound_Heart
+[BookDB]: https://bookdb.barrucadu.co.uk/search
+[the new Hellraiser film]: https://en.wikipedia.org/wiki/Hellraiser_(2022_film)
+
+
+## Roleplaying Games
+
+### GoAdventuring
+
+Another session, another postponement.
+
+The previous session was on the 5th of October, we're supposed to play every
+first Wednesday and third Tuesday of the month, and so the next session is, in
+principle, on the 15th.  A few of the players even missed the previous session,
+and so haven't played since the 16th of August.
+
+There are a couple of players who I suspect don't actually want to play, but
+just keep declining sessions rather than say that.  One player said in advance
+that the schedule doesn't really work for him, and so he'd only be able to make
+the Wednesday sessions, which wasn't a great start.  But about half of the
+players did all seem pretty keen and able to make every session: they've just
+often had something better to do.
+
+Obviously, D&D isn't the most important thing in the world.  There are
+legitimate reasons to miss sessions, I've missed sessions, it's not really a
+problem unless it becomes a habit, and with this group, it has.
+
+So next week I need to have a chat with the group, to see who's actually
+interested in playing (if anyone), and to make any reasonable changes I can to
+help with attendance.  For example, maybe attendance will just be so sporadic
+that any sort of story is infeasible, in which case maybe we should play a
+megadungeon and make sure every session ends with the PCs returning to their
+home base.  Or maybe we change to an open table, and I have a stack of pregens
+available for interested newbies, and we play with whoever shows up on the
+night.  Or maybe the players take on scheduling, and just let me know a few days
+in advance of when they'd like to play.
+
+It would be a shame to lose the group entirely, but right now we're just not
+playing.
+
+### Cartographic Curiosities
+
+This game, on the other hand, is doing great.  We've settled into a rhythm of
+playing every other week: in principle we're rotating amongst 4 games, but two
+of the GMs don't often schedule something.
+
+I've adopted a faction system, based on [this blog post][], though I've tweaked
+it a bit (if it ends up working out well, I'll write something up).  A few
+things have happened, but the characters have been out wandering the wilds and
+so haven't seen the results yet: but when they return to the main town where
+they have all their money, they'll hear talk of a new military order established
+by the local leader to vanquish "the forces of chaos" which is preparing for its
+first expedition, and they'll also be approached by a bumbling spy (a
+newly-established agent of one of those very forces) who is not-very-subtly
+going to try to recruit them to spy on a mutual enemy.  I hope the players adopt
+a "the enemy of my enemy is my friend" attitude with this guy.
+
+The players got some background lore on one of the big tensions in the setting:
+the frost elves and their malevolent leader, the Cold Prince, who were magically
+banished some ~900 years ago.  They've got snippets of the story from various
+sources and so, this session, when they encountered a wise old scholar, they got
+him to fill in the missing details.  This was actually brilliant, and totally
+unplanned, as the night before the session I was wondering how to get across
+those details, since they're not just history: they're adventure hooks.  And
+then the players went and just asked!
+
+But it's not all big forces and world-ending threats, we also spent about half
+an hour in a conflict between two factions of michievous sprites, with each side
+offering the PCs more and more elaborate bribes to go and mercilessly slaughter
+the other.  A little bit of whimsy to break up the serious parts goes a long
+way.
+
+[this blog post]: https://d66kobolds.blogspot.com/2021/10/faction-procedures-dolmenwood-example.html
+
+### Wicked Ones
+
+1. Grow the hoard
+2. Start the Hobbit war
+3. Ally with the orc camp against the martial-arts monastery
+4. ???
+5. ???
+6. Profit!
+
+That's the nefarious master plan, 7 sessions into the campaign.  Last session
+the players completed step 2, this session an important first step towards step
+3 was made: having talks with the orc leader and agreeing to a combined raid on
+the monastery, which is by itself stronger than either the dungeon or the orc
+camp individually.  We also had a major dungeon invasion this session, in which
+three adventurers overcame the defenses with relative ease and made their way
+into the sanctum for a pitched battle against the PCs.
+
+The book says each step of the plan should take 2 or 3 sessions to complete, so
+we're actually right on track so far.  If we're now 1 session into step 3, the
+campaign could be over in as few as 7 or as many as 11 more sessions.
+
+I quite like the game, some parts still trip me up---remembering to do XP at the
+end of each session is surprisingly hard, and even when intentionally trying to
+inflict harsher consequences I don't seem to do a good job of actually putting
+the PCs in serious risk---but it's fun.  I think it's about time to do a little
+[mid-campaign check-in][] and get some focussed feedback from the players: they
+also seem to like it, but people are notoriously bad at expressing opinions.
+
+I am glad that it's designed for short-to-medium length campaigns though,
+because it's not my *preferred* style of game: fun to play for a few months,
+then back to something more traditional like Traveller or Call of Cthulhu for a
+while.
+
+[mid-campaign check-in]: https://www.lookwhattheshoggothdraggedin.com/post/mid-campaign-check-in.html
+
+## Miscellaneous
+
+### OCI containers on NixOS
+
+NixOS has [some handy options for running OCI containers as systemd units][],
+but docker has a couple of significant footguns:
+
+- It's too easy to delete named volumes, even ones which are actively being used
+  by a running container.
+
+- Forwarded ports are bound to all interfaces by default, bypassing iptables and
+  allowing anything on the network to communicate with your container.
+
+I solved those issues through convention: all volume mounts are bind-mounts to
+the host filesystem and not named volumes, and all ports are explicitly bound to
+`127.0.0.1`.
+
+But I also often have two containers which I want to be on the same local
+network (eg, a service and its database), and the NixOS module doesn't have a
+convenient way to do that, I have to add a pre-start step to the container's
+systemd unit to create the network (if it doesn't already exist) and pass
+`--network=FOO` to the docker command:
+
+```nix
+virtualisation.oci-containers.containers.bookdb = {
+  /* ... */
+  extraOptions = [ "--network=bookdb_network" ];
+  dependsOn = [ "bookdb-db" ];
+};
+
+virtualisation.oci-containers.containers.bookdb-db = {
+  /* ... */
+  extraOptions = [ "--network=bookdb_network" ];
+};
+
+systemd.services.docker-bookdb-db.preStart = "docker network create -d bridge bookdb_network | true";
+```
+
+If I want to pull the container on start (handy for `:latest` images), that's
+another pre-start step too:
+
+```nix
+systemd.services.docker-bookdb.preStart = "docker pull ${image}";
+```
+
+So, I had some configuration practices which I manually applied everywhere I
+used containers, rather than just writing a better abstraction which did all
+that for me.  So this weekend [I made that better abstraction][].
+
+Not a very complex abstraction, but it addresses my needs:
+
+- All volumes are either bind-mounts to the host filesystem, or named volumes
+  which get automatically bind-mounted to a predictable location on the
+  filesystem.
+- All ports are implicitly bound to `127.0.0.1`.
+- If a network name is given, it's created when the container starts, and the
+  container is added to the network, automatically.
+- Images get pulled on start (by default).
+- Containers start at boot (by default).
+
+I also added a check to my lint script to forbid use of the standard NixOS OCI
+containers options outside of the module implementing this new abstraction, to
+make sure everything is done right.
+
+[some handy options for running OCI containers as systemd units]: https://search.nixos.org/options?query=virtualisation.oci-containers
+[I made that better abstraction]: https://github.com/barrucadu/nixfiles/pull/143
+
+## Link Roundup
+
+### Roleplaying games
+
+- [Dolmenwood Progress Update](https://necroticgnome.com/blogs/news/dolmenwood-progress-update)
+
+### Software engineering
+
+- [Property-Based Testing in Rust with Arbitrary](https://www.greyblake.com/blog/property-based-testing-in-rust-with-arbitrary/)
