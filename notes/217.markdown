@@ -1,0 +1,117 @@
+---
+date: 2022-11-13
+---
+
+## Work
+
+I took Thursday and Friday off this week.  Unlike at GDS, the leave year here is
+the same as the calendar year, rather than running from when I joined.  I had 5
+days left, which I could have carried forward to next year, but I decided to
+take a couple of them sooner rather than later.
+
+I should really work out the optimal distribution of days off: maybe the last
+Friday or first Monday of every month, so I always start / end with a three-day
+weekend, would be nice.  But longer periods, like a week or more, are good too!
+It's hard to decide what the balance should be.
+
+## Books
+
+This week I read:
+
+- [The Goblin Emperor][] by Katherine Addison
+
+  It's a book about an unexpected heir to the throne of the elflands suddenly
+  becoming emperor, as everyone ahead of him in the line of succession gets
+  wiped out in an airship crash.  The focus is on navigating politics and plots,
+  and I really enjoyed it.  Except for one thing: the timescale just didn't feel
+  right.
+
+  There's a lot of action, including events which take multiple weeks to
+  complete, and then someone remarks that a lot has happened since the
+  protagonist became emperor a month ago.  It's supposed to reinforce how hectic
+  and fast-paced everything is, but it just didn't feel right.  The protagonist
+  is supposed to be really busy with governing, has several weekly appointments
+  (and multiple instances of those appointments are described, so multiple weeks
+  have definitely passed), and also attends two or three parties and many
+  dinners... I'm still not convinced that if I were to count the days it would
+  actually add up to no more than a month.
+
+- Volumes 6, 7, and 8 of [That Time I Got Reincarnated as a Slime][] by Fuse
+
+  The anime goes up to the end of volume 6, so I'm now ahead in the story.
+  Starting to get into the stuff I've until now only gleaned from the (not very
+  good) wiki.  Things are making more sense in the books.
+
+  The story is, like all isekai, kind of trash.  It's just the "white saviour"
+  trope (except the savior is Japanese) crossed with portal fantasy in a world
+  which runs under video game logic (for some reason), but it's fun.  This,
+  Overlord, and Spider, are definitely amongst the better crop of isekai
+  stories: there's so much trash out there, but there's also cream which rises
+  to the top.
+
+I don't really do reading goals any more (since I found it was making me
+prioritise books for their length, rather than just reading whatever I wanted
+to), but I've now passed 52 books this year, which is a nice milestone.
+
+[The Goblin Emperor]: https://en.wikipedia.org/wiki/The_Goblin_Emperor
+[That Time I Got Reincarnated as a Slime]: https://en.wikipedia.org/wiki/That_Time_I_Got_Reincarnated_as_a_Slime
+
+
+## Roleplaying Games
+
+### Wicked Ones
+
+Another week, another session.  This time one of the major factions completed a
+scheme to launch an attack on the player's dungeon, so they spent the first half
+of the session fighting that off.
+
+Frankly, I was surprised they got through it without any characters dying.  When
+I planned it I thought "this is it, this is the potential campaign-ending
+threat", and yet they survived with one character getting knocked out and nobody
+killed.
+
+I quite like the faction system, it's very simple, and ensures that stuff
+gradually happens behind the scenes beyond what the players directly influence.
+I do wonder if it's a bit too simple though, as *e.g.* there's no way for one
+faction to *resist* the goals of another faction.
+
+Though, I'm starting to get a little tired of only having player-facing rolls.
+
+Powerful foes get three "moves", things they can do to temporarily seize the
+initiative.  Without a move, NPCs can only act in response to what the players
+do.  Which has some problems:
+
+1. I have much less ability to influence the narrative: I can only react, not
+   act.
+2. The NPCs become weaker for no in-game reason (I also dislike "once per rest"
+   style abilities for exactly the same reason).
+3. The players start optimising their choices for "what is safest if I fail?"
+   since they know that's the *only* way in which an NPC could try to harm them.
+4. If a player fails a roll and the NPC hurts them (or whatever), it doesn't
+   feel like that happened because the NPC is a powerful foe they need to be
+   wary of: it feels like that happened for out-of-game-reasons, because it did.
+
+The 2nd and 4th problems are the biggest ones, but they're also impossible to
+resolve.  In FitD and PbtA games, PCs and NPCs are asymmetrical like that *by
+design*.  In today's big dungeon invasion, as soon as the moves were used up, it
+felt like the threat disappeared, and it just became a matter of time before the
+PCs won: which they did.  The PCs all have their own specialisms, and NPCs can't
+resist their attacks, so if a PC is rolling three or four dice and needs just
+one 4+ to hurt the NPC, they're likely going to get it.  And if they get
+anything below a 6, and so take some consequences, they can roll to resist those
+consequences as well.
+
+I could power up all the obstacles they face, so everything takes more hits (and
+so there's more opportunity for the players to fail rolls) before being taken
+out, but that risks turning the game into a slog.  It does feel like for most
+obstacles, we're just rolling to see how long and at what price the inevitable
+victory comes.
+
+Eight sessions in, it's starting to grate a little.
+
+
+## Link Roundup
+
+### Software engineering
+
+- [Choosing properties for property-based testing](https://fsharpforfunandprofit.com/posts/property-based-testing-2/)
