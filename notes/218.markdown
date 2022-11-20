@@ -1,0 +1,183 @@
+---
+date: 2022-11-20
+---
+
+## Work
+
+This was a pretty good week.  The team is coming to the end of a few projects
+which have been running for the last couple of quarters, so it's time to start
+scoping new work.
+
+One of those pieces of work is overhauling our "banking events" stream---which
+carries data about payments, refunds, chargebacks, etc---so that we can change
+some of our API logic to draw data from the event stream, rather than the
+banking database tables.  This will then let us start to extract banking data to
+a separate service, so it's more easy to scale our banking layer.
+
+And I'm leading it, which is great.  I've been hoping to take on a sizeable
+project for a while, and now I've got it.
+
+
+## Books
+
+No books this week!
+
+
+## Roleplaying Games
+
+### GoAdventuring
+
+We decided to pause the campaign.
+
+I messaged the group to see who was interested in sticking with it, and I got
+three positive responses, which is about what I expected.  But one of those
+people is away most of December, and one of them can't make the Tuesday
+sessions.  So we decided to put the game on hiatus until January when we'll
+regroup for a new session 0.
+
+### Cartographic Curiosities
+
+I had plans for this week's session but, as the saying goes, no plan survives
+contact with the players.
+
+So it went off the rails, but it was still a lot of fun!  This week, the party
+lept through their first Fairy Door, walked the strange roads of that magical
+land, and ended up somewhere across the forest in only one day, despite feeling
+like they had spent two days on the road.  Fortunately, they came out next to a
+(normal, human) road, and so quickly found their bearings, and now know a
+shortcut (maybe) between the east and west of the wood.
+
+Then one of the PCs got themselves magically hurled through the sky, many miles
+north, and onto a small island with high cliffs and no bridge to the mainland.
+I didn't really know how to handle this (the rest of the party had no way of
+knowing where they'd gone) but fortunately we were coming close to the end of
+the session, so I ended with some spooky druids ambushing that PC and saying
+"you will come with us, for questioning."
+
+I don't really want to run two independent groups, but by a stroke of great
+fortune, 3 of the 5 players are away next session, and one of the players who's
+still around *is the one who got themselves teleported!*
+
+So rather than cancel that week, I'll just run a 1-on-1 session with that
+player, and we'll work through their druid situation.  I'm sure we can reunite
+the party with a little metagaming, if the other PCs decide "well, she's
+vanished, but maybe she's gone back to our main base in the other town" they can
+all reunite there.  I feel a bit bad for the other player who's still around,
+but they'd have been missing out if I'd cancelled, too.
+
+### Wicked Ones
+
+This week, the campaign came to an end.
+
+The PCs had teamed up with another monster faction to take on a significantly
+more powerful good faction.  However, this good faction had just finalised its
+plans to attack the PCs and their allied monster faction: so I decided the three
+raids (good vs PCs, good vs monsters, PCs+monsters vs good) would take place
+simultaneously.  The PCs would face less opposition than they expected on their
+raid, and would return home to find their dungeon in the middle of being cleaned
+out by the good faction.
+
+Things went awry and Trava the Bugbear got knocked out, with Moordred the
+Minotaur and Slikidlorbin the Kobold taking a lot of damage.  They managed to
+escape, but ultimately the raid was a botch and they rolled some major
+consequences.  So I upgraded the force that was attacking their dungeon: they
+arrived, pretty beaten up and low on resources, to find even more troops than
+they had just fought.
+
+There were some daring shenanigans, cunning tricks, and many dead NPCs, but
+ultimately Trava and Moordred were killed and Slikidlorbin escaped.  Rather than
+bring in replacement PCs, we decided to just do a vignette for how things turned
+out for Slikidlorbin 10 years later, and ended it there.
+
+Next week will be session 0 of Traveller!  I'm going to see if I can rustle up
+one or two more players, I think 4 works better than 3, but regardless I'm
+really looking forward to it.
+
+Would I play Wicked Ones again?  I'm not sure, maybe.  I didn't like everything,
+but I liked a lot.  Even if I never return to it, this was a good experience.
+
+
+## Miscellaneous
+
+This week I fixed a couple of performance issues with `resolved` which my work
+laptop suddenly started triggering on Monday.  If it got unlucky with which
+records were chosen to resolve a query, it would take up to several minutes to
+complete.
+
+Essentially, there were two problems with how responses like this were handled:
+
+```
+; <<>> DiG 9.18.7 <<>> @a.gtld-servers.net easydns.com
+; (2 servers found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 31706
+;; flags: qr rd; QUERY: 1, ANSWER: 0, AUTHORITY: 4, ADDITIONAL: 3
+;; WARNING: recursion requested but not available
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 4096
+;; QUESTION SECTION:
+;easydns.com.                   IN      A
+
+;; AUTHORITY SECTION:
+easydns.com.            172800  IN      NS      dns3.easydns.org.
+easydns.com.            172800  IN      NS      dns1.easydns.com.
+easydns.com.            172800  IN      NS      dns2.easydns.net.
+easydns.com.            172800  IN      NS      dns4.easydns.info.
+
+;; ADDITIONAL SECTION:
+dns1.easydns.com.       172800  IN      AAAA    2400:cb00:2049:1::a29f:1835
+dns1.easydns.com.       172800  IN      A       64.68.192.10
+
+;; Query time: 21 msec
+;; SERVER: 2001:503:a83e::2:30#53(a.gtld-servers.net) (UDP)
+;; WHEN: Sun Nov 20 21:01:18 GMT 2022
+;; MSG SIZE  rcvd: 194
+```
+
+Here we have a domain, `easydns.com.`, which has four nameservers,
+`dns1.easydns.com.`, `dns2.easydns.net.`, `dns3.easydns.org.`, and
+`dns4.easydns.info.`.  These nameservers are all using different TLDs so that if
+(say) `com.`, `net.`, and `org.` are simultaneously down, at least you can still
+resolve domains via `info.`[^gtw]
+
+[^gtw]: Though, if `com.`, `net.`, and `org.`, are down we're probably in a
+    global thermonuclear war, right?  What else could do it?  Well, I guess
+    EasyDNS's customers will still be able to resolve their websites while the
+    world burns...
+
+We only get an `A` record for `dns1.easydns.com.`, and that's correct behaviour
+since the other nameservers are not subdomains of `easydns.com.`.  But
+`resolved` did not handle that very well: it would see those four nameservers,
+say "great, a delegation, I know how to handle delegations!" and pick *an
+arbitrary one* to resolve `easydns.com.` with.
+
+But at this point we only know the IP address for `dns1.easydns.com.`, so if it
+arbitrarily picks any of the other three, it ends up having to resolve those,
+which has two issues: firstly, we make avoidable network requests, which slows
+things down; secondly, it's possible to get stuck in a loop, where to resolve
+(say) `dns1.easydns.com.` you need to resolve `dns1.easydns.com.`!
+
+So I made a few improvements:
+
+1. Bail out if we get a loop in our questions.  This was already gracefully
+   handled by the recursion limit, but we could do significantly better than
+   going around a loop 32 times. ([PR#197](https://github.com/barrucadu/resolved/pull/197))
+
+2. When resolving a nameserver, if we get back a glue record for that very
+   nameserver, just use that as the answer. ([PR#198](https://github.com/barrucadu/resolved/pull/198))
+
+3. When choosing which nameserver to use to resolve a query, do two passes: on
+   the first pass, try any nameservers whose IP addresses we already know; if
+   none of those worked, on the second pass also try the nameservers whose IP
+   addresses we need to first resolve. ([PR#200](https://github.com/barrucadu/resolved/pull/200))
+
+Some might say "well, by writing your own DNS resolver you're asking for weird
+bugs like this", but this is only the second problem I've had since I started
+running `resolved` as the DNS server for my LAN [back in March][].  I've had
+more problems with off-the-shelf stuff.
+
+That's a pretty good track record.
+
+[back in March]: notes/183.html
