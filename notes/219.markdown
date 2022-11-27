@@ -1,0 +1,91 @@
+---
+date: 2022-11-27
+---
+
+## Books
+
+No books this weeks!
+
+
+## Roleplaying Games
+
+### Sylea Rising
+
+This week I kicked off my new Traveller campaign, called Sylea Rising.  It's set
+during the [Long Night][], a nearly 2000-year-long period of galactic anarchy
+between the fall of one great space empire (the Rule of Man) and the rise of the
+next (the Third Imperium)[^foundation].
+
+[^foundation]: Yes, this part of the Traveller setting is obviously inspired by
+  Isaac Asimov's *Foundation* series: the first emperor of the Third Imperium is
+  even called "Cleon", and he uses psychohistory to help his fledgling empire
+  succeed!
+
+The game is set in Lishun Sector, here's the map I gave the players:
+
+![Lishun Sector](notes/219/lishun-poster--players.png)
+
+It looks pretty empty at first, but look a little closer: there are a lot of
+question marks.
+
+Those are worlds which were, once, well-known.  This isn't unexplored, unmapped,
+space.  But it's been close to 2000 years since anyone has visited those worlds,
+so nobody really knows what's going on out there.  My [secret referee map][] is
+a bit more detailed, but there's still a lot of blank space to populate with
+whatever I'm in the mood for at the time.
+
+To make these maps, I took the Lishun data from the [Traveller Map][] (great
+resource) and wrote a library to [interact with sector data files][].  It was
+then just a matter of writing a little script to make everywhere worse: about
+10% of worlds I killed off (set the population to 0, with a 25% chance of having
+a basic starport still there), for the surviving worlds I re-rolled the
+population, starport, and tech level (set to be 1 lower than standard, and
+capped at 12).
+
+I spent far too much time working on that library, I could probably have done it
+manually in less time, since I didn't really need to prepare the *whole* sector
+up front.  But it's done now.
+
+The setting has---well, not exactly a *secret*---but a facet I don't think the
+players have picked up on yet: they know the game is set some time before the
+founding of the Third Imperium, and they know that the Sylean Federation is one
+of the largest and most successful interstellar polities in this period, and the
+campaign is called "Sylea Rising" so clearly it gets even bigger and
+better... but I've not come straight out and told them the Sylean Federation
+will become the Third Imperium and that they'll see that happen.
+
+The campaign isn't about large-scale politics, so they won't play a part in that
+coming to pass, but I'm hoping it'll be a fun moment for the players of our
+previous campaign when it does happen.
+
+This week we had our session 0: I gave them a run-down of the setting, we talked
+about the tone and themes of the campaign, then we made characters.  The
+campaign proper will start next week, and I'm planning to run them through
+[Murder on Arcturus Station][] (just not, you know, set *on* Arcturus since
+that's sectors away---some closer world will do).
+
+[Long Night]: https://wiki.travellerrpg.com/Long_Night
+[secret referee map]: notes/219/lishun-poster.png
+[Traveller Map]: https://travellermap.com/
+[interact with sector data files]: https://github.com/barrucadu/dotfiles/blob/master/private_dot_local/private_share/python/personal-packages/t5secdatlib.py
+[Murder on Arcturus Station]: https://www.youtube.com/watch?v=HZ6M8pGa138
+
+
+## Miscellaneous
+
+This week I [switched to using chezmoi][] for my dotfiles.  [chezmoi][] is a
+dotfile manager plus a basic templating system, so you can have different
+dotfiles on different machines.  I decided to switch because I had a few
+differences which I wasn't really tracking, which isn't great.  It's fairly
+simple and wasn't much effort at all to get set up.  Encoding metadata in
+filenames is a bit weird, but it's something I can live with.
+
+[switched to using chezmoi]: https://github.com/barrucadu/dotfiles/pull/3
+[chezmoi]: https://www.chezmoi.io/
+
+
+## Link Roundup
+
+### Roleplaying games
+
+- [Treasure Island: The Map is the Adventure](https://thealexandrian.net/wordpress/48710/roleplaying-games/the-map-is-the-adventure)
