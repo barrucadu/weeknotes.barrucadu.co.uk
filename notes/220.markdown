@@ -1,0 +1,203 @@
+---
+date: 2022-12-04
+---
+
+## Books
+
+This week I read:
+
+- Volume 15 of [So I'm a Spider, So What?][] by Okina Baba
+
+  The penultimate book.  As with all the others, I enjoyed it, it was
+  well-written, the author is good at making the series feel like a consistent
+  whole with foreshadowing from previous books coming into play in later books.
+  Clearly they had a plan for a while (or just kept good notes).
+
+  I thought this (and the next volume) would mostly focus on the other
+  reincarnations, which it kind of did, but not to the extent I expected.
+  Still, it didn't feel like anything was being cut short, and it's done a good
+  job setting up for the next, and final, volume.
+
+  But when will we get series 2 of the anime?
+
+[So I'm a Spider, So What?]: https://en.wikipedia.org/wiki/So_I%27m_a_Spider,_So_What%3F
+
+
+## Roleplaying Games
+
+### Cartographic Curiosities
+
+This week I had a special 1-on-1 session because all but one player was away
+and, coincidentally, [that player managed to get their character separated from
+the rest of the party][] (by many miles) due to, uh, seeing a ball of magic in
+the air above a stone circle, putting a ladder next to one of the stones,
+climbing up it, and leaping into the magic.  Which then flung them many miles
+north, to an island next to a ruined fairy castle.  Then they were detained by
+the druids who guard that castle to ensure its masters or their helpers never
+return.
+
+The druids ended up concluding that the player was probably too honest to be a
+scumbag fairy-sympathiser, and let them go: with strings attached.
+
+You see, the player may not be a fairy-sympathiser, but the party *had*
+encountered this race of druids before.  They'd trespassed twice on druid lands,
+and killed one of the druids trying to remove them (admittedly, the druid was
+being somewhat forceful).  So the player agreed to do an unspecified number of
+tasks for the druids, to prove that they're actually all stand up guys and the
+whole thing was really just a big misunderstanding.
+
+**Druid Quest 1:** bring them a guy who has been paying fairy-gold for
+information on the movements of the druids.  What's going to be done with him?
+Don't ask, they wouldn't tell you anyway.  But did you know how useful a soul
+is?  Well...
+
+So the player was dropped off in the nearest town, told to get going, and they
+did: they travelled back to the rest of the party as fast as they could,
+carefully avoiding adventure along the way since they're a lone, squishy,
+magic-user.  In total, they were gone for 5 days.
+
+It was a very convenient coincidence that the player who could make it was the
+player whose character was away from the others.  Next session will begin by
+skipping back in time to the rest of the party, to see what they were up to in
+those few days.
+
+We'll metagame a little to ensure the party is still in town (or has left and
+come back to town) on the day the missing character returns.
+
+[that player managed to get their character separated from the rest of the party]: notes/218.html#cartographic-curiosities
+
+### Sylea Rising
+
+We kicked off the first adventure this week, which is [Murder on Arcturus
+Station][].
+
+This is a great scenario, it's a murder mystery but the module doesn't tell you
+who the killer is: instead it gives you 10 suspects, their motives, their
+alibis, and a few possible sequences of events for each (one for if they're
+innocent, the others for if they're the murderer).
+
+It covers how the murderer will maintain their alibi if it conflicts with the
+murder (eg, maybe they'll break a clock during the murder, and manually set it
+to a time they were seen in public at).
+
+It also gives a list of ways each suspect, or the murderer, might alter their
+behaviour (maybe a suspect works out who the murderer is and helps cover for
+them).
+
+There's a lot!
+
+Unfotunately, there's also a lot of prep.
+
+First, I had to relocate the adventure to my map.  It's supposed to be set in
+[Arcturus][] in the Solomani Rim (as the name would suggest), but my game isn't
+in the Solomani Rim, it's in pre-Third-Imperium Lishun!  So I moved it to
+[Kir][], and had to also relocate a few other planets mentioned.
+
+Next, I picked out 8 suspects, decided which of those was the murderer and how
+they did it, and rolled for character relationships:
+
+- **Ringiil Urshukaan:** the victim.  A mining executive people love to hate.
+- **Katarin Xuan:** the murderer.  Urshukaan's mistress who he was planning to
+  cast aside and abandon, penniless.  Also, Urshukaan beats her.
+- **Moshe Srinivasan:** Katarin's ex-fiance.  Blames Urshukaan for stealing her
+  away, and can't forgive him for hurting her.
+- **Sharik Urshukaan:** Urshukaan's estranged wife.  They never divorced, so she
+  stands to inherit all his wealth.
+- **Martin Lukargik:** Urshukaan's personal assistant.  Urshukaan has been
+  denying him promotions for years.
+- **Oojan M'Banke:** leader of the Independent Belter's Association.  Urshukaan
+  has been blackmailing him to sabotage a vote.
+- **Bortai Narayanam:** a union organiser in Urshukaan's company.  He's
+  threatened to have her family killed if she doesn't stop her unionisation
+  efforts.
+- **Eayukheal:** Urshukaan's hired muscle.  An alien from a culture which values
+  honour above all, unwisely made an impossible promise and failed, dishonouring
+  himself.  Urshukaan's been blackmailing him, with threats of making his
+  dishonour public, into doing his dirty work ever since.
+- **Chaijin Davis:** the rebel.  Son of a rebel leader Urshukaan had executed
+  when he was in the army before retiring and becoming a mining executive.
+
+Katarin will lie that she saw Eayukheal approaching Urshukaan's rooms around the
+time of the murder.  Moshe is very uncooperative, since he doesn't want to risk
+saying something which will incriminate Katarin.  Sharik is under an assumed
+name and is secretive about her reasons for being on the station.  Martin is a
+racist who believes Eayukheal did it, despite no evidence.  Oojan and Bortai
+were overheard a few hours before the murder talking about "our common problem".
+Eayukheal refuses to tell anyone what he was doing on the night of the murder,
+and has been demanding access to Urshukaan's files (so he can delete the
+blackmail material).  Chaijin is incredibly cooperative because he knows he's an
+obvious fall guy if the police want to get this over with quickly.
+
+I also picked out the three "incidents" the players would witness prior to the
+murder:
+
+- Moshe yelling and demanding to see Urshukaan, saying "I'll kill him for what
+  he did to her, that rat bastard!"
+- A grim-faced Bortai Narayanam being shown in to see Urshukaan just as the
+  players are leaving.
+- Urshukaan telling Eayukheal "I own you".
+
+Finally, I spent a few evenings putting together a very detailed timeline of
+what all the suspects were doing before, during, and after the murder, and
+making sure that each suspect had at least 2 ways the players could learn about
+them and at least 3 clues suggesting their innocence (or guilt).
+
+This took a lot of effort, I think a worked example in the module would have
+really helped here.  But it's definitely paid off.
+
+In the session the players:
+
+- Shot Urshukaan themselves since he refused to pay them for a job, making them
+  suspect #1 (I don't even need the lazy corrupt police officer NPC at this
+  point...).
+- Examined the body and managed to determine the nature and time of death.
+- Searched Urshukaan's rooms and found some, but not all, of the clues there.
+- Interviewed a few of the suspects (not Katarin yet) and started to put
+  together a timeline of events.
+
+They've managed to rule out some of the more obvious suspects who had
+water-tight alibis (as intended), and Eayukheal is giving them a hard time with
+how suspicious he seems (also as intended).
+
+Despite the timeline, I still had to improvise some things they asked about
+(door access logs for Eayukheal's stateroom) and I messed up one clue (door
+access logs for Katarin's stateroom), but I was able to come up with an
+alternative clue to correct that mistake before it caused a problem.
+
+Next session the players plan to interview Katarin, put some more pressure on
+Sharik and Eayukheal, and keep piecing together a timeline of events.
+
+I'm fairly confident they'll get there in the end---once you start digging there
+are a bunch of clues incriminating Katarin (for example, she'll lie about seeing
+Eayukheal approaching Urshukaan's suite, which can be falsified by the testimony
+a security guard who Eayukheal was beating up in a different room at the
+time)---but I suppose I should start to prepare for what happens if they
+*don't*.
+
+Just in case.
+
+[Murder on Arcturus Station]: https://www.youtube.com/watch?v=HZ6M8pGa138
+[Arcturus]: https://travellermap.com/?p=23.816!-100.5!7&options=41983&style=print
+[Kir]: https://travellermap.com/?p=4.763!49.5!7&options=41983&style=print&milieu=M0
+
+
+## Advent of Code
+
+It's December, which means it's once again time to write [silly optimised
+Haskell solutions][] for [Advent of Code][]!
+
+I wonder how far I'll get before getting bored this year.
+
+[silly optimised Haskell solutions]: https://github.com/barrucadu/aoc
+[Advent of Code]: https://adventofcode.com/
+
+
+## Link Roundup
+
+### Roleplaying games
+
+- [OA Event Charts](http://jrients.blogspot.com/2012/04/oa-event-charts.html)
+
+### Software engineering
+
+- [Building A Virtual Machine inside ChatGPT](https://www.engraved.blog/building-a-virtual-machine-inside/)
