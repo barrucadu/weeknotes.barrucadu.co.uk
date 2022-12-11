@@ -1,0 +1,92 @@
+---
+date: 2022-12-11
+---
+
+## Books
+
+This week I read:
+
+- [The Urth of the New Sun][] by Gene Wolfe
+
+  Despite the name, much of the book takes place *away* from Urth, as the first
+  part concerns Severian's journey on the ship that sails between universes and
+  times to reach Yesod, the planet of the Hierogrammates, to petition them for a
+  New Sun.  This bit is pure science-fantasy at its best, the "ship" is clearly
+  a spaceship, but its sails and rigging catch the starlight, and everyone who
+  works on deck wears a necklace that surrounds their head in an air bubble.
+
+  The other part of the book is about Severian back on Urth, in different times
+  and places as the power of the New Sun gives him the ability to walk the
+  Corridors of Time, though not with perfect control it seems.  We learn the
+  truth of a few mysteries (such as the origin of the Claw of the Conciliator),
+  but more are introduced.  The book definitely doesn't make the mistake of
+  explaining everything.
+
+  And that's that.  The next book in the Solar Cycle, The Book of the Long Sun,
+  is in the same universe but following different characters.  The Urth of the
+  New Sun is an ending to the New Sun stories, and it's a good one.
+
+[The Urth of the New Sun]: https://en.wikipedia.org/wiki/The_Urth_of_the_New_Sun
+
+
+## Roleplaying Games
+
+### Sylea Rising
+
+Murder on Arcturus Station continued this week, with the players getting about
+10 hours of game-time done.  It turns out you can do a lot with three characters
+parallelising their work where most tasks take an hour!
+
+They've now interviewed all the suspects, found the murder victim's secret
+files---which are full of his nefarious doings, eg blackmail material against
+several of the suspects---and managed to break through the reticence of two of
+the more taciturn suspects and so flesh out their timeline a good deal more.
+
+They've even caught the actual murderer in a small lie (she claimed to have seen
+one of the other suspects approaching the victim's room, at a time when that
+suspect has an alibi).  But there's also a clue apparently proving that the liar
+*couldn't* be the actual murderer!  Well, unless they discover that the murderer
+found a low-tech way to confuse the door access logs...
+
+Since we're coming up to the Christmas & New Year period, next weekend will
+likely be the last session until the 8th of January.  I don't think pausing a
+mystery for three weeks will work well, the players will forget things, so I've
+asked them to show up to next session with a plan: they now know all the
+suspects, they have a pretty clear picture of what happened on the night of the
+murder, they've ruled out some of the suspects completely: what evidence do they
+need for each of the others to either convict or exonerate them?
+
+In unrelated news, I made a wonderful discovery on Friday.  You see, I've been
+putting a lot of work into this campaign.  The setting isn't the standard Third
+Imperium, but most published adventures are set in that or a comparable place.
+There are some Traveller spinoffs in different settings, but they don't really
+match the tone I'm going for either.  So I'd kind of resigned myself to not
+having much in the way of published resources to draw upon.  But on Friday I
+learned that the *default setting* of Traveller 4e *is* the late Long Night /
+early Third Imperium!
+
+There's a whole *product line* I can draw upon for inspiration!
+
+This is great.  I grabbed a few of the books from DriveThruRPG for cheap, and
+I've already got a bunch of directly useful ideas, advice, even whole
+adventures.  I'll be going through this all in more detail over the Christmas
+break, and start to bring it into upcoming sessions.
+
+
+## Advent of Code
+
+Still with it, though I haven't managed part 2 of today's yet.  It's one of
+those puzzles where there's a number theory trick you just need to recognise, as
+doing it the naive way is just infeasible.  Never having studied number theory,
+I'm not so great at these.  But I will give it a shot when I've got some time.
+
+
+## Link Roundup
+
+### Roleplaying games
+
+- [#Dungeon23](https://seanmccoy.substack.com/p/dungeon23)
+
+### Software engineering
+
+- [Pair programming with ChatGPT: A simple dice roller](http://www.randomhacks.net/2022/12/04/pair-programming-with-chatgpt/)
