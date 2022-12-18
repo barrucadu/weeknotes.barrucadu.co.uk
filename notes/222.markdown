@@ -1,0 +1,95 @@
+---
+date: 2022-12-18
+---
+
+## Books
+
+No books this week.
+
+
+## Roleplaying Games
+
+The [Journal of the Traveller's Aid Society II kickstarter][] arrived this week:
+6 new volumes, plus a mini volume on starports of the Spinward Marches, and a
+cool Traveller's Aid Society patch:
+
+![JTAS #2](notes/222/photo-jtas-kickstarter.jpg)
+
+I got the PDFs a while ago, so I've already read all the material.  But it's
+nice to have the physical copies at last.  I used volume #7 in today's Sylea
+Rising session, when I needed to quickly improvise some unexpected space travel,
+and so wanted some random events that could occur in jumpspace.
+
+[Journal of the Traveller's Aid Society II kickstarter]: https://www.kickstarter.com/projects/1990654819/traveller-rpg-the-journal-of-the-travellers-aid-society-ii/description
+
+### Cartographic Curiosities
+
+This week the party stumbled upon a little dungeon I'd wanted to introduce for a
+while: [Tomb of the Serpent Kings][], though I've reskinned it as "Tomb of the
+Goat Lords" and placed it near Lankshorn.
+
+So far they've explored a little, overcome the trapped main door, and dealt with
+some undead.  I think I'll have some tomb-robbing fairies start to sneak in now
+that the entrance is wide open, which should be a fun little encounter when the
+players realise they've been followed.
+
+[Tomb of the Serpent Kings]: https://coinsandscrolls.blogspot.com/2017/06/osr-tomb-of-serpent-kings-megapost.html
+
+### Sylea Rising
+
+We finished [Murder on Arcturus Station][]!
+
+The players went through all the suspects, picked out the one they thought the
+most likely, and then contrived to have one player lure her away from her room
+while another searched it.  And they found the critical clue, the means by which
+she could have overcome the door logs to commit the murder without leaving a
+trace.  Armed with this discovery, the players confronted her, and managed to
+good-cop / bad-cop their way to a full confession.
+
+All very good... except that it took 45 minutes, and then I still had over 2
+hours of session to run, with little prepared.  I expected them to bumble around
+a bit more, not to hone in on the one critical clue right at the start.
+
+So I called an emergency break while I finished preparing for the start of the
+next adventure (I'm glad I started thinking about it last week).  I wanted to
+give the players a choice of what to do, and also to inject some of the
+larger-scale politics, and the solution I came up with was [a bulletin they're
+issued by their employers][].  I gave them the bulletin, we had an hour-long
+shopping trip, and then they set off to go survey a planet for lanthanum
+deposits.
+
+We ended the session with them arriving, but having damaged their jump drive on
+the last step of the journey, and with them not having brought enough spare
+parts with them (because they're cheap).  So, that's a cliffhanger.
+
+[Murder on Arcturus Station]: https://www.youtube.com/watch?v=HZ6M8pGa138
+[a bulletin they're issued by their employers]: notes/222/sylea-rising-bulletin.png
+
+
+## Advent of Code
+
+Well, I made it to day 15, then day 16 just looked like too much work.  This is
+about the point at which I drop off every year, so it's not too surprising.
+
+
+## Dwarf Fortress
+
+This week I bought the [Steam release of Dwarf Fortress][], hoping to finally be
+able to get into the game now that it has a GUI.  And I have!  I've done little
+else with my free time this week but play.
+
+I'm on my third fortress (I didn't lose the first two, I just used them to learn
+the mechanics before starting my "real" game), and it's actually less difficult
+than I expected.  I think I'm somehow being very lucky, as the three giant
+monsters I've had show up all kind of wandered off and did their own thing,
+rather than attacking me.  Nor have I been attacked militarily.
+
+So I'm just building my nice fortress, training my militia which as yet has only
+been used to kill thieves.  I need to start a megaproject, clearly.
+
+[Steam release of Dwarf Fortress]: https://store.steampowered.com/app/975370/Dwarf_Fortress/
+
+
+## Link Roundup
+
+No links this week.
