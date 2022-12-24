@@ -1,0 +1,458 @@
+---
+annual_special_for: 2022
+date: 2022-12-25
+---
+
+Merry Christmas!  The end of the year is upon us once more!
+
+
+## Work
+
+This year I changed jobs.  After after 4 years at [GDS][], I moved to
+[GoCardless][].
+
+Over 2021 I started to feel like I needed a change.  I'd been doing the same
+sort of thing for a while and, even if I changed teams, I'd still be doing
+something fairly similar.  I wanted to work on larger and more complex systems,
+and I didn't want to have my career advancement contingent upon doing more line
+management.
+
+So I started looking around.  I sent a total of 8 applications, of which 2 never
+responded, 5 rejected me before an interview, and 1 rejected me after an
+interview.
+
+Then after all that work of tracking down and applying to interesting-sounding
+companies (I don't just want *a* job, I want an *interesting* job), a GoCardless
+recruiter reached out to me over linkedin and that's how I ended up at the new
+place.
+
+I've been there for 9 months now, working on a team which owns a lot of the core
+logic and data which powers our payment processing.  Right off the bat I was
+thrust into complex scalability work, so we could handle millions more payments
+a day than we currently processed, and it's been a lot of fun.
+
+It also pays more, which is nice.
+
+[GDS]: https://www.gov.uk/government/organisations/government-digital-service
+[GoCardless]: https://gocardless.com/
+
+
+## Finance
+
+As interesting as my job may be, it is still an unwanted imposition upon my
+life, an evil necessary to survive in our modern society.  Were I financially
+independent, I would drop it in a heartbeat.
+
+So, finances.
+
+This year I didn't really make any changes to my practices.  I changed some
+account names up to make budgeting easier, but that's it.  I'm pretty happy with
+how I model things now, and don't see myself making any big changes next year
+either.
+
+I'm closer to financial independence (FIRE) than I was at the start of the year,
+but there's still a long way to go.
+
+Firstly, I'm now saving / investing over 50% of my net income.  This is, really,
+the bare minimum to achieve FIRE, as it'll let me FIRE in about 16 years.  The
+next milestone I'm aiming for is 66%, which would let me FIRE in about 10 years;
+I'll need to increase my income further to have a chance of hitting that,
+though.
+
+Secondly, my "runway"---how long it would take to run out of cash if I quit my
+job this second, sold all my investments, and didn't change my spending habits
+one bit---is now 3 years.  That's a long time to not need to work!  But I
+shouldn't relax now and actually quit my job for an extended break, that'd just
+eat up my savings and delay the goal of *permanent* retirement.
+
+Knowing I'll be working for 16 more years, at least, isn't very encouraging.
+Likely longer, if inflation remains so high and wages don't keep up.  That's
+half a lifetime away!  But it's better than working an *entire* lifetime.
+
+
+## Reading
+
+This year I read 62 books, which is nothing to sniff at---it's, on average, just
+over one book a week---but looking at what I *actually* read, it's only that
+high because I read a lot of light novels.  If we look at non-light-novel prose
+fiction specifically, which used to be the bulk of my reading, I read a mere
+*17* books this year!  There were 15 weeks in which I didn't finish any books at
+all!
+
+Despite having so many books, quite often I felt as if I had nothing to read.
+No more big series I'd been meaning to get into.  Just lots of individual books,
+some of which I'm really not that keen to read, and which have been sitting
+around unopened on my shelves for years.  I should probably get rid of them.
+I've also not bought much new fiction this year (if you don't count the light
+novels), but that's partly because there's not been much I've wanted to read.
+
+I think I need to discover some new authors.  Time to go hit up an actual
+physical book shop and see what's recent.
+
+All that said, here's what I read this year:
+
+- [Light Novels + Manga](https://bookdb.barrucadu.co.uk/search?category=a3bbb1c6-5ff8-4ddf-81f4-820593a2a5ff)
+  - Volumes 1 to 15 of [So I'm a Spider, So What?](https://en.wikipedia.org/wiki/So_I%27m_a_Spider,_So_What%3F) by Okina Baba
+  - Volumes 1 to 8 of [That Time I Got Reincarnated as a Slime](https://en.wikipedia.org/wiki/That_Time_I_Got_Reincarnated_as_a_Slime) by Fuse
+  - Volumes 1 to 7 of [Delicious in Dungeon](https://en.wikipedia.org/wiki/Delicious_in_Dungeon) by Ryoko Kui
+  - Volume 14 of [Overlord](https://en.wikipedia.org/wiki/Overlord_(novel_series)) by Kugane Maruyama
+
+- [Nonfiction / Computer Science + Software Engineering](https://bookdb.barrucadu.co.uk/search?category=afc7135b-bf67-4284-bcc1-2bbd3386aea3)
+  - [Designing Data-Intensive Applications](https://dataintensive.net/) by Martin Kleppmann
+  - [Staff Engineer](https://staffeng.com/) by Will Larson
+  - [Microservices Patterns](https://microservices.io/about.html) by Chris Richardson
+
+- [Nonfiction / RPG / Traveller](https://bookdb.barrucadu.co.uk/search?category=d8d4ee9d-e5d8-4d4d-8a78-65ebc23fc451)
+  - [Shadows of Sindal](https://www.mongoosepublishing.com/products/shadows-of-sindal) from Mongoose Publishing
+  - [The Great Rift](https://www.mongoosepublishing.com/products/the-great-rift) from Mongoose Publishing
+  - [The Third Imperium](https://www.mongoosepublishing.com/products/the-third-imperium-2) from Mongoose Publishing
+
+- [Nonfiction / RPG / Miscellaneous](https://bookdb.barrucadu.co.uk/search?category=70196ec9-dd61-4241-afc9-dd6be7be30a6)
+  - [Academies of the Arcane](https://www.melsonia.com/academies-of-the-arcane-415-p.asp) from The Melsonian Arts Council
+  - Volume 3 of [Knock!](https://www.themerrymushmen.com/our-products/) from The Merry Mushmen
+  - [MOAR! Monsters Know What They're Doing](http://spyandowl.com/moar-monsters) by Keith Ammann
+  - [Old School Essentials: Advanced Fantasy Player's Tome](https://necroticgnome.com/products/old-school-essentials-advanced-fantasy-players-tome) from Necrotic Gnome
+  - [Old School Essentials: Advanced Fantasy Referee's Tome](https://necroticgnome.com/products/old-school-essentials-advanced-fantasy-referees-tome) from Necrotic Gnome
+  - [Old School Essentials: Referee's Screen](https://necroticgnome.com/products/old-school-essentials-deluxe-referees-screen) from Necrotic Gnome
+  - [The Book of Gaub](https://shop.lostpages.co.uk/products/the-book-of-gaub-print-pdf-soundtrack) from Lost Pages
+  - [Where the Wheat Grows Tall]( https://www.allrolledup.co.uk/product/where-the-wheat-grows-tall-rpg-adventure/) by Camilla Greer and Evlyn Moreau
+
+- [Prose Fiction + Graphic Novels](https://bookdb.barrucadu.co.uk/search?category=590ac55d-0644-4a71-b902-587faa5b03d9)
+  - [The Goblin Emperor](https://en.wikipedia.org/wiki/The_Goblin_Emperor) by Katherine Addison
+  - [The Hellbound Heart](https://en.wikipedia.org/wiki/The_Hellbound_Heart) by Clive Barker
+  - [The Black Company](https://en.wikipedia.org/wiki/The_Black_Company) by Glen Cook
+  - [Chronicles of the Black Company](https://en.wikipedia.org/wiki/The_Black_Company) by Glen Cook
+  - [The Books of the South](https://en.wikipedia.org/wiki/The_Black_Company) by Glen Cook
+  - [Deadhouse Gates](https://malazan.fandom.com/wiki/Deadhouse_Gates) by Steven Erikson
+  - [Memories of Ice](https://malazan.fandom.com/wiki/Memories_of_Ice) by Steven Erikson
+  - [The God is Not Willing](https://malazan.fandom.com/wiki/The_God_is_Not_Willing) by Steven Erikson
+  - [Watchmen](https://en.wikipedia.org/wiki/Watchmen) by Alan Moore and Dave Gibbons
+  - [The Centauri Device](https://en.wikipedia.org/wiki/The_Centauri_Device) by M. John Harrison
+  - [Gateway](https://en.wikipedia.org/wiki/Gateway_(novel)) by Frederick Pohl
+  - [Lord Valentine's Castle](https://en.wikipedia.org/wiki/Lord_Valentine%27s_Castle) by Robert Silverberg
+  - [Hard To Be a God](https://en.wikipedia.org/wiki/Hard_to_Be_a_God) by Arkady and Boris Strugatsky
+  - [A Fire Upon the Deep](https://en.wikipedia.org/wiki/A_Fire_Upon_the_Deep) by Vernor Vinge
+  - [The Once and Future King](https://en.wikipedia.org/wiki/The_Once_and_Future_King) by T. H. White
+  - [The Urth of the New Sun](https://en.wikipedia.org/wiki/The_Urth_of_the_New_Sun) by Gene Wolfe
+  - [The Chronicles of Amber]( https://en.wikipedia.org/wiki/The_Chronicles_of_Amber) by Roger Zelazny
+
+My top three books read in 2022 are:
+
+- **The Goblin Emperor**
+
+  This was a pleasant discovery, and definitely the sort of thing I want more
+  of.  I'd seen it mentioned on the [Fantasy subreddit][] many times, and then
+  one day picked it up on a whim, and could hardly put it down until I finished
+  it only a couple of days later.
+  
+  It's politics-focussed, pretty fast-paced, and manages to present an
+  interesting world in a way that feels natural and without needing lore dumps.
+  The one failing, as I mentioned in earlier comments, is that I don't believe
+  the events of the book actually happened in the timeframe the book said they
+  did.  I haven't re-read the book and counted the days to check, but it just
+  doesn't feel right; and if everything *does* fit, it kind of lowers the
+  significance of some of the difficulties the protagonist faces if they were
+  resolved so quickly.
+  
+- **The Chronicles of Amber**
+
+  This is perhaps cheating slightly, as it's five books in one volume, so surely
+  it's five times as good as a comparable-length fantasy novel should be.  But
+  putting that aside...
+  
+  This is *definitely* old-school fantasy.  The central tension is order
+  (represented by the City of Amber) vs chaos (represented by the Courts of
+  Chaos).  All the worlds of the multiverse are mere shadows of Amber and the
+  Courts created by their inhabitants as they flit from one to another in search
+  of their perfect worlds.  There's a lot left unexplained in this, probably the
+  major thing is just who the residents of the Courts are and where they came
+  from.  Amber was created from chaos, but whence chaos?
+  
+  The Second Chronicles is on my book list, and I'm looking forward to learning
+  more.
+  
+- **Old School Essentials: Advanced Fantasy Player's Tome**
+
+  Last year, I picked the Traveller core rulebook as one of my top books, from
+  all the hours of fun it had given me.  Considering that, it seems only fair to
+  give the OSE Player's Tome the same honour.
+  
+  I like the OSR aesthetic.  I follow several OSR blogs.  I've bought OSR
+  adventures, sourcebooks, and zines.  I've backed a bunch of OSR kickstarters.
+  But frankly, I had difficulty finding an OSR *system* that I liked enough to
+  use for a campaign.  Or really *any* fantasy system I liked enough to use for
+  a campaign.  So I went back to basics: B/X D&D plus a smattering of AD&D,
+  nicely presented in the form of Old School Essentials.  And it's pretty great.
+  D&D-style fantasy is exactly the sort of fantasy I like to run.
+  
+  It turns out I'm one of those weirdos who got their start with more narrative
+  RPGs (the first game I ever played was Dungeon World), decided "screw this, I
+  want verisimilitude, not storytelling", moved to traditional RPGs, and then to
+  the *most traditional* of them all.
+
+[Fantasy subreddit]: https://old.reddit.com/r/Fantasy/
+
+
+## Tech
+
+It's been a year of changes, but few radical changes, just iterative
+improvements.
+
+In October I moved these weeknotes from [memo.barrucadu.co.uk][] to this domain.
+I wrote about why I did that at the time, so [go read that][].
+
+I've continued tweaking how I run my computers.  I...
+
+- Migrated my [NixOS config][] to [flakes][]
+- Encrypted my secrets with [sops-nix][]
+- Moved my [backup scripts][] completely into my NixOS config
+- Switched from some home-grown monitoring scripts to [Alertmanager][]
+
+I also started using some new software and stopped using some old software:
+
+- Stopped self-hosting [Gitea][] and migrated everything to GitHub (it's just
+  easier)
+- Switched my [dotfiles][] from [GNU Stow][] to [chezmoi][], so I could more
+  easily have per-machine differences
+- Simplified my home-grown emacs config by switching to one based on
+  [doom-emacs][]
+
+The biggest change is that I dropped [Pi-hole][] when my Raspberry Pi stopped
+working, and wrote my own [recursive DNS resolver with adblocking][], which has
+been powering my LAN DNS [since mid March][].  It was a cool project which
+taught me that DNS is, in fact, fairly simple.
+
+[memo.barrucadu.co.uk]: https://memo.barrucadu.co.uk/
+[go read that]: notes/213.html
+[NixOS config]: https://github.com/barrucadu/nixfiles
+[flakes]: https://nixos.wiki/wiki/Flakes
+[sops-nix]: https://github.com/Mic92/sops-nix
+[backup scripts]: https://github.com/barrucadu/nixfiles/blob/master/shared/backups/default.nix
+[Alertmanager]: https://prometheus.io/docs/alerting/latest/alertmanager/
+[Gitea]: https://gitea.io/
+[dotfiles]: https://github.com/barrucadu/dotfiles
+[GNU Stow]: https://www.gnu.org/software/stow/
+[chezmoi]: https://www.chezmoi.io/
+[doom-emacs]: https://github.com/doomemacs/
+[Pi-hole]: https://pi-hole.net/
+[recursive DNS resolver with adblocking]: https://github.com/barrucadu/resolved
+[since mid March]: notes/183.html
+
+
+## Gaming
+
+This was a good year for gaming.
+
+### Computer Games
+
+I mostly play roleplaying games these days, when I pick up a computer game I
+tend to get really into it for a few weeks, then burn myself out and never touch
+it again.  But in those few weeks it's really fun!  This year I've particularly
+enjoyed:
+
+- **Dyson Sphere Program**
+
+  I just like setting up production lines.  But, at least when I played the
+  game, there wasn't really an end goal beyond "build a dyson sphere".  Which I
+  did.  And the moment I achieved that difficult and fun goal, the game lost all
+  meaning and I couldn't even muster up the motivation to start anew with a
+  different approach, since I'd just be working towards something I'd already
+  achieved once before.
+  
+  I have that problem with these sorts of games a lot.
+
+- **Cult of the Lamb**
+
+  I liked the cutesy / culty mix of this game, and the roguelite gameplay was
+  fun and engaging.  I got up to the final boss battle, but found it just a bit
+  too bullet-hell for me so I've kind of stalled there.
+
+- **Crusader Kings 3**
+
+  Not a new game, but one I only really figured out to competently play this
+  year after reading Brett Devereaux's series on [what sort of history the game
+  models][], which helped me to understand some of the mistakes I'd been making,
+  and got me itching to play again.
+
+- **Victoria 3**
+
+  Another Paradox grand strategy game, though of a different bent to CK3.  I've
+  not played much of this yet, only the tutorial, but that was fun and I think I
+  just need to give it a proper go.
+
+- **Dwarf Fortress**
+
+  I like colony-sim games.  I've put a lot of hours into Banished and Patron,
+  and I'm no stranger to Dwarf Fortress.  It's the ultimate.  The ideal
+  colony-sim.  But it's *just so daunting!*
+  
+  Until now, that is.  The Steam release is out, with a GUI (!) and a general
+  reorganisation of things to make the game possible to pick up without inhaling
+  the entire wiki up-front.  Finally, I've managed to do more than just the
+  quickstart gudie, and had a fairly successful fortress of around a hundred
+  dwarves.  It did get up to close to 200 at one point, which was causing issues
+  with the food supply, but I exiled all the unhappy dwarves and lowered the
+  population cap for a few years while I built things up.
+  
+  The only thing is... the game seems not very difficult actually?  Before I
+  intentionally tunneled into the underworld and lost the fort to demons, my
+  militia was pretty good and could easily take down Forgotten Beasts and
+  Titans.  To defend against sieges (not that any happened), I could just raise
+  my drawbridge.  I was totally self-sufficient, I just ignored the trade
+  caravan when it came.  And even when I *did* tunnel into the underworld, only
+  two demons came out!  A far cry from the "hundreds" the wiki says.  However,
+  two were enough.
+  
+  I think my next fort needs to be somewhere more exciting where there's
+  actually an external threat I have to defend against.  Maybe I should embark
+  on a haunted glacier.
+
+[what sort of history the game models]: https://acoup.blog/2022/09/16/collections-teaching-paradox-crusader-kings-iii-part-i-making-it-personal/
+
+### Roleplaying Games
+
+Another good year for roleplaying games.  I've played 8 systems and run another
+5 (unless I've forgotten some we just used for a one-shot or something), with a
+total of 20 people across 4 groups:
+
+- **Tuesday Group**
+ 
+  - **Run:** Ars Magica
+  - **Played:** Eclipse Phase, Castaway (one-shot)
+
+  Unfortunately, I ended up leaving this group back in March.  After I finished
+  running the Ars Magica campaign, someone else started an Eclipse Phase
+  campaign but ultimately we decided nobody was really into it, and so I bowed
+  out when they decided to start a new campaign of D&D 5e (since I was already
+  in two other D&D-like games at the time).
+
+- **Work Group**
+
+  - **Run:** Old School Essentials
+
+  I started this group after some not-very-subtle hints that a bunch of people
+  really wanted to play D&D but nobody was willing to run a campaign.  So I
+  started a fortnightly game with 6 players that was supposed to be easy for
+  people to drop in and out of, since I didn't expect attendance to be very good
+  for an after-work game.
+
+  Unfortunately, attendance was even worse than I expected, and after several
+  frustrating instances of cancelling due to only 1 (or 0!) players being
+  available, I decided to drop the campaign and we're going to regroup in
+  January to see who wants to play *and can commit*.
+
+- **Saturday Group**
+
+  - **Run:** Old School Essentials, Traveller (one-shot)
+  - **Played:** Ecopunk 2044, Monster of the Week, Simple World, Stars Without Number
+
+  My first group, still going strong.
+  
+  We did go through a rough patch where a bunch of sessions got postponed or
+  skipped on short notice, but we solved that by switching to a more open
+  schedule: when you have the next session of your campaign prepared, you can
+  claim the next available Saturday on the list, and you can't claim more than
+  one Saturday in advance.  Ostensibly, we're now playing four campaigns, but in
+  practice it's just mine and one other alternating weekly, with one of the
+  other two GMs occasionally running a single session of their campaigns.
+
+- **Sunday Group**
+
+  - **Run:** Forbidden Lands (one-shot), Traveller, Wicked Ones
+  - **Played:** Genesys (one-shot), Whitehack
+
+  My second group, also going fairly strong.  This year one player dropped out,
+  and we haven't managed to get a replacement yet.  Though, recently, a friend
+  has been listening into our sessions.  But we've not managed to convince her
+  to actually join in as a player yet.
+  
+  It used to be me and another GM alternating games, but the other GM had to
+  take a break so it's just been me for a while.  She doesn't seem to have any
+  plans to start a new campaign soon, so I guess it's just me running weekly
+  games for the foreseeable future, which is fine by me.
+
+Right now I'm running two campaigns:
+
+- An OSE [Dolmenwood][] hexcrawl for my Saturday group, in which the players are
+  cartographers charged to map out the forest and learn its secrets.  Which
+  really is just a good excuse for them to wander around and get into
+  adventures.  Dolmenwood is a really great setting, it's not just your standard
+  D&D-flavour fantasy, it's really evocative, weird, and fairytale-like.  And
+  the books are just so well-written and easy to use, I barely need to prepare
+  anything beyond finding or reskinning the occasional dungeon to drop in at a
+  convenient location.
+
+- A Traveller "Milieu 0" campaign for my Sunday group, in which the players are
+  private contractors doing scouting and surveying work of systems which haven't
+  been visited since the collapse of interstellar civilisation some 1,500 years
+  ago.  All set against an exciting backdrop of the formation of the Third
+  Imperium and the interstellar power-shakeup that results.  We only just
+  started this a few weeks ago, and have got through the first adventure (a
+  murder mystery in which they had to prove their innocence), and will be
+  picking this up again on the 8th of January with a survey mission.
+
+I really like both OSE and Traveller.  They and Call of Cthulhu are definitely
+up there as my favourite systems.
+
+Of the other systems I've run this year:
+
+- Ars Magica was just too complicated.  I feel you'd need to basically study the
+  rulebook to be able to run or play it without needing to constantly look
+  things up.
+
+- Forbidden Lands didn't click for me.  I didn't like the hexcrawling or
+  stronghold rules, which are basically the only reasons you'd use it over
+  another fantasy system.
+
+- Wicked Ones just wasn't really my thing.  Too narrative, actually challenging
+  the players (without just deciding up front that they were going to lose) was
+  really difficult.
+
+Still, I don't regret trying any of them.
+
+Finally, this year, I switched from [Roll20][] to [Foundry][].  It felt a bit
+silly paying $9.99/month to Roll20 to get... frankly, not very much.  I'd used
+Foundry as a player a fair bit, so I decided to take the plunge and try it out
+as a GM.  It worked very well, and I'm now happily self-hosting it.
+
+[Dolmenwood]: https://necroticgnome.com/products/welcome-to-dolmenwood
+[Roll20]: https://roll20.net/
+[Foundry]: https://foundryvtt.com/
+
+## Miscellaneous
+
+I got back into baking bread this year.  I kind of fell out of the habit when
+flour first became unavailable in 2020, but now I'm making nice loaves of
+sourdough every week or so.  Also, I do sourdough now, previously I used instant
+yeast.
+
+Here's my recipe.
+
+### Starter
+
+1. Mix half cup rye flour and half cup water in a glass jar, lightly cover with
+   a tea towel and leave at room temperature for 24 hours.
+2. Discard half the mixture, mix in another half cup rye flour and quarter cup
+   water, re-cover and leave for another 24 hours.
+3. Repeat step 2 for 4 days.
+
+### Sourdough
+
+1. **Prepare dough:**
+   1. Mix 6 cups bread flour with 2 cups water, 2.5tsp salt, and half cup
+      starter.
+   2. Lightly cover dough with a tea towel and leave at room temperature
+      overnight.
+2. **Proof:**
+   1. Move dough onto a lightly floured tea towel, and shape into a tight ball.
+   2. Leave dough-ball at room temperature for 2 hours.
+3. Pre-heat oven to 200C with a dutch oven (or cast iron pan) (with lid) inside.
+4. **Bake:**
+   1. Move dough ball from tea towel into hot dutch oven (with lid), and bake
+      for 45 minutes.
+   2. Remove lid and continue to bake until golden brown (10 to 15 minutes).
+   3. Remove bread from dutch oven and leave to cool.
+
+If your kitchen is cold, for the proofing step you can fill the sink with warm
+water, put the tea towel-wrapped dough-ball in a bowl, and float the bowl in the
+sink.
