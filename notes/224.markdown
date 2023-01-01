@@ -1,0 +1,82 @@
+---
+date: 2023-01-01
+---
+
+## Books
+
+It was Christmas last week, and so of course I got some new books: some RPG
+stuff (in the next section); a chilli cookbook; volumes 9, 10, and 12 of [That
+Time I Got Reincarnated as a Slime][] (volume 11 was apparently temporarily sold
+out); [Homo Deus][] (my dad has a habit of getting me books he thinks I should
+read); [The Library at Mount Char][]; and [Perdido Street Station][].
+
+This week I read:
+
+- [The Library at Mount Char][] by Scott Hawkins
+
+  Wow, this one was a surprise!  I knew it was pretty well-regarded, and the
+  premise hooked me, but once I started I just couldn't put it down.  Hard to
+  believe that this is the author's first foray into fantasy, and that he
+  normally writes dry technical Linux books.  It's pretty fast-paced, there were
+  twists I didn't see coming, and I like the America-with-hidden-magic setting.
+  If I have any criticism, it's that the ending felt a little weak.  But not
+  weak enough to spoil what came before, just not as good as it could have been.
+  
+  One part which stood out to me was how the character who studied animals found
+  it difficult to speak human languages and even think like a person after a
+  while, and so gave the impression of being a bit slow; but then we get a scene
+  with him speaking to a lion, from the lion's perspective, and he's eloquent
+  and clearly smart, it's a nice contrast to how the human characters see him
+  and how we've seen him until then.
+  
+  The author's said he [tried to start on a sequel][] but there are no firm
+  plans on actually finishing and publishing it, since he doesn't want a
+  lacklustre book.  Which is fair enough, but if he does write one I'll
+  definitely read it.
+
+[That Time I Got Reincarnated as a Slime]: https://en.wikipedia.org/wiki/That_Time_I_Got_Reincarnated_as_a_Slime
+[Homo Deus]: https://en.wikipedia.org/wiki/Homo_Deus:_A_Brief_History_of_Tomorrow
+[The Library at Mount Char]: https://en.wikipedia.org/wiki/The_Library_at_Mount_Char
+[Perdido Street Station]: https://en.wikipedia.org/wiki/Perdido_Street_Station
+[tried to start on a sequel]: https://shawkins.net/index.php/faqs/
+
+
+## Roleplaying Games
+
+I got the [A Time to Harvest][] campaign (for Call of Cthulhu), and also bought
+myself the ALIEN RPG core book and GM screen on a whim:
+
+![The ALIEN RPG core book and GM screen, and the A Time to Harvest campaign for Call of Cthulhu](notes/224/rpg-acquisitions.jpg)
+
+Sadly, while I love Call of Cthulhu, my players are less keen.  They like it,
+they just like other things *more*.  So that book will probably sit around
+unplayed (but not unread) for a while.  On the other hand, I've managed to drum
+up some interest in ALIEN, so I'll run a one-shot of that in the near future.
+
+And, not that the players know it yet, but the next session of my Traveller
+campaign is going to feature a very ALIEN-inspired abandoned mining colony...
+
+[A Time to Harvest]: https://www.chaosium.com/a-time-to-harvest-hardcover/
+
+
+## Link Roundup
+
+### Roleplaying games
+
+- On the Four Table Legs of Traveller:
+  - [Leg 1: Mortgages](https://sirpoley.tumblr.com/post/623913566725193728/on-the-four-table-legs-of-traveller-leg)
+  - [Leg 2: Patrons](https://sirpoley.tumblr.com/post/623997673833480192/on-the-four-table-legs-of-traveller-leg-2)
+  - [Leg 3: Character Creation](https://sirpoley.tumblr.com/post/624087583880806400/on-the-four-table-legs-of-traveller-leg-3)
+  - [Leg 4: Random Encounters](https://sirpoley.tumblr.com/post/624275465993109504/on-the-four-table-legs-of-traveller-leg-4)
+- Hexcrawl Checklist:
+  - [Part One](https://www.prismaticwasteland.com/blog/hexcrawl-checklist-part-one)
+  - [Part Two](https://www.prismaticwasteland.com/blog/hexcrawl-checklist-part-two)
+- [In defense of the classic D&D saving throws](https://thedwarfdiedagain.blogspot.com/2022/11/in-defense-of-classic-d-saving-throws.html)
+
+### Software engineering
+
+- [Don't generate, hash! (Or, how I learned to stop worrying and love SplitMix64)](https://www.youtube.com/watch?v=e4b--cyXEsM)
+
+### Miscellaneous
+
+- [Collections: Why Rings of Power’s Middle Earth Feels Flat](https://acoup.blog/2022/12/16/collections-why-rings-of-powers-middle-earth-feels-flat/)
