@@ -1,0 +1,136 @@
+---
+date: 2023-01-15
+---
+
+## Books
+
+This week I read:
+
+- Volume 9 of [That Time I Got Reincarnated as a Slime][] by Fuse
+
+  What to say?  It's a light novel: the writing isn't fantastic, but it's easy
+  to read and entertaining.  I did feel that there were a couple of places in
+  this volume, though, where the translation was a bit unclear.
+
+  Firstly, there was a sentence along the lines of "as the term 'dynasty'
+  implies, the Sorcerous Dynasty is ruled by a council overseen by the Empress,
+  an elf who founded the nation two thousand years ago."  Which is, if anything,
+  the *opposite* of what "dynasty" implies!  If there's only ever been one
+  ruler, there's no dynasty.  This could just be the Japanese author thinking
+  the English word "dynasty" is cool and using it incorrectly, forcing the
+  translator to do the same, though.
+
+  But later, there's another confusing bit which could definitely have been
+  fixed.  In Japanese, it's common with written speech to not *explicitly* say
+  who the speaker is, and to leave it to context.  Maybe it's more clear in the
+  original Japanese, I'm not sure.  But there was a part with several characters
+  speaking, none of them really had a distinctive "voice", and so I was jumping
+  around on the page trying to figure out who said what, and having to re-read
+  bits where I guessed wrong.  And ultimately it wasn't a very important
+  conversation, so I felt like I expended a bunch of effort on something which
+  actually didn't need to be there at all.
+
+[That Time I Got Reincarnated as a Slime]: https://en.wikipedia.org/wiki/That_Time_I_Got_Reincarnated_as_a_Slime
+
+
+## Roleplaying Games
+
+### Cartographic Curiosities
+
+We started this campaign up again this weekend, in which actually not that much
+happened now that I think about it.
+
+The players explored the *Tomb of the Serpent Kings* some more and unleashed a
+Black Pudding, they realised it was weak to fire and that regular attacks just
+caused it to split and make *more* puddings, but they didn't have enough
+lamp-oil to mount a significant attack.  So they retreated back to town and did
+a bunch of shopping while waiting for one of the PC's magic swords to be
+identified.
+
+I feel like I've been being a bit stingy with magic items, so I put a few cool
+ones in the tomb but, well, they've not made it to the treasure rooms yet, and
+the one magic item they've located so far is at the bottom of a pool of
+disgusting opaque stagnant water and they haven't decided how to get that out
+yet.  Just empty the pool with buckets or something!  Oh well.
+
+We ended the session with them leaving town to go kidnap a guy for the Drune,
+which is of course a totally good and not-questionable-at-all course of action.
+I'm sure I can spin that into a fun moral dilemma.
+
+### Sylea Rising
+
+This week I didn't found the Third Imperium.  I've decided to do that in a few
+weeks, to mark the end of the first part of the campaign.  Then we'll have a
+little break for a week or two for something else.
+
+Part 2 of the campaign will begin with [Flatlined][], as an old enemy makes his
+first appearance in the campaign, which I'm very much looking forward to.
+
+What we *did* do this week is start [Mission to Mithril][].
+
+The current "mission" is to take an Ancients xenoarchaeologist to a site he's
+discovered on the world of Indmen (and I'll be basing that site on elements from
+the classic scenarios *Shadows* and *Twilight's Peak*), which will turn out to
+be a mostly intact Ancients site with a still-functioning stargate---though
+without enough juice left in its reactor to power it.
+
+If they can power the stargate (maybe they'll hook up their ship's reactor
+somehow) then it'll open a connection to a stargate in a lab in the Zhodani
+Consulate, who will promptly scan the PC's minds, realise there's another
+advanced starfaring human civilisation out there---but one *without* psionics
+and still recovering from a large-scale collapse---and will promptly invade
+through the gate.  Hopefully, the PCs will escape, and make it back to Sylean
+territory to call in the Federation Navy.
+
+If they don't manage to power the stargate then one of the NPC
+xenoarchaeologists with them will suggest returning to Sylean territory to pick
+up a portable fusion reactor.
+
+Either way, they'll return to Sylean territory, and then they'll get caught up
+in the founding of the Third Imperium: a nice dramatic stopping point.
+
+But going back to today's session: I don't want any of that to happen yet.  I
+want to run the one-shot some time next month.  So, I planned to put some small
+scenarios like [Chariots of Fire][] and *Critical Vector* (also maybe have them
+run into a pirate base when they try to do some wilderness refuelling) along the
+way, and drag the journey out over three sessions or so.
+
+I'd not planned to run *Mission to Mithril* at all, but then one player said
+they were specifically asking around their contacts in the science community to
+see if anyone had any jobs which they could do along the way, so I said "sure,
+Dr so-and-so needs 5 tons of scientific supplies taking to Kuurashbir!", and
+promptly relocated *Mission to Mithril* to Kuurashbir.  When they jumped to
+Kuurashbir I called a 15 minute break, skimmed through the first half of the
+module, and away we went: the session ended with the ground opening up in front
+of them and a giant snow-worm bursting forth, looming over their ATV!
+
+[Flatlined]: https://www.youtube.com/watch?v=pwhJCQs69Jw
+[Mission to Mithril]: https://www.youtube.com/watch?v=Q4vULypIu1U
+[Chariots of Fire]: https://www.youtube.com/watch?v=fUN3zc2hnU0
+
+### The one-shot?
+
+What to run, what to run...
+
+I've now ordered the [Delta Green][] books and a collection of scenarios, so
+possibly that.  I'm interested in running *Impossible Landscapes* as a campaign
+in the future, so it'd be valuable to see what the players think of the system.
+
+Otherwise, I think it's between the Call of Cthulhu scenario [Viral][], the
+Alien scenario [Chariot of the Gods][] (might be a bit long, we'll see), or
+maybe, finally, something RuneQuest.
+
+After I read the Delta Green books I'll give the players a list of options and
+we'll pick something.
+
+[Delta Green]: https://www.delta-green.com/
+[Viral]: https://www.youtube.com/watch?v=yARYswKpalw
+[Chariot of the Gods]: https://www.youtube.com/watch?v=UCcCXHpzIIo
+
+
+## Link Roundup
+
+### Roleplaying games
+
+- [Yoon-Suin Kickstarter - LAUNCHED ](http://monstersandmanuals.blogspot.com/2023/01/yoon-suin-kickstarter-launched.html)
+- [Puzzle Do's and Dont's + Some Examples](https://goblinpunch.blogspot.com/2023/01/puzzle-dos-and-donts-some-examples.html)
