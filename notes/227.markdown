@@ -1,0 +1,77 @@
+---
+date: 2023-01-22
+---
+
+## Books
+
+This week I read:
+
+- [The Return of the Black Company][] by Glen Cook
+
+  I really liked the nonlinear storytelling in *Bleak Seasons*, it was just the
+  right balance of confusing and enlightening to keep me going.  *She Is the
+  Darkness* was mostly linear, but with some nonlinear parts to it.  This book
+  did feel like a bit of a disconnect from the previous books, with a different
+  narrator character, but that worked well too: it gave us a different
+  perspective on the more familiar characters of the earlier books.  I thought
+  the ending was done particularly well.
+  
+  Next up is *The Many Deaths of The Black Company*, the final two stories,
+  which I will be starting tomorrow.
+
+[The Return of the Black Company]: https://en.wikipedia.org/wiki/The_Black_Company
+
+
+## Roleplaying Games
+
+This week, some new books arrived:
+
+![Delta Green, The Tome of Adventure Design, and Into the Wyrd and Wild](notes/227/rpg-acquisitions.jpg)
+
+The [Delta Green][] core rulebooks, a scenario book, and the *Impossible
+Landscapes* campaign.  The new edition of *The Tome of Adventure Design*, which
+I got backed the kickstarter for.  And finally, a book I'd given up all hope of
+ever receiving, plagued with shipping issues for like a year and a half, *Into
+the Wyrd and Wild*!
+
+I've decided that the one-shot next month will be *Delta Green*, and I've given
+the players a few scenarios from the books above to choose from.  I'm quite
+looking forward to this: I like the system, I like the setting, and as I've said
+previously I'm thinking of running *Impossible Landscapes* as the next campaign.
+So hopefully the players like it too.
+
+*Impossible Landscapes* is a collection of linked scenarios which take place
+over decades, and it's been *very hard* to resist running the first scenario as
+our one-shot---but I have to, I want to do it really well with all the players
+totally on-board with a more character-focussed cosmic horror game, so I don't
+think it's suitable as our very first foray into *Delta Green*.
+
+[Delta Green]: https://www.delta-green.com
+
+### Sylea Rising
+
+This week we finished *Mission to Mithril*, with the player characters
+outgunning the mercenaries so much that they managed to get the merceneries to
+pay to have their lives spared.
+
+Next week the trip to the Ancients site on Indmen resumes, but first they're
+going to have a run-in with an old enemy.  In character creation, one of the
+players rolled up this event:
+
+> Your unit is slaughtered in a disastrous battle, for which you blame your
+> commander.  Gain them as an Enemy as they have you removed from the service.
+
+The same player rolled up an enemy in the previous campaign too, and we had a
+lot of fun with that NPC: Crayg, the mercenary who hated the player character's
+guts.  So, a spiritual sequel to that character is returning in this campaign:
+Captain Crayg of the battleship *The Archon's Fist*, who is going to show up at
+the beginning of next session, delay the player characters for a few hours while
+he has their ship searched, and who will make loud statements about "smugglers"
+and "coercion" before finally letting them go.
+
+Of course, it's possible they'll try to *do* something to Crayg, but this
+encounter is mainly foreshadowing for [Flatlined][], as Crayg will make another
+appearance at the end of part 1 of the campaign, drug them, and get them shipped
+off.
+
+[Flatlined]: https://www.youtube.com/watch?v=pwhJCQs69Jw
