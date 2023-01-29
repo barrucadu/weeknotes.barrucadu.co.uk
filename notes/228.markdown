@@ -1,0 +1,139 @@
+---
+date: 2023-01-29
+---
+
+## Books
+
+This week I read:
+
+- Volume 10 of [That Time I Got Reincarnated as a Slime][] by Fuse
+
+  More of the same.  It's kind of trash, but it's entertaining trash.
+
+[That Time I Got Reincarnated as a Slime]: https://en.wikipedia.org/wiki/That_Time_I_Got_Reincarnated_as_a_Slime
+
+## Roleplaying Games
+
+I somehow managed to get both games to a mini-climax this weekend, which means
+I'll be running two one-shots next weekend: four systems in nine days, oof.
+
+### Cartographic Curiosities
+
+I did some hard thinking about the campaign this week, trying to get to the root
+of *why* the wilderness exploration didn't feel as satisfying as it could.
+
+Well, that's simple: the players run away from things a lot.  They explore a
+hex, decide everything looks too dangerous to interact with, file it away for
+later, and move onto the next hex.  This is because they're squishy and have had
+some rough defeats.  But *why* are the player characters still so squishy?
+
+I realised I've been too stingy with magic items.  They need more.  Given they
+have a party of 5 PCs and 5 retainers with class levels, they should have
+somewhere in the region of 2 to 5 magic items: but so far they only have one,
+and it's only magically efficacious against fairies.
+
+Alright, where do they get magic items?  That's easy: dungeons and the hoards of
+big monsters.  Which they're avoiding... because they're so squishy... argh.
+
+So I've decided to add more "mid-boss" enemies.  Monsters which give them a run
+for their money, but which they *can* defeat after a tough fight, and which just
+so happen to have a useful magic item in their lair or on their person.
+
+I also went ahead and pre-rolled a bunch of random encounters, because I've
+noticed that if I roll a random encounter at the table I'll often just improvise
+it rather than roll on *all* the little tables, which leads to them being kind
+of samey and not as cool as they could be.  So the next time they encounter a
+wyrm, it won't just be a horible monster which can kill them with a look, it'll
+be Ximmerian, a wyrm which loves riddles and will give away minor magic items if
+you can answer it correctly.  I even have a list of easy riddles prepared!
+There's no way I'd have been able to improvise a riddle contest off the top of
+my head.  And when they first venture into the evil haunted part of the woods,
+they'll find a corrupted man-eating centaur ripping apart some poor knight: the
+centaur will be a tough opponent, and oh look!  In its cave there *just so
+happens* to be a cool +1 mace which is especially effective against the undead!
+
+I think there's also an element of the players being overly cautious.  So
+hopefully having a few magic items under their belt will help boost that
+confidence.
+
+#### "Is everyone in this forest evil?"
+
+The session itself went fine.  I'd prepared a few rumours for them to overhear
+about a local water dragon, totally forgetting that at the end of last session
+they said "ok, next time we want to research that water dragon we heard
+about"---so it was kind of the water dragon episode where everything they did
+somehow tied into it.  But that's fine.
+
+Their research gave them incomplete information, which led to them concluding
+the water dragon and a different water monster are the same entity, just known
+by two names.  I didn't see that coming, but it worked out really well actually!
+
+Towards the end of the session, the players handed over an almost comically
+villanous guy---I should have given him a moustache to twirl---who was trying to
+bring back an evil fairy lord, to a cabal of spooky druids who wanted this guy
+captured.  But as they did, they overheard one of the druids---who the players
+thought merely spooky at this point---mutter "we must awaken the water dragon
+soon, before it is too late".
+
+Cue one player exclaiming "is everyone in this forest evil?"
+
+#### Next: ALIEN
+
+I wanted to run an ALIEN one-shot at some point, and two of the players are
+unavailable for the next few weeks, so I decided to pause this campaign after
+that mini-climax (learning that the spooky druids want to awaken the water
+dragon) for a few weeks to run *Chariot of the Gods*, the scenario from the
+quickstart kit.
+
+The scenario says it takes 4 to 5 hours.  People on the internet say it can
+easily take 20 or more hours.  So I'm not sure how long this will last.  I guess
+we'll see: session 1 will be next Saturday.
+
+### Sylea Rising
+
+This week we finished the first arc of the campaign.  The players met and were
+harassed by an old enemy (now a fairly important man: the commander of a
+battleship) and got some heavy foreshadowing that he's going to screw them over
+in the near future.  Then they made their way to the Ancients site they knew of,
+met some 300,000-year-old robots, destroyed those 300,000-year-old robots (to
+prevent them from activating a self-destruct sequence for the whole site),
+explored a structure which baffled them, and then they baffled *me*!
+
+Not one, not *one*, of the players recognised my description of a stargate.
+
+Ok, I didn't *call* it a "stargate", but I did describe a large metal circle,
+twice the height of a man, which was held up and could freely rotate, with
+symbols representing constellations around the rim, next to a weird control
+panel covered in buttons with those same symbols which, when pressed, made the
+circle rumble and rotate and the relevant symbol light up.
+
+I even drew a representative picture!
+
+![The metal circle with constellation symbols](notes/228/stargate.png)
+
+Am I so bad at describing things?  Have they just never seen Stargate?
+
+Well then, at least they'll be surprised when they manage to switch it on.
+
+They concluded their investigation of the site by taking pictures of everything
+and deciding to go fetch a better-equipped archaeological team.  They got home
+without incident, and were then caught up in the founding of the Third Imperium.
+
+The next arc will begin with their old enemy betraying them.  Who could have
+seen that coming?
+
+#### Next: Delta Green
+
+So, with this arc done, we're playing Delta Green instead next weekend.  We've
+decided on *Last Things Last*, the scenario from the quickstart kit.  Unlike
+ALIEN, this actually is a short scenario, so I'm only expecting this to last a
+single session, and then it's back to Traveller!
+
+I'm going to be doing so much prep this week...
+
+
+## Link Roundup
+
+### Roleplaying games
+
+- [The Motivated Sandbox Search or 'Haystack' Campaign](http://monstersandmanuals.blogspot.com/2023/01/the-motivated-sandbox-search-or.html)
