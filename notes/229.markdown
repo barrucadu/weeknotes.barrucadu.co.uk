@@ -1,0 +1,102 @@
+---
+date: 2023-02-02
+---
+
+## Books
+
+No books this week, because *some fool* decided to learn two new RPG systems and
+prepare two one-shots, all in the same week.
+
+## Roleplaying Games
+
+This week I ran part of the *Chariot of the Gods* scenario for the ALIEN RPG,
+and the *Last Things Last* scenario for Delta Green.
+
+### Alien
+
+This was a lot of fun.  *Chariot of the Gods* is a three-act "cinematic"
+scenario, which means it's meant to play out like one of the Alien films, with
+the horror and action ratcheting up towards a dramatic climax, as opposed to
+campaign play where things will simmer along more steadily, with occasional
+bouts of xenomorphic horror.
+
+The scenario says it can be played in 4 to 5 hours, but [people online
+disagree][] (see also [this 9-hour actual play][]).  It's a bit weird that the
+scenario designer was so *incredibly* wrong with the duration, but I suppose
+these things happen.  Maybe they only playtested it with speedrunners.
+
+We played for about three and a half hours, and got the first act done.  So the
+whole scenario will probably take 9 or 10 hours.  We ended just after an alien
+bloodburster erupted out of someone's head and escaped, with the crew fleeing
+back onto their ship to regroup and recover.  No PC deaths yet, but there were a
+couple of close calls.
+
+The players managed to retrieve some valuable samples and research data, but not
+an actual live xenomorph, so in act 2 (next session) the corporate agent NPC in
+the crew is going to enable the self-destruct sequence on *their* ship, so that
+they can't just escape and will have no option but to repair and fly back the
+alien-infested ship.  Just what Weyland-Yutani wants.
+
+Everyone liked the system.  It's fairly straightforward, we all picked it up
+pretty quickly, and the personal agendas, stress / panic mechanics, and special
+attack tables for the xenomorphs really make it feel like an *Alien* game, not
+just a generic space-horror game.
+
+Now I just need to think of an appropriate cliffhanger to end the next session
+on...
+
+[people online disagree]: https://www.youtube.com/watch?v=UCcCXHpzIIo
+[this 9-hour actual play]: https://www.youtube.com/watch?v=14ofoPtPBxE
+
+### Delta Green
+
+In Call of Cthulhu, you play normal people who stumble upon some sanity-blasting
+situation and probably die in the process of dealing with it.  In Pulp Cthulhu,
+you're action protagonists who confront the mythos with a gun in each hand and
+maybe some mad science gadget.  In Delta Green... you're federal agents who
+strive to keep the mythos at bay for one more day, then go home and take out the
+stress of your soul-crushing job on your wife and kids.
+
+*Last Things Last* is an introductory scenario from the quickstart rules,
+designed to get new players into the world of Delta Green.  It is very short and
+linear, we completed it in about two and a half hours with me adding some
+embellishments, but it did its job of showing off some of the tropes that the
+game is going for.
+
+Rules-wise it's fairly similar to Call of Cthulhu, and the differences that are
+there were just different *enough* to not get us mixed up.  The quickstart
+covered everything we needed to get going, though the sample character sheets
+are full of errors, which is kind of annoying (eg, skill values typoed as "2.#%"
+instead of "20%", or even missing entirely), so I ended up having to recreate
+those characters from the character creation rules... though, at least the
+quickstart comes with character creation rules.
+
+The players unintentionally sped through the scenario by revealing the monster
+quite early on, and then had to quickly figure out how to deal with it before it
+escaped.  It did escape, they didn't deal with it very well, one PC almost died,
+and I revealed in a little vignette at the end that the monster did survive them
+setting it on fire after all.  A seed for a potential future adventure.
+
+We all liked it, though one player said that they didn't think it worked so well
+for a one-shot, because a lot of Delta Green's flavour comes from its
+incorporation of the everyday non-Delta Green lives of the characters, as they
+have to balance their secret work with whatever it is they're doing normally,
+and seeing how the characters ruin their close relationships as they drive
+everyone around them away as an unhealthy coping mechanism.  I asked if they'd
+be up for a campaign in the future, and everyone was on board!
+
+So after the current Traveller campaign, we'll likely be playing *Impossible
+Landscapes*.
+
+Mission accomplished.
+
+
+## Link Roundup
+
+### Roleplaying games
+
+- [What it Means to Master a Game](https://theangrygm.com/master-a-game/)
+
+### Software engineering
+
+- [Intercepting t.co links using DNS rewrites](https://djharper.dev/post/2023/01/29/intercepting-t.co-links-using-dns-rewrites/)
