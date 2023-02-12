@@ -1,0 +1,216 @@
+---
+date: 2023-02-12
+---
+
+## Work
+
+I took this week off work, and spent the whole time lazing around: sleeping in,
+watching anime, reading light novels, and preparing for the next arcs of my RPG
+campaigns.
+
+## Books
+
+This week I read:
+
+- Volumes 11 through 15 of [That Time I Got Reincarnated as a Slime][] by Fuse
+
+  That's everything released in English so far.  There are 5 more Japanese
+  novels at the moment, and there seems to be about a three-year translation
+  lag, so I expect volume 16 (released in Japan in March 2020) to come out some
+  time later this year.
+  
+  The writing's... ok, as usual.  Some translation issues like it being unclear
+  who is speaking in a scene with multiple characters, or using the wrong
+  pronouns for a character (usually Rimuru), or changing the spelling of a name
+  (eg, the "Rozzo" family was a major actor in multiple volumes, then the
+  translator switched to spelling that "Rosso"), which aren't great---doesn't
+  the translator have a list of key things? how do you just get a character's
+  gender, or the name of the group who were the big bad for multiple volumes,
+  wrong?---but nothing too confusing.
+  
+  I'm not sure where the series is going to go from here.  It's approaching the
+  end of the current story arc, the major characters are now all super-powerful
+  (what's an isekai without constant power creep?), a lot of loose plot threads
+  have been wrapped up, and the current big bad is an especially big and bad
+  one.  But I don't think there's five whole volumes left in the arc.  That
+  would really drag it out.  So there must be something new, an even bigger,
+  badder, big bad to vanquish.  But who?
+
+[That Time I Got Reincarnated as a Slime]: https://en.wikipedia.org/wiki/That_Time_I_Got_Reincarnated_as_a_Slime
+
+## Roleplaying Games
+
+### Alien
+
+This week we got through the second act of *Chariot of the Gods*, it didn't take
+the full session but we spent about three hours on it.  It was a lot of fun
+again, though I think some of the character agendas didn't work that well:
+Miller's in particular felt tough to realise, and indeed the player didn't
+really act on their agenda at all this session.  The players are generally
+liking the mechanic though, and want to see each other's agendas when we're
+done.
+
+We hit a bit of difficulty with the panic mechanics.  Some of the panic effects
+cause other chaarcters present to make panic rolls.  I like that.  What I
+*didn't* foresee is that this leads to a potential loop, where character A
+panics, which makes character B panic, which makes character A panic
+again... it's not so likely with two characters, but with three characters we
+had three rounds of indirect panic after the initial trigger, which felt a bit
+much.
+
+It was funny when it started, but after three rolls it was getting towards
+slapstick.  So I rolled that back and instead ruled that a character can't
+indirectly cause themselves to panic, which nips this in the bud.
+
+Next week is the third, and final, act.  I've decided to not bring in the
+optional mercenary encounter, since it feels like enough is going on as it is.
+So it might be a slightly shorter session, but I'm looking forward to seeing
+what happens as I have no idea how the characters will act.  How they resolve
+this situation is really up to them.
+
+### Cartographic Curiosities
+
+I've started to think about where the campaign's going to go from here.  [Last
+time we played][], we got to a minor milestone, not the end of a story, but a
+threshold nevertheless: they completed a job for the spooky forest druids, which
+is the most non-violent contact they've actually had with them; they heard a
+bunch of legends about a water dragon which is terrorising shipping and driving
+people mad; and they learned that the spooky druids are connected to the water
+dragon somehow.
+
+I think I want to pull on that thread over the next several sessions.
+
+They're nowhere near powerful enough to take on the water dragon, but they *are*
+in a somewhat dangerous location, so I can use that as an excuse to give out
+some more magic items (hidden in monster lairs, for instance) and power them up
+a bit.
+
+The water dragon is a *good* spirit, and is trapped within a nightmare (which
+physically manifests as the monster).  The players don't know that yet, so it
+would be nice to work towards that realisation and, further, the realisation
+that slaying the nightmare-monster will save the dragon.  So I'm going to need
+to drop some more lore on them, probably through the medium of
+spooky-forest-druid quests.
+
+I've also kickstarted [a dungeon about fighting your way through the rotting
+corpse of a dead god][] that could be relevant here.  I need to figure out how,
+though.  Two possibilities come to mind:
+
+1. After defeating the nightmare-monster, the water dragon awakens enough to
+   realise the PCs are trying to help it, and it magically transports them
+   inside its body so they can drive out the corruption.
+
+2. Before confronting the nightmare-monster, the PCs can significantly weaken it
+   (and get more magical loot) by entering the body of the water dragon and
+   driving out the corruption within.
+
+Both would be fun.  The nightmare-monster is very tough, so option 2 would give
+a lower-powered party a chance to defeat it.  But how do the players discover
+that it's an option?  "Let's swim up to a sleeping dragon and crawl inside its
+mouth" isn't a normal thought to have.  I could have the spooky forest druids
+just send them to do it, but it would be better for the players to figure it out
+for themselves.
+
+[Last time we played]: notes/228.html
+[a dungeon about fighting your way through the rotting corpse of a dead god]: https://www.kickstarter.com/projects/1394111697/ammu-a-whimdark-adventure
+
+### Sylea Rising
+
+We started the second arc of the campaign this week, with an enemy of the PCs
+sabotaging their ship and causing them to misjump to the opposite side of the
+map.  They're about a year away from home!  The next big chunk of the campaign
+will be about getting back.
+
+...or so I'd planned.  In actuality, the players liked the planet I sent them
+to, and have been talking about staying there.  They don't actually have much in
+the way of ties to home, and if they go back home they have to continue paying
+their spaceship's mortgage, so maybe... staying here is a good idea?
+
+I didn't see that coming *at all*.  A planet I'd intended to be an interesting
+diversion for a session or two is now possibly becoming the *whole campaign*.
+
+Time to come up with some vargr adventures.
+
+
+## Moving out, again?
+
+Back in January my landlord emailed me asking if I'd like to renew my tenancy
+for another year.  I like it here: it's comfortable, a nice area, reasonably
+priced, and has good transport links.  So of course I immediately replied "yes."
+
+A month passed with no response.
+
+This week I emailed back: "hey, any update on this?" "oh, I'm actually deciding
+whether to sell instead."
+
+Oh no.
+
+This happened with the last flat!  That's why I had to move here!  Not content
+with receiving over £1200/month for doing, frankly, very little (I've lived here
+over three years now and had to call them to fix four issues, it's not a
+high-maintenance home), they want *even more* money!  And so, I get kicked out.
+
+My tenancy ends in May, so I'm here for a while yet if they do decide to sell,
+but it's just such a pain!  I'm pretty fed up with renting: there's no security,
+you can live in a place for years and then have to move with only a few months
+notice; you have to undo any changes (eg, painting) when you move out; can't
+have a pet; and the price goes up every year despite nothing materially
+changing.
+
+So I've been looking at houses to buy.  I do want a *house*, not a flat, because
+leasehold is just another form of renting and I don't want that.  But since I
+have to come into the office once a week, I need somewhere in reasonable
+distance of London (say, no more than an hour and a half).  Of course, commuting
+is another cost to pay, so that has to be factored in as well.
+
+Unfortunately, most houses in the UK suck.
+
+Even a small house tends to split up the living space into a living room, a
+dining room, and a sitting room.  In principle a sitting room is where the
+family spend their time together, whereas a living room is more for entertaining
+guests, but who has guests over often enough that they need an *entire separate
+room* for just entertaining?  That makes sense for, like, Victorian aristocrats,
+but I don't think it does for the common folk.  Surely it'd be better to have
+one, large, combined living / sitting room which suits both purposes *and more*,
+because it's large!
+
+Room size seems to be pretty strongly correlated with number of bedrooms:
+
+```
+room_size = base_size + num_bedrooms * growth_factor
+```
+
+However, the `base_size` tends to be very low.  A few square metres at most.  So
+if you want a decent amount of space, you need more bedrooms.  However, more
+bedrooms tends to mean that new rooms get added instead: a second sitting room,
+a sun room, a breakfast room (what is the point in having both a breakfast room
+and a dining room?).  So you don't just want more bedrooms, you want an
+open-plan layout as well.
+
+It's like we design houses in this country from the assumption that people don't
+actually spend that much time at home, so small specialised rooms aren't a
+problem.  But if you do spend a lot of time at home, it's just annoyingly
+limiting.
+
+I don't think what I want is that bizarre.  I just want a large open-plan living
+space which functions as a combined living / sitting / game room (optionally
+also dining room, but a separate dining room between the open-plan living space
+and the kitchen is fine too), but I'm having to look at 4 bedroom family houses
+to get the space I want.
+
+Now, to be clear, my current flat doesn't have that much space either.  It gets
+a bit cramped if I have more than two guests over at a time.  I have to
+rearrange things if everyone wants to sit around the dining table at the same
+time, since I use the dining table as a desk, because I don't have space for a
+separate desk.  But if I'm buying a house, I want to fix those annoyances.  It
+boggles the mind that to have enough space for one person and a couple of
+guests, I need a large family house.
+
+Oh well, I guess I'll just have a lot of spare bedrooms.
+
+
+## Link Roundup
+
+### Software engineering
+
+- [Visual design rules you can safely follow every time](https://anthonyhobday.com/sideprojects/saferules/)
