@@ -1,0 +1,187 @@
+---
+date: 2023-02-26
+---
+
+## Books
+
+This week I read:
+
+- [The Many Deaths of the Black Company][] by Glen Cook
+
+  And that's it, the series is over.  I liked the different style, the focus on
+  what's more of an underground resistance than a mercenary company.
+
+  It's been interesting reading the books all close together, since the first
+  came out in 1984 and the last in 2000, and you can *really* see the quality
+  improve as the series progresses.  People say the opening of Malazan is rough,
+  but I enjoyed *Gardens of the Moon*, whereas I'd probably have put down *The
+  Black Company* if I didn't know it was the inspiration for that sort of thing.
+  I'm going to have to check out *Port of Shadows*, which collects some of Glen
+  Cook's short Black Company stories.
+
+[The Many Deaths of the Black Company]: https://en.wikipedia.org/wiki/The_Black_Company
+
+
+## Roleplaying Games
+
+### Cartographic Curiosities
+
+No game this week, in fact the next session isn't going to be for a while due to
+player availability[^players].  So I'm taking the time to do lots of prep that I
+really should have done previously:
+
+[^players]: I think it's important for the health of the group that the game
+    runs as often as possible.  Cancelling or rearranging because just one or
+    two players can't make it just creates an expectation that the game is
+    scheduled around the players, and soon creates a situation where the game
+    becomes impossible to schedule, as nobody treats game-time as sacred.
+
+    However, two of the five players are unavailable for several sessions in a
+    row.  If it was only one or two sessions, it's unfortunate, but they'd just
+    miss out.  But for an extended absence of, nearly, half the party, I think
+    pausing and doing something else (like running Alien) is the better option.
+
+- Coming up with rumour lists (the campaign book has these, but they're
+  incomplete).
+- Coming up with job lists for all the major NPCs they're on friendly terms
+  with.
+- Going through past session notes and identifying any knock-on effects that
+  should happen (eg, new inhabitants moving into the now-unguarded burial mound
+  of Sir Chyde).
+- Actually reading the bits and pieces of GM advice I've found or acquired over
+  the years, and thinking about how I can apply them.
+
+On that last point, I think the advice on random encounters from [Electric
+Bastionland][] is fantastic.  It suggests you come up with 6 encounters, make
+one of them incredibly dangerous, and then make sure each one meets the
+following three criteria:
+
+- The players should be motivated to act.
+- It should have the potential to permanently change the characters.
+- It should be memorable and evocative.
+
+It seems so obvious when put so plainly!
+
+I had previously rolled up 10 random encounters for each region of Dolmenwood.
+Upon reading that advice, I immediately went and cut those down to the most
+interesting 6.  I then tweaked them to make sure I hit all three notes.
+
+Even something simple, like changing an encounter where the players see a troll
+dragging away three freshly-killed victims, to making one of those victims still
+barely alive, gives the players a strong reason to act where previously they may
+have decided to give it a wide berth.
+
+When we finally get to play again, the game should be a lot more fun.
+
+[Electric Bastionland]: https://bastionlandpress.com/products/electric-bastionland-hardback-book
+
+### Sylea Rising
+
+This week we had a second session 0, since the direction of the campaign has
+*wildly* changed from what we talked about at the beginning, and we decided that
+we're going to split the party.
+
+Two of the original PCs, their NPC crewmember, and one of the new PCs are going
+on a crazy year-long adventure to get back home.  I guess they just hired the
+new guy?  One of the PCs plans to come back (which makes it a *two* year journey
+for them, I don't think we'll see the end of it this campaign).  The remaining
+PCs (one original, two new) are staying here in the new place, getting up to
+their own shenanigans.
+
+I'm not sure if this has doubled or halved my workload... on the one hand, twice
+the characters; but on the other hand, this is a *perfect* set-up for the
+episodic jump-straight-to-the-action sort of campaign I wanted to run!  The
+Going-Home Team are going to have wacky space adventures, the Staying-Here Team
+don't have a ship any more so they're going to have wacky planet adventures.
+Even better, the Staying-Here Team are a bunch of crooks who work for an NPC
+fixer (a contact one of the new PCs made in character creation), so I can give
+them really *any* job and it'll fit.  And if one group starts to feel a bit
+stale, or I'm having a hard time coming up with ideas, we just switch to the
+other group.
+
+Excited to see where this goes.  Next session is the Going-Home Team, but after
+that I think the focus will be on the Staying-Here Team for a while.
+
+
+## obsidian.md
+
+This week I've been playing around with using [Obsidian][] for note-taking,
+specifically RPG note-taking.
+
+My current approach to notes isn't very good: almost everything is in the
+session notes.  So if I want to, say, look through all my notes on an NPC, there
+isn't one place for that, it's just scattered around.  Some things get pulled
+out and centralised, like major setting details, but most don't.
+
+Now, this is fairly good for *running* games.  I can just have the notes for
+that session open, and it's got everything I need.  I don't need to scroll
+around very much.  But it makes *preparing* for games fairly hard, especially as
+the number of sessions increases.  It's easy to lose track of things from more
+than a few sessions ago, and I end up repeating things a lot.
+
+I think this is probably a major factor in why I tend to rely on published
+campaign material.  I can come up with adventures that last a few sessions, but
+my note-taking approach makes longer-term structure difficult.
+
+So I've been giving Obsidian a go.
+
+I started by importing my Cartographic Curiosities session notes, and then began
+pulling out locations, factions, and NPCs into their own notes which get
+crosslinked.  I tried out having "quest" notes, but ended up deciding that it
+wasn't a useful concept: quests are either missions (which really belong to an
+NPC or faction) or adventures (which belong to locations).
+
+I also set up a couple of notes with an overview of the campaign, some random
+generators, rumours, random encounters, and exploration progress, to make a GM
+screen of sorts.  It looks like this:
+
+![My Obsidian "GM screen".](notes/232/obsidian.png)
+
+And I'm pretty happy with it!
+
+The thing that's always turned me off campaign management tools before is that
+they're usually both clunky to use and opinionated in how you structure things.
+Obsidian, however, is neither of those.  It's polished, and super flexible.
+This let me spend a few evenings playing around with finding something that
+works for me.
+
+It's also got an array of impressive community-developed plugins.
+
+For example, that "Find Crookhorn bases in the Nagwood" bullet point on the GM
+Overview isn't something I've put there myself.  No.  It's actually on the Lady
+Harrowmoor NPC page, and is pulled into this page with the [Obsidian Dataview
+plugin][].  So when I'm writing up my notes after a session, I just put stuff
+where it belongs (on the Lady Harrowmoor page in this case), and when I'm
+running a session, I've got all the in-progress missions visible at once.
+
+For another example, that map of Dolmenwood is an interactive map with markers
+that link to my location pages, created with the [Obsidian Leaflet plugin][].
+And on the location pages, I have location-specific rumours.  Next session will
+be starting with the party in Fort Vulgar, so when they go to the tavern I can
+just open the Fort Vulgar page and pick out some rumours for them to overhear.
+
+Also note that some of the general rumours in the middle tab are crossed out.
+That's because I'm experimenting with just *not deleting anything*.  If
+something is no longer relevant going forwards, I'll just cross it out.  This
+gives me *some* history, without needing to go through all my session notes.
+Will that be useful?  Probably not very often, but it's little effort, so why
+not?
+
+I was only "trying it out", but honestly after spending a week fiddling with it,
+I'm sold.  I'm going to import my Sylea Rising notes next week, and expect it to
+be very useful now that I'm tracking two separate parties which will soon be
+separated in time.
+
+[Obsidian]: https://obsidian.md/
+[Obsidian Dataview plugin]: https://github.com/blacksmithgu/obsidian-dataview
+[Obsidian Leaflet plugin]: https://github.com/valentine195/obsidian-leaflet-plugin
+
+
+## Link Roundup
+
+### Roleplaying games
+
+- [Non-Lazy DMs use Obsidian for D&D](https://nicolevanderhoeven.com/blog/20210930-non-lazy-dms-use-obsidian-for-dnd/)
+- [How I use Obsidian for D&D - Player's Edition](https://nicolevanderhoeven.com/blog/20210809-dnd-obsidian-player/)
+- [Monsters and Treasures in the B/X Dungeon](https://spriggans-den.com/2022/05/20/frequency-of-fights-in-b-x/)
+- [New B/X Class: The Gothic Villain](http://udan-adan.blogspot.com/2019/03/new-bx-class-gothic-villain.html)
