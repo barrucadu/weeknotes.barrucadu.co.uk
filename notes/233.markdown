@@ -1,0 +1,122 @@
+---
+date: 2023-03-05
+---
+
+## Books
+
+No books this week.
+
+
+## Roleplaying Games
+
+### Sylea Rising
+
+This week we were down one player, so rather than start stuff with the new group
+of PCs, we started the journey home for the old group of PCs.  I based the
+session on the short scenario [A Dagger at Efate][], but reskinned to be in
+Vargr space and tied it into the local politics which the players were aware of.
+
+One PC died, but it was one of the new PCs we rolled up last week.  They were
+also pretty inept as a character, and we promoted the much more competent NPC
+pilot to full PC instead.  So not terribly sad.
+
+Next week will be the first mission of the new PCs.  I want this part of the
+campaign to be more player-directed, whereas the going-home PCs will be more
+adventure-of-the-week.  So I'm going to bring in all their NPC contacts---and
+have them all be very opinionated about what they want and how the PCs can play
+into that---over the next couple of sessions, in contrast to my usual approach
+of slowly introducing them over time.
+
+[A Dagger at Efate]: https://www.youtube.com/watch?v=SJhJLbqDeiw
+
+### Future games
+
+Coming up some time next month, we have our next one-shot.  It'll be a short
+dungeon crawl using Old School Essentials, to introduce that system to the
+players.  This is in aid of our eventual future megadungeon campaign, which I
+think will be *The Halls of Arden Vul*.
+
+I was also considering *Dwarrowdeep* or *Barrowmaze*, but I read some
+less-than-glowing reviews of *Dwarrowdeep* and it's moved firmly *off* the
+priority list for now.  *Barrowmaze* is still a strong "maybe", but why go for a
+"maybe" when I've been watching an [actual play of Arden Vul][] that makes it
+look very fun?
+
+But I may be getting ahead of myself a bit...
+
+After Sylea Rising---which is still happening!---we're going to play the Delta
+Green campaign *Impossible Landscapes*.  And then after *that*, will be the
+megadungeon.
+
+When am I going to run all these games?
+
+I haven't told the players yet, but I'm thinking of ending Sylea Rising around
+session 24.  That's 6 months of weekly sessions, which is a good run.  This week
+was session 11, so in one month we'll have a one-shot, then we'll have two more
+months of campaign, and then we're done.  I might change my mind on this, but it
+feels good to me right now.
+
+So in 3 months, we'll be starting *Impossible Landscapes*.  I've not read that
+fully yet, so I don't know how long that'll last... but there's another option,
+too.
+
+### Running three campaigns at once?
+
+The advantage of running something like a megadungeon is that it doesn't need
+much prep work week-to-week, you just need to make the dungeon react to whatever
+the players got up to in the last session, and review the areas that the next
+session is likely to cover.
+
+That could work well for an open table campaign.
+
+I could run *three* games a week: Cartographic Curiosities, *Impossible
+Landscapes*, and *The Halls of Arden Vul*.  I know a bunch of people who play
+RPGs that I don't currently play with.  My players know yet more.  Get them all
+in a Discord server and have them decide when they want to go into the dungeon,
+with a rotating cast of characters.  You play when you can make it.  Super
+low-commitment.  We could also use this to try out new players who might be good
+members of the other groups.
+
+I need to think more about it, and talk to the players, but it's appealing.
+
+On the other hand... doing a megadungeon crawl with a consistent group of
+players has its appeal too.  With an open table, you need to limit dungeon
+delves to one (or at most two) sessions, so that one group of players being in
+the dungeon doesn't either block others or cause time-travel paradoxes (since
+both groups are playing at separate real-world times, despite it being
+overlapping in-game time), which means introducing mechanics like "roll to see
+if you escape the dungeon" if the session ends before the party makes it out.
+The tone changes.  Perhaps a West Marches game would be better?
+
+Ah, so many ideas...
+
+[actual play of Arden Vul]: https://www.youtube.com/playlist?list=PLtBYin1uOBmCs1hSQQqxesYPbod7Y5Cfq
+
+
+## obsidian.md
+
+I've now fully migrated my RPG notes to [Obsidian][], and used it to run this
+week's Sylea Rising game, which was a nice validation of the approach.  It
+worked well, definitely an improvement over how I was doing things.
+
+I imported all my previous campaign notes too.  I haven't given these the full
+breakdown-and-hyperlinking treatment, but I've at least broken top-level
+sections into their own notes.
+
+I've *also* migrated off [Wiki.js][], which I was using to keep track of some
+household things like recipes and shopping lists.  Why have two note-taking
+systems when one works?  I'm considering migrating some of my more personal
+memos, like [the book wishlist][], into Obsidian too.  Having that sort of thing
+online isn't useful to anyone, not even me.
+
+[Obsidian]: https://obsidian.md/
+[Wiki.js]: https://js.wiki/
+[the book wishlist]: https://memo.barrucadu.co.uk/book-wishlist.html
+
+
+## Link Roundup
+
+### Roleplaying games
+
+- [Encounter Checklist](https://www.prismaticwasteland.com/blog/encounter-checklist)
+- [Open Table Manifesto](https://thealexandrian.net/wordpress/38643/roleplaying-games/open-table-manifesto)
