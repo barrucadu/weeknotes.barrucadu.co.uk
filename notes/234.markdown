@@ -1,0 +1,122 @@
+---
+date: 2023-03-12
+---
+
+## Books
+
+This week I read:
+
+- [Fairyland][] by Paul McAuley
+
+  This was weird, it feels like cyberpunk, but also pretty different at the same
+  time.  You've got the aesthetics of immoral megacorps, downtrodden masses, and
+  high technology (including cyberspace), but the focus is on biotechnology.
+  This is a world where nanotechnology really took off, and devices (and drugs)
+  which rewrite your memories and even your genome are ever-present.
+  
+  The story is in three parts spread across decades, with a consistent core of
+  main characters who shows up in all of them, but are otherwise in different
+  places and with different casts of secondary characters.
+  
+  One slight criticism I have of the book is that the gap in themes and setting
+  between the first part and the rest of the book is pretty big: the first part
+  is about awakening sentience in the dolls, and then the second part begins a
+  decade or two later, with there being a significant subpopulation of these
+  awakened dolls, who are kind-of-human-but-not and who have evolved their own
+  nanorobots to make them appear beautiful and mysterious to regular humans
+  (hence, "fairies").  There's a lot that wasn't really explained, and I felt
+  the story would have benefited from a small intermediary section about the
+  rise of the fairies, rather than ending one part with there being one fairy
+  and then starting the next with them being a large population.
+
+[Fairyland]: https://www.goodreads.com/en/book/show/654617
+
+
+## Roleplaying Games
+
+Look what came in the post this week:
+
+![Into the Cess and Citadel](notes/234/into-the-cess-and-citadel.jpg)
+
+Wow, this really arrived much more promptly than their previous book, *Into the
+Wyrd and Wild*, it's only been like 7 months since the crowdfunding campaign
+ended!
+
+I'm pleased to see that the art is *much* higher resolution than in the PDF.
+When I first saw the PDF, I wondered whether it was placeholder art they'd
+somehow forgotten to update before sending the files out.  Just low resolution,
+and not great colours.  It's a shame the PDF is so bad, but the physical book
+looks nice.
+
+### Sylea Rising
+
+This week we started with the new PCs, I introduced three of their NPC contacts,
+the players got a slew of potential jobs, and then most of the session was a
+heist where the PCs had to break into an office building for an arms company to
+look for evidence that they were selling weapons to the corsairs.
+
+I prepared a map, using the [Starship Geomorphs pack][] which is a nice
+collection of rooms that, with a *little* editing, works just fine for buildings
+as well (close up some external doors, remove some iris valves, etc).
+
+Fun was had by all, the players have several things to follow up on next
+session, and I'll also introduce a couple more NPC contacts.
+
+To generate new jobs, I've got two plots going on: firstly, there's a band of
+corsairs who I've decided have fallen on bad times and so are becoming
+increasingly desperate and daring, who I hope will be the primary antagonists in
+this region of space (the players have already run into them a couple of times);
+and secondly, I've added in a mad scientist making dangerous psionic drugs, who
+one of the PC's criminal contacts has asked to investigate (dangerous drugs are
+bad for business).  Those should be a fine way to generate both planet-based and
+space-based jobs (and complications to other jobs).
+
+[Starship Geomorphs pack]: http://travellerrpgblog.blogspot.com/2020/07/starship-geomorphs-20.html
+
+### Future games
+
+The schedule is decided!  I've let the players know that I was thinking of
+ending Sylea Rising and starting *Impossible Landscapes* in June, and we've also
+decided on a date for the next one-shot.
+
+So, we have:
+
+1. Four sessions of Sylea Rising (mostly focussing on the Vargr party)
+2. One session to play [Tomb Robbers of the Crystal Frontier][]
+3. Six sessions of Sylea Rising (evenly split between the Vargr party and the original party)
+4. One week off
+5. And then we start *Impossible Landscapes* on the 11th of June!
+
+[Tomb Robbers of the Crystal Frontier]: https://www.youtube.com/watch?v=pUkPt9VcsWw
+
+
+## Miscellaneous
+
+I got some monitor arms this week.
+
+I've been moving my monitors around, rotating them, tilting them, moving them up
+and down, side to side... this is a game-changer.
+
+Normally, I have one landscape monitor on the left, and two portrait monitors on
+the right.  It works well for reading and writing.  But I've now found that for
+running RPG sessions, having two landscape monitors is pretty nice: I can have
+the virtual tabletop open on one, and multiple pages of notes on the other.  I'm
+not sure yet what to do with the third monitor in that set-up though, I've been
+putting it landscape but *above* one of the other landscape monitors, and using
+it to have two PDFs visible.
+
+But even if I couldn't adjust them, just getting rid of the big bulky monitor
+stands has given me so much more desk space.  I can't believe I let monitor arms
+languish on my to-do list for so long!
+
+
+## Link Roundup
+
+### Roleplaying games
+
+- [Inviting the Principal PC to Act](https://theangrygm.com/inviting-pcs-to-act/)
+- [The Declare-Determine-Describe Cycle](https://theangrygm.com/declare-determine-describe/)
+
+### Miscellaneous
+
+- [Collections: How to Polis, 101, Part I: Component Parts](https://acoup.blog/2023/03/10/collections-how-to-polis-101-part-i-component-parts/)
