@@ -1,0 +1,110 @@
+---
+date: 2023-03-19
+---
+
+## Books
+
+This week I read:
+
+- Volume 1 of [A Folklore Bestiary][] from The Merry Mushmen
+
+  It was good, I've got some gameable content from it (the Angelheads will
+  likely be making an appearence in my Dolmenwood game, and the swamp-lair of
+  the Cuca will probably show up as a mini adventure site).  Though I do wonder
+  if them making these increasingly-specialised zines (there's three now!) is
+  worth it compared to just putting out new issues of *Knock* more frequently.
+
+[A Folklore Bestiary]: https://www.themerrymushmen.com/product/a-folklore-bestiary-for-old-school-essentials-tmm/
+
+
+## Roleplaying Games
+
+### Cartographic Curiosities
+
+It feels like it's been forever, though it's only been 2 months.
+
+One thing that really stood out to me this session is that it's much slower
+going with the revised exploration rules: the players managed to fully explore
+one hex and partially explore two more (I revised a previous ruling where I
+allowed the players to fully explore a hex which was bisected by a river: I've
+decided that now they need to actually cross the river to explore the other
+side), and that took them three full days.  Rations and camping gear are now way
+more important, which is a good thing.
+
+Along the way they rescued a minstrel---who the minstrel PC is forming a nice
+rivalry with---encountered a bunch of insufferable but incompetent do-gooders,
+and had their first run-in with the forces of the Nag-Lord: a group of
+Crookhorns protecting a river crossing and demanding a toll from all who use it.
+
+The Crookhorns slightly outnumber the party, so the players formed a plan: send
+out the PC and NPC minstrels to distract as many of the Crookhorns as they can
+with music and then jump the other Crookhorns, gaining a one-round advantage in
+the ensuing melee.  It's a good plan, the two groups are pretty evenly matched,
+which means that some PCs or their retainers would likely die even if they won
+the fight, but this plan might be enough to turn the tide of battle and make it
+a much stronger win.  We'll see next time.
+
+### Sylea Rising
+
+Another Vargr session this week, the players started looking into a dangerous
+new drug which their shady contact is concerned about (it's bad for business).
+One of the PCs took the drug, which I should really have anticipated and
+prepared for, but I was able to come up with something.  Surprisingly, Traveller
+doesn't have rules for addiction, so I had to repurpose the disease rules.
+
+Well, all's well that ends well: that PC is in rehab, and the others have a
+concrete lead they can follow up, they found the warehouse that the drug is
+stockpiled in.  Now they just need to stake it out and wait for a delivery to
+arrive.
+
+Next session might be the continuation of this, or I might jump back to the
+other party.  I'm planning to run a [Rule of Man Commemorative][] / [Chariots of
+Fire][] combo for that group.  I put two warring states on the sector map way
+back at the beginning of the campaign to be the perfect location for *Rule of
+Man Commemorative* and at last it's going to happen!
+
+[Rule of Man Commemorative]: https://www.youtube.com/watch?v=LEOjVNkL8iI
+[Chariots of Fire]: https://www.youtube.com/watch?v=fUN3zc2hnU0
+
+### Impossible Landscapes
+
+This week I've been reading *Impossible Landscapes* and the *Delta Green* core
+rulebook cover to cover.  I'm now about half of the way through both.  The game
+is still a couple of months away, but I want to have read through these (and the
+*Handler's Guide*) fully at least once beforehand, so it's all in my brain,
+sloshing around.  I might also re-read *The King in Yellow*, always a fun time.
+
+
+## Miscellaneous
+
+The landlord *finally* signed my new tenancy agreement, so I'm definitely
+staying here for another year, at the same rent too.  Which is making me ponder
+some home improvements again...
+
+I kind of want a rack for all my computers and networking gear, but I've been
+putting it off for a while because it'll be a pain to move.  But (1) if I put
+things off until I'm in my forever home it'll be *years* before I do them, and
+(2) I have other things that'll be a pain to move (like a dining table and
+several bookcases) so is adding one more thing so bad?
+
+Maybe this year will be the year I do it.
+
+I also have a couple of ratty old posters which need replacing and framing.  Or
+maybe I'll go for different posters?  It's a map of Discworld and of
+Ankh-Morpork, which I've had for some years now, but to be honest I'm less of a
+Discworld guy than I used to be.  I've not read any of the books in a long time.
+Maybe a big framed Dolmenwood map, or some of my Traveller maps, would be an
+improvement?
+
+And then of course there's a whole array of other, more minor, improvements: a
+new chair, better air conditioning, more storage space... so many things to
+change, so little money (and so much effort when I finally do move out).
+
+
+## Link Roundup
+
+### Software engineering
+
+- [Quick VMs with NixOS](https://galowicz.de/2023/03/13/quick-vms-with-nixos/)
+- [Unbreakable Builds on Container Schedulers without Containers](https://blog.tjll.net/container-scheduling-without-containers/)
+- [Too Simple To Fail: Marrying Nomad, Caddy, and Wireguard](https://blog.tjll.net/too-simple-to-fail-nomad-caddy-wireguard/)
