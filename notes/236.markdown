@@ -1,0 +1,115 @@
+---
+date: 2023-03-26
+---
+
+## Books
+
+This week I read:
+
+- [The Witness for the Dead][] by Katherine Addison
+
+  A welcome return to the world of [The Goblin Emperor][], though not *really*
+  connected to the prior book.  I read it in one sitting, which I don't often do
+  any more, but Katherine Addison just writes an engaging story which keeps me
+  turning pages.
+  
+  It may sound a small detail, but I appreciate how well thought-out the elven
+  and goblin languages are.  Honorifics, personal names, place names, and other
+  pieces of terminology actually feel like they belong to a consistent language,
+  rather than just being the result of smashing a keyboard.
+
+- [Delta Green: Agent's Handbook][] from Arc Dream Publishing
+
+  I'm really looking forward to running Delta Green, so I'm digesting all the
+  material I can.  The Agent's Handbook, which is the player-facing rulebook, is
+  pretty well organised and concise, not too wordy.  And yet it also did a good
+  job I think of portraying the sort of stories that Delta Green is supposed to
+  run, with guidance on topics like how to misappropriate funds from your
+  employer, or how to dispose of a body.  Mechanically, it's similar to Call of
+  Cthulhu, but narratively it's a very different beast.
+
+[The Witness for the Dead]: https://en.wikipedia.org/wiki/The_Witness_for_the_Dead
+[Delta Green: Agent's Handbook]: https://shop.arcdream.com/products/delta-green-agents-handbook
+[The Goblin Emperor]: https://en.wikipedia.org/wiki/The_Goblin_Emperor
+
+
+## Roleplaying Games
+
+### Sylea Rising
+
+This week I ran [Rule of Man Commemorative][], though the players didn't figure
+out *any* of the spy stuff and managed to solve all their problems with a single
+high-speed grav-bike: escaping pursuers, jumping canyons, and flinging armed
+teenagers through windows are all in a day's work.
+
+I'll wrap up the psion-drug storyline in the next two sessions, and then it's
+onto the one-shot of...
+
+[Rule of Man Commemorative]: https://www.youtube.com/watch?v=LEOjVNkL8iI
+
+### Tomb Robbers of the Crystal Frontier
+
+I picked up the module this week, read the PDF and the book should be arriving
+in the near future.  It sounds fun, I think this was the right choice.  The
+western feel to the area around the dungeon is different, but interesting.  I
+decided to play into that with the characters I rolled up, giving them all
+cowboy-themed names ([using the Fantasy Name Generators site][]).  I also
+generated some simple character portraits with DALL-E, just to make choosing a
+character a bit more fun than looking at a bunch of numbers:
+
+![DALL-E character portraits](notes/236/dalle-characters.png)
+
+- Oakley is an Illusionist
+- Nancy is a Cleric
+- Janser is a really ugly Halfling (I rolled 4 CHA with 4d6 drop lowest!)
+- Edwin is a Bard
+- David is a Fighter (I'm not sure what's going on with his hat, I might regenerate him)
+- Dania is a Dwarf
+- Dane is a Magic-User
+- Crimes Johnson is a Thief
+- Bess is a Fighter
+- Alloralla is an Elf
+
+All characters are level 1.  I've rolled spells for the spellcasters, but we'll
+roll up equipment after everyone chooses their character.
+
+I wanted a good variety of classes, so nobody feels like they're missing out on
+their favourite fantasy tropes, and so the group can try out a variety of
+mechanics.  We're also getting three new players who've never played an RPG
+before: I usually run a fairly human-centric game, but I made sure to include
+the classic non-human races since in this case I don't want to be the grumpy old
+GM who tells the newbies they can't an elf or whatever.
+
+[using the Fantasy Name Generators site]: https://www.fantasynamegenerators.com/cowboy-names.php
+
+
+## Miscellaneous
+
+I've been watching [The Boys][] this week.  I quite enjoyed season 1, not very
+far into season 2 yet but I'm liking where it's going.  I think there's a lot of
+potential in the corrupt-superheroes genre: [Invincible][] was good too (looking
+forward to season 2 of that), and of course there's also [Watchmen][].
+
+I remember there was some controversy when season 3 came out, over the depiction
+of Homelander, the American-themed Superman-parody.  People thought the show was
+getting too political.  But, wow, this show hasn't exactly been subtle about its
+politics.  Almost all of the superheroes are callous and cruel, abusing their
+powers for their own personal gain, the villain is a huge pharmaceutical
+corporation, and everything's covered up by appealing to American
+exceptionalism.
+
+It's hard to see how someone could have watched season 1 and *not* realised that
+Homelander and his ilk are parodies of all the worst parts of modern US
+corporate capitalism.
+
+[The Boys]: https://en.wikipedia.org/wiki/The_Boys_(TV_series)
+[Invincible]: https://en.wikipedia.org/wiki/Invincible_(TV_series)
+[Watchmen]: https://en.wikipedia.org/wiki/Watchmen
+
+
+## Link Roundup
+
+### Miscellaneous
+
+- [Collections: How to Polis, 101, Part IIa: Politeia in the Polis](https://acoup.blog/2023/03/17/collections-how-to-polis-part-iia-politeia-in-the-polis/)
+- [Collections: How to Polis, 101, Part IIb: Archons](https://acoup.blog/2023/03/24/collections-how-to-polis-101-part-iib-archons/)
