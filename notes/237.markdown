@@ -1,0 +1,119 @@
+---
+date: 2023-04-02
+---
+
+## Books
+
+This week I read:
+
+- [Delta Green: Impossible Landscapes][] from Arc Dream Publishing
+
+  Wow.  This is going to be a wild ride.
+
+- Volume 15 of [Overlord][] by Kugane Maruyama
+
+  I enjoyed this, but felt it was a little... short.  It's got fewer pages than
+  the previous couple of volumes, and not that much happened.  Not really sure
+  why this story arc is split across two volumes.
+
+  Something I am looking forward to seeing is the resolution of an old bit of
+  foreshadowing, a suggestion that perhaps Albedo and Demiurge are beginning to
+  doubt Lord Ainz---which doesn't come across in the anime at all so far---as in
+  this volume Albedo voiced the opinion that perhaps Lord Ainz was just making
+  something up as he went along, and she thought some of his praise of her was
+  sarcastic.  It'll be interesting to see how Albedo proceeds, as she knows that
+  publicly questioning Lord Ainz without getting the other guardians on her side
+  first is tantamount to suicide.
+
+  We know that other players have come from Yggdrasil before, but where are they
+  now?  Did *their* NPC companions eventually realise they weren't gods, and
+  struck them down?
+
+[Delta Green: Impossible Landscapes]: https://shop.arcdream.com/collections/role-playing-games/products/delta-green-impossible-landscapes
+[Overlord]: https://en.wikipedia.org/wiki/Overlord_(novel_series)
+
+
+## Roleplaying Games
+
+### Schedule changes
+
+This week I and the Sylea Rising players had a chat about the campaign, and
+decided to end it even sooner than planned.  So now the plan is:
+
+- 04-09: final session of Sylea Rising
+- 04-16: Old School Essentials *Tomb Robbers of the Crystal Frontier*
+- 04-23, 04-30, 05-07: we'll figure it out at the time, maybe boardgames or something
+- 05-14, 05-21, 05-28: Alien *Chariot of the Gods*
+- 06-04: no session
+- 06-11: session 0 for Delta Green *Impossible Landscapes*
+
+We'd previously planned for Sylea Rising to continue until the end of May, so
+this is a pretty drastic change.  We don't even have plans for three of the
+sessions!
+
+I decided to broach the topic and suggest ending the campaign early for two
+reasons.  Firstly, since deciding on the start date of *Impossible Landscapes*,
+I'd found myself counting down the Sylea Rising sessions, thinking of them as *a
+hurdle to get through* rather than *a thing fun in its own right*.  That's how I
+started to feel when we played *Wicked Ones*, and it's not good.  Secondly, one
+of the players---the player most keen to do Traveller in the first place---was
+pretty quiet for two sessions in a row, they brushed it off when I checked in
+with them, but I suspected that they were getting a bit bored of Traveller as
+well.
+
+And I was right.
+
+Nobody had really wanted to say anything, thinking that everybody else was
+having fun, but the general feeling was that we'd played a *lot* of Traveller
+over the last year and a half, and that it was probably a mistake to jump into
+Sylea Rising so soon after we ended our previous *Pirates of Drinax* campaign
+(which itself kind of fizzled out rather than reaching a satisfying conclusion).
+We all like space opera, but we need variety too.
+
+Communication is important.  Nobody wants a dull game with no investment which
+kind of limps towards a conclusion.  Better to end things sooner and do
+something quick and easy before the next campaign starts.
+
+### Sylea Rising
+
+So this week was the finale for the Vargr Gang.
+
+We wrapped up the psion-drug plotline, which I had intended to last for two
+sessions but the players essentially speed-ran the last few parts of the
+scenario, including deciding to take combat drugs and *sprint* through the mad
+scientist's space lab to find him before the drugs wore off.
+
+Can't really do a space-dungeon crawl if the players aren't crawling.
+
+And then they killed the mad scientist in the very first round of combat, before
+he even knew they were there and could turn on his combat robot.  Oh well.  They
+had fun.  I can bring out a mad scientist monologue in another game, I suppose.
+
+So next week will be a totally unexpected session for the Imperium Gang!  Maybe
+*Chariots of Fire*, since I decided not to combine that with *Rule of Man
+Commemorative* in the previous session.
+
+
+## Miscellaneous
+
+I watched season 2 of [The Boys][] this week.  I liked how the racist character
+called Stormfront who whipped people into a frenzy through memes was a *literal*
+Nazi who had been alive since the early 1900s.  Well, season 3 next.  Time to
+see what Homelander did to annoy the right-wing viewers.
+
+It's also time for the new anime to start.  I've got a few things I'll
+definitely be checking out, like the second seasons of Ancient Magus Bride and
+G-witch, but I still need to give the season chart a proper look-through.
+
+[The Boys]: https://en.wikipedia.org/wiki/The_Boys_(TV_series)
+
+
+## Link Roundup
+
+### Roleplaying games
+
+- [How to Handle Parley as an OSR DM](https://goblinpunch.blogspot.com/2023/03/how-to-handle-parley-as-osr-dm.html)
+
+### Software engineering
+
+- [LenPEG](https://www.dangermouse.net/esoteric/lenpeg.html)
