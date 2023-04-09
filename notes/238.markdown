@@ -1,0 +1,111 @@
+---
+date: 2023-04-09
+---
+
+## Books
+
+This week I read:
+
+- [The King in Yellow][] by Robert W. Chambers
+
+  Such a great collection of stories, other than the utterly forgettable ones
+  which don't mention the King in Yellow at all.
+
+[The King in Yellow]: https://en.wikipedia.org/wiki/The_King_in_Yellow
+
+
+## Roleplaying Games
+
+### Cartographic Curiosities
+
+This week the players managed to gain a strong advantage in a fight with a
+cunning plan, I got to whip out some of my pre-rolled random encounters, and
+nobody promised their soul to an ancient forest spirit.  A great success on all
+counts.
+
+At the start of the session, the players were facing down a bunch of Crookhorns
+(think "orcs" but goatfolk) who slightly outnumbered them, and who were
+demanding money.  Now, the Dolmenwood Minstrel class can fascinate mortals by
+playing music and singing, and one of the players is a minstrel.  They'd also
+picked up an NPC minstrel who had decided to accompany the party until he got
+back home.  So the two minstrels approached the Crookhorns being all "now now
+friends, there's no need to be hasty, let's resolve this nonviolently" and began
+playing their music.  This ensnared most of the Crookhorns, who proceeded to
+approach the minstrels (their friends who hadn't realised the situation yelling
+things like "get 'em boys" and "make sure to take that shiny lute!"), whereupon
+they were jumped by the rest of the party, who essentially gained a one-round
+advantage over the fascinated Crookhorns.
+
+After a couple of rounds enough of them had been killed or blinded (the Light
+spell is intense in older editions), and the rest fled into the forest, leaving
+the party to continue exploring.
+
+I had planned for the party to find the lair of a corrupted centaur, with a
+shiny magical mace inside, but they decided to retreat from the dark spooky
+woods and explore elsewhere.  So instead I brought out two of my pre-rolled
+random encounters: a cave full of giant fire beetles with something shiny inside
+(they decided to come back to that later) and a cottage full of runaway teenage
+druid girls who have *had enough* of their fathers introducing them to nice
+boys.
+
+The druid girls patched up their wounds and shared some information in exchange
+for stories of life outside the Dolmenwood, and once recovered the party
+returned to town to *finally* level up.
+
+Will they ever return to the dungeon they started exploring several sessions
+ago?  Will they ever find the other dungeon I've put on the map just beyond the
+bordeer of where they've explored near town?  Or will they just keep heading
+further and further out without ever returning to anything?  Who knows!
+
+I should probably add another dungeon or two.
+
+### Sylea Rising
+
+Today we wrapped up the campaign.  I ran the Traveller4 scenario *The Sleepers*,
+in which the players find a long-abandoned Second Imperium cryogenics facility
+called "A Better Tomorrow", which has become a holy site for a local tribe who
+believe that the world will end if the sleeping gods within are ever woken up.
+Along the way the players get to interact with some insane caretaker-robots and
+rescue two sleepers from imminent cryo-pod failure.
+
+It was a good ending, really got back to the roots of what I wanted this
+campaign to be about: exploring ancient and weird locations, and figuring out
+artefacts from before the Long Night.
+
+Despite being for a different edition of Traveller, it was straightforward to
+run.  One of the strengths of Traveller is that converting material between
+editions (in most cases) is really easy.
+
+We wrapped up with a short epilogue for each character.  It'll probably be a
+couple of years before we return to Traveller, but it was fun while it lasted.
+
+Next up: [Tomb Robbers of the Crystal Frontier][]!
+
+[Tomb Robbers of the Crystal Frontier]: https://www.youtube.com/watch?v=pUkPt9VcsWw
+
+
+## Miscellaneous
+
+[What-Cha][], my usual loose-leaf tea shop is great and I never fail to spend my
+monthly tea budget on nice things, but it's been out of puerh for a while.  So
+I'm branching out.  Trying a few other places.  Increasing the variety.
+
+To start with, I've ordered two types of puerh from [Yee On Tea][].  I've heard
+good things about [Yunnan Sourcing][] and [Taiwan Sourcing][] too.  I'll report
+back after it arrives.
+
+[What-Cha]: https://what-cha.com/
+[Yee On Tea]: https://yeeonteaco.com/
+[Yunnan Sourcing]: https://yunnansourcing.com/
+[Taiwan Sourcing]: https://taiwanoolongs.com/
+
+
+## Link Roundup
+
+### Roleplaying games
+
+- [Lessons from West Marches - A guide to improving West Marches play](https://old.reddit.com/r/DMAcademy/comments/adn178/lessons_from_west_marches_a_guide_to_improving/)
+
+### Miscellaneous
+
+- [Collections: How to Polis 101, Part IIc: The Courts](https://acoup.blog/2023/04/07/collections-how-to-polis-101-part-iic-the-courts/)
