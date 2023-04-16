@@ -1,0 +1,81 @@
+---
+date: 2023-04-16
+---
+
+## Books
+
+This week I read:
+
+- [Delta Green: Handler's Guide][] from Arc Dream Publishing
+
+  There is a lot here.  Most of the book is metaplot (a history of Delta Green
+  and similar organisations, and their conflicts and activities, even bringing
+  in real-world conspiracy theories as "real" things in the setting), a bestiary
+  of alien horrors, and a collection of spells.  Which is very cool and would be
+  a lot of help if I were writing my own campaign, but I'm not: I'm going to run
+  *Impossible Landscapes*.  So, not very useful.  Yet.  Hopefully in the future.
+  It was all good for getting a feel for the sort of setting and game Delta
+  Green is going for, though, and there was some campaign-running advice which
+  will transfer.
+
+[Delta Green: Handler's Guide]: https://shop.arcdream.com/collections/role-playing-games/products/delta-green-handlers-guide-hardback
+
+
+## Roleplaying Games
+
+### Tomb Robbers of the Crystal Frontier
+
+Alas, the three new players couldn't make it, and two of the regular players
+also had to skip on short notice.  Thankfully, one current player and one
+ex-player were able to attend, so we still got to play (with them each running
+two PCs).  It was fun, but as a means to induct new members into the group, it
+was an abject failure.  Oh well, maybe next time will be better.
+
+Heaping more misfortune onto the pile, one of the regular players who had to
+miss this session said that he'd have to miss *every* session until at least the
+end of next month, and may not be able to play even after that.  So I'm assuming
+the worst case for now, that he's out of the group.
+
+Which means there are only two regular players left in the group.  That is not
+enough for most games.  It's a bit of a crisis situation, the group desperately
+needs some new committed players or it may just fizzle out in a matter of weeks.
+
+But how *do* you find new players for an RPG group?
+
+
+## Miscellaneous
+
+I made some changes to [bookdb][] this week, for the first time in a while.
+Since I'm getting more print-on-demand books these days[^pod], and those tend to
+have EANs rather than ISBNs, I added EAN validation.  I also changed it so book
+codes have to be one of three formats:
+
+- `isbn-` and then a valid ISBN10 or ISBN13 code
+- `ean-` and then a valid EAN8 or EAN13 code
+- `x-` and then anything
+
+Whereas before it was totally freeform, but if the code was a 10- or 13-digit
+number it'd be validated as an ISBN.
+
+Then, I was so disgusted by the state of the code that I refactored it a bunch
+(only breaking it twice in the process), and even added a few tests for the ISBN
+and EAN validation, [using Hypothesis][], which is one of those tools I've
+always wanted to use but never had reason to.  In fact, this is possibly the
+first time I've ever written Python tests.
+
+[^pod]: Though, these are RPG books from DriveThruRPG.  If the group falls apart
+  I guess that'll slow down my RPG spending...
+
+[bookdb]: https://bookdb.barrucadu.co.uk/search
+[using Hypothesis]: https://github.com/barrucadu/bookdb/blob/master/tests/test_codes.py
+
+
+## Link Roundup
+
+### Roleplaying games
+
+- [Non-Euclidean Geography](https://goblinpunch.blogspot.com/2016/09/non-euclidean-geography.html)
+
+### Miscellaneous
+
+- [Collections: How to Polis, Part III: People and Gods Beyond the Politai](https://acoup.blog/2023/04/14/collections-how-to-polis-part-iii-people-and-gods-beyond-the-politai/)
