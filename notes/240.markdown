@@ -1,0 +1,57 @@
+---
+date: 2023-04-23
+---
+
+## Books
+
+This week I read:
+
+- [The Dwarves][] by Markus Heitz
+
+  I felt like reading something about dwarves.  And so I found the most dwarfy
+  book I possibly could: *The Dwarves*, first of the series of the same name,
+  about a young dwarf raised amongst humans who has to channel his inner
+  dwarfishness to overcome hardships and save all the dwarves (and everyone
+  else).
+  
+  I thought the plot developed at a good pace, and Tungdil the
+  dwarf-raised-amongst-humans being the point-of-view character really worked
+  well for introducing the world to us as readers without needing exposition
+  dumps.  The ignorant youth heading out into the wide world for adventure is a
+  common trope for a reason.  I've added the series to my list, so I'll be
+  checking out the next instalment soon.
+
+[The Dwarves]: https://en.wikipedia.org/wiki/The_Dwarves_(novel)
+
+
+## Miscellaneous
+
+This week I watched [The Last of Us][] which was very well done, and I have to
+say I like this emerging genre of "Pedro Pascal escorts a child through a
+dangerous environment", having also seen [The Mandalorian][] and [Prospect][].
+I've not played the game, soI can't say how faithful an adaptation it is, and I
+don't know how much there is left in the story, but I'm looking forward to
+season 2 when that comes out.
+
+I'd heard about the hospital scene before (in [Matt Colville's "Roleplaying"
+video][]), so I was curious to see whether the TV show also handled that as a
+massacre.  Which it did.
+
+I'd probably have done the same in the game.
+
+Speaking of games, today I've been checking out [Stellaris][], which I've owned
+for years but never played.  I like Paradox's grand strategy games.  I've put
+many hours into Crusader Kings and Europa Universalis.  So I think I probably
+picked Stellaris up pretty close to launch.  And yet it's just sat there
+unplayed.  Well, no longer.
+
+I think I'm starting to get the hang of it, and I also think I've messed up my
+first game by not focussing on research enough, so all the alien empires are
+pulling ahead of me at an ever increasing rate.  Oh well, there's always next
+time.
+
+[The Last of Us]: https://en.wikipedia.org/wiki/The_Last_of_Us_(TV_series)
+[The Mandalorian]: https://en.wikipedia.org/wiki/The_Mandalorian
+[Prospect]: https://en.wikipedia.org/wiki/Prospect_(film)
+[Matt Colville's "Roleplaying" video]: https://www.youtube.com/watch?v=7YCVHnItKuY
+[Stellaris]: https://en.wikipedia.org/wiki/Stellaris_(video_game)
