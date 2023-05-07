@@ -1,0 +1,117 @@
+---
+date: 2023-05-07
+---
+
+## Books
+
+This week I read:
+
+- [Elric of Melniboné and Other Stories][] by Michael Moorcock
+
+  Elric!  One of the classics of sword & sorcery!  I've wanted to read it for so
+  long!  But it's always been out of print or out of stock, I'd all but given up
+  hope.  Then, on Monday, on a whim I decided to go to Foyles on Charing Cross
+  Road.  I'd already spent my discretionary budget for the month (immediately
+  after payday, as always happens), so I wasn't planning on getting anything, I
+  was just going to browse.
+  
+  And there, in the fantasy section, to my great surprise, was a shelf *full* of
+  Elric books.  It seems Gollancz has decided to republish *all* of Michael
+  Moorcock's stuff!
+  
+  Well, I could hardly pass that up.  I got them all.  And the Corum books.  And
+  The Eternal Champion.  I'll get the rest some other time, I have enough to
+  work on for now.
+  
+  The book is basically everything I'd hoped for.  Some really classic fantasy
+  stuff.  Order, chaos, sorcery, magic swords, dream-quests... I devoured it in
+  two nights.
+
+[Elric of Melniboné and Other Stories]: https://en.wikipedia.org/wiki/Elric_of_Melnibon%C3%A9_(novel)
+
+
+## Roleplaying Games
+
+### The Halls of Arden Vul
+
+Well, we've given up on finding new players for now.
+
+So it's just me, two regular players, and a couple of people who are
+occasionally around but can't commit to anything regular.  So *Impossible
+Landscapes* is out.  It's a shame, we were all really looking forward to it, but
+I'd rather wait and run it with four players in the future than run it with two
+players now.
+
+This week we didn't play an RPG.  We played *Spirit Island* instead, which was
+pretty fun.  Afterwards I raised the elephant in the room, we talked about
+possible alternative campaigns, and have decided that next week will be session
+0 for *The Halls of Arden Vul*.
+
+I think this is a good fit because when the flaky players are around, or if
+someone new wants to try things out, they can just take over an NPC retainer
+(since it won't just be two PCs delving the dungeon on their own).  There's no
+overarching plot, just an overarching location, so it's easy for people to drop
+in and out according to their availability.  And if someone new who can't commit
+to a regular game joins the group to play occasionally, they might end up liking
+it enough that they *make* time for a regular game.
+
+*Impossible Landscapes*, we'll get to you one day!
+
+So, uh, now I just need to prepare for a huge megadungeon I'd not expected to
+run until next year, in the next fortnight.  So I've been reading volume 1
+(which covers the lower-level areas and is likely to be the subject of months of
+play), volume 4 (which covers all the peoples, places, items, and lore), and
+volume 5 (the maps) and hope to have at least a broad understanding of all that
+content by the time we start.  Week to week I'll read through the material I
+expect the next session to cover, but I'd like at least a rough overview before
+we start.
+
+Of course, one of the advantages of a megadungeon is that prep is pretty light:
+the author's done all that for you.  You just need to run it as written and,
+after every session, think about how the players have changed the status quo.
+But mapping of locations, finding of monster stats, creation of major factions
+and NPCs, is largely done for you.  It does look like I'll need to make maps for
+some of the adventure sites outside of the dungeon proper, but many of those
+sites are hidden and will take time for the players to find, so if I don't have
+it all ready by session 1 it's no big deal.
+
+It'll be fun!
+
+
+## Stable Diffusion
+
+I've been playing around with [Stable Diffusion][] (via [Easy Diffusion][]) this
+week and it is pretty amazing.  Back in March, I generated [some character
+portraits with DALL-E][] and they're *alright*, it's cool to see a computer
+making art, but they're all pretty basic.
+
+However, I had seen really good AI art, so I assumed I just didn't know how to
+use DALL-E properly.  After all, DALL-E is OpenAI's cutting edge proprietary
+model, it costs actual money to use (beyond a small monthly allowance), so it
+must be near the top, right?
+
+Reader, I was wrong.  So, so, wrong.  Stable Diffusion is so much better than
+DALL-E.
+
+![A mushroom person villager, generated with Stable Diffusion.](notes/242/villager.jpeg)
+
+The images are just... well, go check out [my Twitter thread sharing a bunch][].
+
+It's free.  It runs locally.  It takes mere minutes.  I'm no "prompt engineer",
+I'm sure there are tricks I don't know to generate the *really* good stuff, but
+just what I'm able to puzzle out myself is leagues ahead of what I was getting
+out of DALL-E.
+
+The age of bad NPC portraits is *over!*
+
+[Stable Diffusion]: https://github.com/CompVis/stable-diffusion
+[Easy Diffusion]: https://stable-diffusion-ui.github.io/
+[some character portraits with DALL-E]: notes/236.html#tomb-robbers-of-the-crystal-frontier
+[my Twitter thread sharing a bunch]: https://twitter.com/barrucadu/status/1655155050975567872
+
+
+## Link Roundup
+
+### Software engineering
+
+- [Google "We Have No Moat, And Neither Does OpenAI"](https://www.semianalysis.com/p/google-we-have-no-moat-and-neither)
