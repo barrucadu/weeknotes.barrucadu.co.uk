@@ -1,0 +1,148 @@
+---
+date: 2023-05-14
+---
+
+## Books
+
+This week I read:
+
+- Volumes 1, 4, and 5 of [The Halls of Arden Vul][] by Richard Barton
+
+  But more on that below.
+
+[The Halls of Arden Vul]: https://www.drivethrurpg.com/product/307320/The-Halls-of-Arden-Vul-Complete
+
+## Roleplaying Games
+
+### Cartographic Curiosities
+
+We returned to the Tomb of the Serpent Kings this session, and then it went in
+an unexpected direction.
+
+All but one character, a retainer, got petrified by the basilisk.  The players
+saw broken statues all over the floor, heard the clanking of a chain in the
+darkness, even joked that this was a Dark Souls boss room, and then decided to
+walk across it holding a torch high and check for the other exits.
+
+The basilisk got surprise on the party, which means they automatically met its
+gaze, and then all but two (a PC and a retainer) failed their saves and so got
+petrified.  The surviving PC leapt onto the basilisk's back and held its head up
+for a few turns before succumbing to petrification, giving the retainer time to
+drag most of the statues to the next room (which, sadly, wasn't back towards the
+exit).
+
+The surviving retainer made his loyalty check, so I decided that he'd try to
+find a cure, at least if it's not too dangerous.  So the players piloted this
+guy deeper into the dungeon---mostly trying to figure out how to escape without
+entering the basilisk room again---before bumping into a goblin.  The goblin
+said he had a secret way out, but refused to share it, and said that maybe the
+Goblin Market would have a cure for petrification.  So, with nowhere else to go,
+the retainer snuck through the basilisk room and made it back to the surface.
+
+So that was pretty much a TPK.
+
+I guess next session will start with a bunch of adventurers (new PCs)
+volunteering to quest to the Goblin Market for a petrification cure.
+
+### The Halls of Arden Vul
+
+Almost all of my free time this week has been spent preparing for this *huge*
+campaign.
+
+I've read a few hunded dense double-column pages covering setting lore,
+factions, new monsters, the local area around Arden Vul, the ruined city itself,
+and the dungeon areas the players could visit early on.  And I've skimmed
+hundreds more of stuff that isn't going to come up for a while but which I want
+to have a basic awareness of.
+
+The material is organised fairly sensibly:
+
+- Volume 1 starts with a broad overview of the setting, then talks about the
+  local area, the ruined city, and the first few dungeon levels.  I've read in
+  detail about half of this, and skimmed the rest.
+- Volume 2 covers the rest of the main dungeon levels.  I don't expect to need
+  this book for months, so I've not looked at it at all yet.
+- Volume 3 covers all of the sublevels.  There are a lot, and they're scattered
+  all over the rest of the dungeon, so I'll dip into this in my session prep as
+  needed.
+- Volume 4 covers monsters, magic items, spells, and more in-depth lore.  I've
+  read in detail the lore, the monsters which have significant factions, and
+  some of the easier-to-find magic items, and have skimmed the rest.
+- Volume 5 is just maps.  Despite having "read" the maps, I've not used this
+  book at all, since the PDFs have the full-size map images, not broken across
+  pages.
+
+Volume 5 is by far the most useless of the printed volumes, since the large maps
+that have been broken over pages aren't aligned to the grid.  So you'll have
+half of one row or column of squares on one page and the other half on the next,
+rather than the image being broken between rows or columns.  And there are so
+many pages.  It's way harder to use than the PDF maps.  But it was cheaper to
+get them all in a bundle, so volume 5 is sitting there on my shelf, never to be
+used.
+
+On the topic of maps, while a lot is mapped, there are a few small exploration
+sites in and around the ruined city itself that are merely described, and not
+mapped.  A few ruined palaces, a donjon (but not *the* dungeon), and a gladiator
+school.  I might make maps for these, I might not.  They're not super
+interesting, but they do have little bits of treasure and their own secrets, so
+maybe it's worthwhile.
+
+I had to figure out and set up our virtual gaming set-up too.  I decided to not
+use [Foundry][] for this campaign, because the drawing tools kind of suck and
+would make mapping really annoying; instead we're using [Owlbear Rodeo][].  But
+Owlbear doesn't have built-in character sheets, so I whipped up a template in
+Google Sheets for that:
+
+![Character sheet for Arden Vul (with AI-generated character portrait).](notes/243/arden-vul-character-sheet.png)
+
+I've also rewatched a bunch of the earlier episodes of [3d6 Down the Line's
+Arden Vul actual play][], to see how they introduced, approached, and
+foreshadowed things.
+
+It's been a lot of work, but after all that today we did...
+
+[Foundry]: https://foundryvtt.com/
+[Owlbear Rodeo]: https://www.owlbear.app/
+[3d6 Down the Line's Arden Vul actual play]: https://www.youtube.com/playlist?list=PLtBYin1uOBmCs1hSQQqxesYPbod7Y5Cfq
+
+#### The Session Zero of Arden Vul
+
+That's right!  Campaign talk, rules talk, and character creation.
+
+My proposed [house rules][] were accepted without complaint, *even* the bit
+about needing to pay for training.  I like it, but I wouldn't be surprised if
+the players end up watching to ditch it.  (I'm also fairly happy with the layout
+of my house rules doc, I took the opportunity to play around with some new
+fonts.)
+
+For characters, since we only have two regular players right now I had them roll
+up a PC and a retainer each, and I also gave them a henchman, giving us a
+respectable starting party of:
+
+- Calsif, Paladin (PC)
+- Cinnabar, Dwarf (PC)
+- Aesgeir, Mage (retainer)
+- Ethelflad, Acolyte (retainer)
+- Chyde, torchbearer / treasure carrier / combat liability (henchman)
+
+I've advised them to always have at least a couple of retainers around, so that
+when characters die nobody is just sat around waiting to get back in the game.
+
+And since we got through all that with an hour and a half of the session to
+spare, we immediately moved on to...
+
+[house rules]: notes/243/arden-vul-house-rules.pdf
+
+#### The Session One of Arden Vul
+
+We rolled for a start date (the middle of winter, ouch), I gave them a bunch of
+rumours, and then we started with them at the foot of the Long Stair, having
+approached and heard the waterfall and seen the colossi from a distance.
+
+Ultimately we didn't get much done in this part of the session.  They went up,
+looked at a few things, and headed over to the inn.  But there wasn't really
+time for actual dungeoncrawling, so they just ended up with a list of things to
+look into next session.
+
+It was still fun, and starting next to the dungeon with a bunch of leads, and
+having had a week to think about them, isn't a bad position to be in.
