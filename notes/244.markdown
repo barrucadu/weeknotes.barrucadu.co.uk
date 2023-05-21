@@ -1,0 +1,154 @@
+---
+date: 2023-05-21
+---
+
+## Books
+
+This week I read:
+
+- [Elric: the Fortress of the Pearl][] by Michael Moorcock
+
+  I've got to say, I find the order in which these books are organised a little
+  weird.  I think it's in-universe chronological order, rather than publication
+  order.  So the reader is just kind of dropped into things without having any
+  context.  I had the same feeling with the previous book, which starts with
+  *the script of a graphic novel prequel* which was a confusing start for
+  someone who didn't know anything about Elric beyond what's made its way into
+  general nerd culture.
+  
+  I'm still able to follow it, and it's all good and enjoyable, but it does feel
+  like I'm missing references and having to infer background details that would
+  be more apparent were the books arranged in publication order instead.  So
+  this might be a series I end up re-reading to fully appreciate.
+
+- [Three Hearts and Three Lions][] by Poul Anderson
+
+  This is, as far as I'm aware, *the* origin of some key fantasy tropes, like
+  law vs chaos, regenerating trolls, and paladins (at least the modern
+  formulation of paladins).  So I was mostly going into this looking for that
+  original context, but thankfully I also got a good story out of it as well!
+  
+  It's pretty short, I read it in a single day, and yet it's got so much
+  atmosphere packed into it.  It's got a very fairytale feel, I am certainly
+  going to draw upon it for my Dolmenwood campaign.  It also heavily references
+  the *Matter of France* which I---being a poorly read and uncultured
+  swine---didn't pick up on until the protagonist made the connection.  This
+  isn't the first time I've read some fantasy which has directly referenced
+  Charlemagne and his paladins, so I think I'll have to add those old classic
+  tales to my reading list.
+  
+  I thought it was pretty funny how the whole book up to near the very end is
+  the build up towards this big war between the forces of law and chaos, and
+  then the war itself is resolved in a couple of sentences: the protagonist gets
+  the magic sword he's been searching for, regains his memories, crushes the
+  fairy armies, and saves the world.  The story is the journey, not the
+  destination.
+
+[Elric: the Fortress of the Pearl]: https://en.wikipedia.org/wiki/Elric_of_Melnibon%C3%A9
+[Three Hearts and Three Lions]: https://en.wikipedia.org/wiki/Three_Hearts_and_Three_Lions
+
+
+## Roleplaying Games
+
+Once again, I've been looking at my RPG book wishlist and wondering what to get
+next.  I bought *The Halls of Arden Vul* months ahead of schedule (which turned
+out to be a good thing), so there's some space in my budget.
+
+Because I have two big campaigns running right now, I'm leaning towards
+collections of one-shots and short adventures for systems I plan to run in the
+future, rather than more published campaigns or sourcebooks.  I like to break up
+a campaign with the occasional one-shot.
+
+So right now I'm looking at:
+
+- *Destroyer of Worlds* and *Heart of Darkness* for the ALIEN RPG;
+- *Fear's Sharp Little Needles* and *The Things We Leave Behind* for Call of Cthulhu; and
+- *Black Sites* and *A Night at the Opera* for Delta Green.
+
+No Traveller or OSR books for the foreseeable future.  I've picked up a lot of
+those over the last couple of years, and I don't think I really need any more
+for now (beyond the Dolmenwood sourcebooks and adventures when the kickstarter
+happens).
+
+### Dolmenwood
+
+[Last time][] the whole party (except one retainer) got petrified by a basilisk
+and we decided to pick up with a *new* party of adventurers, recruited by this
+retainer to go free the original party.
+
+There's been a lot of talk since then.
+
+One player decided to drop out, rather than roll up a new PC.  They weren't
+really happy with the difficulty of the game, and it's something they've
+mentioned before so this isn't a new issue: they've played for nearly a year,
+but it's not for them.  That's sad, but fair enough.  Not every game is for
+every player, and they gave it a more than fair try.
+
+This then prompted a *long* group conversation about difficulty, genre
+expectations, the OSR philosophy in general, game systems, what sorts of games
+people like, whether we should just end the campaign here with this TPK and do
+something else...
+
+I think we've got past the crisis point though, we're sticking with Dolmenwood,
+we're not changing games entirely.  But the group is now leaning towards having
+a little time-skip and introducing a new party of PCs who aren't connected to
+the previous PCs at all.  They might hear a rumour that some adventurers went
+into the woods a few months back and only one returned, raving about a basilisk
+who killed his friends, but that's it.  These new characters aren't being
+introduced specifically to go and save the old PCs.
+
+So if we're changing things up from mapping the Dolmenwood, what next?
+
+I don't know.
+
+There have been a lot of good ideas, since the players are all now familiar
+enough with the setting to have specific agendas they'd like to pursue.  I'm
+going to give it a few more days and then nudge the players towards making a
+decision, so I can get something prepared.
+
+But I'm glad we're not leaving Dolmenwood behind.
+
+[Last time]: notes/243.html#cartographic-curiosities
+
+### The Halls of Arden Vul
+
+The players made their first foray into the caverns beneath the ruined city,
+after figuring out the puzzle at the Pyramid of Thoth which reveals the stairway
+down.  They got threatened and extorted by halflings, poked around a bunch of
+rooms, defeated a few skeletons and zombies, and didn't exactly find much in the
+way of monetary treasure but they found a few scrolls and potions which I'm sure
+will be useful in future delves.
+
+I'm giving additional XP for "feats of exploration" (see [my house rules][]), so
+they did end up gaining a few hundred experience points when they made it back
+to the inn.  This week they:
+
+- Solved a puzzle
+- Confirmed a rumour's veracity
+- Explored a bunch of rooms across two dungeon levels
+- Creatively dealt with some zombies
+- Found a magically concealed room
+
+Which is worth enough XP to get them 12% of the way to level 2.  It's something,
+but levelling up *just* from exploration isn't really practical, so next time
+they're planning to go visit the nearby town to stock up on supplies, then head
+back into the dungeon for a more serious delve.
+
+[my house rules]: notes/243/arden-vul-house-rules.pdf
+
+
+## Link Roundup
+
+### Roleplaying games
+
+- [Dolmenwood Progress Update — May 2023](https://necroticgnome.com/blogs/news/dolmenwood-progress-update-may-2023)
+- [Dolmenwood Player's Book — New Material](https://necroticgnome.com/blogs/news/dolmenwood-players-book-new-material)
+- [Why Telegraphing Danger Improved My DMing](https://www.youtube.com/watch?v=i4ZrTOexNJk)
+
+### Software engineering
+
+- [Uncensored Language Models](https://erichartford.com/uncensored-models)
+
+### Miscellaneous
+
+- [Comb jelly ancestor may have been first animal to branch from tree of life](https://www.science.org/content/article/comb-jelly-ancestor-may-have-been-first-animal-branch-tree-life)
