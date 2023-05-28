@@ -1,0 +1,71 @@
+---
+date: 2023-05-28
+---
+
+## Books
+
+This week I read:
+
+- [Elric: The Sailor on the Seas of Fate][] by Michael Moorcock
+
+  Which includes the *very first* Elric story: finally, I know how it all began!
+  It's kind of a stark contrast, going from one of the later-written stories
+  which features Elric and three other incarnations of the Eternal Champion
+  (Erekose, Corum, and Hawkmoon) to the very first story, and seeing the change
+  of writing style.  While the first story was *good*, the writing is definitely
+  worse than the later ones.
+  
+  Now in Elric's journey I've got to the point where the war between Law and
+  Chaos properly starts (with Elric summoning Arioch of Chaos and breaking some
+  ancient pact) and to the destruction of Melnibone (by Elric), so now I'm
+  looking forward to some proper cosmic struggles.
+  
+  Also, I've come to appreciate how apt the term "sword and sorcery" is for the
+  genre.  Elric has two tools---his magic sword and his sorcery---and he solves
+  *all* problems with them.
+
+[Elric: The Sailor on the Seas of Fate]: https://en.wikipedia.org/wiki/Elric_of_Melnibon%C3%A9
+
+
+## Roleplaying Games
+
+### The Halls of Arden Vul
+
+No dungeoneering this week: the party went to the nearby town to sell a gem and
+some scrolls they found in their previous delve, and then spent the rest of the
+session searching around in the ruined city for that other entrance they think
+they've found.
+
+They didn't exactly find what they were looking for, but they did find a couple
+of other interesting features, which could lead them deeper into the dungeon
+more quickly than I expected, so I'm reading up on levels 5 and 6 in
+preparation.
+
+This is great, I really like how interconnected Arden Vul is: the main entrance
+everyone knows about actually takes you straight down from the surface to level
+3 of the dungeon, the surface entrance to level 1 is harder to find.  And from
+level 3 there are passages leading to the surface, to several different dungeon
+levels, and to various sub-levels.  Some passages are easier to find, and so
+fairly well known to the adventuring community; others are less well known (or
+even totally unknown) and so knowing where they are gives you some advantage.
+But that advantage comes with risk, because the less well known (and less
+well-travelled) parts of the dungeon are more likely to have wandering
+unintelligent monsters!
+
+Despite being a dungeon, one of the most constrained environments imaginable,
+sessions are still really unpredictable.  And that's fun.
+
+
+## Link Roundup
+
+### Roleplaying games
+
+- [(Re-)Running the Megadungeon](https://thealexandrian.net/wordpress/5/roleplaying-games/re-running-the-megadungeon)
+- [(Re-)Running the Megadungeon – Part 2: Restocking the Dungeon](https://thealexandrian.net/wordpress/1248/roleplaying-games/re-running-the-megadungeon-part-2-restocking-the-dungeon)
+- [(Re-)Running the Megadungeon – Part 3: The Players Take Charge](https://thealexandrian.net/wordpress/49541/roleplaying-games/re-running-the-megadungeon-part-3-the-players-take-charge)
+- [Treasure Maps & The Unknown: Goals in the Megadungeon](https://thealexandrian.net/wordpress/1900/roleplaying-games/treasure-maps-the-unknown-goals-in-the-megadungeon)
+- [Breathing Life Into the Wandering Monster](https://thealexandrian.net/wordpress/7897/roleplaying-games/breathing-life-into-the-wandering-monster)
+
+### Software engineering
+
+- [Creating Viral Videos With AI](https://www.youtube.com/watch?v=pgdmhwtsntk)
