@@ -1,0 +1,73 @@
+---
+date: 2023-06-04
+---
+
+## Books
+
+This week I read:
+
+- [The Grief of Stones][] by Katherine Addison
+
+  Another instalment in the *Cemeteries of Amalo* murder mystery investigation
+  fantasy series.  I hesitate to call it a murder mystery really, since the
+  reader couldn't possibly figure the answer out from the information presented,
+  it's more of a character drama with murders as the backdrop.
+  
+  Once again I found myself really impressed with how Katherine Addison mixes in
+  fictional words in a way that both makes sense without needing explanation,
+  and feels like words from an actual other language.  Unlike, say, Elric where
+  none of the Melnibonean names (e.g. "Elric", "Cymoril", and "Yyrkoon") really
+  sound like they come from the same culture.
+
+[The Grief of Stones]: https://en.wikipedia.org/wiki/The_Grief_of_Stones
+
+
+## Roleplaying Games
+
+### Dolmenwood
+
+Since last time, there's been yet more talking, and now we *have* decided to end
+our Dolmenwood campaign.  Well, we gave it a good shot: we played for close to a
+year.  It was fun while it lasted, and I'm very much looking forward to the
+kickstarter for the finished books (which I'll no doubt run for a different
+group) in a month or two.
+
+### The Halls of Arden Vul
+
+Sadly, the only remaining original member of this group (other than me) decided
+to take a break for a while (I'm sensing a theme...).  But I managed to recruit
+one of my Dolmenwood players to this game, and another player who was having a
+break last month has said they might be up for joining in again.  So, you win
+some, you lose some.
+
+This week the party---to my surprise---*didn't* go to either of the other
+not-guarded-by-halfling-thugs entrances they found last time.  Instead, they
+went right back in the normal way to go investigate a secret tomb they'd heard
+about.  They kind of found it, but got chased off by a pack of ghouls that were
+nesting in there.  Oh well, at least the ghouls will keep the treasure safe from
+other adventuring parties.  For a little while.
+
+We also did some carousing, in which one of the PCs rolled that they burned down
+a tavern and an NPC *knows*.  I don't know who that NPC is yet, but that's a fun
+twist for when they're next in town.
+
+
+## Miscellaneous
+
+This week I got [a security issue filed against resolved][], which is a first.
+Since resolved responds to an unexpected "response" message with an error
+response, an attacker could craft a message with *the source address of
+resolved*, forcing it into a reply loop: the attacker sends this initial packet,
+resolved replies, the reply goes to itself, resolved replies again, ad
+infinitum.
+
+Pretty neat little problem, not one I'd considered, and perhaps explains why
+[Cloudflare is so aggressive about dropping not-strictly-valid queries][]: any
+leniency in what you accept is a potential vector for a clever attack.
+
+Thankfully not exploitable in my use-case, since I run it on my LAN only, but
+it's [a very simple fix][].
+
+[a security issue filed against resolved]: https://github.com/barrucadu/resolved/issues/246
+[Cloudflare is so aggressive about dropping not-strictly-valid queries]: https://github.com/barrucadu/resolved/pull/75
+[a very simple fix]: https://github.com/barrucadu/resolved/pull/247
