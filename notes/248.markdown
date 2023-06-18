@@ -1,0 +1,106 @@
+---
+date: 2023-06-18
+---
+
+## Books
+
+This week I read:
+
+- [Elric: The Sleeping Sorceress][] by Michael Moorcock
+
+  This one was a bit strange, since only one of the stories in the collection is
+  about Elric.  There's a short story version of *The Eternal Champion* (which
+  really confused me since there's also a full book-sized version of that story,
+  but it looks like a *Childhood's End* situation), but the single largest story
+  is *The Sleeping Sorceress* which is about Elric and it returns to the
+  sorceress which Earl Aubec met in the short story which introduced him.
+  There's also shorter stories about Earl Aubec, Alexander the Great, a German
+  albino magic sword wielder (who may be one of Elric's dream-manifestations),
+  and a penis joke.
+  
+  The final story in the book, *The Flaneur des Arcades de l'Opera* stood out to
+  me for two reasons.  Firstly, it's set in our real world, with secret
+  departments of the UK and French governments working together against
+  extraplanar threats, so there's this amusing juxtaposition of totally normal
+  police talk with discussion of magic, souls, Law vs Chaos, and the multiverse;
+  and also because there's this really cool depiction of the Cosmic Balance:
+  
+  > [Begg's] immediate instinct was to step back.  There below them, its blade
+  > pointing down into the dancing, obscuring mist, he could see the shape of a
+  > gigantic black sword fashioned to resemble a balance, with a cup depending
+  > from each arm.  Within the metal of the black blade scarlet characters
+  > writhed and twisted, the gleaming bejewelled cups moved slowly as they
+  > measured the weight of the world's pain.  Multicolored strands of ectoplasm
+  > swirled from the bowls.  Begg knew instinctively in his soul that once again
+  > he did indeed look upon the legendary Cosmic Balance which regulated the
+  > entire multiverse, weighing Law and Chaos, good and evil, truth and
+  > falsehood, life and death, love and hate, maintaining the equilibrium, and
+  > therefore the existence, of all created matter.
+  
+  Also, Hitler is involved, somehow.  In Moorcock's multiverse, Hitler was
+  thwarted before the war, and turned to magical means...
+
+- [The Haunting of Hill House][] by Shirley Jackson
+
+  I saw this on the shelves in a book shop a little while back, and it just
+  called to me.  The cover is nice and soft, the paper is good quality, and the
+  edges are deckled, it *feels* like some old artefact.  Penguin really outdid
+  themselves with this edition.
+  
+  The story is a true ghost story.  There are no monsters, very little is
+  actually *seen*, and that which we do see is only from the perspective of one
+  or two characters at a time.  The supernatural manifestations could plausibly
+  be explained away as hallucinations---the effects of a weird house and tense
+  atmosphere on the mind---or just coincidences which the characters give
+  additional meaning due to the environment.  It felt like I was reading an
+  M. R. James short story, who is the undoubted master of the genre.
+  
+  But there's also humour too.  I really liked the twist of two supernaturalists
+  coming to the house a few days after the rest of the characters, with all
+  their paraphernalia, and experiencing absolutely nothing conclusive despite
+  everyone else being terrorised at night.  Was the house toying with them?
+  Were they just unable to see what was happening before them?  Were there
+  actually no supernatural manifestations and everyone else was acting strange?
+  We just don't know.
+  
+  Great story, great writing, I couldn't put it down and read the whole thing
+  over one afternoon.
+
+[Elric: The Sleeping Sorceress]: https://en.wikipedia.org/wiki/Elric_of_Melnibon%C3%A9
+[The Haunting of Hill House]: https://en.wikipedia.org/wiki/The_Haunting_of_Hill_House
+
+
+## Roleplaying Games
+
+### The Halls of Arden Vul
+
+This week the players continued their delve deep into the Halls, finding two
+more significant locations (the Inn of the Lost and the Arena), a safe haven
+inside the dungeon where they can rest and gain XP (the Inn), and learning a
+little more about the factions and their relationships.  They know that the
+goblins hate the beastmen and have an uneasy friendship with the trolls, that
+the trolls like stomping on everyone, and that there are Set cultists running
+around.
+
+The players are now really starting to hurt for money.  Everything down in the
+Halls is expensive, but they've been spending almost all the treasure they find
+immediately on carousing (for additional XP) or on equipment.  They're not broke
+yet, but they will be if they don't make a good find soon.  And so we ended the
+session with them heading off in search of a "fancy tomb" they heard about
+somewhere to the west of the Troll Lifts.
+
+
+## Miscellaneous
+
+It's hot!
+
+![Indoor temperatures for the last 14 days.](notes/248/temperature.png)
+
+The portable AC unit I've got in my bedroom is better than nothing, though as
+you can see not by much.  Sitting in the stream of cool air is nice, but it's
+actually not that effective for cooling the bedroom as a whole, even with the
+door shut and the gap beneath blocked to prevent a draft.  And then when the
+unit is switched back off, the temperature quickly shoots back up.
+
+My sleep has been terrible this week too, I've averaged 2 to 4 hours a night.
+Oh well, only 3 months to go before we get back to a tolerable temperature.
