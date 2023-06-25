@@ -1,0 +1,57 @@
+---
+date: 2023-06-25
+---
+
+## Books
+
+This week I read:
+
+- [Elric: The Revenge of the Rose][] by Michael Moorcock
+
+  This was a refreshing return to entirely Elric-focussed stories, after last
+  week's Elric book which featured almost no Elric.  I'm not really sure what
+  else to say, it's more sword-and-sorcery.  Fun and entertaining, but there's
+  not really a larger ongoing narrative: there are common threads (the
+  increasing tension between Law and Chaos, old characters hanging around and
+  previous adventures referenced) but the stories are largely self-contained.
+  Even the ones which directly refer to a previous story tend to include enough
+  context that you don't actually have to have read the other.
+  
+  In this collection I most enjoyed the titular (and longest) story, *The
+  Revenge of the Rose* which features a planar-hopping romp through the
+  multiverse in pursuit of three magical sisters hunted by an ex-champion of the
+  Balance now damned by Chaos.  In that, and the other stories, we see just how
+  disunited the Lords of Chaos are; but we also see how sterile and
+  uninhabitable a world of pure Law would be too.  Neither extreme is good, what
+  mortals need is Balance.
+
+[Elric: The Revenge of the Rose]: https://en.wikipedia.org/wiki/Elric_of_Melnibon%C3%A9
+
+
+## Roleplaying Games
+
+### The Halls of Arden Vul
+
+The players are deep, deep in the dungeon.  But they're only level 1!
+
+I started this session with a bit of meta-talk designed to increase their
+chances of survival.  I pointed out that they had found a shortcut to get deep
+into the dungeon, far deeper than the well-known entrance, and that dungeons get
+tougher the deeper you go.  I also pointed out that the NPC adventurers they'd
+seen down here outclassed them, and that those NPCs were in turn dramatically
+outclassed by the trolls.  I reminded them to use their class features, such as
+dwarven infravision, to gain an advantage where possible.
+
+And, you know what, it worked!
+
+The players immediately changed tack from walking down dungeon corridors with
+flaming torches held high, to having a dwarf or two scout ahead in darkness and
+report back.  They managed to avoid an encounter that would have almost
+certainly killed at least one PC, and took precautions to not be disturbed while
+they were investigating a promising location.  They managed to find the tomb of
+a significant, named, historical figure and grab a bunch of treasure: enough to
+level them all up, pay for training, and still leave enough in the bank to be
+one of its highest value clients.
+
+But they know they were pretty lucky, and I think they'll probably head off to a
+safer part of the dungeon next time.
