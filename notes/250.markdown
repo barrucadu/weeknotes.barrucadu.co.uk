@@ -1,0 +1,135 @@
+---
+date: 2023-07-02
+---
+
+## Books
+
+This week I read:
+
+- Volume 2 of [The Halls of Arden Vul][] by Richard Barton
+
+  I figured that since the players had made a beeline to level 6 of the dungeon,
+  I shouldn't count on them sticking with the "easy" floors.  I'd previously
+  read levels 7 and 10, so I spent some time this weekend skimming through
+  levels 8 and 9.  Now there's just volume 3 to go, which has all the
+  sub-levels.
+
+[The Halls of Arden Vul]: https://www.drivethrurpg.com/product/307320/The-Halls-of-Arden-Vul-Complete
+
+
+## Roleplaying Games
+
+### The Halls of Arden Vul
+
+The players returned to a higher-up level of the dungeon to try to connect two
+disparate parts of their map.  They failed, but they did discover a magic chair
+which lets them view parts of the dungeon from afar, which they used to learn
+some things about the layout which will hopefully bear fruit in later sessions.
+
+Then, fancy new weapons and new retainers in tow, they went to clear out a
+secret room full of ghouls which drove them off last time.  It was a piece of
+cake.  Sure, one PC got temporarily paralysed, but otherwise the ghouls were
+very little threat (though it helped that I was rolling terribly the whole
+combat).  And now they have another haul of treasure to lug out of the dungeon
+and back to town.
+
+You go five sessions with the players being penniless bums running away from
+everything which even looks at them menacingly, and then they get one lucky
+break and really turn things around.
+
+No session next week because I'm visiting friends, but hopefully I'll get up to
+a little Delta Green then instead.
+
+### Thousand Year Old Vampire
+
+> Dear Diary,
+>
+> I am Chloe, daughter and only child of Akakios of Athens.  We live on a small
+> farm with our slave boy, Pelagios, who I discovered hiding in a cave one day
+> as I tended to our sheep.  The neighbouring farm is owned by a rich man, and
+> his son, Nikon, humiliates me with his courting and his displays of wealth,
+> intended to win my favour so that he may then win our farm.
+>
+> Or, I should say, I *was* Chloe.
+>
+> Yesterday, while leaving the market, I met a travelling warrior, Pyrrhos, who
+> charmed me with his honeyed words and hypnotic eyes and convinced me to run
+> away with him.  I was a fool, perhaps Nikon had got to me and I just needed to
+> escape.  That night, I refused Pyrrhos's advances and he flew into a rage.
+> Before my very eyes, his face contorted with inhuman anger and his hands
+> changed into twisted claws, he struck me once, tearing out my throat, and left
+> me to die alone in the cold.
+>
+> But I did not die.  Though the wound on my neck still bleeds, and though I can
+> only speak with a whisper, I live.  I cover the wound with the woollen coat I
+> was so proud to have made, now dyed red, but I cannot hide it for long.
+>
+> How will I live now?  What will happen to my father and our farm?
+
+So goes the first entry in my vampire's diary.
+
+[Thousand Year Old Vampire][] is a solo journalling RPG about being, well, a
+thousand-year-old vampire (or thereabouts).  Your character sheet consists of
+memories (but only a limited number of them, your vampire can't remember
+everything), significant NPCs, skills (which can be anything, it's free-form),
+and resources (likewise).
+
+You play the game by rolling `1d10 - 1d6`, advancing forwards (or backwards)
+that many prompts, and doing what it says.  Each prompt has three variations, so
+if you go in a circle you still get something new.
+
+Prompts are things like
+
+> You are recognised for what you are by another creature like yourself.  Create
+> an immortal Character, lose a Resource, and gain a Skill.  What did you lose
+> to them?
+
+or
+
+> An enemy Character uses a lost Resource to turn your few friends against you.
+> Check three Skills to regain the Resource, or check one Skill to barely
+> survive.  Which former friend did you kill?  Where do you flee?
+
+They're pretty broad and open to interpretation, but tie into enough of the
+character sheet to make it interesting.  With my vampire, Chloe, so far she has:
+
+1. Hypnotised her father with her vampiric gaze to not question why she always
+   keeps her neck covered (an ever-bleeding wound left by the vampire who turned
+   her), and felt disgusted with herself for doing so.
+2. Accidentally killed Pelagios, their slave boy, because he saw the wound and
+   in a panic she tackled him to the ground (and his head into a rock) to
+   prevent him from running off to tell others.
+3. Ran away from home and been taken in by an old vampire living in a cave in
+   the nearby forest and feeding on the occasional hunter.
+4. Been ambushed by a hunting party while she slept and killed them all to
+   escape, realising in the aftermath that her father was amongst them.
+5. Taken up work as a servant in the residence of a rich man, but something went
+   wrong with using her vampiric gaze to hypnotize him and he dropped to the
+   ground dead.
+6. Been pursued by a witch-hunter, set after her by relatives of the dead man.
+7. Fled into the forest taking up residence in a cave and inadvertently become a
+   local deity for a clan of hunters who bring her offerings in exchange for
+   protection while on the hunt.
+
+It's really a very good system for inspiring creativity.  I'm not sure whether
+to continue the story of Chloe, or whether to stop and start again with a new
+vampire.  I think, having engaged with some of the prompts, I'd be able to
+choose better skills and NPCs this time, since most of Chloe's quickly became
+irrelevant.
+
+[Thousand Year Old Vampire]: https://thousandyearoldvampire.com/
+
+
+## Miscellaneous
+
+Well, the summer heat didn't last long.  My living room has barely passed 25C
+this week, so with a fan on it's been very tolerable.  The pollen has been
+pretty bad though, so I've been constantly feeling like the underside of my skin
+is itching.
+
+
+## Link Roundup
+
+### Miscellaneous
+
+- [Found! Long-sought gravitational wave background](https://earthsky.org/space/gravitational-wave-background-discovery-hum-of-the-universe/)
