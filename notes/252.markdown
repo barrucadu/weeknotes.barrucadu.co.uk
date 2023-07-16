@@ -1,0 +1,125 @@
+---
+date: 2023-07-16
+---
+
+## Work
+
+I really don't write much about work any more, do I?  I think it's mostly
+because what I work on now is (1) closed source and (2) in the private sector.
+I can't share code any more, or really give much in the way of concrete details
+of what I'm working on.  If I talk about some new feature I'm implementing, that
+gives away something the company may not have announced yet.  If I talk about
+some problem I'm fixing, that may undermine confidence.
+
+Safer to say nothing at all.
+
+Anyway, since joining GoCardless I've been a part of our "Financial
+Orchestration" team, which owns a lot of our core payment processing logic (the
+big black box between the public-facing API and our banking integrations).  I'm
+still a mid-level developer here, but I've somehow found myself in the position
+of being the guy who gets given small but important projects, while most of the
+other devs on the team work together on the larger projects.  It's a nice
+position to be in, it's obviously a position of trust, and it means I get to
+work on a bunch of different things.
+
+But things are about to change.
+
+Teams have been shuffled around, remits have changed, and from next month I'll
+be on a team doing similar---but different---things.  I'm not sure what the
+future will bring, but I'm cautiously optimistic for my first team change.
+
+
+## Books
+
+This week I read:
+
+- Volume 16 of [So I'm a Spider, So What?][] by Okina Baba
+
+  The end!  The book even ended with a short epilogue for each character, to
+  emphasise its finality.  This series was pretty fun, I really hope there's
+  another season of the anime, as the first was great.
+
+[So I'm a Spider, So What?]: https://en.wikipedia.org/wiki/So_I%27m_a_Spider,_So_What%3F
+
+
+## Roleplaying Games
+
+**The Dolmenwood kickstarter has been announced!**  And I'm very excited.  It's
+coming on the 9th of August.  [There's a preview page up][] with more
+information.
+
+In addition to the Dolmenwood core books that I used to run my campaign there will be:
+
+- *Four* adventures!
+- Minis (though I don't really care about minis so I probably won't bother getting these)
+- Dice (likewise)
+- A GM screen!
+- Big maps!
+- A soundtrack!
+
+I'll definitely be getting the adventures, screen, maps, and soundtrack.  I've
+got a big space on my wall---currently occupied by two aging Discworld
+maps---that I've been leaving for a Dolmenwood map.  It'll be an expensive
+kickstarter for sure.
+
+The Merry Mushmen have [also announced a new kickstarter][], for the first in
+what they hope to be a line of adventure modules.  I think this will *also* be
+an immediate buy from me.  Everything the Mushmen have done has been great.
+Now, if only they could do a fourth edition of Knock...
+
+[There's a preview page up]: https://necroticgnome.com/pages/about-dolmenwood
+[also announced a new kickstarter]: https://www.kickstarter.com/projects/896102915/knock-issue-three/posts/3690330
+
+### The Halls of Arden Vul
+
+![The Halls of Thoth](notes/252/halls-of-thoth.png)
+
+Here's the Halls of Thoth, the most easily-accessible level of the dungeon, 8
+sessions in.  In this week's session the players filled in everything south of
+the magic mouths round to the orange diagonal line (a rope bridge they've strung
+up across the chasm).  They've visited other levels (reflected on other maps)
+and explored some of the ruined city on the surface too.
+
+It's slow going, but they're starting to fill things in and connect the
+different entrances and exits!
+
+Today they achieved a big goal: connecting the entrance on the right with the
+entrance in the middle.  The middle-entrance is watched over by a gang of
+halfling thugs who extort adventurers by forcing people to buy "adventuring
+licenses" and demanding a tithe of any treasure found.  Several sessions ago,
+the players found a tunnel from the surface which led down to the room on the
+right.  But they didn't know how the two entrances were connected.  Today, they
+strung up a rope bridge (orange line) across the chasm (white lines), and
+explored westward until they found a connection.
+
+One party member was horifically slain by a kind of translucent flying octopus.
+The rest made it through injured but alive.  We ended the session with the party
+still in the dungeon, and I'm looking forward to what happens next.
+
+There's another potential exit they've found to the north: it goes up, but not
+all the way, ending in another underground section.  Will they press on,
+ignoring injuries, and try to connect that to the surface?  Or will they turn
+back, hoping that no chasm-dwellers have removed their bridge?
+
+
+## Miscellaneous
+
+We're a few weeks into the new anime season and there's really not much that's
+caught my eye.
+
+Today I decided to give [Zom 100][] a go, I wasn't expecting much but I quite
+enjoyed the first two episodes, and I think I'll stick with it for the time
+being.  I'm also going to check out the new seasons of [Mushoku Tensei][] and
+[Hataraku Maou-sama!!][].  Other than that, it's a pretty poor selection...
+
+[Zom 100]: https://myanimelist.net/anime/54112
+[Mushoku Tensei]: https://myanimelist.net/anime/51179
+[Hataraku Maou-sama!!]: https://myanimelist.net/anime/53200
+
+
+## Link Roundup
+
+### Roleplaying games
+
+- [Decoupling XP and Treasure](https://cavegirlgames.blogspot.com/2019/04/decoupling-xp-and-treasure.html)
+- [Ambition Levelling](https://thepasteldungeon.blogspot.com/2023/05/ambition-levelling.html)
