@@ -1,0 +1,162 @@
+---
+date: 2023-07-23
+---
+
+## Books
+
+No books this week.
+
+For some reason I had the impression that I haven't been doing very well with
+regularly reading this year, but actually there have only been 6 weeks so far in
+which I've not finished a book, and there have been enough other weeks where I
+finished two or more books that I'm still on track to beat 52 (not that that's a
+strict target).
+
+
+## Roleplaying Games
+
+Another cool kickstarter has launched to claim my money!  Nothing for months on
+end, and then three at once?  Is this a conspiracy?  Is late summer the best
+time to launch your crowdfunding project or something?
+
+This new one that's caught my eye is [Wind Wraith][], a "wavecrawl" setting.  I
+actually saved this a while ago, and it just happened to go live this week.
+
+One of my many GMing dreams is to make a big fantasy world by unifying all the
+cool settings I have into one harmonious whole.
+
+[Wind Wraith]: https://www.kickstarter.com/projects/lazylitch/wind-wraith
+
+### The Halls of Arden Vul
+
+My poor players just can't seem to hold onto a thief.
+
+Not having a way to pick locks, they decided two weeks ago to hire a thief.
+They got a pretty competent, albeit level 1, retainer for a good price, and
+returned to the dungeon.  He lasted a session and a half, being killed last week
+by a translucent flying octopus.
+
+So this week they decided to hire another thief.  This one made it back to the
+dungeon, picked a few locks for the players... and then got killed and eaten by
+ghouls, in a surprise battle that also claimed the party's long-suffering
+torchbearer, who had been with them from the beginning.
+
+This was a pretty bad fight too, as the surviving characters only managed that
+by abandoning their comrades and fleeing.  They couldn't recover the bodies.  So
+all the equipment (some of it magical) that the two retainers had on them is now
+in a ghoul nest.
+
+We'll pick up next time still deep in the dungeon, the surviving party members
+beat up and sat against a spiked-shut door separating them from the ghouls.  How
+many will feel the sun again?
+
+
+## Miscellaneous
+
+This week I thought "wouldn't it be nice if all the rules I use in my Arden Vul
+game were in one document, rather than needing to refer to three rulebooks,
+three zines, and a separate house rules document?"
+
+So I started to write an RPG rulebook.  I do this every so often.  I enjoy
+dabbling in game design and in typography.  I never finish anything, but it's
+fun while it lasts.
+
+Voila, my two-page write-up of the Acolyte class:
+
+![The Acolyte class.](notes/253/acolyte.png)
+
+This is based on the class as presented in *Carcass Crawler* issue 1, with the
+x-in-6 skills from the [3d6 DTL House Rules][], and with a couple of other small
+tweaks.  I wanted to keep each class to a two-page spread, where the first page
+covers all the main class features, and the second page just has the progression
+table and any class-specific aspects to character creation and advancement.
+
+I've taken inspiration from my copy of *Whitehack*, which also does the
+landscape A4 format, which I don't think I've seen any other RPG book do.  Very
+handy for displaying wide tables and fitting a lot of content onto a two-page
+spread.
+
+I think it works pretty well.
+
+Will I finish this project?  Almost certainly not.  I might finish all the class
+write-ups, but I expect I'll get bored at some point writing up all the rules.
+And even if I did finish it, I couldn't publicly share the completed book, as
+it'll be based so heavily on copyrighted content.
+
+But it'll be a fun project for a little while.
+
+[3d6 DTL House Rules]: https://www.3d6downtheline.com/house-rules
+
+### LaTeX tabularray
+
+I wanted to specifically mention the [tabularray][] package, which I used for
+the progression table above.  It is fantastic.
+
+Everyone who has used LaTeX would agree that tables are a weak point.  There's a
+bunch of semi-incompatible packages implementing bits and pieces of
+functionality you need (like automatic sizing, or being able to break over
+pages, or having better control over rules and spaces), and you just have to
+cobble together something that works well enough.
+
+But tabularray, which I'd not used before, has changed that for me.  LaTeX
+tables are... actually good now?
+
+Here's the source for the progression table:[^gen]
+
+[^gen]: I actually wrote a Python script to generate this, to ensure every class
+  looks the same.
+
+```tex
+\begin{tblr}{
+  colspec={cccccccccccX},
+  row{1,2}={font=\bfseries},
+  column{4,9,11}={rightsep=\colgroupsep},
+}
+  \SetCell[r=2,c=1]{f,c} Level &
+  \SetCell[r=2,c=1]{f,c} XP &
+  \SetCell[r=2,c=1]{f,c} HD &
+  \SetCell[r=2,c=1]{f,c} Attack &
+  \SetCell[r=1,c=5]{f,c} Saving Throws &&&&&
+  \SetCell[r=2,c=1]{f,c} Skill Points &
+  \SetCell[r=2,c=1]{f,c} Turn Undead &
+  \SetCell[r=2,c=1]{f,l} Notes \\
+  \cmidrule[lr]{5-9}
+     &         &       &    &  D &  W &  P &  B &  S &         &     &                                               \\
+  \midrule
+   1 &       0 & 1d6   & +0 & 11 & 12 & 14 & 16 & 15 & 1       & 50  &                                               \\
+   2 &   1,500 & 2d6   & +0 & 11 & 12 & 14 & 16 & 15 & 4 (+3)  & 55  & \emph{Can heal by touch}                      \\
+   3 &   3,000 & 3d6   & +0 & 11 & 12 & 14 & 16 & 15 & 7 (+3)  & 60  &                                               \\
+   4 &   6,000 & 4d6   & +0 & 11 & 12 & 14 & 16 & 15 & 10 (+3) & 65  &                                               \\
+   5 &  12,000 & 5d6   & +2 &  9 & 10 & 12 & 14 & 12 & 13 (+3) & 70  &                                               \\
+   6 &  25,000 & 6d6   & +2 &  9 & 10 & 12 & 14 & 12 & 16 (+3) & 75  &                                               \\
+   7 &  50,000 & 7d6   & +2 &  9 & 10 & 12 & 14 & 12 & 19 (+3) & 80  &                                               \\
+   8 & 100,000 & 8d6   & +2 &  9 & 10 & 12 & 14 & 12 & 22 (+3) & 85  &                                               \\
+   9 & 200,000 & 9d6   & +5 &  6 &  7 &  9 & 11 &  9 & 25 (+3) & 90  & \emph{Can create magic items; gain followers} \\
+  10 & 300,000 & 9d6+1 & +5 &  6 &  7 &  9 & 11 &  9 & 28 (+3) & 95  &                                               \\
+  11 & 400,000 & 9d6+2 & +5 &  6 &  7 &  9 & 11 &  9 & 31 (+3) & 100 &                                               \\
+  12 & 500,000 & 9d6+3 & +5 &  6 &  7 &  9 & 11 &  9 & 34 (+3) & 105 &                                               \\
+  13 & 600,000 & 9d6+4 & +7 &  3 &  5 &  7 &  8 &  7 & 37 (+3) & 110 &                                               \\
+  14 & 700,000 & 9d6+5 & +7 &  3 &  5 &  7 &  8 &  7 & 40 (+3) & 115 &                                               \\
+  \bottomrule
+\end{tblr}
+```
+
+You can specify row and column formatting!  You can have cells occupy an
+arbitrary number of rows and columns!  It has all the functionality of
+[tabularx][], [longtable][], [tabu][], and [booktabs][]!
+
+I've only scratched the surface of what it can do, but I'll never go back to
+doing tables the old way.
+
+[tabularray]: https://ctan.org/pkg/tabularray
+[tabularx]: https://ctan.org/pkg/tabularx
+[longtable]: https://ctan.org/pkg/longtable
+[tabu]: https://ctan.org/pkg/tabu
+[booktabs]: https://ctan.org/pkg/booktabs
+
+
+## Link Roundup
+
+### Miscellaneous
+
+- [The typographic scale](https://spencermortensen.com/articles/typographic-scale/)
