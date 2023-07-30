@@ -1,0 +1,89 @@
+---
+date: 2023-07-30
+---
+
+## Books
+
+This week I read:
+
+- Volume 16 of [Overlord][] by Kugane Maruyama
+
+  I enjoyed this, but it could have been combined with the previous volume,
+  since they're two parts of the same story arc and both volumes are a little
+  shorter than the others.  But it's fine.  I liked it.  We got some more
+  foreshadowing that Albedo is up to something, *and* the author announced in
+  the afterward that the story will conclude with volume 18, so hopefully that
+  foreshadowing will get resolved.
+  
+  Unfortunately, there's no volume 17 yet, not even in Japanese.  And there's a
+  lag of 1 or 2 years before each volume is translated, so there's a long wait
+  ahead...
+  
+  Speaking of long waits, back in 2021 they announced a film covering volumes 12
+  and 13, but I don't think there's been any further news on that.
+
+[Overlord]: https://en.wikipedia.org/wiki/Overlord_(novel_series)
+
+
+## Roleplaying Games
+
+### The Halls of Arden Vul
+
+This week's session was really fun.  We ended the previous session just after
+two retainers got killed by ghouls and the rest of the party barely escaped.  So
+we started this session with the PCs feeling defeated and deciding to retreat.
+
+And then they encountered a ghost.
+
+This ghost couldn't speak, but he managed to communicate (through me describing
+what he was pantomining and the PCs writing things in the dust on the floor and
+having the ghost point at them) that he's been haunting these rooms unable to
+rest because he's unburied---because of the very ghouls and wight that just
+drove the PCs away!
+
+So, with revenge *and* a goal (put the ghost to rest) in mind, the players spent
+a while discussing combat tactics and how they could use a chokepoint in the
+dungeon plus a few spear-wielding retainers to get an advantage over the ghouls.
+Then they marched straight back to town, hired a small army of retainers,
+outfitted them with armour, spears, and holy water... and marched back to the
+dungeon to strike back at their foes!
+
+They ended up killing four of the ghouls at their chokepoint before the wight
+got them under control and pulled them back.  So if the players intend to finish
+the job, they need to pursue into the wight's home territory.
+
+A fun roleplaying encounter, careful strategising, and then putting the plan in
+action to turn the tables on the enemies who almost wiped them out last time.
+It was great.
+
+### RuneQuest: Roleplaying in Glorantha
+
+I've decided that the next one-shot will be [RuneQuest: Roleplaying in
+Glorantha][], because I want to try out a different sort of fantasy, in a
+different sort of system.  I'm going to run a short scenario from the GM Screen
+Pack wherein the PCs are tasked with protecting a herd of sacred cattle from a
+couple of saber-toothed cats that have appeared in the area.
+
+I want to try out character creation too, rather than use pregens, so I think
+this'll be a two-parter.  Probably going to run it after session 12 of the Arden
+Vul campaign, so the 20th and 27th of August.
+
+I've been reading the corebook this week.  There's a lot to like!  At its core
+it's the same simple d100 skill-based system as Call of Cthulhu---and for
+everything but the specific genre of *D&D-style fantasy* I vastly prefer
+skill-based systems---but it's got the crunch dialled up to Pathfinder levels,
+which I'm usually not so much a fan of.  But it's interesting enough to give it
+a go, I find the high magic bronze-age setting really intriguing, and the crunch
+will hopefully only be an impediment to getting started.
+
+[RuneQuest: Roleplaying in Glorantha]: https://www.chaosium.com/runequest-roleplaying-in-glorantha-hardcover/
+
+
+## Link Roundup
+
+### Roleplaying games
+
+- [Framing Combat Encounters](https://thealexandrian.net/wordpress/49718/roleplaying-games/framing-combat-encounters)
+- [Random GM Tip – Epilogues & Skipping Time](https://thealexandrian.net/wordpress/49681/roleplaying-games/random-gm-tip-epilogues-skipping-time)
+- [Zelda-Style NPC Personalities](https://todistantlands.github.io/2023/06/13/zelda-npcs.html)
+- [Prison Planet Review](https://lukegearing.blot.im/prison-planet-review)
