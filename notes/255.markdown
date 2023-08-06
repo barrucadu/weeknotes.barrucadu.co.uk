@@ -1,0 +1,85 @@
+---
+date: 2023-08-06
+---
+
+## Books
+
+This week I read:
+
+- [RuneQuest: Roleplaying in Glorantha][] by Greg Stafford *et al*
+
+  It's pretty complex, but I think I'm getting the hang of it.  I've made a
+  couple of characters, and posted [a worked example][] to the RPG blog.  There
+  are some confusing bits---like being able to create a character who starts
+  with a whip, but there being no stats for a whip in the book---but I'm willing
+  to overlook those hurdles since the setting is so interesting and I'm really
+  looking forward to giving it a shot.
+
+[RuneQuest: Roleplaying in Glorantha]: https://www.chaosium.com/runequest-roleplaying-in-glorantha-hardcover/
+[a worked example]: https://www.lookwhattheshoggothdraggedin.com/post/rqg-character-creation-example.html
+
+
+## Roleplaying Games
+
+### The Halls of Arden Vul
+
+[Two weeks ago][] the players found a secret room, which turned out to be full
+of ghouls and they lost two party members.  [Last week][], reinforced and
+prepared, the players returned to show those ghouls what-for (and to put to rest
+a friendly ghost who the ghouls had disturbed).  And this week the players
+finally vanquished the ghouls, and buried the bones of the poor ghost who, as
+thanks, pointed out a secret panel concealing fabulous wealth!
+
+It's a nice cathartic conclusion to the ghoul saga. And they found a *lot* of
+treasure.
+
+But that of course gives rise to its own problems.  Just carrying it out of the
+dungeon would take multiple trips---which means significantly more risk of
+encounters---and the inn outside the dungeon is no place to store vast amounts
+of treasure, so they actually need to take it to the nearby town, a day's walk
+away.  So getting the treasure out and safely stored would take around a week,
+in the best case.
+
+These are the things that balance large treasure hordes.
+
+The players have spent multiple real-life and in-game weeks just dealing with
+the monsters, they had to spend money to do it (hiring and outfitting more
+retainers, and making some magical scrolls), and even with the monsters defeated
+there's still logistical issues to solve.  I don't begrudge them their loot, if
+they manage to get it all out they've earned it!
+
+You just don't get this sort of fun in modern D&D, where the party is all but
+guaranteed to get a bag of holding in the first few levels (allowing them to
+carry all the treasure at once without even slowing down), where GMs don't
+really do random encounters (making time not an issue), and where individual PCs
+are so strong they don't need retainers (so the party keep all the treasure to
+themselves).  Getting the treasure *back* should be a fun challenge too!
+
+On their second trip down, they *did* have a random encounter.
+
+They bumped into a patrol of beastmen, who warned them to stay away and cut down
+the rope bridge the players had previously strung up across the chasm.
+
+So now half their treasure is stuck in hostile territory.
+
+[Two weeks ago]: notes/253.html
+[Last week]: notes/254.html
+
+
+## Miscellaneous
+
+This week I finally gave up on the 50 or so books that I've had noted down as
+"missing" [in bookdb][] since I moved here back in 2019.  I think two boxes of
+books just got misplaced in the move somehow.  They're definitely not here, but
+fortunately none of them were books I cared about that much so I just deleted
+them rather than buy replacements.  I also got rid of all the books I've had
+noted down as "to donate" (for about as long)---there's nowhere around here that
+wanted them, and I also can't recycle them because they're glue-bound, so I just
+threw them out.  None of them were rare or old books, so I don't feel too
+guilty.
+
+So now I'm down to a mere 959 books, the first time under 1000 in a while.  But
+I'm pretty certain that all of those books are actually here, in this room, and
+not misplaced or unwanted.  So that's something.
+
+[in bookdb]: https://bookdb.barrucadu.co.uk/search
