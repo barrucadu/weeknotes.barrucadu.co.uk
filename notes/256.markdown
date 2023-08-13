@@ -1,0 +1,112 @@
+---
+date: 2023-08-13
+---
+
+## Books
+
+This week I read:
+
+- [Red Mars][] by Kim Stanley Robinson
+
+  This has been on the list for a while, a hard sci-fi story about colonising
+  and terraforming Mars, continued by two more books.  Kind of like *The
+  Martian* but better, by all accounts.
+  
+  This week I picked it up and could hardly put it down.  It helped that I
+  didn't have much to do at work, so I even read during my downtime, which I've
+  not felt compelled to do in a while.  I really liked the framing device: we
+  start with a big celebration after the successful colonisation missions and
+  end that with a tragedy; then we jump back in time to the beginning of the
+  mission and follow all these characters from departing Earth; then we skip
+  ahead after the tragedy to the aftermath; and finally end on a cliffhanger
+  setting up the next book.
+  
+  The book is hard sci-fi, yes, but it's also highly political.  The story is
+  driven by the tension between the inhabitants of Mars and the megacorps of
+  Earth who want to explot this new frontier, between the first Martian
+  colonists and those who came after, and also between factions within all these
+  groups.
+  
+  I think I'll be picking up *Green Mars*, the second book in the trilogy, very
+  shortly.
+
+- [The Great God Pan][] by Arthur Machen
+
+  Which I last read almost 10 years ago: 2014!  Judging from last-read dates
+  (or, rather, the lack thereof[^dates]) in bookdb, that was after my big
+  Lovecraft phase ended, so my tastes had changed by the time I last read this
+  book.  And they've changed again in the intervening 9 years.  But the book
+  still holds up.
+  
+  It is a great short story.  We don't really get anything in the way of
+  *details*, just hints of something truly horrifying lurking just out of sight,
+  beyond the protective fictions that our brains impose upon reality to make
+  sense of it.  And that's all a good weird tale needs.
+
+[^dates]: I only started recording when I last read a book in 2012.  So books I
+  last read before then don't have a date.
+
+Last week I bought a bunch of new books, so this week I tidied up my bookcases a
+bit.  And unfortunately, I'm running low on space again.  I have a little over
+half a shelf left for fiction, about a shelf for RPGs, and a shelf and a half
+for manga and light novels.  There's no more room for bookcases (for real this
+time, every wall is occupied).
+
+I need to buy a house with a tower I can turn into a library, or something.
+
+[Red Mars]: https://en.wikipedia.org/wiki/Mars_trilogy
+[The Great God Pan]: https://en.wikipedia.org/wiki/The_Great_God_Pan
+
+
+## Roleplaying Games
+
+The [Dolemnwood kickstarter][] started on Wednesday, and it is more amazing than
+I expected.  I was only planning to get the books, the GM screen, and a big
+printed map (to frame and put on the wall).  But through a combination of
+stretch goals and backing in the first 48 hours, I'm also getting, *for free*:
+
+- A big cloth referee map
+- Four adventures, printed and bound in hardback
+- MP3s for a 10-track soundtrack by [Tales Under The Oak][]
+- MP3s for looping atmospheric sounds, also by Tales Under the Oak
+- A dice bag
+
+And we're about $20k away from the next stretch goal, a book of maps, with 26
+days still to go.
+
+This is really great.  I am going to be picking up a few of the add-ons, but
+almost everything I could have wanted is now included for free.  Just the
+adventure books alone, $60 worth of material *for free*, is amazing.  This is
+easily one of the best-value kickstarters I've backed, and the material is also
+some of the highest quality.
+
+I'm not sure when I'll return to Dolmenwood, but it *will* happen.
+
+[Dolemnwood kickstarter]: https://www.kickstarter.com/projects/exaltedfuneral/dolmenwood-tabletop-rpg
+[Tales Under The Oak]: https://talesundertheoak.bandcamp.com/album/the-toad-folk
+
+### The Halls of Arden Vul
+
+This week treasure was sold, books were read, magic items were identified,
+curses were removed, and levels were gained.  There was talk, too, about
+building a house in the nearby town, so I guess I've got to figure out how much
+that should cost: there's rules for building costs in OSE, but not how much the
+actual *land* to build the building upon should cost.  I imagine that'll be
+pretty expensive in a growing town.
+
+Maybe I can find a handy blog post about land costs in OSR campaigns.
+
+The players also returned to the dungeon---disregarding the warning of the
+beastmen---and fetched the bulk of the remaining treasure they found last week.
+They got lucky on the random encounters and were able to make it away
+undetected, and we ended the session with them heading back to safety.
+
+And now the campaign's on hold for two weeks, as we play some *RuneQuest:
+Roleplaying in Glorantha*!
+
+## Miscellaneous
+
+I watched [The Witch][] this week.  It was very good, nice to see a creepy
+horror film which doesn't rely on jump scares.
+
+[The Witch]: https://en.wikipedia.org/wiki/The_Witch_(2015_film)
