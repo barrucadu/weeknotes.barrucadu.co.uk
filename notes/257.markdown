@@ -1,0 +1,85 @@
+---
+date: 2023-08-20
+---
+
+## Work
+
+This week I started looking at adding [Sorbet][], a Ruby typechecker, to some of
+the code my team owns after another developer did the legwork getting it to
+simply run against our monolith.
+
+I've picked one small component and got that to `typed: true`, meaning Sorbet is
+checking everything (though, it's dynamically typing everything at the moment)
+and it already found something we could fix: a reference to a non-existent class
+inside some code that turned out to be dead (good thing too, since if that code
+had ever been called it would have failed).
+
+Next step is to start adding type signatures and refactoring the code to pass
+around [typed structs][] rather than hashes, and eventually get it all to
+`typed: strict`.
+
+But more on that later, as I have taken next week off.
+
+[Sorbet]: https://sorbet.org/
+[typed structs]: https://sorbet.org/docs/tstruct
+
+
+## Books
+
+No books this week!
+
+I've got a couple of things on the go I hope to make good progress on during my
+week off.
+
+
+## Roleplaying Games
+
+### RuneQuest: Roleplaying in Glorantha
+
+This week was character creation, we have:
+
+- **Varghast,** a chariot driver for the Taraling clan, in the Orlanth
+  Adventurous cult.  He's driven by honour, a hatred of the Lunar Empire, and a
+  strong affinity to the Air and Water runes.  He's also an anthropomorphic
+  duck-man.
+
+- **Ferenasa,** an Issaries merchant, also of the Taraling clan, with no strong
+  passions other than a love for her family.  She's also *really good* with an
+  axe.
+
+It took us about 3 hours, with much consulting of the book, but we had fun: the
+lifepath segment of character creation ended up with both of the characters'
+parents and grandparents dying horrible deaths, one even had their soul
+devoured.  So next week we're actually playing the game.
+
+Here's the pitch I sent out:
+
+> You will be playing adventurers from Sartar, a largeish kingdom in the Dragon
+> Pass region of Glorantha.  You'll all be members of, or associated with, the
+> same clan, and will be asked by your clan's chief to go help out the
+> neighbouring Varmandi clan who are having trouble with two saber-toothed cats
+> menacing the sacred cattle the Varmandi look after for the tribal Orlanth
+> temple.  Wouldn't want to displease the gods by not being able to provide an
+> appropriate sacrifice, and even better if the Varmandi end up in your clan's
+> debt.
+
+I'm not sure if we'll complete the scenario in our usual three-hour slot, since
+there's a lot of mechanics to learn.  But on the other hand the scenario is very
+straightforward.  So we'll see, I might see if we can extend it to four hours
+just this once.
+
+
+## Miscellaneous
+
+I picked up [Aliens: Dark Descent][] on Thursday.
+
+The basic gameplay is very X-COM-like, where you send squads of soldiers out on
+anti-alien missions from an upgradable home base, and where individual soldiers
+gain experience and can unlock new abilities.  But with a few differences that
+make it interesting.  It's real-time rather than turn-based, the tactics are
+more squad-focussed where you don't really control individual soldiers to the
+same extent as you do in X-COM, and the story is obviously fairly different.
+
+Maybe I'll spend all next week playing this instead of reading books...
+
+[Aliens: Dark Descent]: https://store.steampowered.com/app/1150440/Aliens_Dark_Descent/
