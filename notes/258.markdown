@@ -1,0 +1,228 @@
+---
+date: 2023-08-27
+---
+
+## Work
+
+I took this week off, and just relaxed at home.
+
+## Books
+
+This week I read:
+
+- [The Outcast and The Rite][] a collection of short stories by Helen de Guerry Simpson
+
+  I had never heard of this author before, but the weird cover illustration
+  caught my eye while I was browsing the horror books last time I visited a book
+  shop. I was in the mood for something new, and I brought it home with me.
+  These little discoveries are definitely one of the major advantages of
+  physical shopping over online shopping.
+  
+  I appreciated the endnotes in this book, you can figure most things out
+  yourself, but I'd never have realised that, in the story *The Pythoness*, a
+  character having the audacity to *order hot chocolate in the evening* was a
+  sign of how low-class and unsuitable a romantic partner for another character
+  she was.
+  
+  Despite being in the "horror" section, and all the stories having weird
+  elements, not much that's definitely supernatural actually happens.  But
+  that's nice on occasion, to wonder whether the story really is as it appears
+  to be, or whether something was mere imagination or even deception.
+  
+  My favourites were *Young Magic*, in which a young girl makes friends with a
+  mischievous fairy, and *An Experiment of the Dead*, in which a man makes a
+  deal with a murderer to try out a little necromancy and it goes poorly, as
+  necromancy often does.
+
+[The Outcast and The Rite]: https://www.handheldpress.co.uk/shop/fantasy-and-science-fiction/helen-simpson-the-outcast-and-the-rite/
+
+
+## Roleplaying Games
+
+### RuneQuest: Roleplaying in Glorantha
+
+This week we played the *Cattle Raid* scenario from the GM screen pack.  It took
+us about 2 hours and we got a lot of rules wrong, but we had a good time.
+
+I expected the combat rules to trip us up, so I made sure to review those
+beforehand, but then we still made a mess of it.  Still, the first combat was
+only against some hungry wild animals, so after downing one of the PCs the
+beasts didn't stick around for the kill, they just went for the tasty undefended
+cattle.
+
+There was a possibility of a second combat against some humans, which I think
+would have gone very poorly for the injured PCs, but the players managed to get
+out of that with some quick diplomacy.
+
+I don't think we'll be playing a RuneQuest campaign any time soon, but I'm happy
+to have finally tried the system out.
+
+
+## Miscellaneous
+
+### Holiday
+
+Let's start with the exciting news: I've decided to have a short holiday in
+Japan next year.  Mid to late April is currently looking likely.  I've got a few
+different groups of friends who are all going to be in Japan around then, some
+of whom I've not actually met in person before, so I'm hoping to be able to time
+a trip just right that'll let me meet up with all of them.
+
+I've got a rough budget worked out (annoyingly enough, I actually started saving
+for holidays abroad a few years ago, but then stopped since I never went on any:
+if I'd kept that up I would already have the money put aside!) and the
+beginnings of an itinerary.  I'll meet up with one group of friends in Tokyo,
+hang out with them for a while, then travel down on the shinkansen to Matsuyama
+to meet up with more friends.  The details are still very much up in the air and
+will depend on exactly when my friends are going to be around and where they'll
+be.  But I'm thinking of going for two weeks and spending at least a few days
+each in Tokyo and Matsuyama, maybe stopping over in Osaka or Kyoto (which are
+between the two).
+
+So this means I have a deadline for finally becoming competent with chopsticks.
+
+### Games
+
+I've been playing a lot of [Aliens: Dark Descent][].  I mentioned this last
+week: it's basically X-COM, just in the Alien universe.  It's pretty hard---or
+maybe I'm just bad---but I've played it most days and I'd quite like to complete
+it.  The story is pretty generic, but I'm not really looking for originality in
+an Alien game.
+
+And as I feared, it did cut into my reading time.
+
+I've also been playing [MahjongSoul][] a bit this week.  It's just a [riichi
+mahjong][] mobile game, but it's reasonably beginner-friendly and has a handy
+tutorial which goes through the basics.  I'm trying to get good at spotting and
+achieving some of the simpler yaku, since the matches I've actually managed to
+win have more-or-less been complete luck.
+
+[Aliens: Dark Descent]: https://store.steampowered.com/app/1150440/Aliens_Dark_Descent/
+[MahjongSoul]: https://mahjongsoul.yo-star.com/
+[riichi mahjong]: https://en.wikipedia.org/wiki/Japanese_mahjong
+
+### Tech
+
+I've also been fiddling around with some tech things this week (it's amazing how
+much more energy I have to do that sort of thing after a few days off work).
+Most notably, I switched my NixOS machines over from using Docker for containers
+to Podman, which I accomplished with [my NixOS container module][] that I'm
+now pretty happy with.
+
+For example, here's how I run [Concourse][]:
+
+```nix
+nixfiles.oci-containers.pods.concourse = {
+  containers = {
+    web = {
+      image = "concourse/concourse:7.8.2";
+      cmd = [ "web" ];
+      environment = {
+        "CONCOURSE_POSTGRES_HOST" = if backend == "docker" then "concourse-db" else "localhost";
+        "CONCOURSE_POSTGRES_USER" = "concourse";
+        "CONCOURSE_POSTGRES_PASSWORD" = "concourse";
+        "CONCOURSE_POSTGRES_DATABASE" = "concourse";
+        "CONCOURSE_EXTERNAL_URL" = "https://cd.barrucadu.dev";
+        "CONCOURSE_MAIN_TEAM_GITHUB_USER" = "barrucadu";
+        "CONCOURSE_LOG_LEVEL" = "error";
+        "CONCOURSE_GARDEN_LOG_LEVEL" = "error";
+        "CONCOURSE_PROMETHEUS_BIND_IP" = "0.0.0.0";
+        "CONCOURSE_PROMETHEUS_BIND_PORT" = "8088";
+        "CONCOURSE_BAGGAGECLAIM_RESPONSE_HEADER_TIMEOUT" = "30m";
+      };
+      environmentFiles = [ cfg.environmentFile ];
+      dependsOn = [ "concourse-db" ];
+      ports = [
+        { host = 46498; inner = 8080; }
+        { host = 45811; inner = 8088; }
+      ];
+      volumes = [{ name = "keys/web"; inner = "/concourse-keys"; }];
+    };
+
+    worker = {
+      image = "concourse/concourse:7.8.2";
+      cmd = [ "worker" "--ephemeral" ];
+      environment = {
+        "CONCOURSE_TSA_HOST" = if backend == "docker" then "concourse-web:2222" else "localhost:2222";
+        "CONCOURSE_CONTAINERD_DNS_PROXY_ENABLE" = "false";
+        "CONCOURSE_GARDEN_DNS_SERVER" = "1.1.1.1,8.8.8.8";
+        "CONCOURSE_WORK_DIR" = "/workdir";
+      };
+      extraOptions = [ "--privileged" ];
+      dependsOn = [ "concourse-web" ];
+      volumes = [
+        { name = "keys/worker"; inner = "/concourse-keys"; }
+        { host = cfg.workerScratchDir; inner = "/workdir"; }
+      ];
+    };
+
+    db = {
+      image = "postgres:13";
+      environment = {
+        "POSTGRES_DB" = "concourse";
+        "POSTGRES_USER" = "concourse";
+        "POSTGRES_PASSWORD" = "concourse";
+      };
+      volumes = [{ name = "pgdata"; inner = "/var/lib/postgresql/data"; }];
+    };
+  };
+};
+```
+
+This defines three containers in a pod called "concourse".  If run with Docker,
+this just puts all the containers on the same bridge network, whereas if run
+with Podman it creates a real pod.  It generates four systemd units:
+
+- `podman-concourse-db`
+- `podman-concourse-worker`
+- `podman-concourse-web`
+- `podman-pod-concourse`
+
+All the `podman-concourse-*` units depend on the `podman-pod-concourse` unit
+which creates the pod on start (and destroys it on shutdown)---if this were run
+under Docker it would instead generate a unit to create / destroy the bridge
+network.  Additionally, the `-worker` unit depends on the `-web` unit, and the
+`-web` unit depends on the `-db` unit.
+
+The pod unit is just a oneshot unit which looks like this (with paths omitted
+for brevity):
+
+```
+[Unit]
+Description=Manage the concourse pod for podman
+
+[Service]
+ExecStartPre=bash -c "podman pod rm --force --ignore concourse || true"
+ExecStart=podman pod create -p 127.0.0.1:46498:8080 -p 127.0.0.1:45811:8088 concourse
+ExecStop=podman pod rm concourse
+RemainAfterExit=yes
+Type=oneshot
+```
+
+As you can see, exposed ports are managed at the pod level despite being defined
+at the container level, this is so the same container definitions can be used to
+produce both Docker and Podman units, as Docker exposes the ports on the
+container.  In fact, the only explicitly "if Docker do this" style logic is in
+the hostnames.  But maybe there's some way I can make the Docker-style hostnames
+resolve to localhost under Podman...
+
+In addition to generating all the units and working with both Podman and Docker,
+my module also ensures that ports are exposed on 127.0.0.1 (rather than the
+default of 0.0.0.0) and that all volumes are bind-mounts to the host filesystem
+(since I've had issues with Docker deleting named volumes before).  It's just a
+nice little wrapper around good habits I've built up for running system services
+in containers.
+
+One of the advantages of Podman over Docker is that you can run containers
+without needing root access.  Right now these systemd-managed containers all run
+under the root user, but I'd like to change that next.
+
+[my NixOS container module]: https://github.com/barrucadu/nixfiles/blob/master/shared/oci-containers/default.nix
+[Concourse]: https://concourse-ci.org/
+
+
+## Link Roundup
+
+### Software engineering
+
+- [My favorite prime number generator](https://eli.thegreenplace.net/2023/my-favorite-prime-number-generator/)
