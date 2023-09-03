@@ -1,0 +1,121 @@
+---
+date: 2023-09-03
+---
+
+## Work
+
+Back at work this week, but fortunately past-me had the foresight to book my
+week off immediately before a bank holiday weekend, so I had Monday to laze
+around as well.
+
+This week I was involved in a call with a client, which was pretty interesting
+since I don't usually interact with that part of the business.  We're doing some
+work on our side to support something happening on their side, and I'm the one
+answering questions which need a developer's input.
+
+In addition to my other work, I also continued [sortbet][]ing up some of the
+team's code, and have got one part of it in pretty good shape now.  There's more
+to go before I'm fully satisfied, but it is a start.  One benefit I didn't
+expect was that sorbet's run-time type checking forces tests to actually call
+the code in the way it's supposed to be called, rather than supplying dummy
+values.  This is good, tests should reflect real usage.
+
+[sortbet]: https://sorbet.org/
+
+
+## Books
+
+This week I read:
+
+- Volume 16 of [That Time I Got Reincarnated as a Slime][] by Fuse
+
+  This book had a good beginning and end, but didn't really have an overall
+  story.  All it achieved was to wrap up the story of volume 15 and to set up
+  the story of volume 17.
+  
+  This is because, unfortunately, the author finally fell for the temptation to
+  quantify everything.
+  
+  The middle third of this book felt like a list of pregenerated RPG characters:
+  numbers and skill lists.  The skill lists are just lists of names, and because
+  this is isekai they're weird names that don't explain what they do, like
+  "Lord's Ambition". The numbers don't even seem that useful; in the afterward,
+  the author says that they correlate more or less linearly with combat power
+  (but why does that even need to be quantified in the first place?) but in the
+  actual story, the main character keeps making comments about how a character
+  with skill level X was able to hold their own against (or even beat) a
+  character with a significantly higher level Y due to being more practiced.
+  
+  The author also notes that the editor was really against this and stopped it
+  happening earlier, I guess the editor finally gave up arguing against it.  But
+  I wish he had kept up the fight.
+
+[That Time I Got Reincarnated as a Slime]: https://en.wikipedia.org/wiki/That_Time_I_Got_Reincarnated_as_a_Slime
+
+## Roleplaying Games
+
+### The Halls of Arden Vul
+
+We last played this campaign [three weeks ago][], and in that time I gathered
+feedback from the players about how they felt the game was going.  This is
+something I like to do every few months, and I have [a set list of questions I
+use][].  The feedback this time was that the game is a lot of fun (one player
+said that out of all the games they're in right now, this is the one they look
+forward to the most, which is *great* to hear: say that sort of thing to your
+GMs more often!) but there were a couple of wrinkles.
+
+One player said that not only were they not really enjoying their character
+class, they had *never* enjoyed it, should have brought this up sooner, and
+wanted to change.  Oops.  I hadn't noticed, which isn't ideal.  They were absent
+this week, but when they're back we'll just roll up a new character for them at
+the same level as their current character (I don't want to punish them for
+choosing a class they ended up not enjoying by starting them back at level 1).
+And all the players agreed that the accounting was a bit fiddly at times,
+especially now that they're dealing with thousands of gold coins most days, but
+then still needing to pay coppers and silvers for food and lodgings.  So I
+abstracted all their regular expenses away into a monthly cost-of-living fee.
+
+So, back to the game.
+
+This week was pretty exciting, because previously the players found a historic
+book which detailed the connections between dungeon levels, and over the break I
+figured out *which* connections specifically it detailed.  So I gave the players
+vague in-universe directions to ten level connections they were unaware of, and
+of course being in-universe these directions aren't totally obvious and refer to
+landmarks the players haven't found yet.  For example:
+
+- "south of the entrance to the catacombs, east of the Hall of Judges, north of
+  the Glory of Thoth beneath the pyramid" (they know about the Glory of Thoth
+  but were discussing a few possibilities for what the catacombs or the Hall of
+  Judges could be), or
+- "beyond a secret door east of the Greater Hall of Columns, where the corridor
+  turns north to the Lesser Seat of Contemplation" (they know where those two
+  things are and were able to find the secret door this session), or
+- "the clerical offices north-west of the Court of the Troll Thegn have a
+  passage to Marius' outpost at the floor of the chasm" (they don't know
+  anything about the level the Court of the Troll Thegn is on).
+
+So now they have landmarks to track down (by exploring or by gathering rumours)
+which will then lead them deeper into the dungeon.  Great!
+
+The players also decided that they wanted to ingratiate themselves with the
+local Lady, and so did a bit of rumour-gathering on what it is she wants.
+They've been talking too about possibly funding the construction of a temple,
+which I would give them XP for (I give XP for philanthropy but so far they've
+just been "donating money to the needy" rather than funding anything specific)
+and which would definitely make the local authorities take note.
+
+And of course the players still have their goal of finding a safe way into the
+middle parts of the dungeon which isn't in the territory of any other faction,
+since the two they know of are.
+
+This dungeon is so much fun.
+
+[three weeks ago]: notes/256.html
+[a set list of questions I use]: https://www.lookwhattheshoggothdraggedin.com/post/mid-campaign-check-in.html
+
+
+## Miscellaneous
+
+I have a new project in the works, but I want to wait to see if it bears fruit
+first before sharing it more widely.  Watch this space.
