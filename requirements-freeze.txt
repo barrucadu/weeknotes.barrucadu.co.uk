@@ -8,4 +8,4 @@ panflute==2.3.0
 Pygments==2.16.1
 pypandoc==1.11
 PyYAML==6.0.1
-soupsieve==2.4.1
+soupsieve==2.5
