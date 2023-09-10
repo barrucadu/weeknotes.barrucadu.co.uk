@@ -1,0 +1,82 @@
+---
+date: 2023-09-10
+---
+
+## Books
+
+No books this week---it's been too hot to read!
+
+
+## Roleplaying Games
+
+### The Halls of Arden Vul
+
+This week the players accomplished a long-term goal: finding an alternative
+route to the surface which isn't under the influence of an unfriendly faction.
+That's a big win for them, and definitely worth some bonus XP under my "XP for
+Exploration" house rule.
+
+For certain feats of exploration I give each character a bonus of 2%, 5%, or 10%
+of the XP needed to advance to the next level:
+
+- 2%: Apply lore in a useful or flavourful manner.
+- 2%: Confirm a rumour's veracity.
+- 2%: Explore 5 areas of a single dungeon level.
+- 2%: Make creative use of equipment or abilities.
+- 2%: Overcome a puzzle.
+- 2%: Overcome a trap.
+- 2%: Overcome an environmental obstacle or hazard.
+- 2%: Uncover a secret.
+- 5%: Beneficially resolve a high-stakes encounter with an important NPC.
+- 5%: Discover an important location.
+- 5%: Manipulate or cripple a faction to your benefit.
+- 10%: Establish a reliable safe haven in a dangerous locale.
+
+Only one character needs to achieve the feat for the whole party to get the
+bonus, and for particularly impressive feats I might upgrade the XP award to the
+next step.
+
+So now the party can enter and exit the dungeon without having to pay the toll
+to the halfling thugs who control the main entrance and without having to evade
+the beastmen who monitor the ruined tower entrance.  For finding a relatively
+safe, uncontrolled, route to the surface, I've given them the 5% "discover an
+important location" bonus.
+
+
+## Miscellaneous
+
+### Aliens: Dark Descent
+
+I finished this game this week.  While I enjoyed the strategy aspect of the game
+and the mission structure, I felt the story bits were a bit weak.
+
+For example, the final mission ended with a sequence where the story characters
+(i.e. *not* the marine squad you mostly play) search an alien city amid a
+xenomorph onslaught, but the story characters are invulnerable until they
+confront the xenomorph queen, then two of them die in a cutscene and the
+remaining one has to run away---but since there's only one character now, the
+xenomorphs are pretty weak so that escape is even possible.  It was just very
+different to what actually made the game fun.
+
+Still glad I played it, but I much preferred how most of the story was delivered
+by finding diaries in the course of a mission.
+
+### Book of Hours
+
+A friend gifted me [Book of Hours][] for my birthday.  It's like a more
+forgiving, but still cryptic and confusing, [Cultist Simulator][].  I've spent a
+few hours playing it and I *think* I'm starting to get the hang of it, but it's
+hard to say.  There's definitely a layer of strategy I've not figured out yet
+which'll let me upgrade my soul and skill cards, as those are currently a
+blocker to pressing further into the house and reading more of the books.
+
+[Book of Hours]: https://store.steampowered.com/app/1028310/BOOK_OF_HOURS/
+[Cultist Simulator]: https://store.steampowered.com/app/718670/Cultist_Simulator/
+
+### Visiting Japan
+
+I am planning to visit Japan next year, in mid to late April.  A few different
+groups of friends are going to be there around the same time, so if I time
+things right I can meet up with all of them in a single trip.
+
+Just need to hammer out some dates and get flights now.
