@@ -1,0 +1,153 @@
+---
+date: 2023-09-17
+---
+
+## Books
+
+This week I read:
+
+- [Elric: The Moonbeam Roads][] by Michael Moorcock
+
+  If I was still trying to maximise the number of books I read in a year, this
+  one would have annoyed me as it comprises *three* originally separate novels
+  which have been lumped together into this one volume.  It's huge!  Way bigger
+  than the other books in the Gollancz Elric collection.  I've been slowly
+  reading it over the last few weeks.
+
+  Despite ostensibly being an Elric book, the trilogy is more about the von Bek
+  family.
+
+  The first story, *Daughter of Dreams*, has Ulric von Bek meet Oona, daughter
+  of Elric and Oone, and learn about the Cosmic Balance and the Eternal
+  Champion, of which he is one manifestation.  One thing I always find funny in
+  the Elric stories is how readily everyone accepts that there is a multiverse
+  out there, and the worlds of man are the battlegrounds of gods seeking to
+  control it.  We also meet Klosterheim and Gaynor the Damned, recurring
+  characters who actually showed up in previous Elric books in this collection.
+  I don't know if this is the novel that introduced them, but we get *an*
+  introduction to them here.
+
+  The second, *Destiny's Brother* is actually mostly about Oona, as Ulric gets
+  kidnapped by transdimensional Native Americans near the beginning of the story
+  and only returns towards the end.  Like in the first tale, the climax involves
+  Elric and Ulric merging together into a whole that's greater than the sum of
+  its parts to thwart the evil plans of Klosterheim and Gaynor.
+
+  The third, *Son of the Wolf*, focusses on Oonagh, granddaughter of Ulric and
+  Oona, and on Oona's twin brother who seems to go by several different names.
+  While the other two I followed without difficulty, even though I recognised
+  that some of the characters had clearly been first introduced in other books
+  I'd not yet read, this one I felt that more keenly and I think I'd have got
+  much more out of it if I'd read the Hawkmoon books first.  Maybe I'll re-read
+  it after I do.  Hawkmoon himself doesn't appear "on screen", though he is
+  referenced, but the story is largely set in his world and we only get a basic
+  explanation of who the characters are and what's going on.
+
+  And that is it for the Elric collection.  I'm going to take a break from
+  Moorcock now and read some other books on my list, and then when I return
+  it'll be to Corum.
+
+[Elric: The Moonbeam Roads]: https://en.wikipedia.org/wiki/Elric_of_Melnibon%C3%A9
+
+## Roleplaying Games
+
+### The Halls of Arden Vul
+
+I made a few tweaks to [my house rules][] this week, mostly to the philanthropy
+rules:
+
+![My house rules for gaining XP through philanthropy.](notes/261/philanthropy.png)
+
+Previously I had a pretty basic "donate X gold, get 80% of it as XP" style rule,
+with some restrictions on the minimum amount you can donate based on the size of
+the settlement.  I also noted that you could donate treasure instead of gold "if
+appropriate (e.g. donating a religious statue to a temple)".
+
+It worked, and we used it a lot, but I felt it wasn't really fit for purpose any
+more:
+
+- There was only really one relevant settlement, so the rules for needing to
+  donate larger amounts of money in larger settlements never came up.  Besides,
+  there's already a penalty to donating only a little money: you get only a
+  little XP.
+
+- The players never donated to specific causes, despite my hinting.  So I
+  decided to just make it really explicit by giving them a mechanical benefit
+  for doing so.  I want them to also engage with the factions *outside* the
+  dungeon.
+
+- They've been talking for a few weeks now about founding a temple or a
+  hospital, and I wanted that to be a bit more involved than just buying a
+  building and getting a load of XP for it.  I wanted them to have to have an
+  ongoing involvement with any organisation they set up, with the potential of
+  things going wrong, but lacked rules for that.  So I pulled in the institution
+  rules from [Downtime in Zyan][].
+
+We're all looking forward to trying out these new rules and founding the Free
+Hospital of Gosterwick, or funding the construction of the city walls so that
+Lady Alexia is more inclined to grant the party favours.
+
+I also dropped my training rules, since it added a little friction on every
+level-up and in hindsight wasn't really adding anything.  I wanted training to
+be a gold sink, and also to force the players to engage with powerful NPCs; but
+philanthropy is already being a good gold sink, and I never actually played up
+the aspect of finding and engaging with specific mentor NPCs, it just became
+"ok, you go off and train with the knights for a week".
+
+And I simplified the carousing rules, since they were never being used.  But
+actually, I think we're just going to get rid of those as well.  We had a chat
+about it and agreed that we're not really playing the sort of fantasy that
+carousing models, that of sword-and-sorcery heroes who come back from adventure
+laden with loot and blow it all in a huge party, which sends them into enough
+debt to trigger the next adventure.  Carousing fits well in other campaigns, but
+not really in one where the PCs are all philanthropic do-gooders.
+
+As for the session itself, the players managed to find yet another route from
+the surface into the dungeon, down to an area full of goblins.  They decided not
+to press on this time, but have noted it for future reference.  They also found
+some valuable statues in a disused corridor, and hauled them out to sell in
+town.
+
+I've been watching the [3d6 DTL actual play of Arden Vul][] and find the
+difference in how time passes in their campaign and mine a little funny.
+They've been playing for a year, but only a month of in-game time has passed as
+they spend most of every session carefully exploring the dungeon.  We've just
+wrapped up the 15th weekly session, and about 3 months of in-game time have
+passed, as my players immediately head back to Gosterwick as soon as they have a
+little loot to put in the bank.
+
+[my house rules]: notes/261/house-rules.pdf
+[Downtime in Zyan]: https://www.drivethrurpg.com/product/417937/Downtime-in-Zyan
+[3d6 DTL actual play of Arden Vul]: https://www.youtube.com/@3D6DTL
+
+
+## Miscellaneous
+
+I fixed a little issue in [my NixOS config][] that was bothering me.  I'd come
+up with this nice abstraction which let me define containerised services which
+would run exactly the same config with either docker or podman: if under docker
+it'd set up the appropriate bridge networks for containers to talk to each
+other, and if under podman it'd set up the pods.
+
+Very convenient, let's me switch back and forth between docker and podman for
+system services, but it did have a problem.  When running under docker,
+containers would be addressable by hostname, but when running under podman
+they'd only be available as "localhost".
+
+Well, it turns out that `podman pod create` has a `--network-alias` parameter
+which lets me set up docker-style hostnames.  So [I fixed that][], and now I can
+define services as groups of containers which will just do the right thing.
+
+[my NixOS config]: https://github.com/barrucadu/nixfiles
+[I fixed that]: https://github.com/barrucadu/nixfiles/pull/226
+
+
+## Link Roundup
+
+### Roleplaying games
+
+- [THE UNDERCLOCK: Fixing the Random Encounter](https://goblinpunch.blogspot.com/2023/04/the-underclock-fixing-random-encounter.html)
+
+### Software engineering
+
+- [UK air traffic control meltdown](https://jameshaydon.github.io/nats-fail/)
