@@ -1,0 +1,91 @@
+---
+date: 2023-09-24
+---
+
+## Books
+
+This week I read:
+
+- [Ancient Sorceries and Other Weird Stories][], a collection of short stories by Algernon Blackwood
+
+  I've read *The Willows* before, of course, and *The Wendigo* too.  Those are
+  always hyped as the best Algernon Blackwood stories and, while they're both
+  very good, I actually felt that *Sand* in this collection blew them both out
+  of the water.  I'm amazed I haven't seen anyone talking about it before.
+
+  AB is really good at portraying the majesty and mystery of nature, which is
+  seemingly largely drawn from his own experiences.  The endnotes of this
+  collection surprised me by how closely related these stories all were to
+  experiences he himself had, just with the weirdness turned up.  You can tell
+  that he felt there was something magical in the world---something known to the
+  ancients but now largely hidden out of sight---and he shares his vision of
+  that through his stories.
+
+  *Sand*, in particular, I found very touching.  It made me want to go to Egypt,
+  to see the endless desert stretch away before me and to feel the weight of
+  ages.  But that itself brought about a sad realisation: the magical Egypt of
+  AB's 1912 visit is almost certainly gone.  With the modernisation of Egypt
+  itself, and the hordes of tourists who now descend upon it, an age of mystery
+  and wonder has ended.
+
+[Ancient Sorceries and Other Weird Stories]: https://www.penguinrandomhouse.com/books/289745/ancient-sorceries-and-other-weird-stories-by-algernon-blackwood/
+
+
+## Roleplaying Games
+
+### The Halls of Arden Vul
+
+This week my players made a plan before the session.  This is great.  I love
+talking about the game (it's so fun), and I love plans (I can focus my prep).
+
+They didn't actually follow the plan once the session started, but I suppose you
+can't have everything.  But they did find a few fun things: they managed to pick
+the lock of a big door which had defeated them previously, gaining access to a
+new region of the main dungeon level they're exploring (and also unleashing a
+dust monster in the process, we'll see what comes of that); they decoded one of
+my clues leading to a connection with a different level; and they found a *very*
+significant item (though they don't know it yet) which ties in with some of the
+hidden deep lore of the setting.
+
+In less good news, our VTT of choice, [Owlbear Rodeo][] was pretty laggy today.
+I've heard that it can strugle with big drawn maps, but I didn't think we'd
+reached that point yet.  Hopefully it was just a temporary issue today, and not
+a sign that we'll need to switch to another tool.
+
+[Owlbear Rodeo]: https://www.owlbear.rodeo/
+
+
+## Miscellaneous
+
+I was seized by inspiration to make some improvements to [my DNS nameserver][]
+this weekend:
+
+- Making a simplifying assumption in the main resolver ([#261][])
+- Fixing [an issue with negative responses][] ([#262][], [#263][])
+- Adding basic IPv6 support ([#264][], [#265][], [#266][])
+- And making the upstream DNS port configurable ([#267][])
+
+The combination of #264, #265, and #267 make it possible to implement
+integration tests on a single host.  I could run a mock nameserver on, say, port
+5354, and resolved on port 5353 configured to talk to it.  Then I just need to
+hard-code responses to all the queries my mock nameserver may get, then use
+`dig` or something to query resolved and check the responses are correct.  I
+haven't written any integration tests yet, but I think it would be a valuable
+exercise.
+
+[my DNS nameserver]: https://github.com/barrucadu/resolved
+[an issue with negative responses]: https://github.com/barrucadu/resolved/issues/248
+[#261]: https://github.com/barrucadu/resolved/pull/261
+[#262]: https://github.com/barrucadu/resolved/pull/262
+[#263]: https://github.com/barrucadu/resolved/pull/263
+[#264]: https://github.com/barrucadu/resolved/pull/264
+[#265]: https://github.com/barrucadu/resolved/pull/265
+[#266]: https://github.com/barrucadu/resolved/pull/266
+[#267]: https://github.com/barrucadu/resolved/pull/267
+
+
+## Link Roundup
+
+### Roleplaying games
+
+- [The Definitive Guide To Old-School Saving Throws](https://rpghorizon.com/posts/2020-02-10_saving-throws/)
