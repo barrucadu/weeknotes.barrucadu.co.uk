@@ -1,0 +1,75 @@
+---
+date: 2023-10-01
+---
+
+## Books
+
+This week I read:
+
+- [The Library at Mount Char][] by Scott Hawkins
+
+  I got this for Christmas in 2022, and got so into it I read it in a single
+  day, almost non-stop.  This week I decided to read it again, to see if it
+  still held up (while stuck back at home, a book doesn't have to be *that*
+  amazing to be a welcome break); and it did, I could hardly put it down.
+
+  [Last time][], I felt the ending was a little weak.  But this time around I
+  felt that I was maybe being too harsh.
+
+[The Library at Mount Char]: https://en.wikipedia.org/wiki/The_Library_at_Mount_Char
+[Last time]: notes/224.html
+
+
+## Roleplaying Games
+
+This has been a good week for kickstarters: [Wildendrem][] opened its backerkit,
+so I've now paid for shipping for that, and [Dolmenwood][] will be following
+suit tomorrow; [Nightmare over Ragged Hollow][] arrived in the post; and the
+[Pioneer][] playtest should be coming soon, just in time for our next one-shot.
+
+[Wildendrem]: https://www.kickstarter.com/projects/626169339/wildendrem-volume-one-the-valley-of-flowers
+[Dolmenwood]: https://www.kickstarter.com/projects/exaltedfuneral/dolmenwood-tabletop-rpg
+[Nightmare over Ragged Hollow]: https://www.kickstarter.com/projects/896102915/nightmare-over-ragged-hollow
+[Pioneer]: https://www.kickstarter.com/projects/1990654819/traveller-rpg-the-journal-of-the-travellers-aid-society-ii/posts/3915264
+
+### The Halls of Arden Vul
+
+Another successful session, with the players heading into newly-discovered
+territory and making off with some loot.  Unfortunately for them, this area is
+fully under the control of one of the dungeon factions---an especially paranoid
+one at that---and there will be consequences to this incursion.  Fortification,
+at the very least.  I need to think things over, but this entrance they've found
+may just end up lost to them (e.g., the stairwell collapsed, rendering it
+impassable without major work).
+
+But their interest has definitely been piqued, and they have clues leading to
+another entrance, so maybe losing this entrance will just spur further
+exploration.  But the route to the other entrance is now the home of a monster
+they accidentally unleashed.  That monster, by the way, is breeding now that
+it's got more space, and it could cause a major infestation if left unchecked.
+
+Consequences!
+
+
+## Miscellaneous
+
+I spent some more time this week working on [my DNS nameserver][].  No new
+features this week, just some refactoring, but it's satisfying work.  I've done
+nothing but merge version bump PRs since June, and yet recently I've been
+inspired to fiddle with it.  Is it something I ate?
+
+I also bought some plane tickets.  To Japan.  For next April.  Some online
+friends are going for a few weeks, and I'll be joining them.  We've not met in
+person before, so this'll be fun.  I'm also going to take advantage of the trip
+to see a couple of other friends who will be living in Japan at the time.  It's
+a long way off still, but I'm excited.  This'll be my first trip abroad in a
+while, and I really liked Japan last time I was there.
+
+[my DNS nameserver]: https://github.com/barrucadu/resolved
+
+
+## Link Roundup
+
+### Software engineering
+
+- [Subtraction Is Functionally Complete](https://orlp.net/blog/subtraction-is-functionally-complete/)
