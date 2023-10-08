@@ -1,0 +1,86 @@
+---
+date: 2023-10-08
+---
+
+## Books
+
+This week I read:
+
+- [Green Mars][] by Kim Stanley Robinson
+
+  A good second instalment in this politics-thinly-disguised-as-hard-sci-fi
+  series.  It's set a few decades after the events of the first book, but with
+  many of the same characters, due to the longevity treatments developed during
+  the first book.  The right to self-rule is the main theme of the book, but
+  another significant one is the rule (not necessarily by law, but certainly by
+  influence) of an ever-aging elite, despite the bulk of the population becoming
+  more and more culturally distinct from these elites.
+
+  Often, literature snobs look down on "genre fiction" as just being about
+  tropey stories with no real message to tell.  Devoid of value, as if it's only
+  worth reading "literary fiction" (which is just as much a genre as any other)
+  or nonfiction.  And I fully admit that is true for a lot of stuff, even stuff
+  I've read and enjoyed.  But I would hold up the Mars Trilogy as an example of
+  genre fiction that *does* deliver a message, and does it well.
+
+[Green Mars]: https://en.wikipedia.org/wiki/Mars_trilogy
+
+
+## Roleplaying Games
+
+### The Halls of Arden Vul
+
+We spend half of this week's session doing downtime stuff: selling loot, getting
+magic items identified, convalescing, and founding a hospital to be the target
+of their future philanthropic giving.
+
+The hospital is quite exciting, as it's the first time the party have
+unquestionably made their mark on the world: this'll get them noticed by local
+important NPCs for sure, and it's likely to lead to more adventure as the PCs
+try to build up the wealth to not only keep it going, but also to make it better
+equipped and more important (using the *Downtime in Zyan* institution rules).
+
+After that, the party headed back to Arden Vul to explore the ruined city on the
+surface some more.  I think the players are realising just how much stuff there
+is up there, outside the dungeon proper, that they'd overlooked before.
+However, the stuff in the ruined city isn't disconnected from the dungeon.  One
+of the things I like about Arden Vul is how it sprinkles high-level content and
+campaign-altering mysteries all over the place: the players might not be able to
+make sense of everything they find, but they can tell that there's some secret
+to uncover.
+
+
+## Miscellaneous
+
+It's another new anime season, so I'm checking out a bunch of shows.  It's a
+good season for sequels, but there's also some interesting-looking new things
+too.  It's also nice to see that the isekai tide is finally starting to recede,
+as there's plenty of just normal fantasy this season without the totally
+unnecessary framing device of the main character being a magically transported
+Japanese guy.
+
+[Frieren][] came out of nowhere for me, I'd not heard of it before, but it is
+*really good*.  Anime of the season, for sure.  It is about an elf mage and her
+adventuring party, set after they completed their 10-year quest to defeat the
+dark lord and save the world.  The defining event of a lifetime for the human
+party members; a short errand for Frieren.  The theme is the passage of time,
+loss, and how sometimes you only realise you didn't spend enough time with
+someone until it's too late.
+
+I've already ordered all the books.
+
+[Frieren]: https://en.wikipedia.org/wiki/Frieren
+
+
+## Link Roundup
+
+### Miscellaneous
+
+- How to Roman Republic 101:
+  - [Part I: SPQR](https://acoup.blog/2023/07/21/collections-how-to-roman-republic-101-part-i-spqr/)
+  - [Part II: Romans, Assemble!](https://acoup.blog/2023/07/27/collections-how-to-roman-republic-101-part-ii-romans-assemble/)
+  - [Part IIIa: Starting Down the Path of Honors](https://acoup.blog/2023/08/11/collections-how-to-roman-republic-101-part-iiia-starting-down-the-path-of-honors/)
+  - [Part IIIb: Imperium](https://acoup.blog/2023/08/18/collections-how-to-roman-republic-101-part-iiib-imperium/)
+  - [Part IIIc: Ten Tribunes, Two Censors and Twenty-Six Guys](https://acoup.blog/2023/08/25/collections-how-to-roman-republic-part-iiic-ten-tribunes-two-censors-and-twenty-six-guys/)
+  - [Part IV: The Senate](https://acoup.blog/2023/09/22/collections-how-to-roman-republic-part-iv-the-senate/)
+  - [Part V: The Courts](https://acoup.blog/2023/10/06/collections-how-to-roman-republic-part-v-the-courts/)
