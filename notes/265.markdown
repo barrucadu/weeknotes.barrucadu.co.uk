@@ -1,0 +1,85 @@
+---
+date: 2023-10-15
+---
+
+## Books
+
+No books this week!  I've spent all my free time playing [Baldur's Gate 3][].
+
+[Baldur's Gate 3]: https://en.wikipedia.org/wiki/Baldur%27s_Gate_3
+
+
+## Roleplaying Games
+
+### The Halls of Arden Vul
+
+One of the more action-packed sessions, where things could have easily gone very
+badly if one party member hadn't just happened to have a *Potion of Undead
+Control (Ghouls)* which let them escape a very hairy situation with only two
+deaths.
+
+But then the players ended up barricading themselves in a small room while angry
+baboons batter the door down.  Drums, drums in the deep, they cannot get out...
+Quite a cliffhanger ending!
+
+I've really enjoyed the last couple of sessions.  They've really demonstrated
+what I like about Arden Vul, which is that the cool stuff *isn't gated behind
+being deep in the dungeon* like in some modules.  It's all over the place.
+
+For example, one of the first things the players found was an obelisk with a sun
+motif and a weird inscription---"The Beacon shall be revealed to those who bring
+midday life to the Sun, the Moon and the Stars"---and a deeply-incised ankh as
+if a physical ankh could be plugged into it.
+
+It's right at the entrance to the Arden Vul, it's impossible to miss.
+
+But nothing came of it.  Until *16 sessions later* when the players found an
+ankh in a wizard's lab which fit into the obelisk.  They tried inserting it at
+noon, but nothing happened.  "Oh well," they thought, "let's get back to
+adventuring."  They then found, in the walled grounds of a ruined palace, a
+*second* obelisk.  Same inscription, same ankh-shaped slot, but *this* one had a
+moon theme.  All of a sudden the players are poring over their map trying to
+work out where a third obelisk, with a star motif, could possibly be, and
+talking about how they might be able to put the word out to pawn shops that
+they're looking for these ankhs in case anyone comes in with one to sell.
+
+It's good dungeon design, but also good playing on the group's part.  They're
+thinking exactly how they should be, and I reward that; I don't give them things
+for free, but if a plan they come up with sounds reasonable I'll just allow it
+more often than not.  Imagine how dull it would have been if they started
+talking about the possibility of a third obelisk and I said "that's a good idea,
+*make an intelligence check to see if your character could think of it*."  Ew.
+
+I'm really looking forward to when they start to uncover some of the big
+secrets, and suddenly things they thought to be unrelated start to come
+together.
+
+There is a story behind Arden Vul, if they can find it.
+
+
+## Miscellaneous
+
+I spent a little time playing around with [mdBook][], [rustdoc][], and [GitHub
+Pages][] (I know, I know, I'm late to the party) to set up a little
+documentation site for [resolved][].
+
+I'm quite pleased with the result:
+[resolved.docs.barrucadu.co.uk](https://resolved.docs.barrucadu.co.uk/)
+
+I like how I can build and deploy it through GitHub Actions.  When I last gave
+GitHub Pages a try the state of the art was having your CI tool push to a
+special branch, which always felt like it was misusing git.
+
+The next step will be to review and improve the crate documentation, which is
+clearly very lacking now that I'm actually able to see it.
+
+I've started on a similar site for my [NixOS configuration][], to document my
+custom modules and options, which should hopefully be done some time next week.
+I'm thinking of moving the [dejafu docs][] over, as well.
+
+[mdBook]: https://rust-lang.github.io/mdBook/
+[rustdoc]: https://doc.rust-lang.org/rustdoc/what-is-rustdoc.html
+[GitHub Pages]: https://docs.github.com/pages
+[resolved]: https://github.com/barrucadu/resolved
+[NixOS configuration]: https://github.com/barrucadu/nixfiles
+[dejafu docs]: https://dejafu.readthedocs.io/
