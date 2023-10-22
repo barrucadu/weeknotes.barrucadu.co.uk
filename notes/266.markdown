@@ -1,0 +1,129 @@
+---
+date: 2023-10-22
+---
+
+## Books
+
+This week I read:
+
+- Volumes 8 and 9 of [Delicious in Dungeon][] by Ryoko Kui
+
+  There's an anime coming next year, so I decided to catch up on the manga.
+  It's a while since I've read the previous volumes, so I worried about having
+  forgotten details, but it all came back to me quickly enough.  It is more or
+  less just about fantasy cooking jokes, but there is still a story underneath
+  all the jokes.  I definitely think this is the kind of story that works best
+  in a visual medium though, it would be a really dull novel.
+
+- [Corum: The Prince in the Scarlet Robe][] by Michael Moorcock
+
+  Corum is a very similar character to Elric.  *Very* similar.  They're both
+  amongst the last members of their ancient, powerful but decadent and dying,
+  races which are being supplanted by mankind.  But while Elric hates his people
+  and serves Chaos, Corum loves his people and serves Law.
+
+  But hey, I come to sword-and-sorcery for a fun time, not for totally unique
+  trope-free stories.  I got the feeling that these stories would work better as
+  the basis for an RPG campaign than the Elric stories, though it'd also be
+  really easy to combine them and take the framework of the Corum stories and
+  slot in some events of the Elric stories to make something a bit different.
+  Which leads to the next book:
+
+- [Black Sword Hack][] by Kobayashi
+
+  Which is a very Moorcockian sword-and-sorcery RPG I picked up a while ago,
+  based on [The Black Hack][], and which has some kickass art.  I skimmed
+  through it at the time and liked it, but wasn't really sure how to run a
+  sword-and-sorcery adventure.  But I found myself drawn to it after finishing
+  the Corum book, and maybe I will give it a try in the near future.  It is
+  about time for the next one-shot, after all.
+
+  I feel like it would work best for solo games though---just the GM and one
+  player---as in most of the sword-and-sorcery stories there's a very clear
+  protagonist, and all the other major characters who travel with them are
+  defined by their relationship to the protagonist: the companion, the consort,
+  the mentor, etc.  But maybe I'm just being narrow-minded and it does work just
+  fine with a group of coequal adventurers.
+
+[Delicious in Dungeon]: https://en.wikipedia.org/wiki/Delicious_in_Dungeon
+[Corum: The Prince in the Scarlet Robe]: https://en.wikipedia.org/wiki/Corum_Jhaelen_Irsei
+[Black Sword Hack]: https://www.themerrymushmen.com/product/black-sword-hack-ultimate-chaos-edition/
+[The Black Hack]: https://preview.drivethrurpg.com/en/product/255088/The-Black-Hack-Second-Edition
+
+
+## Roleplaying Games
+
+### The Halls of Arden Vul
+
+If last week demonstrated what I like about Arden Vul---cool stuff and mystery
+being everywhere---this week demonstrated what I like about old school play:
+using player skill in creative problem solving to overcome obstacles.
+
+We ended our session last week with the players barricaded into a room with
+angry baboons battering down the door.  As the players have now discovered,
+these baboons aren't *just* wild animals, they serve a paranoid spellcaster
+(called Gerrilad) who has taken up residence in this part of the dungeon.  So
+between sessions, I figured out what Gerrilad would do when the players tripped
+his baboon alarm: how long it'd take for the baboons to alert him, how many
+reinforcements he'd send, when they would arrive, and so on.  I had a timeline
+of events all ready to go.
+
+The players ended up stalling for time, so they were attacked by a much larger
+horde of baboons than those who had initially trapped them.  Still, with some
+lucky rolls and the expenditure of magic scrolls, the players managed to drive
+off the baboons.
+
+They then continued exploring, and happened to discover Gerrilad in his throne
+room torturing a dwarf who he captured some months previously.  Half the party
+are dwarves, this guy is a dwarf, so Gerrilad was assuming that the party had
+come to rescue his prisoner.
+
+The players decided to try to save the dwarf.
+
+But how?  Gerrilad was right there, they assumed he was probably a spellcaster
+if he could control baboons, and there were also several baboons in the room.  A
+tough fight in the best of cases.
+
+They ended up using a potion of flying (expending a magic item) in combination
+with a pair of magic rings (which turn the wearer of one invisible, but at the
+cost of turning the wearer of the other blind for the same duration), and a
+magic battleaxe (no special powers, just really good at killing) to sneak up on
+Gerrilad and behead him before he could react.
+
+It was a clever solution.
+
+They first asked about invisibility, but I said that that alone wouldn't
+guarantee getting Gerrilad: he'd get a chance to hear them approach.  I didn't
+tell them flying would do the trick, they went through their resources and
+figured that out for themselves.  Then I gave them a choice: they could either
+roll to hit, but be guaranteed to kill him if they did hit; or be guaranteed a
+hit, but have to roll damage which might not end up being fatal.
+
+They chose the former, and the risk paid off.
+
+Gerrilad was an important NPC.  Was letting him just die without a fight a step
+too far?  I don't think so.  The players spent a while coming up with this plan,
+they had to expend resources and go into danger to accomplish it (they *could*
+have failed to hit, alerting him to their invisible presence) and, like all good
+RPG situations, this actually ended up creating a new problem.  Now they have
+all of Gerrilad's weakened prisoners to escort out of the dungeon, and his
+treasure---which is far too much to carry in one go---to deal with.
+
+
+## Miscellaneous
+
+This week I continued playing with [mdBook][] and set up some nice documentation
+for my [NixOS configuration][] and also ported over the [DejaFu docs][] from the
+previous [Read the Docs][] site.
+
+It's quite satisfying writing documentation, and refactoring things to make that
+documentation better.
+
+I don't think I have any other repositories in desperate need of docs.  Though,
+when the next major release of Elasticsearch happens, I now have a place to put
+a runbook for that.
+
+[mdBook]: https://rust-lang.github.io/mdBook/
+[NixOS configuration]: https://nixfiles.docs.barrucadu.co.uk/
+[DejaFu docs]: https://dejafu.docs.barrucadu.co.uk/
+[Read the Docs]: https://about.readthedocs.com/
