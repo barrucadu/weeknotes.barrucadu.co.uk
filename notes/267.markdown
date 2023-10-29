@@ -1,0 +1,116 @@
+---
+date: 2023-10-29
+---
+
+## Books
+
+This week I read:
+
+- [The Rim of Morning][] by William Sloane
+
+  I picked up this collection of two cosmic horror stories the same time I did
+  [The Outcast and The Rite][], it just caught my eye one day in a bookshop.
+  And, like that other book, this one turned out to be a good impulse buy.  The
+  introduction describes the two stories in this volume, *To Walk the Night* and
+  *In The Edge of Running Water*, as some sort of forgotten treasures, and
+  having read them I agree.  They're very well done.
+
+  Reading them back-to-back did make their similarities stand out, so it might
+  have been better to read something else between them, but they were still
+  enjoyable.
+
+  Both stories are told from the perspective of a narrator, who was a close
+  friend of the victim and who personally experienced some of the events,
+  relating the tale afterwards.  In both, the victim is a genius (mathematics in
+  *To Walk the Night*, physics in *In The Edge of Running Water*) who gets
+  caught up in some research probing beyond what man was meant to know, becoming
+  estranged from friends (including the narrator) and moving somewhere remote to
+  focus on the work, ultimately paying the ultimate price.
+
+  Not only are the stories good, the book itself is pleasing too.  The paper is
+  fairly thick, the whole book has a feeling of density and significance.
+
+- Volume 10 of [Delicious in Dungeon][] by Ryoko Kui
+
+  The story is definitely approaching its climax now: we have the main
+  characters facing off against the master of the dungeon, the
+  dungeon-destroying elves closing in, and lying in the background of all this
+  the central mystery of what the dungeon is.  Is it the egg of a demon which
+  will consume all who seek to master it, as the elves say?  Or is it endless
+  possibility, as our protagonists hope?
+
+[The Rim of Morning]: https://www.goodreads.com/en/book/show/24783930
+[The Outcast and The Rite]: notes/258.html
+[Delicious in Dungeon]: https://en.wikipedia.org/wiki/Delicious_in_Dungeon
+
+
+## Roleplaying Games
+
+### The Halls of Arden Vul
+
+This week we decided to try out [Miro][] for mapping, as Owlbear has started to
+lag quite a lot on some of the larger maps.  Owlbear is great, but it's clearly
+designed for throwing up images and making notes on them, or drawing battlemaps
+and *small* dungeon maps.  Despite its infinite scroll, it can't really handle
+the scale of even a single full floor of Arden Vul, most of which are large
+dungeons in their own right.
+
+Miro's performant enough that you can even put up multiple floors all on the
+same board, which led to one player looking at the relative layout of rooms on
+different floors and making predictions about what they'd find, which is
+*really* cool.
+
+Unfortunately, one player's computer really struggled with Miro.  Garbled voice
+chat, which cleared up the instant they closed the board.  If we can't figure
+out a way to resolve that, we'll have to go back to Owlbear, might have to adopt
+drastic measures like breaking up single dungeon levels into multiple Owlbear
+maps.
+
+[Miro]: https://miro.com
+
+### Upcoming One-Shots
+
+I've got two new short games in the works, which I'm quite looking forward to.
+
+Off the back of my sudden interest in sword-and-sorcery adventuring with [Black
+Sword Hack][], I've decided to call the next break in Arden Vul.  So we've got
+one more session of Arden Vul next week, then two weeks of Black Sword Hack.  I
+have some ideas for an adventure, but the game has a collaborative worldbuilding
+step, so I'll just keep those ideas in the back of my mind for now and flesh
+something out after we do character and world creation on the 12th.
+
+I'm also hoping to run the [ALIEN][] scenario *Destroyer of Worlds* in the near
+future, but I'm still gathering players for that.  It might end up being in
+December, or even early next year.
+
+[Black Sword Hack]: https://www.themerrymushmen.com/product/black-sword-hack-ultimate-chaos-edition/
+[ALIEN]: https://www.alien-rpg.com/
+
+
+## Miscellaneous
+
+I've decided to redecorate a little.
+
+I'm planning to free up a little space in the living room by moving my
+whiteboard into the kitchen (since I only use it to track my shopping list and
+meal plan) which, with a bit of rearrangement, will let me fit in a new bookcase
+and put up some new art.  I also wanted to expand my CD storage, but was greatly
+saddened to discover IKEA are discontinuing the GNEDBY, they still have some
+units left, but not in the colour I want.  So I'll have to do something
+different there.
+
+Though, every time feel like changing things up, I can't help but think how much
+easier it would be if I *had a house*.  I wouldn't even need an especially big
+house to just have way more space than my current flat.  But, alas, I live near
+London and so anything beyond a small house is ludicrously expensive.
+
+
+## Link Roundup
+
+### Roleplaying games
+
+- [TACTICAL COMBAT MECHANICS for Theater of the Mind Dungeon Crawls](https://alldeadgenerations.blogspot.com/2023/10/dungeon-skr.html)
+
+### Miscellaneous
+
+- [How to Roman Republic 101, Addenda: The Socii](https://acoup.blog/2023/10/20/collections-how-to-roman-republic-101-addenda-the-socii/)
