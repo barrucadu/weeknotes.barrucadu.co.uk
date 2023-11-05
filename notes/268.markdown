@@ -1,0 +1,78 @@
+---
+date: 2023-11-05
+---
+
+## Books
+
+This week I read:
+
+- [Last Days][] by Adam Nevill
+
+  This is the second Adam Nevill book I've read, after *The Ritual* [back in
+  2020][], and I greatly enjoyed this one too.  It's about an independent
+  film-maker hired on short notice and for a lot of money to make a film about a
+  hippy suicide cult from a few decades previously, specifically focussing on
+  the paranormal aspects of the cult.  It's done really well, it was creepy, I
+  thought the build-up was really effective.
+
+  The idea of 500-year-old undead phasing through solid walls as they force
+  their way out of hell and into our reality---leaving behind horrifying images
+  burned into the walls which fade in the presence of daylight---is great.
+
+  I'll definitely be picking up some more Adam Nevill books.
+
+- Volumes 11 and 12 of [Delicious in Dungeon][] by Ryoko Kui
+
+  Well, the demon turned out to be the bad guy after all.  Figures.
+
+  Anyway, this brings me to the end of the physically published manga: there are
+  some chapters left, but they're not in volume format yet.  Which means given
+  the translation lag, it's realistically looking like late 2024 / early 2025 at
+  the earliest before I'll be able to finish the story.
+
+[Last Days]: https://en.wikipedia.org/wiki/Last_Days_(Nevill_novel)
+[back in 2020]: notes/095.html
+[Delicious in Dungeon]: https://en.wikipedia.org/wiki/Delicious_in_Dungeon
+
+
+## Roleplaying Games
+
+### The Halls of Arden Vul
+
+We managed to fix the Miro issue, so we have now switched over fully from
+Owlbear.
+
+It was another fun session, in which I managed to stall the players for close to
+half an hour of real-time by just having the apparently-evil NPC wizard being
+willing to negotiate fairly with them.  It was totally in-character: he knew the
+party was dangerous, and was willing to give up quite a bit just for their
+promise to leave him alone.  The players couldn't get over the idea that there
+*must* be an ulterior motive, that this *must* be a trap or a trick
+somehow---but no, this is just the result of them gaining a reputation for being
+wizard-killing badasses.
+
+On the other hand, the players have been drastically *under*thinking some of the
+rumours they've previously gathered.  A while back they got one about a secret
+door in a fairly distinctive room near some landmark.  The players found the
+landmark a couple of sessions ago, walking *through the distinctive room* to get
+there, and the penny... hasn't dropped yet.  I even reminded them at the start
+of this session (and by the way, they passed both the landmark and the
+distinctive room *again* this session) to keep an eye on their rumour list,
+since they were exploring new territory.
+
+There's only so much I can do.  I don't want to just come straight out and say
+"hey guys, don't you think this room you're in right now sounds like the one in
+that rumour?"
+
+Ah, players.
+
+Next week: [Black Sword Hack][]!
+
+[Black Sword Hack]: https://www.themerrymushmen.com/product/black-sword-hack-ultimate-chaos-edition/
+
+
+## Link Roundup
+
+### Miscellaneous
+
+- [How to Roman Republic 101, Addenda: The Provinces](https://acoup.blog/2023/11/03/collections-how-to-roman-republic-101-addenda-the-provinces/)
