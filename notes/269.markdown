@@ -1,0 +1,65 @@
+---
+date: 2023-11-12
+---
+
+## Books
+
+This week I read:
+
+- [Corum: The Prince with the Silver Hand][] by Michael Moorcock
+
+  The second Corum trilogy, and set a thousand years or more after the first
+  trilogy, with Corum being summoned to do battle against the Fomorians.  The
+  first Corum trilogy felt vaguely Welsh-inspired, this second trilogy was
+  definitely much more so.  In each book, Corum has to undertake a quest to
+  retrieve some legendary treasures created or brought by ancient Sidhe warriors
+  to fight off the Fomorians---the Sidhe and Fomorians all being extra-planar
+  beings not native to the world of Corum and the Mabden.
+
+  Unlike most of the other Moorcock stories I've read, there isn't really much
+  in the way of the wider multiverse---Law, Chaos, the Balance, the Eternal
+  Champion---in these stories.  The closest we get is that someone theorises the
+  Fomorians may be degenerate Lords of Chaos, trapped in Limbo and driven mad,
+  and Gaynor the Damned makes an appearance as a servant of the Fomorians.  The
+  stories feel much more like something out of mythology, which makes sense as
+  that's clearly what Michael Moorcock was heavily drawing from.
+
+[Corum: The Prince with the Silver Hand]: https://en.wikipedia.org/wiki/Corum_Jhaelen_Irsei
+
+
+## Roleplaying Games
+
+### Black Sword Hack
+
+This week I ran a one-shot of [Black Sword Hack][].  I prepared a super-tropey
+adventure inspired by the *Slayers of the Blood God* scenario in the rulebook,
+the tower break-in scene from the *Conan the Barbarian* film, and the Michael
+Moorcock story *Elric of Melnibone*.
+
+Originally I was just going to run *Slayers of the Blood God*, but then I
+thought that if this is just a one-shot and we're likely never going to return
+to the system, I wanted to cram in as many Moorcock tropes as I could:
+runeswords, gods, magic, different planes of reality, etc.
+
+And so, **Murjana**---a sophist and natural diplomat, born and educated in the
+richest palace of the Caliphate---and **Rina**---a decadent, storytelling,
+warlock raised in a necropolis by ghosts---found themselves tasked to break into
+the tower of Lord Suren and steal a powerful artefact, the loss of which would
+greatly set back the plans of the setting's antagonist: an evil empire of Law.
+
+*Black Sword Hack* has a little system for generating a sword-and-sorcery world,
+so we did that, then created characters which tied into the world, and finally I
+slotted the details in, madlibs style, into the adventure I'd written
+previously.  The players ended up setting fire to a tower full of priceless
+artefacts, making a bargain with a trapped Lord of Chaos, finding a runesword,
+and slaying an evil shadow-clone.  We ended the session with them trapped in the
+dead world where the runesword was hidden, wondering how they would get home.
+Good stuff.
+
+It was fun, fairly fast-paced, and definitely different to our usual *Arden Vul*
+game.  There were a few things we messed up with the rules, but that's always
+the case with a new system.  I'm not sure I'd use *Black Sword Hack* for a
+campaign, there's a possibility of bringing it back for future one-shots; but,
+then again, there's always more systems I want to try.
+
+[Black Sword Hack]: https://www.themerrymushmen.com/product/black-sword-hack-ultimate-chaos-edition/
