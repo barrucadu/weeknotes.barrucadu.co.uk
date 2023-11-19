@@ -1,0 +1,91 @@
+---
+date: 2023-11-19
+---
+
+## Work
+
+I took this week off, and just lazed around at home.  I've still got a bunch of
+days to use by the end of the year, so I've also arranged to take every other
+Friday off until the end of the year (with a little more around Christmas), too.
+
+Then the next big break will be in April for the Japan trip.
+
+
+## Books
+
+This week I read:
+
+- [Hawkmoon: The History of the Runestaff][] by Michael Moorcock
+
+  I wanted to read as much Michael Moorcock as I could before the [Black Sword
+  Hack one-shot last week][], so I started this immediately after Corum and
+  finished it early this week.  I like how all of Michael Moorcock's
+  protagonists, while fairly similar, do have their differences, and have very
+  different settings.  The Hawkmoon stories have a weird science thing going on,
+  and are definitely going for that "sufficiently advanced technology is
+  indistinguishable from magic" feeling.
+
+  But I've now decided to take a short break from Michael Moorcock and read some
+  other books for a while.  I might read the second Hawkmoon trilogy, but I
+  don't think I'll start the Jerry Cornelius books before the year is out.
+
+- [Stories of Your Life and Others][] by Ted Chiang
+
+  *Story of Your Life* is, of course, the story that [Arrival][] (excellent
+  film) was based on, though the film significantly expands the military aspect
+  of the story.  Some of these are arguably not "stories", as they just explore
+  an idea and then end with no plot development or anything like a conclusion.
+  Ted Chiang has a knack for exploring the consequences of one single idea in an
+  interesting way, despite nothing actually happening.
+
+  My favourites were all actually religious-themed stories: *Tower of Babylon*,
+  which is about building a big tower to reach Heaven; *Seventy-Two Letters*,
+  which is about a world where golemancy is a science; and *Hell is the Absence
+  of God*, in which angelic visitations are commonplace and are kind of like
+  localised natural disasters.
+
+Once again, I'm running low on space for fiction.  [I have 552 fiction books
+right now][], and think I have the space for maybe 30 more.  Unfortunately, this
+time, I really do think I've reached the limit for how many bookcases I can cram
+into one room.  I could take over my spare bedroom with books, but (1) I never
+go in there so I'd never see them, which kind of defeats the point of having
+nice full bookshelves, and (2) it'll be difficult enough when I eventually have
+to move out, without getting yet more furniture.
+
+So I think I'm going to have to slow down on the fiction-buying.  Maybe curate
+my collection a bit, getting rid of some books I'm not going to read again.  I
+still have space for nonfiction, so I'll probably start reading more of that.
+
+It's a hard life, being a bookworm.
+
+[Hawkmoon: The History of the Runestaff]: https://en.wikipedia.org/wiki/The_History_of_the_Runestaff
+[Stories of Your Life and Others]: https://en.wikipedia.org/wiki/Stories_of_Your_Life_and_Others
+[Black Sword Hack one-shot last week]: notes/269.html
+[Arrival]: https://en.wikipedia.org/wiki/Arrival_(film)
+[I have 552 fiction books right now]: https://bookdb.barrucadu.co.uk/search?keywords=&author%5B%5D=&location=&match=&category=590ac55d-0644-4a71-b902-587faa5b03d9
+
+## Roleplaying Games
+
+### The Halls of Arden Vul
+
+A little bittersweet this week.  We hit the 6 month mark, which is great, and I
+wrote [a long post on the RPG blog][] about my experiences running Arden Vul.
+But one of the players had to drop out, so now we're down to two (not including
+myself) again.
+
+It does feel like I've exhausted the RPG-capability of this one small community.
+Everyone who has some interest in RPGs has been recruited by now, there's just
+one person left and another I've managed to recruit from elsewhere.  And we've
+all exhausted our RPG-playing friends.
+
+I don't really want to have to publicly advertise for new players, and trial
+people who none of us know, but it's looking more and more unavoidable.
+
+[a long post on the RPG blog]: https://www.lookwhattheshoggothdraggedin.com/post/arden-vul-6-months-in.html
+
+
+## Link Roundup
+
+### Roleplaying games
+
+- [Nested Tasks](https://knightattheopera.blogspot.com/2023/09/nested-tasks.html)
