@@ -1,0 +1,71 @@
+---
+date: 2023-11-26
+---
+
+## Books
+
+This week I read:
+
+- [A Short History of Byzantium][] by John Julius Norwich
+
+  I picked this up inspired by Arden Vul, which bases its Archontean Empire on
+  the Byzantines.  I'm not so sure it'll be useful for the game, but it was
+  certainly entertaining.  The Byzantine Empire was nuts.  So much murder and
+  intrigue.  People rioting in the streets about the divinity of Christ.
+  Successive generations of emperors thinking "I'll just make this powerful
+  political rival a co-emperor, give him a little power and hope that's enough"
+  and then being surprised when the new co-emperor backstabs them...
+
+  I especially liked how, as the book gets towards the fall of Byzantium, every
+  chapter began to end in one of two ways: "So-and-so was a good emperor, if he
+  had lived longer / not had this bind spot / not been preoccupied by this
+  threat he could have reversed the decline and changed the history of Eastern
+  Christianity." or "So-and-so actively made everything worse and it's a miracle
+  the empire didn't collapse during his reign."
+
+[A Short History of Byzantium]: https://en.wikipedia.org/wiki/A_Short_History_of_Byzantium
+
+
+## Roleplaying Games
+
+The Alexandrian has released his new book [So You Want to Be a Game Master][]!
+
+[So You Want to Be a Game Master]: https://thealexandrian.net/wordpress/50264/roleplaying-games/so-you-want-to-be-a-game-master-2
+
+### The Halls of Arden Vul
+
+I decided to bite the bullet and openly advertise for new players.  I largely
+followed [this guide I found a while back][] and submitted [a post to /r/lfg][]
+(which I crossposted to /r/lfgmisc and the weekly /r/osr LFG thread).
+
+I got 8 applications: three seemed kind of generic, as if they just wanted to
+play in any game; one didn't really fit (they said they enjoyed character
+builds, which OSE is not good for at all); one said they'd have to leave early
+every week (which I'm not a fan of); but the other three were pretty promising.
+
+Unfortunately, of the promising ones, two said they'd looked into Arden Vul
+before.  My current players have been having a lot of fun trying to figure
+things out for themselves, so I didn't want to risk inviting someone who might
+unintentionally spoil some of the lore.  So I invited the one promising
+application who didn't say that they already knew things about Arden Vul.
+
+They played their first session today, and it went pretty well.  They fit in
+with the group and we all had a good time, hopefully it will continue.
+
+In this week's session, the players managed to find one of the important
+locations of Arden Vul: the Oracle of Thoth, along with the 250-year-old
+Anaximander trapped inside it by his hubris.  They retrieved Anaximander and
+managed to get out of him that he was on the failed expedition to reconquer
+Arden Vul some 200 years ago, and then started to make their way out of the
+dungeon.  Realising they wouldn't get back to safety before dark, they decided
+to stop over with crazy old Lankios, who is friendly but who never remembers
+them.  When they greeted Lankios, to their surprise, Anaximander croaked out
+"Lankios?  Lankios the polemarch?  You too have been preserved?"
+
+I called an early end to the session there, and next time will begin with an
+exposition dump as the PCs manage to get some information out of Anaximander
+about Lankios, his love Guivrel, the mysterious betrayer "K", and Adriennic's
+ill-fated expedition.
+
+[this guide I found a while back]: https://old.reddit.com/r/rpg/comments/14x6cow/meeting_people_online_a_gms_guide_to_recruiting/
+[a post to /r/lfg]: https://old.reddit.com/r/lfg/comments/180pdnh/onlinebxutc_the_halls_of_arden_vul_an_oldschool/
