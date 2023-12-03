@@ -1,0 +1,85 @@
+---
+date: 2023-12-03
+---
+
+## Books
+
+No books this week.
+
+
+## Roleplaying Games
+
+The blog post I wrote about my Arden Vul campaign got featured in [The
+Glatislant][] this week, which was unexpected, but nice to see.  That post has
+jumped straight up to #3 most viewed of all time.
+
+This week there's been some interesting kickstarters:
+
+- [Knock! Issue Four][]
+- [Let Us Build a Tower: A Mythic Bronze Age Adventure in Babel][]
+- [Beyond the Pale: a folktale adventure][]
+
+But I think I'm all kickstartered out for December now, having backed all three.
+I wish the RPG industry could just stop releasing new books for two or three
+years so I have time to catch up on everything...
+
+[The Glatislant]: https://questingbeast.substack.com/p/the-glatisant-issue-46
+[Let Us Build a Tower: A Mythic Bronze Age Adventure in Babel]: https://www.kickstarter.com/projects/calebwimble/let-us-build-a-tower
+[Knock! Issue Four]: https://www.kickstarter.com/projects/896102915/knock-issue-four
+[Beyond the Pale: a folktale adventure]: https://www.kickstarter.com/projects/lost-pages/beyond-the-pale-a-folktale-adventure
+
+### The Halls of Arden Vul
+
+As usual, the players did not do at all what I expected them to this week.  We
+began with a bit of a lore dump from the magically preserved 250-year-old man
+they rescued.  He told them all about the previous attempt to retake Arden Vul
+for the empire, and the ultimate failure of that attempt in the face of some
+sort of magic weapon of the trolls.
+
+He name-dropped a bunch of important people and locations, so I expected the
+players to go follow up on those.  Nope.  Instead, they went to loot some
+treasure they'd seen but not claimed previously, and on the way there one player
+said "you know, I think there could be a secret door in this section of
+corridor" --- which proceeded to derail the *entire* session, as they found a
+network of secret corridors and spy-holes letting them peer into all sorts of
+rooms they'd not yet visited.
+
+But that's all good, the point of a secret door is to be found after all.  It
+would just be kind of nice if we went *one* session without adding to their
+to-do list.
+
+
+## Advent of Code
+
+December is here, so [Advent of Code][] is upon us once more.  As usual, I'm
+giving it a go in Haskell.  I usually get bored around the 15-day mark, so we'll
+see how far I get this year.
+
+The difficulty this year has felt a bit all over the place.  Part 2 of day 1 had
+a gotcha that felt a bit beyond a day 1 puzzle, then day 2 was really simple,
+then day 3 jumped straight to 2D input.  Though, it must be pretty hard to come
+up with 50 suitable puzzles every year.
+
+[Advent of Code]: https://adventofcode.com/
+
+
+## Miscellaneous
+
+The other day, Discord prompted me to log in again on my desktop (I guess it had
+been a while), but it wouldn't accept my password: my password was 128
+characters long, and at some point since I set it, they restricted the input
+field to 72 characters!
+
+I couldn't even change my password from a still-logged-in session, as the
+"current password" field on the form was also limited!
+
+"Fortunately", it seems that they always just silently truncated my password, as
+I discovered I could just delete everything after the 72nd character and log in
+just fine.  Yay?
+
+
+## Link Roundup
+
+### Roleplaying games
+
+- [The BECMI reaction table](http://methodsetmadness.blogspot.com/2023/11/the-becmi-reaction-table.html)
