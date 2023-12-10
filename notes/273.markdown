@@ -1,0 +1,69 @@
+---
+date: 2023-12-10
+---
+
+## Books
+
+This week I read:
+
+- [Cities in Flight][] by James Blish
+
+  This is a slightly confused book, being a collection of four novels not
+  arranged in publication order---instead arranged in in-universe chronological
+  order---and the novels themselves being made up of several short stories
+  smashed together.
+
+  The seams were pretty visible, especially in the third novel which really felt
+  like three different stories which had just been glued together at the chapter
+  boundaries.  The first and second novels were pretty cohesive, but then the
+  fourth one again was a bit disjointed: with a weird crusade subplot which came
+  out of nowhere, was a *big deal* for a few chapters, and then got totally
+  resolved and was never mentioned again.
+
+  Despite the flaws, I did overall enjoy this book, even if it didn't really
+  leave me with a keen desire to check out more of James Blish's work.  It felt
+  very *Traveller* to me.  The setting is very different, other than some
+  surface similarities like having anagathic (anti-aging) drugs, and Earth
+  encountering a older, hostile, interstellar polity shortly after branching out
+  into space, but is otherwise very different: the mechanics of FTL travel, and
+  the presence of instant real-time communication across space would *radically*
+  change the Traveller universe.  But the feeling, the cities being big
+  spaceships full of migrant workers who arrive in a system, do a job for some
+  questionable employers, and then leave to go elsewhere, felt like it came
+  right out of a Traveller campaign.  Or the other way around, I suppose, given
+  the publication year.
+
+[Cities in Flight]: https://en.wikipedia.org/wiki/Cities_in_Flight
+
+
+## Roleplaying Games
+
+### The Halls of Arden Vul
+
+We had our very first PC deaths this week, after 26 sessions of play.  The party
+had an unfortunate encounter with a pack of ghouls in a room under an anti-magic
+effect, which rendered most of their good equipment inert.  There were also some
+unlucky dice rolls, with a couple of characters succumbing to the ghouls'
+paralysing attacks in the first round of the combat.  The remaining party
+members had to leave their paralysed companions (and their magical equipment)
+behind and make their escape while they still could.
+
+So we lost two PCs, one retainer, and a lot of good gear.  But two
+long-suffering retainers have been promoted to PC status, two new retainers have
+been hired, and the players are drawing up plans for how to reclaim the sizeable
+treasure horde they've inadvertently created.
+
+Though, before they mount an expedition to do that, they're going to go follow
+up on some other leads they have, doing something totally different for a while
+to clear their heads and to find some more loot.
+
+Adventurers clearing out monsters to recover treasure, only to in turn be killed
+by new monsters and deposit their treasure elsewhere is all part of the
+dungeon's circle of life.
+
+
+## Advent of Code
+
+I'm still at it, though I've skipped part 2 for a few days.  Let's see how much
+longer I stick with it, though day 15 or so is usually around when I get bored
+and stop.
