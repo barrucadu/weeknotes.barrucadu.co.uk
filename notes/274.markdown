@@ -1,0 +1,89 @@
+---
+date: 2023-12-17
+---
+
+## Books
+
+This week I read:
+
+- [The War of the Dwarves][] by Markus Heitz
+
+  Sometimes you just kind of want the fiction equivalent of fast food.
+  Something easy to read which doesn't put any great demands on your brain, and
+  tells a pretty straightforward story with plenty of tropes.  And the Dwarf
+  series has that in spades.
+
+[The War of the Dwarves]: https://en.wikipedia.org/wiki/Markus_Heitz
+
+
+## Roleplaying Games
+
+### The Halls of Arden Vul
+
+This week the players decided to do something completely different, taking a
+break from their exploration of the Howling Caves where two of their number died
+last week, and instead start to track down the expedition which tried, and
+failed, to retake Arden Vul some 250 years ago.
+
+Specifically, they wanted to achieve two goals:
+
+- Find where Adrienic, the leader of the expedition, was buried and loot his
+  tomb.
+- Figure out what's up with Lankios, a crazy hermit who they've learned is a
+  magically-preserved polemarch from that expedition.
+
+They'd previously learned that Adrienic's tomb was near the Obsidian Gates, that
+the Obsidian Gates are at the end of the Hall of Forty Pillars, and that the
+Hall of Forty Pillars can be reached from a secret staircase behind a fresco of
+a baboon.  So off they went.
+
+I've been looking forward to this: the Lankios situation has been on the back
+burner for a while, so it's good to see some progress there, and also the
+Obsidian Gates directly connect to two of the ancient factions of Arden Vul (and
+the mysteries of those factions).  So I am *all for* the players poking around
+that part of the dungeon!
+
+This week they managed to find and loot Adrienic's tomb, and got some hints
+about Lankios but not quite what they were hoping to find.  They also visited
+the Obsidian Gates and here I told the Cleric and Paladin that they felt a kind
+of spiritual revulsion upon seeing the gates and the glyphs carved upon them.
+So this should entice them to investigate further and delve deeper...
+
+
+## Advent of Code
+
+Well, it had to happen sooner or later: I got bored.  A little earlier than
+usual this year, but these things happen.
+
+
+## Miscellaneous
+
+A huge inconvenience has occurred: nyarlathotep, my home server, appears to have
+simply... died.
+
+For a few years now I've had mysterious hangs, where it just totally locks up
+and has to be hard reset.  Inconveniently, whatever is causing it to lock up
+does its job so thoroughly that no logs about the problem get persisted.  The
+whole system just stops in an instant.  Inconvenient, but I couldn't debug it,
+and it was pretty infrequent, so urgency slipped away.
+
+Until Friday, when it locked up three times in quick succession, and after the
+third time just would not boot.  It turns on, fans spin, but nothing happens.
+
+I tried plugging in a speaker, but there's no beep code.  So the motherboard, at
+least, thinks all is fine (or at least, isn't fatally borked) but since the CPU
+doesn't have integrated graphics there's not much more I can do to debug.  I've
+ordered a cheap graphics card which'll arrive on Wednesday: hopefully it's just
+something simple like the repeated power cycling has corrupted some important
+file which is preventing it from booting, as I can fix that.  If it's a deeper
+problem I guess I'll just have to replace the machine.
+
+I have weekly backups, so I'll not have lost anything of importance, but it is
+inconvenient.
+
+
+## Link Roundup
+
+### Miscellaneous
+
+- [Collections: Shield Walls and Spacing: Hollywood Mobs and Ancient Tactics](https://acoup.blog/2023/12/15/collections-shield-walls-and-spacing-hollywood-mobs-and-ancient-tactics/)
