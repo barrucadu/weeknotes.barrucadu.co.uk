@@ -1,0 +1,40 @@
+---
+date: 2023-12-24
+---
+
+## Books
+
+This week I read:
+
+- [Last and First Men][] by Olaf Stapledon
+
+  Which is about nothing less than the entire future history of humanity, up
+  until its extinction at the hands of the sun.  Olaf Stapledon is definitely
+  one of the great minds of sci-fi.  All of his books tackle big themes, and do
+  an amazing job at it.
+
+  I remember when I last (and first) read this back in 2012 I found the
+  beginning chapters kind of dull, as they deal with the (now very outdated)
+  future history of the first human race, and I much preferred [Star Maker][]
+  partly because of its nonhuman focus.  But on this reread I quite enjoyed the
+  beginning; sure, it's outdated, but as an alternative history it's perfectly
+  fine.
+
+[Last and First Men]: https://en.wikipedia.org/wiki/Last_and_First_Men
+[Star Maker]: https://en.wikipedia.org/wiki/Star_Maker
+
+
+## Miscellaneous
+
+Unfortunately, [nyarlathotep is dead][].
+
+The emergency cheap graphics card arrived on Wednesday, I hooked up a monitor to
+the stricken machine, turned it on, but no dice.  Fans spin; nothing else
+happens.
+
+So I've ordered replacement parts.  They're going to arrive over the next
+fortnight, so I'll be without a home server for a little while.  An
+inconvenience, but not the end of the world.  Though, without DNS adblocking
+anymore, browsing the web on my phone is a much more painful experience.
+
+[nyarlathotep is dead]: notes/274.html
