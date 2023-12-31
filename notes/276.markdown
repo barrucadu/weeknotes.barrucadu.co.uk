@@ -1,0 +1,299 @@
+---
+annual_special_for: 2023
+date: 2023-12-31
+---
+
+As the bards once sang, "well, the years start coming and they don't stop
+coming," which is amply demonstrated by reaching another annual special.
+
+## Work
+
+Still at [GoCardless][], still on the same team.  Well, more-or-less, there's
+been a re-org but the new team is basically just the old one renamed with a
+couple of extra reponsibilities.
+
+I am also still a mid-level developer.  Promotions seem hard to come by, and
+what with the whole tech startup funding crunch, they've become even rarer
+around these parts.  While I am well-paid, and got a raise this year, more would
+always be better, you know?
+
+I find it hard to know what to say about my work, given that it's all closed
+source and commercial now, and a lot of what I do is implementing features and
+making changes that we're then going to sell.  Nevertheless, this year I've
+worked on various improvements to our core systems, so that we can scale to
+handle more and more payments, and I've recently been working on some features
+which are going out (at least in an early-access state) in the near future: but
+which haven't been mentioned anywhere externally yet, so I don't think I should
+really give any more detail.  I'll definitely mention in the weeknotes when
+these things do launch though: I can point at it and say "I did that".
+
+[GoCardless]: https://gocardless.com/
+
+
+## Finance
+
+It's been another year of steady progress towards the ultimate goal: financial
+independence.
+
+I didn't anticipate making any big changes to my financial habits this year, and
+I didn't, really.  I tweaked my budget a little (and have re-done it completely
+for 2024, based on historical spending), and have started being more aggressive
+about keeping medium-term savings in a high-interest savings account and not in
+my usual bank account, but that's about it.
+
+My "runway"---how long it'd take to run out of money if I quit my job right now
+and just lived off the current cash and investments, at today's market value,
+with no lifestyle changes at all---is approaching 5 years, and I should hit that
+target early next year.  Financial independence needs at least a 25-year runway,
+fully invested, as that's the point where the income from the investments starts
+to cover both inflation and expenses.  I'm still saving about 50% of my income,
+I had hoped to be saving more by now but inflation (both economic and lifestyle)
+have held that back.  So it'll take a while to get there, but progress is
+happening.
+
+My plan for 2024 is to just keep doing what I have been doing, and to be even
+more aggressive about transferring medium-term savings into more efficient
+accounts.  The interest may not be much, but every little helps.
+
+
+## Reading
+
+This year I read 66 books, which is pretty consistent with previous years.
+Maybe slightly up, but not really by enough to indicate a trend.  I went out to
+bookshops a bit more than last year, I discovered a few new authors, and that's
+something I want to continue in 2024.  I also want to get into more nonfiction.
+I quite enjoy history---especially ancient history---but I'm not very well-read
+in the area.
+
+I have, however, really hit the limits of physical space in my flat now.  Unless
+I want to start getting rid of other things, there's no more room for
+bookshelves.  My shelves aren't full yet, but they're getting there, and I could
+easily fill them next year.  This means I'm going to have to start to prune my
+book collection, but ultimately I should end up with a better collection: the
+books I actually *want* to keep, not just everything I've ever read.
+
+So here's what I read this year:
+
+- [Light Novels + Manga](https://bookdb.barrucadu.co.uk/search?category=a3bbb1c6-5ff8-4ddf-81f4-820593a2a5ff)
+  - Volumes 8 to 12 of [Delicious in Dungeon](https://en.wikipedia.org/wiki/Delicious_in_Dungeon) by Ryoko Kui
+  - Volumes 15 and 16 of [Overlord](https://en.wikipedia.org/wiki/Overlord_(novel_series)) by Kugane Maruyama
+  - Volume 16 of [So I'm a Spider, So What?](https://en.wikipedia.org/wiki/So_I%27m_a_Spider,_So_What%3F) by Okina Baba
+  - Volumes 9 to 16 of [That Time I Got Reincarnated as a Slime](https://en.wikipedia.org/wiki/That_Time_I_Got_Reincarnated_as_a_Slime) by Fuse
+- [Nonfiction / Politics, Philosophy, Economics, + History](https://bookdb.barrucadu.co.uk/search?category=ac4706f3-54c3-4e6d-a72d-85321d9dcd72)
+  - [A Short History of Byzantium](https://en.wikipedia.org/wiki/A_Short_History_of_Byzantium) by John Julius Norwich
+- [Nonfiction / RPG / Miscellaneous](https://bookdb.barrucadu.co.uk/search?category=70196ec9-dd61-4241-afc9-dd6be7be30a6)
+  - Volume 1 of [A Folklore Bestiary](https://www.themerrymushmen.com/product/a-folklore-bestiary-for-old-school-essentials-tmm/) from The Merry Mushmen
+  - [ALIEN: The Roleplaying Game](https://freeleaguepublishing.com/games/alien/) from Free League
+  - [Black Sword Hack](https://www.themerrymushmen.com/product/black-sword-hack-ultimate-chaos-edition/) by Alexandre "Kobayashi" Jeannette
+  - Volume 0 of [The Chaos Crier](https://www.themerrymushmen.com/product/the-chaos-crier-0/) from The Merry Mushmen
+  - [Delta Green: Agent's Handbook](https://shop.arcdream.com/products/delta-green-agents-handbook) from Arc Dream Publishing
+  - [Delta Green: Handler's Guide](https://shop.arcdream.com/collections/role-playing-games/products/delta-green-handlers-guide-hardback) from Arc Dream Publishing
+  - [Delta Green: Impossible Landscapes](https://shop.arcdream.com/products/delta-green-impossible-landscapes) by Dennis Detwiller
+  - Volumes 1 to 5 of [The Halls of Arden Vul](https://www.drivethrurpg.com/product/307320/The-Halls-of-Arden-Vul-Complete) by Richard Barton
+  - [RuneQuest: Roleplaying in Glorantha](https://www.chaosium.com/runequest-roleplaying-in-glorantha-hardcover/) from Chaosium
+  - [The Stygian Library](https://www.drivethrurpg.com/product/257113/The-Stygian-Library) by Emmy Allen
+  - [Thousand Year Old Vampire](https://thousandyearoldvampire.com/) by Tim Hutchings
+  - [Tomb Robbers of the Crystal Frontier](https://www.drivethrurpg.com/product/357799/Tomb-Robbers-of-the-Crystal-Frontier) by Gus L.
+- [Prose Fiction + Graphic Novels](https://bookdb.barrucadu.co.uk/search?category=590ac55d-0644-4a71-b902-587faa5b03d9)
+  - [The Witness for the Dead](https://en.wikipedia.org/wiki/The_Witness_for_the_Dead) by Katherine Addison
+  - [The Grief of Stones](https://en.wikipedia.org/wiki/The_Grief_of_Stones) by Katherine Addison
+  - [Three Hearts and Three Lions](https://en.wikipedia.org/wiki/Three_Hearts_and_Three_Lions) by Poul Anderson
+  - [Foundation, Foundation and Empire, Second Foundation](https://en.wikipedia.org/wiki/Foundation_series) by Isaac Asimov
+  - [Ancient Sorceries and Other Weird Stories](https://www.penguinrandomhouse.com/books/289745/ancient-sorceries-and-other-weird-stories-by-algernon-blackwood/) by Algernon Blackwood
+  - [Cities in Flight](https://en.wikipedia.org/wiki/Cities_in_Flight) by James Blish
+  - [The King in Yellow](https://en.wikipedia.org/wiki/The_King_in_Yellow) by Robert W. Chambers
+  - [Stories of Your Life and Others](https://en.wikipedia.org/wiki/Stories_of_Your_Life_and_Others) by Ted Chiang
+  - [The Many Deaths of the Black Company](https://en.wikipedia.org/wiki/The_Black_Company) by Glen Cook
+  - [The Return of the Black Company](https://en.wikipedia.org/wiki/The_Black_Company) by Glen Cook
+  - [The Library at Mount Char](https://en.wikipedia.org/wiki/The_Library_at_Mount_Char) by Scott Hawkins
+  - [The Dwarves](https://en.wikipedia.org/wiki/The_Dwarves_(novel)) by Markus Heitz
+  - [The War of the Dwarves](https://en.wikipedia.org/wiki/Markus_Heitz) by Markus Heitz
+  - [The Haunting of Hill House](https://en.wikipedia.org/wiki/The_Haunting_of_Hill_House) by Shirley Jackson
+  - [The Great God Pan](https://en.wikipedia.org/wiki/The_Great_God_Pan) by Arthur Machen
+  - [Fairyland](https://www.goodreads.com/en/book/show/654617) by Paul McAuley
+  - [Elric of Melniboné and Other Stories](https://en.wikipedia.org/wiki/Elric_of_Melnibon%C3%A9) by Michael Moorcock
+  - [Elric: The Fortress of the Pearl](https://en.wikipedia.org/wiki/Elric_of_Melnibon%C3%A9) by Michael Moorcock
+  - [Elric: The Sailor on the Seas of Fate](https://en.wikipedia.org/wiki/Elric_of_Melnibon%C3%A9) by Michael Moorcock
+  - [Elric: The Sleeping Sorceress](https://en.wikipedia.org/wiki/Elric_of_Melnibon%C3%A9) by Michael Moorcock
+  - [Elric: The Revenge of the Rose](https://en.wikipedia.org/wiki/Elric_of_Melnibon%C3%A9) by Michael Moorcock
+  - [Elric: Stormbringer!](https://en.wikipedia.org/wiki/Elric_of_Melnibon%C3%A9) by Michael Moorcock
+  - [Elric: The Moonbeam Roads](https://en.wikipedia.org/wiki/Elric_of_Melnibon%C3%A9) by Michael Moorcock
+  - [Corum: The Prince in the Scarlet Robe](https://en.wikipedia.org/wiki/Corum_Jhaelen_Irsei) by Michael Moorcock
+  - [Corum: The Prince with the Silver Hand](https://en.wikipedia.org/wiki/Corum_Jhaelen_Irsei) by Michael Moorcock
+  - [Hawkmoon: The History of the Runestaff](https://en.wikipedia.org/wiki/The_History_of_the_Runestaff) by Michael Moorcock
+  - [Last Days](https://en.wikipedia.org/wiki/Last_Days_(Nevill_novel)) by Adam Nevill
+  - [Red Mars](https://en.wikipedia.org/wiki/Mars_trilogy) by Kim Stanley Robinson
+  - [Green Mars](https://en.wikipedia.org/wiki/Mars_trilogy) by Kim Stanley Robinson
+  - [The Outcast and The Rite](https://www.handheldpress.co.uk/shop/fantasy-and-science-fiction/helen-simpson-the-outcast-and-the-rite/) by Helen de Guerry Simpson
+  - [The Rim of Morning](https://www.goodreads.com/en/book/show/24783930) by William Sloane
+  - [Last and First Men](https://en.wikipedia.org/wiki/Last_and_First_Men) by Olaf Stapledon
+  - [Star Maker](https://en.wikipedia.org/wiki/Star_Maker) by Olaf Stapledon
+
+My top three books read in 2023 are:
+
+- **Star Maker**
+
+  Many of the books I've most enjoyed---such as *Last and First Men*,
+  *Helliconia*, *The Malazan Book of the Fallen*, and so on---involve huge spans
+  of time and stories of vast scope.  A poor author tries to make their
+  fictional world grander by throwing in references to things which happened
+  long, long ago, but without actually doing the worldbuilding to make that
+  supposed past actually relevant; but when done right time lends weight to
+  events.
+
+  *Star Maker* has the biggest scope, the biggest gulf of time, it deals with
+  nothing less than the entire past and future of all intelligent life in the
+  cosmos, striving ever forwards to become more advanced, more civilised, more
+  morally and spiritually developed, all in a grand quest to finally confront
+  the Star Maker and ask Him "why?"
+
+  It's funny that Olaf Stapledon was writing in the 1920s and 1930s, the same
+  time as Lovecraft, because this is a very cosmic story and has a lot of
+  similarities with Lovecraft: a mortal man is caught up in something far vaster
+  and more ancient than himself, forced to witness and partake in things he
+  can't possibly understand, only to then be dropped back off on the Earth to
+  try to explain some of his experiences to his fellow men.  But while Lovecraft
+  would have had this shatter the mind of the protagonist, turning it into a
+  story of misery and horror, Olaf Stapledon gives us a mythical, almost
+  religious, story full of hope and goodness, yes, but also despair and
+  incomprehension.  The mind of the creature was not meant to behold the
+  creator.
+
+- **Ancient Sorceries and Other Weird Stories**
+
+  This is one of those books I've owned for a long time and just always passed
+  on reading.  I'd already read Algernon Blackwood's two most favous stories,
+  *The Willows* and *The Wendigo*, and those are excellent, but if they're the
+  best why read the worse stuff?  There was always some book more appealing to
+  read, which didn't have the stigma of being second-best.
+
+  But I am very glad I did eventually get around to reading this book, this
+  year.  If I expected the stories in it to be much weaker, I was so very wrong.
+
+  They're just all good weird stories, though I would say that *Sand*, which is
+  about a man being roped into helping with the summoning of some ancient spirit
+  in Egypt, is up there with---and possibly even better than---Algernon
+  Blackwood's better-known stories.  It affected me so much that it made me want
+  to go to Egypt, to try to discover some of the desert's majesty that the story
+  so clearly portrays; but that itself brought about a sad realisation, that the
+  Egypt of Algernon Blackwood's 1912 visit is almost certainly gone.  Egypt now
+  is modern, full of tourists, thoroughly commercialised.  Where is the magic of
+  the world today?
+
+- **The Halls of Arden Vul**
+
+  Continuing the trend of including one RPG book, this year's pick is a truly
+  amazing campaign setting.  Arden Vul is a ~1200-page megadungeon---that is, a
+  single dungeon large enough to be the site for a whole campaign---with 10
+  levels, 15 sub-levels, and nearly 2000 keyed rooms.  I've been running it for
+  over 6 months now and we've barely scratched the surface.
+
+  Arden Vul is a dungeon with history, it's been inhabited over millennia by
+  different races, who have built their own areas and repurposed areas and
+  things left behind by earlier inhabitants.  Several factions inhabit the
+  dungeon right now, all with their own goals and motivations.  The dungeon is
+  overflowing with mysteries to solve, secrets to uncover, and denizens to
+  bargain with.
+
+  I've previously written a long post about running Arden Vul on the RPG blog:
+  [My Arden Vul campaign, 6 months in][av6m].
+
+Coincidentally, all of this year's top books involve large spans of time.
+
+*Star Maker* takes place over a long period of time, jumping forward and
+backward in history as the narrative needs.  *Sand* from *Ancient Sorceries and
+Other Weird Stories* involves interacting with a remnant of the ancient world.
+*The Halls of Arden Vul* is about exploring an ancient ruin and trying to figure
+out forgotten secrets.
+
+
+## Tech
+
+A few small changes this year:
+
+- I retired my instance of [Wiki.js](https://js.wiki/) in favour of [Obsidian](https://obsidian.md/)
+- I picked up [poetry](https://python-poetry.org/) for [bookdb](https://github.com/barrucadu/bookdb) and [bookmarks](https://github.com/barrucadu/bookmarks)
+- I switched from [docker](https://www.docker.com/) to [podman](https://podman.io/) for my [NixOS-managed containers](https://nixfiles.docs.barrucadu.co.uk/modules.html#oci-containers)
+- I set up documentation websites on [GitHub Pages](https://pages.github.com/) using [mdBook](https://rust-lang.github.io/mdBook/) for [resolved](https://resolved.docs.barrucadu.co.uk/), [dejafu](https://dejafu.docs.barrucadu.co.uk/), and my [nixfiles](https://nixfiles.docs.barrucadu.co.uk/)
+
+But otherwise things continue more or less as usual.  I'm still happily using
+NixOS (dual-booting with Windows on azathoth, my desktop machine).  I actually
+spend most of azathoth's time in Windows, and SSH into either nyarlathotep or
+carcosa when I want a NixOS machine.
+
+I've got a few things in the works for 2024:
+
+- I'm in the middle of rebuilding and upgrading nyarlathotep, after it
+  mysteriously died.  Just waiting for the new motherboard to arrive.
+- I'm going to do some disaster recovery thought exercises, to make sure I've
+  got adequate backups of credentials, MFA recovery codes, and so on, so that I
+  could bootstrap access to everything else if the worst were to happen.
+- I'm planning to look into alternative secrets management mechanisms for
+  [Concourse](https://concourse-ci.org/), as currently I use [AWS
+  SSM](https://aws.amazon.com/secrets-manager/) and it's a little annoying
+  having this out-of-network dependency from my VPS, that I also have to pay
+  for.
+
+I've long-paused my project to migrate away from Google services, as Photos,
+Drive, Docs, and Sheets are just really convenient and I don't really feel like
+putting up with the hassle of migrating to some other solution.
+
+
+## Gaming
+
+There have been some hiccups this year, with players leaving and games getting
+stalled, but we're not in a crisis situation right now.  In total I've played 2
+systems and run another 6, with a total of 11 people across 2 groups:
+
+- **Saturday Group**
+  - **Run:** ALIEN (one-shot), Old School Essentials
+  - **Played:** Mork Borg, Simple World
+
+  Unfortunately, I've found myself drifting away from this group this year, and
+  I'm not in any of the games which are likely to start up in the near future.
+  This is the group that introduced me to RPGs, but I've always known that it
+  has more of a narrative bent than what I really like.  And as campaigns have
+  come to an end, the group has started new games in systems that just haven't
+  really appealed to me.
+
+  My OSE Dolmenwood campaign came to an inglorious end when a basilisk petrified
+  the whole party except for one retainer, we were gearing up to restart the
+  campaign with a new group of basilisk-hunting adventurers, but after a long
+  discussion the players said that they weren't really that into the
+  high-lethality OSR playstyle after all.
+
+- **Sunday Group**
+  - **Run:** Black Sword Hack (one-shot), Delta Green (one-shot), Old School
+    Essentials, RuneQuest (one-shot), Traveller
+
+  This group is still going strong, though there's been a bit of player
+  turnover.  One of the original players remains, I managed to poach the one
+  OSR-enjoying player from my Saturday group, and we recently recruited a new
+  player by advertising on Reddit (something I'd never done before).
+
+  In retrospect, the Traveller campaign was a mistake.  In 2022 we played a lot
+  of Traveller, then had a fairly bad Wicked Ones campaign, and dove straight
+  back into a new Traveller campaign.  But after a few months, we were a bit
+  bored of it: we should have done something else for a while instead.
+
+Right now I'm only running one campaign:
+
+- The Halls of Arden Vul, using OSE.  Go check out [my post on the RPG
+  blog][av6m] about Arden Vul.  It's been a lot of fun, and we're all excited to
+  continue this into 2024.
+
+I wanted to run a Delta Green campaign, but couldn't get the players for it.  So
+that might be the next campaign after Arden Vul, or I might try to recruit some
+more players and run both campaigns in parallel.  I really enjoyed the sanity
+mechanics of Delta Green: having mechanical stats for the important
+interpersonal relationships that help your character stay grounded, and having
+the ability to project sanity damage onto those to reduce the damage but strain
+the relationship, seems like such a great evolution of the "sanity as mental HP"
+mechanic.
+
+Finally, I've just joined a new Friday group which will be playing Pathfinder
+2e.  We've done a session 0 this week, and will be kicking off the campaign in
+the new year.  I've never played Pathfinder, and it's very different to the
+sort of game I usually go for, so I'm interested to see how I find it.
+
+[av6m]: https://www.lookwhattheshoggothdraggedin.com/post/arden-vul-6-months-in.html
