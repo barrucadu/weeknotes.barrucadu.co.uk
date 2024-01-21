@@ -1,0 +1,139 @@
+---
+date: 2024-01-21
+---
+
+## Books
+
+This week I read:
+
+- [The First Ghosts][] by Irving Finkel
+
+  I find Mesopotamian history and mythology really interesting.  It's *just so
+  old!*  And yet I'm really poorly read in the area, I know what I know from
+  online articles, the Epic of Gilgamesh, and a book of Inanna myths.  I want to
+  fix that, I want to know more.
+
+  So I picked up this book by [Irving Finkel][], who is *the* man I'd want with
+  me if I found myself magically transported to ancient Babylon.
+
+  It starts by discussing Sumerian funeral practices and argues that this
+  indicates a belief that ghosts exist and, more importantly, can *come back*.
+  I wasn't entirely convinced on that latter point, but then the majority of the
+  book looks at ancient literature, spells, and myths, which all *do* very
+  clearly show that they believes in ghosts in much the same way that you or I
+  believe in doors.  All very interesting stuff, I especially liked the copious
+  amounts of translated cunieform, clearly showing what they thought about
+  ghosts, and how to deal with them.
+
+  He also has an interesting chapter comparing the Sumerian and Assyrian ghost
+  beliefs to sections of the Old Testament, arguing that the authors must have
+  believed roughly the same sort of thing.  I'm not sure how widely-accepted
+  that theory is, but interesting and persuasive nevertheless.
+
+  I will definitely check out his other book "The Ark Before Noah".
+
+[The First Ghosts]: https://www.lrb.co.uk/the-paper/v44/n02/moudhy-al-rashid/roaming-malicious-hooligan-ghosts
+[Irving Finkel]: https://en.wikipedia.org/wiki/Irving_Finkel
+
+
+## Roleplaying Games
+
+### The Halls of Arden Vul
+
+Not a lot of action this week, the players spent most of the time organising and
+then retrieving the contents of a treasure vault they came across at the end of
+last session.  Unfortunately for them the haul, while physically large and
+impressive, was not quite as valuable as they'd hoped, consisting mainly of
+silver coins.  But they did also retrieve a few artefacts they could sell for
+gold
+
+I pushed the players for some indication of their longer-term plans, and it is
+largely as I expected: primarily, they want to go beat up the ghouls who killed
+their previous mid-level PCs, both for revenge and to recover their magical
+items; and secondarily they want to get a full set of teleportation tiles and
+start experimenting with that.  They're not too happy with how long it's taking
+the curio shop to acquire tiles for them, so a change of plans there may be in
+order.
+
+It's now been a few in-game days since the party gave the goblins a direct route
+to the surface, so I need to figure out how that changes things when they return
+to the dungeon.  The goblins might want to exert control over who enters the
+dungeon, which might throw a wrench in their plans.  We'll see.  The goblins
+like the party a lot, but they're not formal allies or anything and the goblins
+do have their own goals.  I'll think about it.
+
+### One-shots
+
+We've decided on the next break from the main campaign: it's going to be [ALIEN:
+Destroyer of Worlds][], which I expect to take three sessions.
+
+We're all really looking forward to this.  It's not the same group I played the
+previous scenario, [Chariot of the Gods][], with (other than one of the players
+who I poached for Arden Vul [when the Dolmenwood campaign ended][]); but that's
+fine, they're only very loosely connected.  There's no characters or places in
+common, and I think this scenario actually takes place beforehand, there's just
+a few minor references.
+
+I've picked up the Foundry module, because it was reasonably cheap, and the
+*Chariot of the Gods* module was fairly helpful even if I had to fix some errors
+in it, so I'll be reading through the scenario and getting everything set up
+over the next couple of weeks.
+
+[ALIEN: Destroyer of Worlds]: https://freeleaguepublishing.com/shop/alien-rpg-2/destroyer-of-worlds/
+[Chariot of the Gods]: https://freeleaguepublishing.com/shop/alien-rpg-2/starter-set/
+[when the Dolmenwood campaign ended]: notes/246.html
+
+### Solo roleplaying
+
+I've played some more [Ironsworn][] this week, mostly looking into the delve
+mechanics for site-based adventuring (dungeons, haunted woods, etc).  I ran a
+little one-shot, working through a complex delve.  It's pretty neat, it
+essentially generates a pointcrawl as you play.
+
+About half way through my delve I realised I was getting the rules wrong, which
+was making it feel a bit more abstract and less satisfying than it should have
+been.  I was getting the rules wrong because *Ironsworn* has a lot of its
+content on physical playing cards.
+
+For delving, for example, when you decide what sort of location it is you pick a
+"theme" card and a "domain" card, and they combine to form a random table which
+describes the sort of places you encounter as you explore.
+
+But I don't have the cards.  I only have the PDF of the cards.
+
+I read them, forgot about their tables, and so was rolling on the wrong table,
+and struggling to think of what I was encountering, rather than being inspired
+by the cards.
+
+I normally don't like physical components for games, I find they're usually just
+gimmicks that cost a lot of money and you can easily do without, but I think I
+will actually get the *Ironsworn* cards.  They're print-on-demand, so they're
+fairly cheap and can be easily replaced if I lose or damage them; unlike other
+physical components I've passed up on, like the very cool-looking but
+not-sold-separately maps for *ALIEN*: if you damage one of those you've got to
+buy a whole adventure box set again!
+
+[Ironsworn]: https://www.ironswornrpg.com/
+
+
+## Miscellaneous
+
+We've got hotels for the Japan trip!  Two days in Tokyo for everyone to gather
+and recover from jetlag, then we catch the shinkansen down to Osaka and stay
+there for a week, then back up to Tokyo for the last week.  I'll be splitting
+off for a couple of days during the Osaka segment to visit some other friends in
+Matsuyama, which'll probably be a domestic flight.  I need to arrange that.
+
+But it's not all good news.  I was looking at my wardrobe thinking about what
+would be suitable for Japan in April and it struck me just how few clothes I
+have, even if I took everything I'd need to do laundry two or three times during
+the trip, which is an inconvenience.  I need to buy more clothes.  Get it down
+to one instance of laundry at most.
+
+
+## Link Roundup
+
+### Roleplaying games
+
+- [When Entering a Polity…](https://lukegearing.blot.im/when-entering-a-polity%E2%80%A6)
+- [The Law of the Conservation of NPCs](https://thealexandrian.net/wordpress/4891/roleplaying-games/the-law-of-the-conservation-of-npcs)
