@@ -1,0 +1,115 @@
+---
+date: 2024-01-28
+---
+
+## Books
+
+This week I read:
+
+- [Worlds of Exile and Illusion][] a collection of three novels by Ursula K. Le Guin
+
+  These are some of her earlier stories, and they're a bit lacking in polish
+  compared to others that I've read, but they're still very enjoyable.  The
+  three stories are about a galactic league of allied worlds dealing with a
+  threat from outside the galaxy: the first, *Rocannon's World*, is set before
+  the war and shows the cracks beginning to form in the league as bad actors
+  take advantage of the distraction; *Planet of Exile* is set after the war
+  began, on a world where the colonists haven't heard anything from Earth in
+  centuries and are beginning to question their past and purpose; and *City of
+  Illusions* is set on Earth, after the war, with the occupiers claiming that
+  there really was no war after all, it was just a group hysteria.
+
+  Each story references the one that came before, but they also stand
+  independently of each other.
+
+[Worlds of Exile and Illusion]: https://www.ursulakleguin.com/worlds-of-exile-and-illusion
+
+
+## Roleplaying Games
+
+### The Halls of Arden Vul
+
+This week the players returned to the old Archontean HQ near the Obsidian Gates
+to recover the last of the contents of the army pay-chests.  There, under the
+watchful gaze of the dozens of large, sad-looking toads, one player *finally*
+said "I have to know what's up with those toads", and cast *Speak With Animals.*
+
+The croaking of the toads turned into cries of despair, cries for help, cries to
+be killed and put out of their misery; the cries of unfortunate adventurers who
+had fallen victim to the foul chaotic magic in the area.  One toad described how
+she and her party had been trying to find a way through the Obsidian Gates and,
+in their prodding and poking, activated some sort of trap: in a flash of brown
+light, two demons appeared and began to tear apart her friends, she took a
+fearful step backwards and felt the cold obsidian against her, then the
+agonising pain of her body contorting and twisting, breaking and reforming, into
+that of a toad.
+
+I'm not sure what the players were expecting, but it definitely wasn't that.
+
+They did manage to leverage their connections in town to get a high-level NPC
+cleric turn one toad they brought out of the dungeon back into a human by
+casting *Dispel Evil* (they tried *Remove Curse* first but that didn't work).
+
+So the players have decided to take upon themselves a noble quest: bring the
+toads out of the dungeon and restore to them their humanity.  But it'll take a
+lot of time (*Dispel Evil* is a high-level spell, you can't just cast it
+willy-nilly) and money (miracles don't come cheap).
+
+### Solo Roleplaying
+
+This week I started a new Ironsworn campaign.  I decided to play someone
+obsessed with lost knowledge and arcane secrets, trying to gain the power of
+magic in a world where everyone thinks it to be a myth or a trick.  I was going
+to figure out their background vow---the driving force of the campaign---in
+play, starting with a quest to recover some sort of legendary magic item and
+then seeing how I could tie that into something bigger but, after rolling up the
+NPC bonds and working out the details of the inciting incident, I felt that I
+just had to make the background vow "become a witch".
+
+I'm trying out running this game in Miro, so I can have the visual element of
+the Ironsworn cards without actually needing to buy them first (though I do
+intend to get the physical cards), and it's working pretty well.  I'm also
+keeping pretty brief notes this time, unlike my previous campaign where I was
+typing up full prose and dialogue for everything.
+
+I've got a blog post in the works about Ironsworn, which should be coming next
+week.
+
+
+## Miscellaneous
+
+This wek I [switched my backups][] from [duplicity][] to [restic][].
+
+What sold me on restic is that, by treating backups as a collection of
+file-chunks plus metadata on how to turn those chunks back into a directory
+tree, rather than as a copy of a directory tree, is that it eliminates the full
+/ incremental backup distinction.  When it comes to taking a backup, every
+backup is incremental (only new chunks need storing); but when it comes to
+restoring a backup, every backup is full (it's not just a diff of the previous
+backup).
+
+The downside is that taking a backup is more computationally intensive, since
+it's got to break files up into chunks and hash them.  But it means you transmit
+and store far less data if things don't change much between backups, which my
+files don't.
+
+My hope is that this will reduce my cloud spend, as S3 for backups is one of my
+bigger costs.  The old duplicity backups will get rotated into S3 Glacier
+(cheap-but-hard-to-access cold storage) over the coming months, and my restic
+backups are stored in Backblaze B2 instead which is cheaper than S3 for hot
+storage.
+
+I'll comment on this later when I've seen what the monetary effect is.
+
+[switched my backups]: https://github.com/barrucadu/nixfiles/pull/257
+[duplicity]: https://duplicity.us/
+[restic]: https://restic.net/
+
+
+## Link Roundup
+
+### Roleplaying games
+
+- [Not More Names but New Names](https://reaverswutc.bearblog.dev/not-more-names-but-new-names/)
+- [The Bane of Names](https://reaverswutc.bearblog.dev/the-bane-of-names/)
+- [Wolves and Folk Religion](https://reaverswutc.bearblog.dev/wolves-and-folk-religion/)
