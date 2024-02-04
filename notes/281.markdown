@@ -1,0 +1,102 @@
+---
+date: 2024-02-04
+---
+
+## Books
+
+No books this week.
+
+
+## Roleplaying Games
+
+### The Halls of Arden Vul
+
+This week the players achieved one of their big objectives---recovering their
+Vorpal Sword and Rod of Lordly Might from where they fell when the last PCs were
+killed by ghouls---and they got *so close* to achieving one of *my* big
+objectives: getting involved with... *the spaceship*.
+
+That's right, Arden Vul has ancient aliens and a spaceship.
+
+In the backstory, thousands of years ago, an exploration spaceship crashed into
+the planet and ended up broken up and buried deep beneath what would one day
+become the site of Arden Vul.  This has major ramifications on the weirdness of
+Arden Vul as the players experience it, with a lot of things being misunderstood
+alien tech, copies of misunderstood alien tech, descendants of alien survivors,
+and so on.
+
+We ended the session with the players finding a secret temple to one of the old
+gods.  And in this temple, which they haven't fully explored yet, there is a
+collapsed wall which now opens up into one of the surviving spaceship
+components.  I've been eagerly waiting for them to find this place since the
+beginning of the campaign.
+
+But now we have to pause for three weeks to play ALIEN!  Gah!
+
+
+## bookdb
+
+Tired of Python packaging shenanigans, I've begun [rewriting bookdb in rust][].
+
+So far I've got all the index management stuff done: creating a new index,
+dumping all the data, and restoring a dump.  Next is the web UI.  I could just
+copy over the templates that the current Python version uses, but maybe this is
+a good opportunity to redesign it, I'll see.
+
+It's been quite a pleasant experience so far.  rust is a very nice language,
+types are good, and also I'm using `nix develop` for the first time---that's
+right, I'm a NixOS user who barely uses the proper nix tooling for development
+environments.  Mostly I get by with using `nix shell` to bring packages into
+scope, but the rust elasticsearch library needs the openssl libraries, which
+means messing around with `pkg-config`, and `nix develop` can just do that for
+me.
+
+I think I'll set up `nix develop` for [resolved][] too.
+
+[rewriting bookdb in rust]: https://github.com/barrucadu/bookdb/tree/rust
+[resolved]: https://github.com/barrucadu/resolved
+
+
+## Miscellaneous
+
+Alas, I have had a hard drive fail.  It's lasted a good while, it's been in
+continuous use for close to 8 years now.  But all things come to an end.  I've
+ordered a replacement which should arrive on Tuesday.
+
+```
+$ zpool status -x
+  pool: data
+ state: DEGRADED
+status: One or more devices could not be used because the label is missing or
+        invalid.  Sufficient replicas exist for the pool to continue
+        functioning in a degraded state.
+action: Replace the device using 'zpool replace'.
+   see: https://openzfs.github.io/openzfs-docs/msg/ZFS-8000-4J
+  scan: scrub repaired 0B in 21:39:09 with 0 errors on Thu Feb  1 21:39:10 2024
+config:
+
+        NAME                                         STATE     READ WRITE CKSUM
+        data                                         DEGRADED     0     0     0
+          mirror-0                                   DEGRADED     0     0     0
+            11478606759844821041                     UNAVAIL      0     0     0  was /dev/disk/by-id/ata-ST10000VN0004-1ZD101_ZA206882-part2
+            ata-ST10000VN0004-1ZD101_ZA27G6C6-part2  ONLINE       0     0     0
+          mirror-1                                   ONLINE       0     0     0
+            ata-ST10000VN0004-1ZD101_ZA22461Y        ONLINE       0     0     0
+            ata-ST10000VN0004-1ZD101_ZA27BW6R        ONLINE       0     0     0
+          mirror-2                                   ONLINE       0     0     0
+            ata-ST10000VN0008-2PJ103_ZLW0398A        ONLINE       0     0     0
+            ata-ST10000VN0008-2PJ103_ZLW032KE        ONLINE       0     0     0
+
+errors: No known data errors
+```
+
+On the plus side, my zpool-of-mirrored-pairs approach has shown its merits.  No
+data loss, no performance hit (as would happen with some flavour of raidz), and
+the pool will quickly return to full health as soon as I swap out the bad drive.
+
+I'm also taking this as an opportunity to expand the storage a little.  The old
+drive was 10TB, but I've ordered a 16TB replacement.  I'll put some money aside
+to swap out the other drive in the mirror for a 16TB one in a month or two,
+which'll then grow the usable storage of the pool as a whole.  Again, unlike
+some flavour of raidz, which would require upgrading *all* the drives in the
+pool before the additional storage became usable.
