@@ -1,0 +1,125 @@
+---
+date: 2024-02-11
+---
+
+## Books
+
+This week I read:
+
+- [The Best of Roger Zelazny][]
+
+  Previously I was only familiar with Zelazny's longer works---*The Chronicles
+  of Amber* and *Lord of Light*---but I am pleased to report that he is also a
+  master of the short story.
+
+  *The Great Slow Kings* definitely stood out for being much funnier than the
+  rest, the whole story is an extended joke about the two last survivors of some
+  ancient intelligent race, whose minds operate on such timescales that entire
+  species rise and fall in a matter of subjective minutes; much to the
+  consternation of their long-suffering robotic servant.
+
+[The Best of Roger Zelazny]: https://www.goodreads.com/book/show/62125571-the-best-of-roger-zelazny
+
+
+## Roleplaying Games
+
+### ALIEN
+
+This week we played most of Act 1 of the *Destroyer of Worlds* scenario, in
+which four marines get impregnated by facehuggers as part of an illegal
+bioweapons research project, and attempt to defect to another power for
+treatment in exchange for selling what they know.  The PCs are tasked to hunt
+down these traitors and either bring them home or kill them.
+
+The PCs, naturally, don't know about the illegal research part.
+
+In Act 1 the PCs hunt down the rogue marines, dealing with some aliens along the
+way as they start to burst.  It ends with them destroying an insurgent compound
+where one of the rogues is being held.  We didn't quite get there before running
+out of time, I messed up the pacing a little, so we'll begin the next session
+with the PCs heading over to the insurgent compound.
+
+This little delay could actually work out for the best.  Act 2, fighting through
+the invading forces to return to base for emergency evacuation, is the weakest
+part of the scenario in my opinion.  I was already planning to change it up as
+the transition from Act 2 to 3 (a ship arrives out of nowhere and drops a bomb)
+is very similar to the transition from Act 1 to 2 (the invasion fleet arrives
+and... starts dropping bombs), so now I just have more material to use.
+
+I think session 2 will go something like this:
+
+1. The PCs report in that they've found the location of one of the rogues, an
+   insurgent compound, and are ordered to immediately assault it, since they let
+   one insurgent escape who is no doubt on their way to warn the others.  I'll
+   just handle this through narration when we start, rather than roleplaying a
+   conversation out.
+
+1. Assault on the insurgent compound, a dramatic fight with a xenomorph, ending
+   with the invasion fleet arriving and everything going to hell.
+
+1. Act 2 begins.  The PCs all get new secret agendas.
+
+1. Now we have the bulk of the Act 2 events, framed as a series of short scenes.
+   The PCs are trying to get track down the two rogue marines still unaccounted
+   for *and* get back to base for extraction, but keep suffering setbacks due to
+   the colony now being a warzone.  They'll encounter an obstacle, deal with it,
+   encounter another obstacle, deal with it, and so on.
+
+1. I'll completely change the Act 2 / 3 transition.  Rather than an unidentified
+   ship arriving and bombing the planet with alien-juice from orbit, it'll be a
+   Weyland-Yutani ship taking off which gets shot down in high orbit, exploding,
+   and raining the alien-juice it was transporting onto the colony below...
+
+1. The PCs encounter one of the early Act 3 events, showing that everyone who
+   touches the alien-juice is being transformed into horrible monsters.
+
+1. We end Act 2 with the PCs sighting the now-overrun base in the distance.
+
+Then session 3 will be Act 3: fighting their way through the overrun base,
+riding the space elevator up to orbit, and commandeering an evacuation vessel.
+
+That's potentially a lot to pack into one session.  When I ran the *Chariot of
+the Gods* scenario previously, I noted down what real-world time I wanted to
+accomplish certain in-game events by, to ensure I kept the pace up.  I think
+I'll have to do something similar here, but as a gut feeling, wrapping up Act 1
+and transitioning into Act 2 should take half an hour, then I want the invasion
+before the alien-juice incident to take maybe two hours, then making it to base
+will take the last half hour.  I'll have their commander stress that the two
+rogues unaccounted for *must* be dealt with *now*, as if they're going to defect
+to the enemy there's precious little time to stop them, which should keep the
+players from making a beeline straight back to base.
+
+
+## bookdb
+
+I'm mostly finished [my rewrite in rust][] now, there's really just the
+form-processing parts of adding and editing books left, and the whole book
+deletion part.  Which sounds like a lot---doesn't that mean the only feature
+I've actually *finished* is search?---but all the elasticsearch stuff is in
+place, and I've got the HTML templating working (using [tera][]), so it really
+is just a matter of turning form values into elasticsearch requests.
+
+I expect to have the replacement up and running this time next week.
+
+[my rewrite in rust]: https://github.com/barrucadu/bookdb/tree/rust
+[tera]: https://keats.github.io/tera/
+
+
+## Miscellaneous
+
+The replacement HDD arrived... and didn't work.  SATA read errors.
+
+Was it the SATA port I wondered?  It was the same port after all as the "failed"
+HDD.  I tried another, and no.  Perhaps the cable?  Also no.
+
+So I ordered a replacement for the replacement, the exact same model from a
+different seller, and that one worked first time.  Now I'm temporarily ~£300 out
+of pocket until the seller receives the faulty one back and refunds me.
+Inconvenient, but at least everything is fixed now.
+
+
+## Link Roundup
+
+### Roleplaying games
+
+- [Low Opinion: Roleplaying Games Are Not Conversations](https://torchless.substack.com/p/low-opinion-roleplaying-games-are)
