@@ -1,0 +1,97 @@
+---
+date: 2024-02-18
+---
+
+## Books
+
+This week I read:
+
+- [Mystery Cults in the Ancient World][] by Hugh Bowden
+
+  Which was a good overview of the more prominent mystery cults and also mystery
+  cults in general and their place in society.  It starts out by contrasting the
+  modern "doctrinal" style of religion and contrasting it with the "imagistic"
+  style which is based upon infrequent, emotionally intense, rituals.  I found
+  it interesting just how central the *unknowability* of the gods was to Greek
+  and Roman religion: people did certain rituals and used certain names, but
+  that's just because it's what seemed to work.  Quite a few mystery cults
+  venerated gods whose names weren't even known, or who were identified
+  inconsistently.
+
+  I also found it really interesting just how many people were initiated in the
+  mysteries.  It sounded like almost anyone could join, so long as you could
+  make it to the relevant location, and yet these huge numbers of initiates kept
+  the secrecy so well that we now know very little about what they *actually*
+  thought or did.
+
+[Mystery Cults in the Ancient World]: https://www.goodreads.com/book/show/123028454-mystery-cults-in-the-ancient-world
+
+
+## Roleplaying Games
+
+### ALIEN
+
+This week we finished off Act 1 and did Act 2 of the *Destroyer of Worlds*
+scenario.  It went pretty well, I kept the pace up to keep it fun and to keep
+the players feeling slightly off balance, like they were losing control of the
+situation (which they were).  I skipped over most of the Act 2 content, since I
+think it's the weakest part of the scenario, and we ended with the PCs
+approaching Fort Nebraska (along with a few marine NPCs they adopted along the
+way) desperate to find some way to access the space elevator and get the hell
+off this colony.
+
+Two PCs have died so far, and two more are infected.  They'll pop at
+appropriately dramatic moments next session.  It'll be fun!
+
+
+## bookdb (& bookmarks)
+
+I've finished my rewrite of [bookdb][] in Rust and, for good measure, I rewrote
+[bookmarks][] in Rust over Friday too.  bookmarks was actually the simpler of
+the two, surprisingly.
+
+Here are some thoughts:
+
+- I have quite a lot of code converting from sensible data structures to things
+  that work well with [tera][], the templating library I picked.  I should look
+  for a different templating library that lets me use normal Rust data
+  structures and call normal Rust functions.
+
+- Being able to embed static files (stylesheets, templates, images, etc) at
+  compile-time, giving a self-contained executable, is very nice.
+
+- Being able to automatically deserialise form data and suchlike is not actually
+  very useful, since you almost always want to customise the error response page
+  when the submitted data is invalid.
+
+- Moreover, serde_urlencoded [has chosen to not support specifying multiple
+  values for a field][].  Which makes the built in querystring and form
+  deserialisation basically useless.
+
+- Dealing with multipart forms feels unnecessarily painful.
+
+- Being able to automate most (or even all) of the (de)serialisation between
+  domain objects and Elasticsearch is great.
+
+On the whole, I think the non-web parts (interacting with Elasticsearch,
+modelling domain objects) is better in Rust.  But the web parts were better in
+Python.  Though, all the frustrations with the web parts are based on one web
+framework ([actix-web][]) and one templating library ([tera][]), I didn't really
+look for alternatives that I might like better.
+
+[bookdb]: https://github.com/barrucadu/bookdb
+[bookmarks]: https://github.com/barrucadu/bookmarks
+[has chosen to not support specifying multiple values for a field]: https://github.com/nox/serde_urlencoded/issues/109
+[actix-web]: https://actix.rs/
+[tera]: https://keats.github.io/tera/docs/
+
+
+## Link Roundup
+
+### Software engineering
+
+- [Exploring Kubernetes Operator Pattern](https://iximiuz.com/en/posts/kubernetes-operator-pattern/)
+
+### Miscellaneous
+
+- [In Praise of Idleness](https://harpers.org/archive/1932/10/in-praise-of-idleness/)
