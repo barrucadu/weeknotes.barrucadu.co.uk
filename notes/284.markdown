@@ -1,0 +1,92 @@
+---
+date: 2024-02-25
+---
+
+## Work
+
+An opening came up a couple of weeks ago for a senior dev role on another team,
+and I threw my hat in the ring.  After submitting my application I was given a
+description of the team and their major challenges and was asked to write a
+proposal to improve matters; the interview would then be a discussion of that
+proposal.
+
+One of the team's challenges was support burden, and another was meeting project
+timelines, I assumed they were related, but didn't want to just *assume*, so I
+reached out to the manager to confirm.  Then I spent some time looking through
+the team's backlog, support tickets, alerts, and slack channels, and used that
+to identify some toil and come up with a proposal to make support less of an
+issue.
+
+And I got the job!
+
+The manager said that my approach, actually looking into the day-to-day
+experience of the team and writing a proposal tailored to that, rather than
+writing something generic, was what nudged me ahead of the competition.  So I'm
+glad I did that.
+
+My current team mostly deals with backend, batch-processing stuff.  The new team
+is much closer to the users, there's frontend, there's a designer on the team,
+and the KPIs are all around user experience.  It'll be very different, but I'm
+looking forward to the change.
+
+I'll move fully to the new team some time next month.
+
+
+## Books
+
+This week I read:
+
+- Volumes 1 to 3 of [Frieren: Beyond Journey's End][] by Kanehito Yamada and Tsukasa Abe
+
+  I've been enjoying the anime a lot, so I decided to check out the manga too.
+  It's also really good.  Something I'd not really thought about while watching
+  the anime is that Frieren has a lot of montages: well, the manga has those
+  too, and they stand out a lot more as you just get a page of different scenes
+  with no dialogue, and they work well as an effective way to convey the passage
+  of time, which is of course one of the major themes.
+
+[Frieren: Beyond Journey's End]: https://en.wikipedia.org/wiki/Frieren
+
+
+## Roleplaying Games
+
+### ALIEN
+
+We finished *Destroyer of Worlds*, and a fun time was had by all.
+
+Overall, I liked the scenario, but I liked *Chariot of the Gods* more.  I felt
+that Act 2 was fairly weak, the Act 2 / 3 transition was both unsatisfying and
+far too similar to the Act 1 / 2 transition, and Act 3 was harmed by splitting
+its focus between stuff in the colony and the dungeon crawl of Fort Nebraska.  I
+ended up moving a bunch of the Act 3 events into Act 2, to make Fort Nebraska
+the entirety of Act 3, and completely redid the Act 2 / 3 transition.
+
+We might do *Chariot of the Gods* in June, as the one player in the group who's
+already played it (which was also ran by me) is away for a few weeks then.
+We'll see.  There's also *Heart of Darkness*, which I want to run at some point
+too.
+
+Next week, back to Arden Vul, with the players *on the cusp* of uncovering one
+of the great mysteries of the setting.  It was the *ultimate* cliffhanger for
+me, I have been in so much suspense these past few weeks.  If they just turn
+around and leave the temple without finding it...
+
+
+## Miscellaneous
+
+I've been thinking a bit about how container orchestrators, such as kubernetes,
+work, and have begun trying to put a little something together based on etcd.
+Just a toy to see if I can create and schedule workloads, and build higher-level
+abstractions, like cronjobs, on top of a base of individual containers.
+
+More on this later, if I manage to figure out how the networking part works.
+
+
+## Link Roundup
+
+### Roleplaying games
+
+- [The DolMEGwood Open Table Experiment](https://cowfrog.bearblog.dev/the-dolmegwood-open-table-experiment/)
+- [DolMEGwood Play Report: Session One](https://cowfrog.bearblog.dev/dolmegwood-play-report-session-one/)
+- [DolMEGwood Play Report: Session Two](https://cowfrog.bearblog.dev/dolmegwood-play-report-session-two/)
+- [DIY Ancient Prophecies, Symbols & Lost Languages to Guide Your Campaign](https://dicegoblin.blog/diy-ancient-prophecies-symbols-lost-languages-to-guide-your-campaign/)
