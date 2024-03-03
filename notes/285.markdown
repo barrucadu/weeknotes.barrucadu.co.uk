@@ -1,0 +1,77 @@
+---
+date: 2024-03-03
+---
+
+## Books
+
+This week I read:
+
+- Volume 4 of [Frieren: Beyond Journey's End][] by Kanehito Yamada and Tsukasa Abe
+
+  Still very good, but actually catching up to the anime a lot more quickly than
+  I expected.  I think I'll hold off until the anime finishes, so I'm not
+  reading about something the same day I watch an episode about it.
+
+[Frieren: Beyond Journey's End]: https://en.wikipedia.org/wiki/Frieren
+
+
+## Roleplaying Games
+
+### The Halls of Arden Vul
+
+Finally back to Arden Vul.  The players *almost* turned and left the Hall of
+Shrines, with just the treasure they'd found so far, *without* discovering the
+ancient alien room.  But thankfully one of the players decided to poke around
+the room a bit before leaving, and they found it.
+
+Sudden genre-shift into sci-fi, here we go!
+
+Unfortunately the players didn't have a *Compehend Languages* spell or anything
+similar ready to go, so all they could do was look at the cryopods, but they did
+realise that the silhouettes they could barely make out beyond the frosted glass
+looked an awful lot like the Lord of the Arena... Excellent recall, that, we've
+not seen the Arena in several months of play.
+
+After an unfortunate run-in with an alien death-bot---which killed one of the
+retainers in a single hit---and subsequent flight back to town, the players
+decided to go question the Lord of the Arena, now that they think he might be an
+ancient alien.  But I suspect the Lord is pretty busy, and they'll have to prove
+their value before getting an audience.
+
+Maybe capturing a dangerous monster, hmm.
+
+
+## Miscellaneous
+
+I've been making good progress with my little distributed container
+orchestrator, called `thing-doer` (because I am good at naming things).  Right
+now I have three little Rust services which coordinate their actions through
+etcd:
+
+- `schedulerd`, which watches for new unscheduled pods and allocates them to
+  workers.
+- `workerd`, which watches for new pods assigned to it and runs them.
+- `reaperd`, which watches for disconnected workers and marks all their
+  non-terminated pods as dead.
+
+And it does indeed run things now!  Not containers yet, my pods just define a
+command to run and a set of environment variables to give it, but it's enough to
+prove the concept.
+
+I think the next step is to run actual containers.  Then once it's running
+actual containers I can start to add things like pod networking via [flannel][],
+resource limits (and scheduling based on them), and healthchecks.
+
+I also need to build an `apid` to allow creating pods (and other resources), as
+well as watching state changes, without needing to talk directly to etcd.  Pods
+which watch resource state changes and change or create other resources in turn
+is going to be the fundamental building block for all the higher-level concepts,
+such as replica sets.
+
+[flannel]: https://github.com/flannel-io/flannel/
+
+## Link Roundup
+
+### Software engineering
+
+- [Saved by NixOS Integration Tests, Surprisingly](https://boinkor.net/2024/02/saved-by-nixos-integration-tests-surprisingly/)
