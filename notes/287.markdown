@@ -1,0 +1,112 @@
+---
+date: 2024-03-17
+---
+
+## Books
+
+No books this week!  I started reading [Perdido Street Station][] but it is very long,
+
+[Perdido Street Station]: https://en.wikipedia.org/wiki/Perdido_Street_Station
+
+
+## Roleplaying Games
+
+### The Halls of Arden Vul
+
+We had a really great session this week.  Not so much action, but a lot of
+discovery.
+
+Firstly, we have the B-team, those unfortunates who had ventured down to the
+level below and got attacked by some adventurer-bandits.  They turned the
+situation around by expending one charge of a very valuable, and irreplaceable,
+magic item.  And then the character who got a cursed torch stuck to their hand
+decided to take a few days off to go back to town and get it removed.  I'm fine
+with this.  In a sense, they solved the problem with ease, but they used up some
+valuable resources to do so---I can imagine them wishing they still had that
+charge in the future.
+
+Then, we have the rest of the party, who stayed up at the Inn of the Lost to
+wait for a message from the Lord of the Arena (or, more likely, one of his
+lieutenants).  They passed a couple of days without much luck then, by sheer
+coincidence, they encountered the Lord while wandering around the Arena!
+
+They begged a moment of his time, explained that they had found what appeared to
+be high-tech "pods" with more of his kind sealed away in them, and his only
+question was "do you think this could help the Arena in some way?"
+
+He just *did not care at all.*  The players were floored.
+
+But, pulling back the curtain a little, it is totally in character.  The Lord of
+the Arena is around 3000 years old, preserved by technologies that were never
+intended to keep someone alive so long.  He can't remember anything of his
+origins---can't even remember his own name---all he knows, all he cares about,
+is the Arena.
+
+The Lord did mention in passing one very interesting tidbit to them, which was
+that another of his kind, Lord Psalor Ki, lives above and often visits.  He said
+that Psalor Ki had a great interest in the functioning of living creatures.
+Asking around the Inn of the Lost the players learned that Lord Psalor Ki is
+widely known by another title---The Vivisectionist---and to run if they ever
+encounter him outside one of the dungeon's neutral zones.
+
+Then, we went back to exploring.  The players have realised that the Arena is
+kind of a travel hub, with easy access to the domains of several of the dungeon
+factions, and they chose to head along a long and twisting series of coridors
+and stairs leading up to the precincts of the Cult of Set, which will be our
+focus for the next session.
+
+But all this exploration is really just killing time until Tresti, the party's
+magic-user, recovers from her wounds and they can go back to the high-tech pod
+room armed with a *Comprehend Languages* spell.  I'm looking forward to it.
+
+
+## Miscellaneous
+
+Another good week for [thing-doer][]---now on GitHub!  The highlights are:
+
+- **An API server**, so pods can create new pods (and other types of
+  resources)---and, excitingly, pods can be killed via the API!
+- **A script to configure the network**, automating the previous manual process,
+  making it much quicker to spin up a test cluster.  But this pales in
+  comparison to:
+- **A development VM!** So now I can just run `nix build .#vm` to generate a
+  qemu VM with etcd, flannel, and thing-doer already installed, and with systemd
+  units to start up the thing-doer services.  The VM connects to a bridge
+  interface on the host machine with a random MAC address, so you can just
+  launch multiple instances of the VM to easily test multi-host clusters.
+
+There have been a lot of behind-the-scenes improvements too:
+
+- A lot of refactoring to reduce duplicated code, cut down on unnecessary error
+  handling, simplify things, and so on.
+- Changing reaperd and schedulerd to use a single connection to etcd for
+  watching cluster state changes, rather than one connection per key prefix.
+  workerd will come next.  This reduces load on etcd, and so makes the cluster
+  scale better.
+- Rearranging and renaming the various command-line arguments to improve
+  consistency, allow specifying everything through environment variables, and
+  also allow specifying IP addresses through files (useful for systemd units).
+
+I've started looking into integration testing too.  I have a basic one right now
+that builds the development VM and checks that all the services can start up and
+are visible through the API server, but I'd like to add at least one for testing
+the container networking in a multi-host cluster.
+
+The NixOS VM tooling is quite impressive.
+
+I think the next big milestone will be implementing some analogue of kubernetes
+deployments / replicasets, which I hope to implement almost entirely on top of
+pods running in the cluster---rather than new features in the cluster servers.
+Off the top of my head, I'll need to add API endpoints to manage DNS records and
+to watch resource changes, and I hope that's all.
+
+[thing-doer]: https://github.com/barrucadu/thing-doer
+
+
+## Link Roundup
+
+### Software engineering
+
+- Unveiling the Power of the NixOS Integration Test Driver
+  - [Part 1](https://nixcademy.com/2023/10/24/nixos-integration-tests/)
+  - [Part 2](https://nixcademy.com/2023/12/01/nixos-integration-tests-part-2/)
