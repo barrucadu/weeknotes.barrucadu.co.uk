@@ -1,0 +1,155 @@
+---
+date: 2024-03-24
+---
+
+## Work
+
+This was my last week on the old team---Payment Flows, which looks after the
+actual movement of money and payment timings---and next week I begin on the
+next: Merchant Engagement, which is a much more frontendy and customer-facing
+team.  The project I was leading has been handed over, and will be launching in
+about a month.  I'll share more details when it does.
+
+I'm looking forward to getting to work on different sorts of problems and on
+very different parts of the product.
+
+
+## Books
+
+This week I read:
+
+- [Perdido Street Station][] by China Mieville
+
+    I picked this up on a whim years ago, being aware of China Mieville as a
+    well-liked author but of nothing about his style, and it just sat on my
+    shelves ever since.  Now, as I gradually work through the dregs of my
+    collection, the books that have sat unopened and unloved for too long, I see
+    that I was, perhaps, mistaken.  I should have picked this book up years ago!
+
+    I liked the slow build, as the initially disjoint storylines merged.  I
+    liked how the book mostly followed one character, but arguably the main
+    character is another who we got very little "screen time" of compared to
+    even other secondary characters.  The world is weird and strange, and yet
+    also very familiar, as New Crobuzon is clearly a fantastical version of
+    London.
+
+    I will definitely check out China Mieville's other books.
+
+[Perdido Street Station]: https://en.wikipedia.org/wiki/Perdido_Street_Station
+
+
+## Roleplaying Games
+
+### The Halls of Arden Vul
+
+Another great session this week: little action (though the party did fend off
+one armour-melting ooze, and hid from a patrol of slavers), much exploration.
+
+The players are pretty cautious, when they see a dangerous obstacle they're more
+likely to pull back and take another path than press on.  But there are many
+dangerous obstacles in Arden Vul!  So it feels like they're gradually spreading
+out, uncovering new things and finding secrets, but ultimately being penned in
+on all sides as they encounter puzzle-locked doors they don't know how to open
+yet, or powerful foes they don't want to risk facing.
+
+This is useful as a GM, as it means I can predict pretty safely where they might
+go in advance of the session; but I *do* want them to discover all the
+cool-but-dangerous things!  I just need to make sure there's pressure which will
+force them to overcome their timidity every now and then.  For example, they've
+gone to great lengths to avoid the halflings who occupy the Pyramid of Thoth and
+extort adventurers, but now (due to the players' earlier actions) the cold war
+between the goblins and the halflings has become a hot war: the players want to
+get in good with the goblins, and helping in the struggle would go a long way to
+achieving that; the status quo is changing day-by-day and *someone* is going to
+win the fight whether the players get involved or not...
+
+
+## thing-doer
+
+This week I implemented two new pieces of functionality needed for ReplicaSets,
+then I took a detour into figuring out how to use [the NixOS integration test
+tooling][] which led to me discovering (and fixing) a bunch of problems!
+
+- [Add support for basic scheduling constraints](https://github.com/barrucadu/thing-doer/pull/27)
+
+    ReplicaSets need the ability to schedule pods to *different* worker nodes.
+    This PR adds a `schedulingConstraints` field to the pod spec, with two
+    optional constraints:
+
+    - `mayBeScheduledOn`: the pod *will* be scheduled on one of these workers.
+    - `cannotBeScheduledOn`: the pod *will not* be scheduled on one of these workers.
+
+- [Implement API endpoints to manage DNS aliases (& refactoring)](https://github.com/barrucadu/thing-doer/pull/28)
+
+    I'll also need to be create DNS aliases that point to all pods in a
+    ReplicaSet.  This PR adds CRUD endpoints to manage aliases, though while
+    built-in DNS namespaces can be queried, they can't be modified via the API.
+
+The eventual ReplicaSet controller will get the list of pods from the API, work
+out if any new replicas need to be brought up, and then create those to be
+scheduled on worker nodes that aren't running any of the other replicas.  It'll
+then add those pods to an alias record named after the ReplicaSet, so other pods
+will be able to communicate with them all.
+
+Then, integration testing:
+
+- [Add an integration test, fix various issues with the VM, discover port mapping doesn't work](https://github.com/barrucadu/thing-doer/pull/29)
+
+    A long title, but this was a really great PR.  I discovered a bunch of
+    problems:
+
+    - `podman` wasn't in the path of the `workerd` systemd unit, so it couldn't actually start anything.
+    - All the systemd units used the wrong environment variable to set the etcd endpoints, breaking clustering.
+    - All interactive instances of the VM used the same node names, so they couldn't be connected to the same cluster.
+    - Containers were run *without* a TTY, so containers that launch a process which requires stdin would just immediately quit.
+    - The port mapping was just *totally wrong!*
+
+    So a few issues with the VM, a few issues in my code.  That last one was
+    actually not really a surprise when I looked at the code again.  You see, I
+    was using the `-p` argument to do port mapping (e.g., if you want to make an
+    nginx container available on port 8080 use `-p 8080:80`): but that affects
+    exposing ports to the *host*, whereas what I needed was port mapping on the
+    container bridge network.  This led me down a rabbit hole into iptables...
+
+- [Fix port mapping & container firewall](https://github.com/barrucadu/thing-doer/pull/31)
+
+    I had two things to fix:
+
+    - Port mapping had to work on the bridge network, not the host network
+    - Ports not explicitly exposed to the network had to be blocked
+
+    I found the iptables documentation... not great, really.  I ended up getting
+    by with blog posts, stackoverflow posts, and github issues describing
+    similar issues to the ones I was facing.  In particular I spent a long time
+    stuck because I didn't realise I needed to modprobe `br_netfilter` to
+    actually make my iptables rules apply to the container network, I spent
+    hours wondering why simple things like blocking all inbound traffic just
+    wasn't working.
+
+    But I got there in the end, and now there are both NAT rules (for port
+    mapping) and filter rules (for allowlisting / blocklisting) in place, and
+    added to the integration test.
+
+- [Fix race condition in scan / watch setup](https://github.com/barrucadu/thing-doer/pull/33)
+
+    But all wasn't good.  Sometimes my integration test would fail, with the
+    `schedulerd` seemingly not picking up a `workerd` occasionally if they start
+    in parallel.  This was concerning as I had already considered this potential
+    problem and implemented a work-around.  So why wasn't it working?
+
+    Well, it turned out that my work-around was basically right, I'd just
+    misunderstood an ambigiously-worded part of the etcd documentation and
+    needed to do something slightly different.  This was far more difficult to
+    figure out than I felt it needed to be though, as the etcd protocol
+    documentation is both very terse and completely devoid of examples.
+
+The integration testing, which started as just a curiosity, has already paid
+dividends: revealing problems that hadn't come up at all in my limited manual
+testing.
+
+Next I've started working on a simple API client, as interacting with this by
+typing out `curl` commands with big blobs of json isn't very friendly.
+
+I'll get to ReplicaSets eventually.
+
+[the NixOS integration test tooling]: https://nixos.org/manual/nixos/stable/#sec-nixos-tests
