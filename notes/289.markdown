@@ -1,0 +1,79 @@
+---
+date: 2024-03-31
+---
+
+## Work
+
+Well, this was the first week on my new team.  I didn't *do* much really, mostly
+getting up to speed with things and completing a couple of small tech debt
+tickets.  It seems a good team though, with some interesting work coming up, and
+I'm looking forward to getting involved more.
+
+Things will probably be a little slow until I'm back from my holiday to Japan,
+as that's only a couple of weeks away so there's no point me picking up a big
+project if I'm going to have to immediately put it on hold.
+
+
+## Books
+
+No books this week, but I've got a few in the works.
+
+
+## Roleplaying Games
+
+### The Halls of Arden Vul
+
+A bit of a mixed bag this week.
+
+One player---the one who [I recruited back in November][]---said they just
+weren't really feeling it and would be dropping out for a while.  So we're back
+down to two players, not including myself.  The two who are left are really
+enjoying the game, but it is a bit sad that I can't seem to hold onto a real
+group any more.
+
+On the other hand, we had a pretty good session.  Player schemes were furthered,
+important NPCs met, and secrets revealed.  Specifically, the party approached
+the local thieves guild (the Benevolent Brotherhood) about buying large amounts
+of contact poison, to deal with a slime monster they encountered last week: they
+were told "sure, we can get you that, at a discount even, but you need to do a
+favour for us first..." and now might be off to kidnap some guy.  They also met
+Kerbog Khan, a powerful wizard who lives deep in Arden Vul and who barters
+information and magical services in exchange for secrets, magical resources,
+magic items, and ancient alien tech; and tentatively arranged to give him a
+magic item they found in exchange for the answers to some questions.
+
+Kerbog Khan requires a blood sample from everyone he deals with, but I'll leave
+that as a surprise for when the players are ready to exchange.
+
+The goblin / halfling war has continued to escalate, and next week it looks like
+the players will be donating weapons to the goblins to help in the war effort.
+That'll definitely get them some points, though not as many as if they were
+actually fighting alongside the goblins.
+
+[I recruited back in November]: notes/271.html
+
+
+## thing-doer
+
+Not so much progress this week, just the one new thing:
+
+- [Implement a basic API client](https://github.com/barrucadu/thing-doer/pull/36)
+
+    Writing `curl` commands was a bit tedious, so I implemented a basic client
+    with helpers to do common tasks like create-or-patch a resource, or create a
+    single-container pod with a given image.
+
+To be honest, I'm running out of motivation a little for this project.  I
+haven't reached my initial goal yet of implementing a ReplicaSet-like thing, so
+I want to at least reach that point, but I don't think I'll get much further.
+
+
+## Link Roundup
+
+### Roleplaying games
+
+- [Creating a distributed campaign style](https://sirlywhirly.blogspot.com/2024/03/creating-distributed-campaign-style.html)
+- [10 things I wish I knew as a starting game master with ADHD](https://sirlywhirly.blogspot.com/2023/03/top-10-tips-for-game-mastering-with-adhd.html)
+- [How to Set Up and Use Faction Turns](https://elmc.at/how-to-set-up-and-use-faction-turns/)
+- [Overloading the Random Encounter Table](https://www.prismaticwasteland.com/blog/overloading-the-random-encounter-table)
+- [Double-overloading the Random Encounter Table](https://playfulvoid.game.blog/2024/03/27/double-overloading-the-random-encounter-table/)
