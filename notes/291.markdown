@@ -1,0 +1,75 @@
+---
+date: 2024-04-14
+---
+
+## Japan
+
+The big news is that my holiday to Japan is *imminent!*
+
+I'll be gone for a couple of weeks.  Almost all the preparation is done, all
+that's left to do is pack (hopefully getting everything into a single backpack
+so I don't need to deal with suitcases).
+
+I was initially planning to try and keep up the weeknotes during my trip, but
+I've decided that since I'll be with friends and doing things most days, to just
+pause them for now.  So there'll be a big entry when I get back.
+
+
+## Books
+
+This week I read:
+
+- [The Rise and Fall of Ancient Egypt][] by Toby Wilkinson
+
+  A fascinating read, with an extensive bibliography I'll no doubt be plundering
+  for future reading.  I especially liked the comparative timeline at the start
+  of the book, showing how events in Egypt matched up with events elsewhere:
+  imagine living in a country that predates *the domesticated horse* by a
+  thousand years!  Wow!  The sheer time abyss brought back to mind Algernon
+  Blackwood's excellent short story about Egypt: [Sand][].
+
+  Not only is the history interesting, the book is enjoyable to read: it's
+  well-written and comes across as a coherent story.  If I have a criticism,
+  it's that the latter few centuries aren't covered in the same level of detail
+  as the earlier ones; but I suppose there are already many other treatments of
+  Ptolemaic and Roman Egypt so it makes sense to focus on more ancient matters.
+
+  One thing that I found rather funny is the dearth of ancient mentions of
+  Israel.  Considering Egypt is such a big deal in the Old Testament, it really
+  felt like the "You took everything from me!" / "I don't even know who you are"
+  meme.
+
+[The Rise and Fall of Ancient Egypt]: https://www.goodreads.com/book/show/8536070-the-rise-and-fall-of-ancient-egypt
+[Sand]: https://algernonblackwood.org/Z-files/Sand.pdf
+
+
+## Roleplaying Games
+
+### The Halls of Arden Vul
+
+We're 40 sessions in!  And this week we ended on an amazing cliffhanger.
+
+The party split by an ancient alien teleporter malfunction: half of them on the
+Midnight Road, one of the few endgame-tier locations in Arden Vul; the other
+half, returning to the Goblin Warrens to wait out the return of their friends
+(*if* they return).
+
+The Midnight Road group found two other adventurers (much higher level than the
+party, I should add) lost and trapped here as well.  For now, they've decided to
+team up to try to find a way out; but the route the NPC adventurers took is
+guarded by powerful monsters, and the route the party took is sealed off.  I
+fully expect them to die horribly, but it will be an amazing side-adventure.
+
+On the other hand, if they *do* manage to escape... well, a route into the
+Midnight Road is one of the most valuable pieces of knowledge in Arden Vul.
+They could name their price, and also earn the permanent enmity of the trolls if
+they sell the secret to any other faction.
+
+What a place to leave off the game before our little break due to my trip!
+
+
+## Link Roundup
+
+### Software engineering
+
+- [4 billion if statements](https://andreasjhkarlsson.github.io//jekyll/update/2023/12/27/4-billion-if-statements.html)
