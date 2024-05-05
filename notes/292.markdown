@@ -1,0 +1,131 @@
+---
+date: 2024-05-05
+---
+
+## Japan
+
+The trip was great.  I got back on Thursday, tired after a 14-hour flight with
+two crying babies (they'd be quiet for a while, then one would start to cry,
+which would set the other one off, and they'd enter a vicious cycle of louder
+and louder crying until the parents managed to shut them up; I would be totally
+in favour of banning babies from planes, if you want to take your loud spawn
+abroad, use a transport mechanism that lets you isolate them, like boats), and
+have been recovering from the jetlag.
+
+We spent a couple of days in Tokyo while everyone arrived, then a week in Osaka,
+then another week in Tokyo.  I also broke away for one weekend to visit some
+other friends in Matsuyama.
+
+Here are a few things I noticed:
+
+- Things seemed a bit less cash-based than when I was there in 2018.  I still
+  used a lot of cash, but I felt like there were also more options to pay by
+  card, and most of the convenience stores had machines to feed cash into and
+  count the change automatically, rather than needing the human cashier to do
+  that.
+
+- Even taking the exchange rate into account, the day-to-day living expenses are
+  pretty low.  The Tokyo hotels were expensive, but food and transport were
+  cheap enough that we could ride the subway everywhere and eat out at
+  restaurants every day without worry.
+
+- Even the cheap stuff is good quality.  A 300 yen convenience store onigiri,
+  about £1.50, tastes good and is nourishing enough to be breakfast.
+
+- There are almost no bins in public.  So after eating the aforementioned
+  onigiri, you end up carrying the empty packaging around for hours.  I took to
+  always bringing a bag with me to fill with the rubbish I produced.
+
+- The Japanese *love* their single-use plastic packaging.  You'd buy, say, a bag
+  of snacks and find that inside the bag, each snack is individually wrapped in
+  its own smaller bit of plastic.  This does not combine well with the bin
+  situation.
+
+- It's quiet.  One day we were walking around a busy part of Osaka and someone
+  remarked that unless you really listened... you couldn't actually hear any
+  other conversation.
+
+- You're never more than 5 minutes away from a well-stocked public drinks
+  vending machine.  They all accept cash and many of them accept card too.  I'm
+  already missing these in the UK.
+
+- Cyclists will just awkwardly follow you and not ring their bell.  I think
+  you're supposed to telepathically sense the bike behind you and move aside
+  unprompted.
+
+- Bidets everywhere.  I saw more public toilets with bidets than I saw public
+  bins.
+
+One day we visited an owl place in Kyoto, leading to my favourite photo of the
+trip:
+
+![A superb owl.](notes/292/owl.jpg)
+
+One slight problem I had during the trip was with my finance tracking.  I have
+two bank accounts and had my holiday budget stored in the one that gave me the
+better exchange rate (and doesn't change an FX fee), but the *other* one is
+where my credit card direct debit comes from, and whenever I paid for things
+with card I used my credit card.  So I had to periodically sweep money from the
+one account to the other, to put it aside for the credit card liability, but for
+some reason the credit card transactions were taking 3 or 4 days to appear on my
+statement which meant I didn't really know how much I had to sweep until days
+after the transaction.
+
+This led to an entirely self-imposed problem, in that I have some validation on
+my finance tracking that raises an error if I spend money on my credit card
+without---on the *same day*---putting the same amount of money aside to pay it
+off.  This is normally good, as it effectively forces me to treat my credit card
+as if I always paid it off instantly, which prevents overspending.  But in this
+case I had the choice of sweeping late (and tripping the validation) or
+estimating the amount to sweep (and *maybe* tripping the validation).
+
+I think the way I'd handle this for another trip is to leave a small buffer, say
+£50, in my main bank account to cover FX-related discrepancies, and to sweep the
+estimated amount on the same day as the transaction.  That should ensure I
+always have at least enough put aside.
+
+
+## Books
+
+While on planes and trains (but not automobiles) these past few weeks, I read:
+
+- [Kingdoms of Elfin][] a collection of short stories by Sylvia Townsend Warner
+- [Of Cats and Elfins][] another collection of short stories by Sylvia Townsend Warner
+- [Strange Relics][] a third collection of short stories, by various authors
+
+All these books were published by [Handheld Press][].  I have a couple of others
+from them too, and I've always been impressed with not just the content, but
+also the physical quality of the books.  Sadly, it looks like Handheld Press is
+closing down next year, so I'll have to pick up at least all their fantasy and
+sci-fi books before then.
+
+[Kingdoms of Elfin]: https://www.handheldpress.co.uk/shop/fantasy-and-science-fiction/sylvia-townsend-warner-kingdoms-of-elfin/
+[Of Cats and Elfins]: https://www.handheldpress.co.uk/shop/fantasy-and-science-fiction/sylvia-townsend-warner-of-cats-and-elfins-short-tales-and-fantasies/
+[Strange Relics]: https://www.handheldpress.co.uk/shop/fantasy-and-science-fiction/strange-relics-stories-of-archaeology-and-the-supernatural/
+[Handheld Press]: https://www.handheldpress.co.uk/
+
+
+## Roleplaying Games
+
+### The Halls of Arden Vul
+
+Today we resumed the campaign... with a TPK.  A bold choice, but hear me out.
+
+Last time, the party split, with half of them stranded in a very dangerous
+location.  This time, we played through all the stranded people dying horribly
+over the course of three hours.  We had:
+
+- One PC and one NPC get hacked to pieces by serpent-people.
+- One NPC get torn apart by a vengeful ghost.
+- The remaining one PC and four retainers get pummelled into the ground by an
+  animated statue.
+
+I checked in with the players throughout and it was all fine.  A relief in a
+sense, actually, as they'd spent the past three weeks thinking about this bad
+situation they had found themselves in---and the situation has now been
+resolved.
+
+Next time we're picking up an in-game week later, with the other half of the
+party having assumed the worst and stared recruiting new members.
+
+Then back to exploration.  Of some less dangerous places.
