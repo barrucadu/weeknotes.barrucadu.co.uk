@@ -1,0 +1,95 @@
+---
+date: 2024-05-12
+---
+
+## Books
+
+This week I read:
+
+- [Weird Tales: 100 Years of Weird][] edited by Jonathan Maberry
+
+  So many good stories in here.  I only know of *Weird Tales* by reputation,
+  I've never actually read an issue, and to be honest I didn't know it was still
+  going.  So when I saw this book I had to pick it up and while I feared that it
+  would just have the classics that have already been anthologised to death, I
+  was pleasantly surprised to find it's mostly new-to-me and relatively recent
+  stories, with a smattering of the classics.
+
+  I don't think I could pick a single favourite, but suffice to say I'll be
+  looking further into some of these authors.
+
+[Weird Tales: 100 Years of Weird]: https://www.weirdtales.com/100th
+
+
+## Roleplaying Games
+
+### The Halls of Arden Vul
+
+After the disaster that was last week---in which half the party were slaughtered
+by endgame-level foes---we had a rather calmer session this week.
+
+We began by recruiting a bunch of replacement retainers, sadly they didn't
+manage to get the one with the best name (a goblin named "Cakewatcher"), but
+they did at least fill all the niches they were looking for: two frontline
+fighters, a spellcaster, a thief, and two porters.  Then they set off back to
+the dungeon to go visit the fabled Forum of Set, by all accounts a wretched hive
+of scum, villainy, and commerce.
+
+For some reason, the players very rarely carry cash on them, so when they got to
+the forum and were asked to pay the (very modest) entrance fee... they had to
+send half their people back.  They also couldn't actually buy anything while
+they were there.  Oh well.  At least a player did say "we really ought to start
+carrying more money", so maybe---*maybe*---they'll stop falling afoul of this
+problem everywhere they go.
+
+Next time they want to try to join up two sections of their map which they know
+to be on the same dungeon level.  "Just" joining up the map... I see after a
+year of Arden Vul, just *how big* the dungeon is hasn't really sunk in.
+
+
+## Miscellaneous
+
+I've been up to a few things this week:
+
+- I started to upgrade some of my kitchen equipment: the generic (also
+  inconsistent and not-in-the-best-condition) cutlery replaced with a nice
+  wooden-handled set; a new set of matching glasses; some of the excess mugs and
+  teacups thrown out.  Next I want to replace my kitchen knives, which I've had
+  for 12 years and not sharpened once.
+
+- The temperature is going up, so I've dragged the AC unit out of storage and
+  set that up in my living room.  It's more useful here than in the bedroom, and
+  if a night is just too hot to sleep I can use the sofa-bed.
+
+- I finally bit the bullet and just deleted my NixOS desktop configuration:
+  Windows 11 is my daily driver now, and I always have an SSH connection open to
+  a Linux machine anyway; I don't really need a graphical Linux machine.
+
+- I spent some time looking into [Proxmox][], toying with the idea of combining
+  my desktop and server machines, and running both virtualised on top of Proxmox
+  for better resource usage.  But for various reasons I've soured on the idea,
+  and I'll just keep the two separate computers.  I think my next big home
+  computing change will be what I've long wanted: putting everything in a rack.
+  But finding the floorspace, without trailing cables all through my flat, is
+  proving difficult...
+
+- I've revised my budget quite a bit, taking into account the raise I got for
+  being promoted.  A bit more discretionary spending, and a lot more saving.  In
+  particular, I now have a holiday budget, so my *next* trip to Japan (or
+  wherever) doesn't require me to divert all my excess income for 6 months.
+
+- I chased the landlord on my tenancy renewal, and finally got that all sorted.
+  So I now have this flat for another year.  The rent's gone up, but not by as
+  much as it would have if I'd had to get a new place.
+
+- I watched [The Lair (2022)][], a fun film but nothing special.
+
+[Proxmox]: https://www.proxmox.com/
+[The Lair (2022)]: https://www.imdb.com/title/tt13468602/
+
+
+## Link Roundup
+
+### Roleplaying games
+
+- [I'm a Terrible Player](http://grognardia.blogspot.com/2024/05/im-terrible-player.html)
