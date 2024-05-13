@@ -66,6 +66,7 @@ def pandocise_note(fname, link, text):
             ],
             extra_args=[
                 "--no-highlight",
+                "--section-divs",
             ],
         )
 

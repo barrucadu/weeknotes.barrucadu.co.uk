@@ -1,0 +1,61 @@
+.subtitle {
+    text-align: center;
+    font-style: italic;
+}
+
+.weeknotes {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+}
+
+.weeknote-card {
+    padding: 16px;
+    text-align: center;
+}
+
+.weeknote-card--special {
+    grid-column: 1/-1;
+}
+
+.weeknote-card__heading {
+    font-size: 2rem;
+    display: block;
+    font-weight: normal;
+}
+
+.weeknote-card__heading::before {
+    content: "";
+}
+
+/* better solution - remove the pandoc <section>s for everything below a level 2 heading */
+section.level3, section.level4 {
+    margin: 0;
+    padding: 0;
+}
+
+figure.svg {
+    overflow: scroll;
+}
+
+footer {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-template-areas:
+        "next prev"
+        "return return";
+}
+
+.footer-next {
+    grid-area: next;
+    text-align: left;
+    margin: 0;
+}
+.footer-prev {
+    grid-area: prev;
+    text-align: right;
+    margin: 0;
+}
+.footer-return {
+    grid-area: return;
+    text-align: center;
+}

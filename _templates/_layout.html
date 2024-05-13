@@ -21,24 +21,27 @@
 
     <title>{{ title }}</title>
 
-    <link rel="stylesheet preload" href="{{ hashed_links['style.css'] }}" as="style" type="text/css">
+    <link rel="stylesheet preload" href="{{ hashed_links['normalize.css'] }}" as="style" type="text/css">
+    <link rel="stylesheet preload" href="{{ hashed_links['magick.css'] }}" as="style" type="text/css">
+    <link rel="stylesheet preload" href="{{ hashed_links['fonts.css'] }}" as="style" type="text/css">
+    <link rel="stylesheet preload" href="{{ hashed_links['weeknotes.css'] }}" as="style" type="text/css">
     <link rel="stylesheet preload" href="{{ hashed_links['code.css'] }}" as="style" type="text/css">
 
     <link rel="alternate" type="application/atom+xml" title="{{ site_name }}" href="atom.xml">
   </head>
 
   <body>
-    <header>
-      <p class="subtitle">{% block subtitle %}{% endblock %}</p>
-      <h1 class="main-heading">{{ title }}</h1>
-    </header>
-
     <main>
-      {% block body %}{% endblock %}
-    </main>
+      <header>
+        <h1>{{ title }}</h1>
+        <p class="subtitle">{% block subtitle %}{% endblock %}</p>
+      </header>
 
-    <footer>
-      {% block footer %}{% endblock %}
-    </footer>
+      {% block body %}{% endblock %}
+
+      <footer>
+        {% block footer %}{% endblock %}
+      </footer>
+    </main>
   </body>
 </html>

@@ -1,18 +1,17 @@
 {% extends "_layout.html" %}
 {% block subtitle %}
-subscribe to the <a class="link" href="atom.xml">feed</a> — a&nbsp;new entry every Sunday
+subscribe to the <a href="atom.xml">feed</a> — a&nbsp;new entry every Sunday
 {% endblock %}
 {% block body %}
-<div class="weeknotes">
+<section class="weeknotes">
   {% for note in notes %}
     <div class="weeknote-card{% if note.annual_special_for is defined %} weeknote-card--special{% endif %}">
       <h3 class="weeknote-card__heading"><a class="link link--no-underline" href="{{ note.link }}">{{ note.title }}</a></h3>
       <time class="weeknote-card__time" datetime="{{ note.published_iso }}">{{ note.published_pp }}</time>
     </div>
   {% endfor %}
-</div>
+</section>
 {% endblock %}
 {% block footer %}
-<p>Copyright <a class="link" href="https://www.barrucadu.co.uk">Michael Walker</a>, available under the terms of the <a class="link" href="https://creativecommons.org/licenses/by-nc-sa/4.0/"><abbr title="Creative Commons">CC</abbr> <abbr title="Attribution-NonCommercial-ShareAlike 4.0 International">BY-NC-SA 4.0</abbr> license</a>.</p>
-<p>The body text and headings use <a class="link" href="https://mbtype.com/fonts/valkyrie/">Valkyrie</a>, code samples use <a class="link" href="https://fonts.google.com/specimen/Fira+Mono">Fira Mono</a>.</p>
+<p>Copyright <a href="https://www.barrucadu.co.uk">Michael Walker</a>, available under the terms of the <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/"><abbr title="Creative Commons">CC</abbr> <abbr title="Attribution-NonCommercial-ShareAlike 4.0 International">BY-NC-SA 4.0</abbr> license</a>.</p>
 {% endblock %}

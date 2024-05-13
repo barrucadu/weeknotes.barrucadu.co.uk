@@ -34,18 +34,16 @@ def transform_code(elem, doc):
                 break
             idx += 1
         svg = "\n".join(out[idx:])
-        return pf.RawBlock(f"<figure>{svg}</figure>")
-    elif fmt == "asciiart":
-        return pf.RawBlock(f'<pre class="asciiart">{html.escape(elem.text)}</pre>')
+        return pf.RawBlock(f'<figure class="svg">{svg}</figure>')
     elif fmt == "raw":
         return pf.RawBlock(elem.text)
     elif fmt == "":
-        return pf.RawBlock(f'<pre class="code">{html.escape(elem.text)}</pre>')
+        return pf.RawBlock(f'<pre class="code"><code>{html.escape(elem.text)}</code></pre>')
     else:
         lexer = get_lexer_by_name(fmt)
         formatter = HtmlFormatter(nowrap=True)
         result = highlight(elem.text, lexer, formatter)
-        return pf.RawBlock(f'<pre class="code">{result}</pre>')
+        return pf.RawBlock(f'<pre class="code"><code>{result}</code></pre>')
 
 
 if __name__ == "__main__":
