@@ -1,0 +1,95 @@
+---
+date: 2024-05-19
+---
+
+## Work
+
+[A while ago][] I mentioned a project I was leading, that had to be handed over
+when I changed teams.  Well, that project has launched now (it actually did so a
+few weeks ago when I was in Japan), and it was a big project that unlocks a
+major business priority so I wanted to brag about it a little.
+
+GoCardless is, conceptually, a fairly simple product: you want to collect
+payments via direct debit, but don't want to integrate with the banks yourself,
+so you use GoCardless as a middle-man to handle that for you.  GoCardless
+submits the payment instructions at the appropriate time, collects the money,
+and sends it to your bank account in one lump sum, after deducting fees.
+
+GoCardless started as a UK company processing BACS direct debits.  But now it
+operates in many countries.  Here comes the problem I was working on: payouts
+(sending that lump sum of collected payments to the merchant) for *all
+currencies* happens at 11AM UK time, because that's what worked well for BACS.
+Receiving your money at 11AM UK time is fine for UK merchants, but if you're an
+Australian merchant that's after the end of the working day, after the bank
+cutoff for same-day transfers, so you actually receive your money the following
+morning.  A whole day later than it would be if AUD payouts were done at a
+sensible local time.
+
+Not great.
+
+So the project I was leading was to fix this.  To break assumptions throughout
+our code that payouts operates in UK time.  That a single run of the payouts
+process doesn't cross UTC midnight.  That payouts in all currencies happen at
+roughly the same time of day.
+
+And you know what?  We did it.  It's live, it has been live for weeks now, and
+Australian merchants get their money 24 hours earlier than they used to.  And
+now that the foundational work has been done, localising payouts for other
+currencies is just a small bit of incremental work.
+
+[A while ago]: notes/288.html
+
+
+## Books
+
+No books this week!
+
+I've really fallen out of the habit of reading before bed, I need to bring that
+back.
+
+
+## Roleplaying Games
+
+I've spent the last few days honing my (almost nonexistent) frontend skills,
+learning some [React][] and [Next.js][] by building a little dungeon time
+tracker:
+
+![Dungeon time tracker](notes/294/dungeon-time-tracker.png)
+
+It tracks what the current time of day is, rolls for random encounters, and
+counts down timers.  I used it during today's Arden Vul session and it worked
+great.  I'm not sure what to add next, but I'm always looking for ways to
+streamline the in-session bookkeeping.
+
+[React]: https://react.dev/
+[Next.js]: https://nextjs.org/
+
+### The Halls of Arden Vul
+
+We had a very focussed session this week, the players came in with the goal of
+linking up two fragments of the same dungeon floor, and they got it!
+
+It was a bit touch-and-go for a while though, if they hadn't decided to press on
+with clearing a collapsed corridor we may have ended the session with them still
+having no idea how this system of caves and interrupted construction related to
+the rest of the Thothian regions.
+
+Along the way they found and rescued some trapped goblins (who would likely have
+starved if the party didn't clear that corridor), bringing them home and getting
+another reward (and a new request) from the king.  Next session: following up on
+some interesting things they learned during their explorations, and then some
+faction diplomacy!
+
+
+## Miscellaneous
+
+I redesigned the site!  I'm now using [Magick.css][], with a few small tweaks.
+
+[Magick.css]: https://css.winterveil.net/
+
+
+## Link Roundup
+
+### Software engineering
+
+- [Making a Postgres query 1,000 times faster](https://mattermost.com/blog/making-a-postgres-query-1000-times-faster/)
