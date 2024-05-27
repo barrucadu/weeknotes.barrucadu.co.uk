@@ -1,0 +1,86 @@
+---
+date: 2024-05-26
+---
+
+## Books
+
+This week I read:
+
+- The [Southern Reach Trilogy][] by Jeff VanderMeer
+
+  Which I last read in 2019.  I watched [the film adaptation of
+  *Annihilation*][] too, though it's pretty different to the book.  I think the
+  second book, *Authority*, might actually be my favourite, the cryptic
+  bureaucracy of the Southern Reach and the mysterious central administration is
+  very Kafkaesque.
+
+  I read the whole trilogy thinking it was set in some unnamed US costal
+  location, but was surprised to see that the wikipedia article says it's set in
+  "an uninhabited and abandoned coastal area of an unnamed country".  I'm not
+  sure I can recall any concrete references to American places or institutions
+  (e.g. the government agency overseeing things is just called "Central");
+  though character and place names are definitely American, and it feels like
+  it's in the southern US.
+
+[Southern Reach Trilogy]: https://en.wikipedia.org/wiki/Southern_Reach_Trilogy
+[the film adaptation of *Annihilation*]: https://en.wikipedia.org/wiki/Annihilation_(film)
+
+
+## Roleplaying Games
+
+I picked up a copy of [The Monster Overhaul][]:
+
+![The Monster Overhaul by Skerples](notes/295/the-monster-overhaul.jpg)
+
+[The Monster Overhaul]: https://coinsandscrolls.blogspot.com/2023/02/osr-monster-overhaul-megapost.html
+
+### The Halls of Arden Vul
+
+This week we had an extra-long in-person session: one player was away, the other
+visiting for the weekend.  It was great!  We got through quite a lot.
+
+Firstly, the party secured the goblin / beastman peace treaty, after first
+talking to a beastman deserter they met last session to get a sense of their
+culture.  The infodump confirmed a few rumours (which gives bonus XP in my house
+rules), but it didn't answer *all* their questions.  I left some dangling hooks.
+
+Along the way the party met Deino, the "mother" of the beastmen (and were warned
+to be careful of what they drink in her presence); Trisko, the ratman leader of
+the Long Ranger Cavern Patrol who the party will likely be interacting with
+going forwards; Rizzit, the prophesying demon the goblin king uses to determine
+if foreign policy decisions are good or not; and various assorted rank-and-file
+goblins and beastmen.
+
+Secondly, the party decided to get back to some good old exploration.  We did a
+bit of a whirlwind tour of a few easily-accessible locations: they tried out the
+two teleporter addresses they knew, confirming that one went to the Goblin Halls
+(as they knew) and one went... somewhere else, next to an underground river.  In
+that somewhere else they rescued some lost adventurers wearing strange armour.
+Then they rushed down to the Troll Market to check out what's available and just
+to get a sense of what's going on with the acknowledged strongest faction of
+Arden Vul.  There they found wonderful items and services (if you have the
+coin), interesting gossip, and another of the mysterious Sun-Scarred Knights.
+
+All in all, the party didn't actually find any treasure.  But they did complete
+a bunch of feats of exploration, earning quite a lot of bonus XP.  They also
+made progress in diegetic ways:
+
+- As reward from the Goblin King for establishing the treaty they were given
+  guest rooms in the Goblin Halls, so they no longer have to sleep on the floor
+  of the common area, and also one session with Rizzit, the prophesy-demon.
+
+- As reward from Count Skleros and Deino for the same, they have been granted
+  free travel through the Beastman Halls to the Great Cavern beyond (with the
+  stipulation that any "cloud cap mushrooms" the party finds must be sold to the
+  beastmen).
+
+- They finally got a Troll Passport, giving them access to the Court of the
+  Troll Thegn and the Troll Market.  This is the major hub of activity in the
+  lower levels.
+
+- They got some more adventure hooks from the beastmen and the trolls.
+
+There was one big mechanical win too: Ethelflad, the party cleric and sole
+survivor of the original PCs, finally hit level 6.  So now his Turn Undead can
+kill ghouls.  The players were waiting for that before going to try to recover a
+bunch of magic items lost in an earlier fight.
