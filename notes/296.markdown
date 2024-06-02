@@ -1,0 +1,121 @@
+---
+date: 2024-06-02
+---
+
+## Books
+
+This week I read:
+
+- Volumes 5 and 6 of [Frieren: Beyond Journey's End][] by Kanehito Yamada and Tsukasa Abe
+
+  Which completes the first-class mage exam arc that started in the latter part
+  of volume 4.  Unfortunately this is, I think, a story that worked better in
+  the anime.  There's a few battles and other cool demonstrations of magic,
+  which are just better when animated to a dramatic soundtrack.  I'm not really
+  a fan of battles in manga or comic books, I don't find the action shot panels
+  particularly thrilling; I even prefer dynamic scenes in prose, where there
+  aren't all these still images getting in the way of the imagination.
+
+[Frieren: Beyond Journey's End]: https://en.wikipedia.org/wiki/Frieren
+
+
+## Roleplaying Games
+
+I picked up a few new games this week:
+
+- The [D&D Rules Cyclopedia][], to mine for house rules for my OSR games
+- [Lichdom][], a solo RPG about an evil sorcerer trying to become a lich
+- [Ironsworn: Starforged][], a refinement and reskinning of Ironsworn for sci-fi
+
+I've not played any of them yet, but I have been reading Starforged, and will
+hopefully get to start a co-op game of that in the near future.
+
+[D&D Rules Cyclopedia]: https://en.wikipedia.org/wiki/Dungeons_%26_Dragons_Rules_Cyclopedia
+[Lichdom]: https://www.drivethrurpg.com/en/product/399971/Lichdom--A-solo-RPG-about-the-perilous-journey-of-a-sorcerer-towards-immortality
+[Ironsworn: Starforged]: https://www.ironswornrpg.com/
+
+### The Halls of Arden Vul
+
+Another single-player session this week, with the other player away at [EMF
+Camp][] for the weekend.
+
+This week the party went to check out a room they found on a map taken from the
+body of a dead adventurer labelled "one of the mysteries?" and---very
+unluckily---had half the party killed by a magical effect.  Oh well.  On the
+bright side, the dead party members were all relatively new retainers, so we
+hadn't developed any emotional bonds yet...
+
+I may have permanently scared the players away from a cool room.
+
+Then followed a period of impromptu downtime, to go back to town and recruit
+some new retainers.  One neat thing Arden Vul has is that, for each faction, it
+says roughly how many members there are and how quickly they can replace losses.
+Maybe I need to start tracking that for the retainer population...
+
+But then things did take a turn for the better.  Thanks to a well-executed plan,
+a tough monster was dealt with at no risk to the party, and they made off like
+bandits with the contents of a magical laboratory and earned more gold than they
+had in weeks.
+
+Previously, they'd found this laboratory guarded by a hostile slime monster: so
+what they did was buy a lot of ingested poison, and a fresh pig carcass, and
+then stuff the carcass with the poison; they then dumped it outside the room,
+made a loud noise to attract the slime, ran away, and waited for the noises to
+stop.
+
+This is the sort of creative thinking that I like to see.  They could have just
+fought the slime, but they knew it was a tough opponent which could dissolve
+armour.  So they found a way around it instead.  I don't mind handing out an
+automatic victory in cases like that.
+
+[EMF Camp]: https://www.emfcamp.org/
+
+### Pathfinder
+
+I joined a Pathfinder group about 6 months ago and, while it's not really my
+preferred system it was still fun enough.  Our campaign ended a few weeks ago so
+we've been getting ready for the next one: Kingmaker, one of *the* big
+campaigns.  I was quite looking forward to it, I and one of the other players
+were going to be kobolds, it was going to be fun...
+
+Then I submitted my character sheet and the GM and I had a big argument about
+stats.
+
+Sure, my character wasn't perfect.  They could have been more optimal, but they
+weren't incompetent.  I wasn't sabotaging the group.  I'd made a character I
+thought would be fun---I even went to the effort of finding some character art,
+which I don't normally do---so to have an hours long argument about specific
+choices of modifiers, culminating in the GM saying they simply wouldn't accept
+the character, really took the fun out of it.
+
+So I left the group.
+
+What makes it particularly frustrating is that I *bought* the Pathfinder
+rulebook just a few days previously.  I figured that since we were about to
+start something new, I should finally pick it up rather than making do with
+online reference material.  But now I have this thing I'm never going to use,
+just a reminder of an argument.
+
+
+## Miscellaneous
+
+Earlier today I picked up [Against the Storm][], a kind of roguelike
+city-builder where you need to build a succession of cities to complete
+objectives which get you experience points to spend on a variety of upgrades,
+and periodically all the cities get wiped out by the eponymous storm.  The aim
+is to, through getting upgrades, build better and better cities and ultimately
+drive back the storm.
+
+I'm only a few hours into it but I like it so far.  I do tend to obsess over and
+then burn out on these sorts of games though; but so long as I get a decent
+amount of fun out of it, that's not so bad I suppose.
+
+[Against the Storm]: https://store.steampowered.com/app/1336490/Against_the_Storm/
+
+
+## Link Roundup
+
+### Roleplaying games
+
+- [A Review: Wolves Upon the Coast as a System](https://reaverswutc.bearblog.dev/a-review-wolves-upon-the-coast-as-a-system/)
+- [The Implied Setting of Contact Higher Plane](https://arch-brick.blogspot.com/2024/02/the-implied-setting-of-contact-higher.html)
