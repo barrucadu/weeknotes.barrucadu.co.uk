@@ -1,0 +1,118 @@
+---
+date: 2024-06-09
+---
+
+## Books
+
+This week I read:
+
+- [Ironsworn: Starforged][] by Shawn Tomkin
+
+  With my Friday Pathfinder game no longer happening, I started up a Starforged
+  game---more on that below---so I read the rulebook in advance of that.  It's,
+  you know, a rulebook; nothing special.  The system is almost the same as
+  Ironsworn, though I found this rulebook better laid out: with Ironsworn I
+  found myself flipping all over the place during character and world creation,
+  but Starforged has a chapter dedicated to set-up which goes through it all in
+  a sensible order.
+
+- [ALIEN: Building Better Worlds][] from Free League
+
+  This is both a supplement for running ALIEN games that involve colonisation
+  and a campaign about recontacting some old lost colonies (which, spoilers,
+  have some xenomorph activity going on).  It's a good read, I might run the
+  campaign some day, but what I liked the most was the appendix on running a
+  colony, which is essentially a little minigame that really isn't *that*
+  specific to the ALIEN system or setting.  We could pull it into our Starforged
+  game very easily, for instance, if we wanted to start colonising worlds.
+
+[Ironsworn: Starforged]: https://www.ironswornrpg.com/
+[ALIEN: Building Better Worlds]: https://freeleaguepublishing.com/shop/alien-rpg-2/building-better-worlds/
+
+
+## Roleplaying Games
+
+### The Halls of Arden Vul
+
+Yet another single-player session, but the other player should be back next
+time.
+
+This week the party figured out two puzzles, which was pretty fun, and I also
+got to spring some faction happenings upon them.
+
+A while back, about two months of real-time and one of game-time, the party was
+informed of a thorn in the goblin king's side: some small-time goblin called
+Gislu has been saying that his reign isn't legitimate, because the *true* king
+would have the "Goblin Sceptre".  This Gislu had attracted a following, and the
+king wanted him dealt with *before* he finds this sceptre.
+
+The way I tend to resolve this sort of thing is to decide what the likely next
+step is and roll for how many days or weeks pass until the situation changes.
+If I don't want to just decide the next step, I'll think about what the actor's
+goal is and roll a few d6s to determine how well it goes: in this case, I
+decided Gislu doesn't really have many resources, and so just merited 1d6.  But
+I rolled a 6, meaning this went about as well as it could for Gislu: he finds
+the sceptre (or at least, he finds the artefact he believes to be the sceptre).
+From there I extrapolated (mostly thinking things over during my morning
+showers): a few days after finding it, rumours would begin to spread; Gislu
+would go to one of the existing factions for backing to press his claim; then a
+few weeks after that (I rolled for how many) this faction would act, seeking to
+prop up Gislu as a puppet king and basically enslave the goblins.
+
+Today we got to the "rumours would begin to spread" stage.  The goblin king has
+demanded the party deal with Gislu immediately.  If they keep putting this off,
+as they have been so far, then in a few more weeks they won't be such favoured
+members of the goblin court...
+
+### Starforged
+
+This *was* going to be just me, free now due to [leaving my Pathfinder group][],
+and an ex-player who hadn't been able to make Sunday sessions for a long time
+but was ready to give Friday sessions a try.
+
+Then the Pathfinder game fell apart completely and my two other Arden Vul
+players wanted to join.
+
+So this week the four of us worked through the session 0 exercises: deciding the
+high-level "truths" of our world, creating characters, creating the sector of
+space and settlements we'll be dealing with initially, and deciding on the
+inciting incident.  We got some play in, too.
+
+The "truths" exercise is great.  The Starforged setting is kind of an ALIEN /
+Firefly / [Bodacious Space Pirates][] mash-up (at least in my mind), but you
+refine it further by deciding on these 14 "truths" that cover everything from
+why people are here in this galaxy at all, to whether space magic exists, to how
+laws work, and more.  It takes the very fuzzy generic setting and resolves just
+enough detail for you to start to engage with this world.
+
+For our inciting incident, we decided that we needed to recover some precursor
+space-drug to cure our contact's daughter's space-tuberculosis, as she lay dying
+in space-hospital.  We made it to this precursor derelict and found the drug,
+and ended the session on a cliffhanger, with a pocket of explosive gas we'd
+disturbed exploding, blocking off our route out of the derelict.
+
+It was... a bit clunky.  We were referencing the rules a lot.  I found myself
+slipping into GM-mode constantly.  We did a lot of rolling and not much
+narrating.  But the first few sessions of a new system are always clunky, I'm
+hopeful that we can get over that hump and will be having a great time
+co-operatively GMing ourselves into space-adventure-of-the-week.
+
+[leaving my Pathfinder group]: notes/296.html#pathfinder
+[Bodacious Space Pirates]: https://myanimelist.net/anime/8917/Mouretsu_Pirates
+
+
+## Miscellaneous
+
+I've spent several hours this week playing [Against the Storm][], which I picked
+up [last week][].  It's pretty good, I recommend it!
+
+[Against the Storm]: https://store.steampowered.com/app/1336490/Against_the_Storm/
+[last week]: notes/296.html#miscellaneous
+
+
+## Link Roundup
+
+### Software engineering
+
+- [Your kernel panics in ZFS on Linux probably aren't actual kernel panics](https://utcc.utoronto.ca/~cks/space/blog/linux/ZFSPanicsNotKernelPanics)
+- [Things you can do to make your Linux servers reboot on kernel problems](https://utcc.utoronto.ca/~cks/space/blog/linux/RebootOnPanicSettings)
