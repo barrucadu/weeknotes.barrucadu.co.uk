@@ -1,0 +1,85 @@
+---
+date: 2024-06-16
+---
+
+## Books
+
+This week I read:
+
+- [Blue Mars][] by Kim Stanley Robinson
+
+  The final book of the trilogy, and a little different to the prior two books.
+  While the first two were more or less thinly veiled political theory, this one
+  was rather more personal, focussing on the ever dwindling survivors of the
+  original colonists: now all 200+ years old.  The anti-aging treatments were no
+  longer enough, as the super-old faced increasing cognitive issues and even
+  sudden death due to poorly-understood causes.
+
+  Though, politics is still a major theme, focussing on the relationship between
+  Earth and Mars, the creation of a Martian constitution and planetary
+  government, and (after a time skip) the relationship between Earth, Mars, and
+  other colonies elsewhere in the solar system, after developments in spacecraft
+  engine technology rendered colonisation further afield feasible.
+
+  They do end up solving the issue with the anti-aging treatments towards the
+  end of the book though, which brings me to my main criticism of the series:
+  the pace of scientific breakthroughs is too fast.  In the first book, we see a
+  colony mission to Mars using technology that doesn't seem wildly beyond what
+  we have today.  Then they cure aging.  Then there's space elevators, 0.25c
+  spaceship engines, artificial intelligence, colonisation of the entire solar
+  system, easy genetic modification of adult lifeforms... so much, in
+  comparatively so little time, a mere 200 years or so.
+
+[Blue Mars]: https://en.wikipedia.org/wiki/Mars_trilogy
+
+
+## Roleplaying Games
+
+### The Halls of Arden Vul
+
+Back to a full house.
+
+This week the party dealt with the goblin situation by assassinating Gislu, the
+rebel, and all his followers thanks to an ok plan and a few good reaction rolls.
+I need to decide what the fallout will be though: the Cult of Set were deciding
+how to capitalise on this goblin situation, then a few party members were seen
+asking around about the goblins and even visiting them mere hours before all the
+goblins suddenly dropped dead due to poison.  Not very subtle, really.
+
+Then they went to the surface, solved a puzzle which opened up a secret door to
+another level, and nearly got killed by animated statues.  After making their
+escape they ran into an annoyed dragon who wasn't too happy about their
+"landscaping", as he put it, and demanded a pile of gold.  I demanded so much I
+thought they'd have to go adventuring to find a haul to pay off the dragon with,
+but they could actually afford it with what they had in the bank.
+
+On the whole, I wasn't very satisfied with this session.  The players spent a
+lot of time discussing how to deal with Gislu, I had to keep nudging them to
+actually make decisions and do things rather than discuss in circles.  The
+dragon situation was intended to trigger a time-sensitive delve to find a new
+treasure haul, but it didn't, so it just felt like I was arbitrarily fining them
+almost all of their treasure.
+
+Well, next time they're off to recover some magic items lost by previous dead
+PCs, which is something they've been looking forward to for a while, so that'll
+be fun.
+
+### Starforged
+
+I think we're starting to get the hang of the system, though we're still doing a
+*lot* of rolling compared to how much narration there was.  But we split the GM
+authority much better (I'd asked the others to help me keep myself in check),
+and we had a fun tropey adventure involving space cannibals and ancient alien
+labyrinths.
+
+We failed in our first vow, so for the moment we're working on one of the PC's
+background vows; but I'm trying to keep an eye out for opportunities to swear
+new vows and so go on new adventures.
+
+
+## Miscellaneous
+
+I upgraded my machines to [NixOS 24.05][], and everything seems to be going
+fine.
+
+[NixOS 24.05]: https://nixos.org/blog/announcements/2024/nixos-2405/
