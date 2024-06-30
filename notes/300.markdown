@@ -1,0 +1,82 @@
+---
+date: 2024-06-29
+---
+
+## Books
+
+This week I read:
+
+- [The One Ring][] from Free League
+
+  This system caught my eye last week, as I was dissatisfied with our Starforged
+  game and was looking into potential replacement systems (that's a death knell
+  for a campaign in my experience: even if it were all going fine, getting too
+  excited about the *next* campaign sucks all fun out of the current one), so I
+  picked up the book.
+
+  It looks great, it really feels like it captures the feeling of The Hobbit and
+  The Lord of the Rings, in particular the rules for journeys (travel is a big
+  deal in the books) and councils (that is, high-stakes social encounters).  I
+  also like that the party has a patron who sends them on adventures (and some
+  characters from the books are detailed as pre-created patrons), rather than
+  them just being a group of randoms "adventuring".
+
+  Hopefully I'll get to run it in two or three weeks, and we'll have fun romping
+  around Eriador dealing with goblins and trolls and discovering lost treasures
+  and whatnot.
+
+[The One Ring]: https://freeleaguepublishing.com/games/the-one-ring/
+
+
+## Roleplaying Games
+
+### The Halls of Arden Vul
+
+Mysteries were revealed this week, as the players returned to two issues that
+have been bugging them for a while: firstly, a bunch of their magic items had
+been lost when the party was attacked by several ghouls; secondly, the
+spaceship, with its alien mysteries, beckoned now that the party has a
+magic-user who can cast *Comprehend Languages*.
+
+Since the players had told me they wanted to pursue those two things at the end
+of the previous session, I was able to actually prepare (a rarity for Arden
+Vul), and the session went pretty much how I expected it to as a result.  A lot
+of fun, though.
+
+Firstly, the ghouls.  They were led by an intelligent ghoul who I knew would be
+willing to negotiate if the party showed their strength; and boy, did they.
+They actually came out of the situation with a bad deal, I felt: they got their
+magic items back in exchange for raising a portcullis and letting the ghouls out
+of where they were trapped.  But now there's a bunch of undead roaming around,
+whereas the players could have obliterated them and taken their *other* treasure
+too.  I'll need to think about how this dungeon level changes in response.
+
+Secondly, the spaceship.  I knew this could go one of two ways: the players
+might try to wake up one of the ancient aliens, or they might go see what's
+through the iris door and get sucked into exploration.  I figured they would
+*probably* go for the exploration (and they did), but I prepared for both just
+in case.  Actually, I was able to re-use my prep from when they first discovered
+the spaceship, as there was a chance they tried to wake someone up then, too.
+
+I guess all this goes to say, is that running Arden Vul doesn't actually take
+much prep any more.  It's a huge dungeon, yes, but there's prep I did the better
+part of a year ago that's still valid, simply because every step the players
+take opens up new branches: but from a GM perspective, I can get away with only
+explicitly preparing the *big* things, for everything else just skimming through
+some room descriptions before the session, and thinking about whether anything
+the players did will have any knock-on effects after the session, is enough.
+
+## Link Roundup
+
+### Roleplaying games
+
+- [In Praise of Legwork](https://samsorensen.blot.im/in-praise-of-legwork)
+
+### Software engineering
+
+- [Start all of your commands with a comma](https://rhodesmill.org/brandon/2009/commands-with-comma/)
+- [The plan-execute pattern](https://mmapped.blog/posts/29-plan-execute)
+
+### Miscellaneous
+
+- [The Moral Economy of the Shire](https://nathangoldwag.wordpress.com/2024/05/31/the-moral-economy-of-the-shire/)
