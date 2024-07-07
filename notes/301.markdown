@@ -1,0 +1,61 @@
+---
+date: 2024-07-07
+---
+
+## Books
+
+This week I read:
+
+- [Dämoren][] by Seth Skorkowsky
+
+  What is the 'ä' doing there?  I don't know.  Anyway, I've been aware of Seth
+  Skorkowsky's books for a while (I follow [his RPG youtube channel][]), and a
+  few months back he did a video to celebrate that it had been 10 years since he
+  launched his Valducan series with Dämoren.  I liked the sound of
+  it---modern-day people bearing ancient holy weapons to kill demons---and
+  decided to check it out.
+
+  It was pretty good.  It's an action story that doesn't take much thinking to
+  enjoy.  I liked the supernatural aspect, and the twist about the holy weapons
+  revealed at the end.  I'll probably check out the others in the series.
+
+[Dämoren]: https://skorkowsky.com/daemoran/
+[his RPG youtube channel]: https://www.youtube.com/@SSkorkowsky
+
+
+## Roleplaying Games
+
+### The Halls of Arden Vul
+
+I finish every session of Arden Vul thinking that, despite the progress the
+players made, they've somehow, yet again, ended up with more new questions than
+answers.  And this week's session was no different: realising that they were
+having a hard time putting together a timeline of Arden Vul just from exploring
+the place, they spent some time in the troll court asking questions.  They got
+some answers, sure, but those answers have just led to more questions.
+
+Next week they plan to check out the mysterious "beacon" that they managed to
+open up a couple of sessions back.  I am very excited for this, it's a mystery
+they came across in the very first session (there's an obelisk just inside the
+city gates with an inscription referring to the beacon) and now, 50 sessions
+later, they will finally learn the truth...
+
+### The One Ring
+
+This week, after two sessions, we finished the short dungeon one of the players
+had made.  Next up is The One Ring!  I've got a rough outline of a first
+adventure and have been preparing for session 0, which will be on Friday the
+12th.  After the session 0 I'll tune things for the characters and think about
+seeds I can plant for a second adventure.  This will be the first totally
+homebrew campaign I've ran in a while, it'll be fun.
+
+We're going to play with the same tech stack as Arden Vul: Miro, Google Sheets,
+and a Discord dice bot.  I checked out the Foundry system for The One Ring but
+it seems to have some bugs, and is a little clunky in parts, so we'll just do it
+the low-tech way.
+
+
+## Miscellaneous
+
+Once again, it is a new anime season.  I haven't really gone through everything
+yet, but no doubt I'll pick up two or three shows.
