@@ -1,0 +1,99 @@
+---
+date: 2024-07-28
+---
+
+## Books
+
+This week I read:
+
+- [The Silmarillion][] by J. R. R. Tolkien
+
+  Last read in 2016, according to bookdb; I re-read this in preparation for
+  starting a campaign of *The One Ring*.  It's just great.  I love well-done
+  mythology, whether it's fictional or real-world.  I'd forgotten that
+  Celebrimbor, who along with Sauron forged the rings of power, was a descendant
+  of Feanor: the House of Feanor really goes all in when it comes to ruining
+  worlds!
+
+[The Silmarillion]: https://en.wikipedia.org/wiki/The_Silmarillion
+
+
+## Roleplaying Games
+
+### The Halls of Arden Vul
+
+This week there was a bumper extra session, reorganised from last week: 6 whole
+hours of Arden Vul!
+
+The first session, on Monday, takes the record for the session in which the most
+in-game time passed.  A whopping 45 days elapsed, as three party members spent
+several weeks learning to read and write fluent Rudishva (using some useful
+books and also the helpful AI, Akla-Chah).  The rest of the party spent that
+time transporting a treasure haul of 200,000 ancient coins to the bank, curing a
+bunch of people magically transformed into toads, and gathering rumours about
+the Cult of Set: even going so far as buying (and then freeing) a slave, to
+question them about the notorious slavers' guild.
+
+Then, as a little by-the-way, they decided to end the session by waking up a
+Rudishva from a cryo-pod and parading them around the dungeon (well, not really,
+but there were a lot of witnesses), which has set tongues wagging, and will
+certainly attract attention.
+
+In the second session, at our usual time on Sunday... it was a bit all over the
+place, really.  The players had a plan to explore a certain area, but that got
+swiftly abandoned because they found some graffiti referring to vampires; and
+they just kind of bounced around several other areas of the dungeon for the
+session.
+
+They ended the session pursuing a supposition which is reasonable based on the
+information they have, but not correct, so I expect next time will also be a bit
+unfocussed when they realise that and have to backtrack.
+
+### The One Ring
+
+This week we kicked off the campaign with session 0, character creation, and
+then some adventure!  I started by giving some info about the setting and
+themes, and having just re-read *The Silmarillion* and been thinking about this
+for a few weeks now I distilled those themes down to:
+
+- The Lord of the Rings is about loss and fading glory and the sense that
+  everything now is but an echo of greater and more meaningful things that came
+  before.
+
+- The Lord of the Rings is about evil, which can never truly be vanquished from
+  the world, and must be constantly forced back by the effort of good people,
+  but which can overwhelm even the noblest of hearts in a moment of weakness.
+
+- The Lord of the Rings is about hope: that the world is, overall, just; that
+  evil always contains the seeds of its own destruction, and that good will
+  triumph in the end, so long as there is one person left fighting for it.
+
+- And The Lord of the Rings is about finding treasure.
+
+It's a flawed world on a generally downward trajectory.  But despite all that,
+it's a world we know and love and are excited to adventure in.
+
+We're *really* leaning into the tropes.  The party was brought together by
+Gandalf the Grey, and the call to adventure was the blacksmith of Bree bursting
+into The Prancing Pony while the PCs were present exclaiming "goblins have taken
+my daughter!"
+
+The players killed some orcs, rescued the daughter, and followed tracks to an
+orc-den in the Weather Hills.  Hooray!
+
+The system really does feel like Lord of the Rings specifically, and not just a
+generic fantasy game set in Middle Earth.  The character backgrounds, the
+skills, the "hope" and "shadow" mechanics... it all comes together.
+
+We're really looking forward to seeing where this goes.
+
+
+## Link Roundup
+
+### Roleplaying games
+
+- [How to Set Up and Use Faction Turns: Addendum](https://elmc.at/how-to-set-up-and-use-faction-turns-addendum/)
+
+### Software engineering
+
+- [strlcpy and how CPUs can defy common sense](https://nrk.neocities.org/articles/cpu-vs-common-sense)
