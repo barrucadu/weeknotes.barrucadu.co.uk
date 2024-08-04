@@ -1,0 +1,126 @@
+---
+date: 2024-08-04
+---
+
+## Books
+
+This week I read:
+
+- Volumes 7 to 9 of [Frieren: Beyond Journey's End][] by Kanehito Yamada and Tsukasa Abe
+
+  The anime ended with chapter 3 of volume 7, so most of this was new material
+  to me.  A bit strange that the anime stops part-way through a volume, but I
+  suppose they wanted to finish off the mage exam arc.  The story keeps its
+  theme of the past gradually being forgotten, while showing the present as a
+  consequence of this now-forgotten past.  Incidentally, I realise now that this
+  is one of the themes I really enjoyed in The Lord of the Rings, but the
+  knowledge of that had slipped away...
+
+- [Lud-in-the-Mist][] by Hope Mirrlees
+
+  An "unjustifiably forgotten" novel, as the cover review says, and one I picked
+  up from the Dolmenwood inspirations list.  Lud-in-the-Mist is a fairytale-like
+  book, in a similar vein to The King of Elfland's Daughter where the mundane
+  world is close to the border of fairyland: a place that sensible folk don't
+  like to think about.  There's drama, revenge, deception, murder, and at the
+  end of it all the understanding that being *too* sensible is bad for the soul,
+  and we all need a little of the whimsy of fairyland to be fully human.  It's
+  really good.
+
+[Frieren: Beyond Journey's End]: https://en.wikipedia.org/wiki/Frieren
+[Lud-in-the-Mist]: https://en.wikipedia.org/wiki/Lud-in-the-Mist
+
+
+## Roleplaying Games
+
+### The Halls of Arden Vul
+
+I like to title my session notes: last week was "The Wrong Caves" because the
+players thought they were exploring somewhere else.  This week's is "Everything,
+Everywhere, All at Once", due to the one player (the other was off this week)
+seemingly trying to pursue all the party's goals at the same time.
+
+So the party are busy wandering around making enemies, while also expanding
+their tavern, recovering and selling valuable treasures, and hiring spies and
+assassins to make yet more enemies with!
+
+I need to put some notes on my game calendar.  There will be a reckoning sooner
+or later.
+
+### The One Ring
+
+This week we picked up with the company at the end of an orc-trail heading into
+the Weather Hills.  A dark cave entrance before them, with no other obvious
+signs of entry.
+
+With some cunning they managed to thin out the numbers, leading to a battle of
+the two PCs against two orcs.  One of the orcs was especially big and tough.  I
+intended this fight to be *difficult* but, partly because we're new to the
+system, partly because we only have two PCs, it ended up being *lethal.*
+
+The problem was that we had one PC hanging back to fight with their bow, which
+meant the other was up front tanking these two orcs.  They chose to fight in
+"open stance", which doesn't convey any particular advantages or disadvantages,
+and they missed a fair few attacks.  Missing an attack when there are two
+opponents who then get to attack you afterwards leads to the damage stacking up
+pretty quickly.  As they were getting close to death they tried to run, but
+couldn't, their resources were too low.  So instead they switched into "forward
+stance", which gives a bonus to attack, and actually did really well---but not
+enough to turn the tide.
+
+They wounded the orc commander before being skewered by a scimitar, buying time
+for the other PC to make their escape.
+
+We had a short break, and then came back to talk about it.  Thankfully nobody
+was too put out.  The player of the dead PC made a new character who, in
+time-honoured tradition, is a close relative who wants to avenge them.  The
+surviving PC composed a stirring song about the bravery they had witnessed.  We
+recognised that the combat was so difficult in part due to only having one melee
+fighter, so we introduced a third PC which the two players will share control
+over.
+
+They also met up with their patron, Gandalf the Grey (he was bringing the new PC
+to Bree), and through him I gave some rumours and foreshadowing of where the
+adventure might go.
+
+So, after a break of two weeks to recuperate and prepare, the company returned
+to the cave.  This time, they didn't manage to sneak up, and lost the element of
+surprise.  But, with new comrades ready to bring the fight against the shadow,
+surely they will prevail now!
+
+
+## Miscellaneous
+
+I migrated [bookdb][] and [bookmarks][] from [actix-web][] to [axum][].
+
+When I rewrote them in Rust from Python, I looked at a few web framework options
+and found they all had fairly poor multipart form handling[^api], but that
+actix-web looked the best of a bad bunch.  I've revised that opinion now based
+on my experience of actually using actix-web (it looks easier at first glance
+but there's still a lot of work) and of using axum in [thing-doer][] (it's
+pretty nice).
+
+[^api]: Which is maybe not too surprising if most people are writing JSON APIs
+  rather than traditional websites.  But I will *not* succumb to temptation and
+  make submitting a form require javascript!
+
+Also, as a lesser bonus, axum shares more dependencies with the rest of bookdb
+and bookmarks than actix-web does, so switching would reduce dependencies and
+improve compile times.
+
+So I rewrote them: [bookdb PR#359][], [bookmarks PR#595][].
+
+[actix-web]: https://actix.rs/
+[axum]: https://github.com/tokio-rs/axum
+[bookdb PR#359]: https://github.com/barrucadu/bookdb/pull/359
+[bookdb]: https://github.com/barrucadu/bookdb
+[bookmarks PR#595]: https://github.com/barrucadu/bookmarks/pull/595
+[bookmarks]: https://github.com/barrucadu/bookmarks
+[thing-doer]: https://github.com/barrucadu/thing-doer
+
+
+## Link Roundup
+
+### Roleplaying games
+
+- [What I would do differently as a new Classic Traveller Referee](https://mythicmountainsrpg.substack.com/p/what-i-would-do-differently-as-a)
