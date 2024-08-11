@@ -1,0 +1,108 @@
+---
+date: 2024-08-11
+---
+
+## Books
+
+This week I read:
+
+- [American Psycho][] by Bret Easton Ellis
+
+  I thought I knew what this was about, as I've seen the film[^film]: a
+  wall-street banker with an obsessive personality and a habit of murdering
+  prostitutes.  And that's certainly partially true.
+
+  He is obsessive: almost every chapter (which are short, typically only a few
+  pages) has a detailed description of what everyone around him is wearing; he
+  has strong opinions on brands of bottled water; and he can't help but correct
+  someone if they mistake the brands *he's* wearing, or don't appreciate the
+  decor of his luxurious apartment.  More strangely, he rents the same videos
+  over and over and over again, renting them, returning them when the time is
+  up, and then renting exactly the same videos again.
+
+  He is successful: he flaunts his wealth, frequently dropping hundreds of
+  dollars on dinner and drinks without a thought, and spending thousands of
+  dollars importing furniture from Europe.  But he never seems contented with
+  what he has.  If someone else shows success, he wants to outdo them.
+
+  And he is a murderer: he describes brutally killing many women, and disposing
+  of the bodies.  Or... is he?
+
+  More than anything, Patrick Bateman is an unreliable narrator.  I don't think
+  he actually killed *anybody*.  There are glaring discrepancies between what he
+  says happened and how other people act.  He describes killing people in the
+  street while on the way to some other event, and the people at that event
+  never make comments like "hey Patrick, your perfect hair is a bit dishevelled"
+  or "what are those red spots on your suit?"  He describes dumping bodies in
+  the stairwell of his apartment building, as if they would just be taken away
+  with the trash rather than the police summoned.  He describes the maid calmly
+  wiping blood off the walls of his apartment while a dismembered body lies on
+  the floor in the very same room.  At one point he confesses that he murdered
+  one of his colleages months ago, only to be told that it's a good joke, but
+  the victim can't be dead because the person he's telling this story to had
+  lunch with them just the other day.  In fact, he frequently "confesses" his
+  crimes, but nobody ever takes him seriously---or even appears to hear him,
+  most of the time, as if he's not actually saying anything, only *imagining*
+  that he is.
+
+  At one point he has a really bizarre conversation about a holiday a coworker
+  went on.  The coworker talks exactly as if they're reading an advert aloud.
+  Was Bateman actually talking to the TV and just hallucinating that the
+  presenter of some tourism show was his friend in the room with him?  I'm
+  leaning towards "yes".
+
+  The discrepancies get more and more extreme as the book goes on, as he
+  descends further into his madness.  Sometimes we get a hint that other
+  characters realise not all is right with him, as they'll look at him
+  strangely, or try to comfort him, and we realise that what he described as a
+  normal conversation was more likely a bizarre outburst.  The book is just
+  really well done.
+
+[^film]: Or, perhaps I *haven't* seen the film, and it's just the pop-culture
+  exposure that makes me think I have.  It's hard to say.
+
+[American Psycho]: https://en.wikipedia.org/wiki/American_Psycho
+
+
+## Roleplaying Games
+
+### The Halls of Arden Vul
+
+This week the players made the hard decision to sell the location of a room full
+of (occupied!) ancient Rudishva cryopods to the mysterious wizard, Kerbog Khan.
+They set tongues wagging [a few weeks ago][] when they woke up a Rudishva and
+brought them through a well-populated part of the dungeon, and it wasn't long
+before Kerbog Khan came calling.
+
+Initially, they rebuffed him.  But the next day he sent them a message saying he
+knew the rough location based on where they were seen with the Rudishva and that
+it's only a matter of time before he finds it, but that he is still willing to
+make a deal if they change their minds.
+
+Reluctantly, they changed their minds.
+
+They got a lot out of him for giving up the location (including a map of all the
+non-secret areas of an entire dungeon floor!) but, well, they'd rather have not
+had to.  One of the players said that this is their biggest mistake in the
+campaign so far.
+
+I see it as an opportunity.  This is going to shake things up!
+
+[a few weeks ago]: notes/304.html
+
+### The One Ring
+
+Unfortunately, I was busy this week, so we had to skip.
+
+
+## Link Roundup
+
+### Roleplaying games
+
+- [Notes on the B/X combat sequence](https://old.reddit.com/r/osr/comments/1elyr1s/my_questions_with_the_bx_combat_sequence/lgvhkfh/)
+
+### Software engineering
+
+- [Properly Testing Concurrent Data Structures](https://matklad.github.io/2024/07/05/properly-testing-concurrent-data-structures.html)
+- [The sad state of property-based testing libraries](https://stevana.github.io/the_sad_state_of_property-based_testing_libraries.html)
+- [Parallel property-based testing with a deterministic thread scheduler](https://stevana.github.io/parallel_property-based_testing_with_a_deterministic_thread_scheduler.html)
