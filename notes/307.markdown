@@ -1,0 +1,105 @@
+---
+date: 2024-08-18
+---
+
+## Books
+
+This week I read:
+
+- Volume 1 of the [20th Century Boys][] "Perfect Edition", which is volumes 1 and 2 of the original manga, by Naoki Urasawa
+
+  The 20th Century Boys film trilogy is my favourite piece of Japanese cinema.
+  I bought the manga before I was into manga, and loved it.  But I've never read
+  the whole thing before!  Why?
+
+  Because it went out of print, and I was missing a few volumes in the middle.
+
+  I could have read it online.  The content would have been the same, but I just
+  don't like reading print material on a screen!  Those missing volumes sapped
+  the desire to read out of me, so I left it unfinished, despite knowing how
+  great it is.
+
+  This week I bought the "Perfect Edition" reprint that came out a few years
+  back.  I bought the whole set, since translated manga doesn't tend to remain
+  in print for very long, and I intend to thoroughly enjoy the entire story.
+
+[20th Century Boys]: https://en.wikipedia.org/wiki/20th_Century_Boys
+
+
+## Roleplaying Games
+
+### The Halls of Arden Vul
+
+This week was one of the least action-packed sessions in the whole campaign, I
+think.  One player was off, and the other spent most of the time talking to a
+troll historian.  They learned some new things, confirmed some things they
+already knew, and so are armed with knowledge for delving deeper into the
+dungeon!  And they will need to delve deeper, as the old secrets have been lost
+to time, and the only way to figure them out is to find the few remaining
+artefacts.
+
+They also learned that the trolls *love* cakes of protein paste.
+
+One of the big secrets, that the players don't even have the least suspicion of
+yet, is that the trolls are bio-engineered creatures, created by the ancient
+aliens to be good workers.  I'm hoping that when they do discover that, they'll
+say "oh yeah, now it makes sense why ..." about some of the stranger traits of
+the trolls, for example that they have remarkably little initiative and are very
+easily influenced by surviving ancient aliens.  I've been seeding these odd
+behaviours where I can, but without explicitly pointing out that they're
+strange, hoping to build up to a fun reveal.
+
+### The One Ring
+
+The style of this game is basically the opposite of Arden Vul.  Middle Earth is
+a story-like world, where good triumphs over evil so long as it tries hard
+enough and doesn't lose hope.  On that note, this week the company avenged their
+fallen comrade by slaying the great orc, Oswaldsbane!
+
+The beast itself went down more easily than they expected, as it was still
+wounded from their last encounter.  The blow dealt by a dying man leading to the
+eventual defeat of his killer is a great story-like moment; I could have said
+that the orc was fully healed now after a few weeks, but that wouldn't have been
+as narratively satisfying.
+
+I'm not giving the players plot armour (well, more plot armour than the system
+has built into it) of course, but I am definitely mindful of how to make a
+session feel like something that could plausibly appear, in some more polished
+form, in The Hobbit or The Lord of the Rings.
+
+In the orc's lair the players discovered an odd symbol, and consulted a
+crotchety old loremaster in Bree who was able to identify it as the symbol of an
+old fortress from back in the good old days.  Then they decided to go off to
+Rivendell, which was near the fort, to stop over and hopefully get some aid
+before scouting the place out.
+
+I made the loremaster way more of a dick than he really needed to be, which led
+to the players deciding to have nothing more to do with him so far as they can
+help it, which will be an interesting challenge as I'd intended to use him to
+point them to a future phase of this first "campaign arc".
+
+Oh well, a problem for the future.
+
+
+## Miscellaneous
+
+Friday was a company-wide day off, and I took Thursday off too, so I've had a
+four-day weekend.  I've spent most of those four days playing [Dyson Sphere
+Program][], which I got really into in early 2022 but kind of burned myself out
+on.  Since then the devs have made a bunch of quality-of-life improvements to
+the game, and also added an enemy force that grows in proportion to your
+strength: so it's a challenge, but not unbeatably strong (unless you do
+something to draw the ire of the enemy space forces too soon), which feels about
+right for this sort of game.
+
+It's added an interesting wrinkle, as the previous strategy of focussing on
+unlocking FTL travel and then rapidly expanding through the universe to drive up
+resource production isn't really viable any more, as you also need to make sure
+each world you build on is adequately defended.  As a result I've been expanding
+quite slowly in my starting solar system, and I'm trying to work out whether
+destroying the enemy ground bases is a good strategy, as a fully destroyed
+ground base gets rebuilt somewhere else a little later anyway.  Better to have
+the enemy in a known place that's surrounded by a ring of permanent defenses
+than a new, much weaker, enemy popping up?  I'm not sure.
+
+[Dyson Sphere Program]: https://store.steampowered.com/app/1366540/Dyson_Sphere_Program/
