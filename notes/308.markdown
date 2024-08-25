@@ -1,0 +1,123 @@
+---
+date: 2024-08-25
+---
+
+## Books
+
+This week I read:
+
+- Volumes 2 to 12 of the [20th Century Boys][] "Perfect Edition", which is
+  volumes 3 to 24 of the original manga, by Naoki Urasawa
+
+  Well, I've now read the whole thing.  It's just as great as I thought it would
+  be.  I was pleased to discover that the film adaptation is quite faithful.  By
+  necessity it has less focus on some side details, a bit more focus on some
+  bits that make good cinema (like the big music festival towards the end, or
+  the final battle against the giant robot), but it still more or less covers
+  everything accurately.
+
+  I'm not so sure about the ending though, that the villain, the masked
+  "Friend", was the same person throughout the story.  Friend dies several
+  volumes in, two characters present confirm his death (no pulse), and when
+  Friend reappears later, multiple characters say it seems like a different
+  person, and also his personality changes.  So it really does seem that Friend
+  died and his second-in-command staged a phony "resurrection" scene to take up
+  the mantle.  Which is what the characters think is happening too.  So, to then
+  say "actually, it was just one person all along who was secretly resuscitated
+  after being shot but then pretended to be dead for weeks" doesn't feel right
+  to me.
+
+  Apparently there is hot debate over whether this was the originally intended
+  ending, and I can see why.  It's a twist that's not foreshadowed at all, which
+  is the trick of a hack writer, whereas the rest of the story up to that point
+  is well written and internally consistent.
+
+[20th Century Boys]: https://en.wikipedia.org/wiki/20th_Century_Boys
+
+
+## Roleplaying Games
+
+### The Halls of Arden Vul
+
+This week the players finally, *finally*, did something I've been looking
+forward to for a long time: they got out their ropes and iron spikes, and
+climbed around the Great Chasm.  There are little secret nooks and crannies
+accessible from the chasm on nearly every level of this dungeon, which so far
+they've not interacted with at all.  It took a rumour of a specific tomb, and
+spotting a cave opening in about the right place on the edge of their
+torchlight.
+
+Now, the cave they found wasn't the right one, but hey at least they kept
+exploring and have found some things.  Hopefully it'll continue.
+
+Behind the scenes, there's a big change brewing in the dungeon, triggered by the
+players' actions, which I look forward to unleashing in a few (in-game) weeks.
+Something is about to shake Arden Vul that hasn't made its presence felt for
+nearly 3000 years.
+
+### The One Ring
+
+I went into this session with anticipation, and a little worry, as I expected
+this to be a tipping point: the players had followed the original plot hook I
+gave them to a substantial obstacle, and I didn't know what they would do next.
+Would they try to push on and find a way through?  Or would they decide to leave
+it and follow up one of the other leads they have to further their patrons
+goals?  Or would they decide to do something totally different and on their own
+initiative?
+
+This is the sort of moment I struggle with, as a GM, and why I tend to like
+detailed settings like Dolmenwood and Arden Vul: no matter what the players
+decide to do, there's a lot of guidance on how I can react.  Eriador is not very
+detailed in the same way.  There's a lot of lore, sure, and even a hexmap, but
+it is not a hexcrawling setting where each hex has interesting content already
+written for me.
+
+I also didn't really know if I'd communicated enough of the wider issues of the
+setting for the players to make a decision other than to just hurl themselves
+against this big obstacle.  I didn't want them to feel that that was their only
+option.
+
+Thankfully, I was worrying too much, and it turned out well.  The players
+decided to leave the obstacle aside for now, and came up with a goal I'd not
+considered at all: they want to get the Bree wardens, rangers, hillmen, and
+elves of Rivendell (or some subset of those groups) to patrol the Great East
+Road from the Shire to the Misty Mountains, keeping travellers safe from the orc
+bands they know to be roaming around.  That is a great idea, and also easily
+leads into side-quests as all of those groups will want the party to do
+something for them before they even consider this.
+
+But first, the party have decided to check out rumours of a haunting...
+
+
+## Miscellaneous
+
+I've got the urge to redecorate again or, rather, to actually decorate my flat
+beyond the living room.  I've not really done much in the bedroom, entrance
+hall, or upstairs landing: just got some basic, functional, furniture.  But I
+feel like making it nicer.
+
+Some ideas floating around in my head:
+
+- I could get some [prints from Ze Burnay][] to decorate the hallways.
+- I could get a nice coat rack, shoe locker, and little bench to put beside the
+  front door.
+- I could replace the small and not very nice looking clothes storage "unit" (I
+  hesitate to call it a chest of drawers, or really any other recognisable piece
+  of furniture) in my bedroom, and the bedside table, with a nice matching pair
+  and put some [prints by Ulla Thynell][] on the walls.
+
+I've put quite a lot of effort and money into making my living room look nice,
+as that's where I and guests spend most of my time; whereas decorating other
+rooms feels like a bit of a waste (I'm mostly in my bedroom to sleep, so does it
+really matter what it looks like?) so it's always easy to prioritise other
+things.  But I feel like changing that.
+
+[prints from Ze Burnay]: https://zeburnay.bigcartel.com/category/prints
+[prints by Ulla Thynell]: https://society6.com/ullathynell/prints
+
+
+## Link Roundup
+
+### Software engineering
+
+- [An app can be a home-cooked meal](https://www.robinsloan.com/notes/home-cooked-app/)
