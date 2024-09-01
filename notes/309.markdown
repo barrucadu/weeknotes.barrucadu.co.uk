@@ -1,0 +1,168 @@
+---
+date: 2024-09-01
+---
+
+## Books
+
+This week I read:
+
+- [The Hammer of God][] by Arthur C. Clarke
+
+  An amateur astronomer spots a rogue asteroid on a collision course with Earth,
+  sending the solar system into panic.  An aging ship is sent out to divert the
+  asteroid, but all is nearly lost due to religious nutjobs waiting for the
+  apocalypse...
+
+  It's not just a good story, it's a cautionary tale: the first part of the book
+  also talks about two previous asteroid impacts (the extinction of the
+  dinosaurs (very new science at the time it was written) and the Tunguska
+  event) and one near-impact (the 1972 Great Daylight Fireball).
+
+  Humanity has been lucky so far, but that luck will run out eventually.
+
+[The Hammer of God]: https://en.wikipedia.org/wiki/The_Hammer_of_God_(Clarke_novel)
+
+
+## Roleplaying Games
+
+Around a year ago I shared one of my pre-rolled random encounters for Dolmenwood
+on the OSE Discord server, and last week someone reached out to ask if I could
+share more.  So I wrote a post for the blog: [Dolmenwood Random Encounters][].
+
+[Dolmenwood Random Encounters]: https://www.lookwhattheshoggothdraggedin.com/post/dolmenwood-random-encounters.html
+
+### The Halls of Arden Vul
+
+I realised this week that we've been playing for over a week straight: 58
+sessions of 3 hours each is 7 days and 6 hours.
+
+The players communed with some gods for the first time: the cleric PC tried out
+the *Commune* spell, which is powerful but only gets you three yes / no
+questions a week; another sat in Thoth's magic oracle chair, which lets you ask
+anything once per month, but they asked a vague question and so got a vague
+answer.
+
+They slew an intelligent ghoul, finally avenging some fallen comrades, and
+looted his treasure.  They got some rumours.  They nearly gave the goblin king a
+heart attack by talking about attacking the Cult of Set.  And, finally, they
+climbed up a staircase into a new sublevel.
+
+It feels like we only actually do exploration every other session or so now,
+with the rest of the time being taken up interacting with factions or following
+up on unfinished business in already-explored territory.  But it's fine.  One
+thing I do need to curb though is the players going to NPCs every time they have
+lore questions: some things just aren't known any more, and they'll have to go
+exploring to find out!
+
+### The One Ring
+
+I was really pleased with this week's session.
+
+The players had heard that Weathertop was haunted: according to the book that's
+a rumour the Rangers give out to discourage people from using their watch-tower,
+but I felt that since they were determined to check it out it would be more fun
+if it had a grain of truth to it.  So I decided that Weathertop gives people
+disturbing dreams of the past, but is otherwise harmless (and the Rangers play
+up the danger to keep people away, as written).
+
+I prepared a different dream for each PC:
+
+- The dwarf dreamed of being in a small party of dwarves rushing through Moria
+  to warn Queen Nyi of West Moria about the balrog.  So they saw parts of Moria
+  in its glory days, and also witnessed the blackest betrayal in the history of
+  Durin's folk: when Queen Nyi shut the gate to keep out the balrog, dooming
+  hundreds of fleeing dwarves to their deaths.  I also used this to seed some
+  hints about Moria's ring-smiths.
+
+- The elf dreamed of the Battle of Fornost, taking part in the cavalry unit that
+  chased down the Witch-king of Angmar and witnessed his battle with Glorfindel.
+  Since elves are special, and elves who have seen Valinor especially so, at the
+  end of the dream I had Glorfindel notice the PC and say "you shouldn't be
+  here", and then they woke up.  Having direct knowledge of the Battle of
+  Fornost could be useful if the players go to Fornost, as there's a published
+  adventure I'm going to drop in.
+
+- The human, who took Damrod's dagger from Fort Arlas, had a different dream.
+  The spirit of Gnarsh, the great-orc slain by the dagger, came to attack them:
+  inflicting shadow damage rather than endurance damage (as this is a dream).
+  When the other PCs woke her up, Gnarsh appeared and fought them all; they
+  managed to drive him off, but not to defeat him.  He'll be back.
+
+After the dreams, the company moved on to Bree to rest and recover, and to then
+try to enact their plan to have the road patrolled for the safety of all.
+
+We had a fun interaction here where the elf noticed Barnabus Butturbur,
+proprietor of the Prancing Pony, staring at them.  It turned out to be because
+Barnabas's grandfather had once hosted an elf travelling to the west, and he
+asked our elf PC what was out there, across the sea.
+
+Finally, the company went to see the Reeve of Bree to talk about getting the
+Bree Wardens patrolling the road, at least as far as Weathertop.  I had decided
+this was doomed to fail, and had set up a Theoden / Wormtongue type situation
+between the Reeve and his southerner secretary.  Now the players have to get
+involved with local politics, to convince the town council to oust the Reeve so
+someone uncorrupted can step in.  I've come up with a list of councillors and
+have a task in mind for each which would win them over, something they need
+doing which would endear them enough to the PCs to listen to what they have to
+say.
+
+Though of course the players could come up with something different.
+
+
+## Miscellaneous
+
+> Thou dumb and deaf spirit, I charge thee, come out of the deadlocked state and
+> try again.
+
+This weekend I resurrected [King James Programming][], a website that posts the
+output of a Markov chain trained on the King James Bible and the Structure and
+Interpretation of Computer Programs.
+
+It's had, by far, the most impact of any project I've ever done:
+
+- The [original source code][] has 455 stars and 70 forks on github.
+- It's quoted extensively in [Unsong][], a long piece of online fiction (that
+  I'll read *one day*...)
+- Most recently, *8 years after I stopped posting*, I saw it inspired [an
+  article on whether Markov chains are funner than LLMs][]
+
+That's only a few, but there have been so many little references to it over the
+years.  I wish I'd kept track of them.
+
+Anyway, at the time I shut it down because I was burned out.  I was trying to
+post twice a day, and there's only so much random gibberish you can sift through
+before you start to go mad.  But now it's back, with a major improvement to the
+generator---the output is coloured by which corpus it comes from:
+
+![Markov chain output: with colour!](notes/309/markov.png)
+
+This single change makes it *so much easier* to identify cross-over points,
+which is what I want.  Sifting through the output is no longer a sanity-bending
+task, and with a few hours of work I got enough funny quotes to queue up posts
+until mid-December!
+
+I've also made some algorithmic improvements: introducing a "thesaurus", to make
+certain tokens "the same" when it comes to training (but different when
+generating output), such "thine" and "your", to increase crossovers; and also
+adding an increasing chance of switching corpus if it picks too many tokens from
+the same one in a row.
+
+This time I'm hoping to avoid burnout by keeping a large buffer of posts topped
+up.
+
+[King James Programming]: https://kingjamesprogramming.tumblr.com/
+[original source code]: https://github.com/barrucadu/markov
+[Unsong]: https://unsongbook.com/
+[an article on whether Markov chains are funner than LLMs]: https://emnudge.dev/blog/markov-chains-are-funny/
+
+
+## Link Roundup
+
+### Roleplaying games
+
+- [Playing the Corporate Baddies](https://www.explorersdesign.com/playing-the-corporate-baddies/)
+
+### Software engineering
+
+- [Scaling One Million Checkboxes to 650,000,000 checks](https://eieio.games/essays/scaling-one-million-checkboxes/)
+- [The secret inside One Million Checkboxes](https://eieio.games/essays/the-secret-in-one-million-checkboxes/)
