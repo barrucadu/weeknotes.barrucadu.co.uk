@@ -1,0 +1,158 @@
+---
+date: 2024-09-08
+---
+
+## Books
+
+This week I read:
+
+- [The Ark Before Noah][] by Irving Finkel
+
+  A fascinating account of a cuneiform tablet which gives *instructions* for how
+  to build the ark, along with the dimensions and quantities of materials.  The
+  author weaves together the other Babylonian flood tablets to come up with an
+  overall story, also talking about how it changed over time (and the likely
+  reasons for those changes).
+
+  For instance, the original ark was round: Gilgamesh had it as a square, which
+  can be explained by misreading a single damaged sign.  It turns out that the
+  coracle (a round boat) has been being built in Mesopotamia / Iraq for the last
+  4000 years using virtually the same method all this time, to the extent that
+  the quantity of needed rope given in the tablet is within 1% of the true
+  figure based on modern calculations.  Amazing!
+
+  The tablet also says the animals entered "two by two", which we all know from
+  the Bible version, but which was previously unknown in Babylonian accounts.
+  And yet here it is, pre-Bible!  There's a good chapter on how the Judaeans
+  could have learned the Babylonian flood story during their exile.
+
+  I'm seriously considering learning cuneiform, all this Mesopotamian history is
+  fascinating.  I visited the British Museum yesterday to look at the displays
+  and pick up a few books.
+
+  [There's also a good lecture on this topic, by the author, online.][abnyt]
+
+[The Ark Before Noah]: https://www.theguardian.com/books/2014/feb/13/ark-before-noah-irving-finkel-review
+[abnyt]: https://www.youtube.com/watch?v=s_fkpZSnz2I
+
+
+## Roleplaying Games
+
+### The Halls of Arden Vul
+
+A great session this week.  The players got into some good old fashioned
+exploration and combat, and then stumbled upon something really cool: two living
+dolls, created by someone they only called "Father", but who seemed to be the
+reclusive and strange wizard Kerbog Khan.
+
+The dolls had fled "Father" because he saw them as just tools, "like the
+others"---by which they meant the Khan's other, more primitive, automata.  One
+of the dolls had, unfortunately, been smashed by a large cave lizard and the
+other didn't want to leave its side.  So the players picked them up and took
+them away from the Khan, to the safety of the nearby town.  There they
+discovered that the smashed doll had *an actual brain* inside its wooden skull,
+hooked up to magical circuitry, and *far* beyond anything the players or the
+Arcane Practitioner's Club in town could understand or repair.
+
+In fact, the Arcane Practitioner's Club were astounded by this.  *Nobody* makes
+automata that have independent minds or can cast spells, so they'd just
+dismissed a lot of the rumours coming out of Arden Vul about Kerbog Khan as
+exaggerations.  Certainly anybody who could do this must be an archmage of the
+highest order, someone who would normally be famous across the empire...
+
+The Club concluded that "Kerbog Khan" must be an alias of Cerbactos Kalthetos.
+Famed across the empire for his knowledge and power, his advice was sought even
+by the Imperial Court.  But he disappeared around 60 years ago with several
+incredibly valuable books, and all spies and assassins sent to recover them have
+been unsuccessful.  The NPCs warned the players to be careful: if Kerbog Khan is
+the renegade archmage, he *was* a vastly powerful magic-user some 50 years ago,
+and he's evidently only got better as *now* he is performing unprecedented feats
+of magical engineering.
+
+Not someone you want to get on the wrong side of at all.
+
+### The One Ring
+
+This week we had the first of what is shaping up to be a two, maybe three, part
+diversion into the local politics of Bree, with the players trying to convince a
+majority of the town council to vote out the Reeve, who is in a kind of Theoden
+/ Wormtongue situation with his southern advisor.
+
+This was the first time we brought out the "council" rules, which is the third
+major subsystem in The One Ring (the other two being "combat" and "journeys"),
+and which is a kind of "social challenge on a time limit" mechanic.  The way it
+works is the GM decides whether the player's request is "reasonable", "bold", or
+"outrageous", which corresponds to a number of successes the players have to
+reach across a combination of rolls; and then one of the players makes a single
+skill check to open negotiations, which determines how many attempts the players
+have to reach the required number of successes.
+
+A single check can give multiple successes (meeting the target number is a
+success, and each d6 that came up "6" is another success), so there's a bit of
+strategy with which skills the players will want to bring to bear.  The rules
+also say the GM should reward bonus or penalty dice depending on how amenable
+the target is to the approach the players are taking.
+
+This time the players approached three councillors:
+
+- Oswald Breeker, a grumpy old loremaster who they have had some dealings with
+  before.  The players smashed it, they got a great success on an insight roll
+  to determine what he *really* cared about, and then made full use of that to
+  bring him to their side.  My fallback was that he has a theory he wants
+  investigating, and doing that would also win him over.  But they got the
+  success without needing that, and they still have an interesting theory to
+  follow up on later.
+
+- Fitch Talltree, the leader of one of the outlying villages.  No council here,
+  as there's only one thing that would win Fitch over to the cause of some
+  outsiders: proving their worth, through the hunt!  He conscripted them to join
+  him in a quest to slay the troll which killed his father 10 years previously.
+  The players sure weren't expecting to fight a troll this week!
+
+- Rollo Lightfoot, a hobbit who the players did *not* manage to win over.  They
+  picked up that he was very stressed out over organising the upcoming
+  smoke-ring competition, but rather than make use of that they just trotted out
+  the same old spiel about keeping the road safe.  It didn't work well, and he
+  ended up asking them to stop worrying him and to leave his house.
+
+The players need two more votes, and have two more councillors to approach.
+They could possibly win over Rollo Lightfoot, but it would be even harder this
+time.
+
+## Miscellaneous
+
+This week a disaster struck: my TOTP authenticator application, which I've been
+using for years, stopped working.  Not only that, it's apparently been
+abandonware for so long that it's not even available any more, and *the
+replacement to this app* is *also* abandonware long since made unavailable!
+
+Things move fast in the mobile world.
+
+So I found myself with no way to recover my TOTP secrets.  Resetting TOTP for
+everything was a bit strange:
+
+- Some services just let me do it if I had an active session (like GitHub).
+  That felt a bit odd.
+- Most services required me to enter a backup code, which I had saved.
+- AWS needed me to open a support ticket, but then they resolved the issue
+  really quickly using a combination of a phone call and an email to verify my
+  identity.
+- My main Google Account let me reset TOTP after entering a backup code, but my
+  *backup* Google Account is not letting me proceed without entering an actual
+  TOTP code---which, needless to say, I cannot do---even though I have backup
+  codes.
+
+Unfortunately, the Google support forum reads like an astrology convention.
+There's hundreds of people trying to predict the behaviour of a vastly complex
+entity based upon incredibly limited observations, with a large dose of faith
+and hope sprinkled on top.  There's no way to actually contact a member of staff
+for help.  All I've been able to learn is that since I logged in with a backup
+code (as opposed to my main account, where I already had a valid session), my
+backup account *may* have had a security flag applied which *may* be restricting
+my ability to change credentials, and that flag *may* be cleared after a week,
+which *may* allow me to proceed.  So I just have to wait until Friday next week
+and try again.
+
+Ah well, if I lose my backup Google Account it's not the end of the world.
+Though I do question the point of backup codes to bypass MFA if they don't then
+let you update your MFA...
