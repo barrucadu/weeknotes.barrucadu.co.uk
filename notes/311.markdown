@@ -1,0 +1,151 @@
+---
+date: 2024-09-15
+---
+
+## Books
+
+This week I read:
+
+- [cuneiform][] by Irving Finkel and Jonathan Taylor
+
+  It's an little interesting book *about* cuneiform and the cultural context,
+  but not so much a book to *teach* cuneiform; though it does have a listing at
+  the end of syllable-signs, which is enough to transliterate words that sound
+  sufficiently Akkadian (like "ba-ru-ka-du" = "barruadu").  If you were to be in
+  a beginner's cuneiform class, it's probably the sort of introductory material
+  that would be covered in the first one or two sessions before you get into the
+  *actual* material.
+
+  I've ordered some of the books it lists for further reading, along with some
+  other cuneiform, Sumerian, and Akkadian textbooks, to try to actually learn
+  something.
+
+- [Delta Green: A Night at the Opera][] from Arc Dream Publishing
+
+  This is a collection of unrelated scenarios of very different styles, there's
+  probably a scenario in here for any Delta Green campaign.  I particularly
+  liked one about a haunted house, that I might use to start my next campaign.
+
+  I want to begin with the player characters being Delta Green outsiders, who
+  experience something weird and then get recruited.  *Music from a Darkened
+  Room* would work great with the PCs being private investigators (or even
+  federal agents), asked by a contact to investigate a recent unexplained
+  "suicide" that the authorities have swept under the rug.  Along the way, they
+  encounter some weird stuff (and possibly a Delta Green agent investigating the
+  same matter), do well by surviving, and then get approached by some shadowy
+  feds afterwards.  It's set in the 2010s, but looks pretty easy to transplant
+  back to the early '90s, which is when my campaign would begin.
+
+- [Occam's Razor][] from Stygian Fox
+
+  A collection of modern-day Call of Cthulhu scenarios which don't involve any
+  mythos at all, just weird mundane things.  I backed this on kickstarter over 5
+  years ago, back when I was running a Call of Cthulhu campaign, and I did a
+  poor job selling it to my players at the time: they thought it was a "gotcha",
+  taking advantage of the players' genre-expectations to get one over on them.
+  And yes, it is definitely playing with the genre-expectations, but the
+  scenarios are still enjoyable mysteries.
+
+  A few things really stood out to me in this collection which I'm not so much a
+  fan of.
+
+  Firstly, every (I think) scenario involves hacking into a computer, the book
+  says the PCs can figure out the password becaue there's (say) a big poster on
+  the wall and the password is the name of the artist, or there's a photo on the
+  desk and the password is the location of the photo, and so on.  But that's
+  kind of ignoring that there will, of course, be lots of *other things* in the
+  room as well!  Unless you describe only the plot-relevant things in the room,
+  the players would easily miss the clue; and if you only describe the
+  plot-relevant things, that feels like a point-and-click adventure game rather
+  than a mystery...
+
+  Secondly, plots: the scenarios tend to assume certain things happen in certain
+  orders, and that certain clues will be found.  To mitigate this, the scenarios
+  recommend lots of Idea rolls to deal with the players missing things.  But
+  Idea rolls are supposed to be rare, they're for if either the GM or the player
+  fucked up and we need to metagame a little to get things back on track.  If
+  your scenario relies on the player either passing a Spot Hidden roll (say) to
+  find a clue, or passing an Idea roll to realise that they missed that clue, it
+  feels kind of fragile.  Follow the three-clue rule!
+
+  And thirdly, most scenarios have an NPC who becomes fixated on the most
+  attractive PC and acts weirdly around them.  I can see that working well every
+  once in a while, but if you were to link the scenarios in this collection
+  together into a campaign, it would be too much.
+
+  Despite all this criticism, I think there are some good ideas here, but it
+  would just take a little work.
+
+[cuneiform]: https://www.britishmuseumshoponline.org/cuneiform.html
+[Delta Green: A Night at the Opera]: https://www.delta-green.com/2022/04/a-night-at-the-opera-back-in-stock/
+[Occam's Razor]: https://www.drivethrurpg.com/en/product/362442/occam-s-razor-an-anthology-of-modern-day-call-of-cthulhu-scenarios
+
+
+## Roleplaying Games
+
+### The Halls of Arden Vul
+
+We're now 60 sessions into the campaign!
+
+This was one of our more combat-heavy sessions, though the party crushed it as
+they're pretty powerful now.  They wiped out a nest of undead on the surface (a
+powerful spirit possessing the corpse of a long-dead adventurer plus his horde
+of 18 ghouls), and then they dealt with a bunch of giant poisonous spiders
+blocking a stairwell down to a deeper dungeon level.
+
+I decided to retcon the abilities of a magic undead-detecting amulet they found
+a couple of sessions ago.  The amulet glows if there's undead within 100ft, but
+most parts of the upper and middle halls of Arden Vul have undead within
+100ft---except when they don't.  It was kind of a pain to keep track of, the
+player had to keep reminding me, so I decided to extend the range slightly
+(120ft, to match spells like *Detect Evil*) but make it an at-will 3x-per-day
+ability instead of always on.
+
+The players *nearly* found a well-guarded tomb with a bunch of treasure: they
+know roughly where it is, and this week they figured out two trick corridors
+that appear like they'd take you to it but just take you to traps instead.  What
+they've not spotted yet is the secret door concealing the *real* corridor...
+
+### The One Ring
+
+This week the players got the final two votes they needed to oust the corrupt
+Reeve of Bree.
+
+One councillor was very concerned with wealth and status---specifically, *his*
+wealth and status---and intimated, without saying so directly, that a bribe
+would go a long way to convincing him to help them out.  And it did.
+
+The other councillor assumed they had come in response to the "help wanted"
+posters that he had put up just that morning, and the party decided to play
+along to get in his good graces.  This led into a modified version of the *To
+Soothe a Savage Beast* scenario from the starter set, which took them into the
+Shire and then to the Old Forest, meeting Farmer Maggot and Tom Bombadil, and
+dealing with two ghost-dogs.
+
+But the end of the campaign is in sight!
+
+One player has been talking about running a Troika campaign for years now, and
+is nearly ready.  Next week we're going to do a short session 0 for Troika
+(before getting into The One Ring for the rest of the time), but they don't have
+the free time to actually start running a campaign until late next month.
+
+So there's maybe 6 or 7 sessions left in this game.
+
+I think next week I'll inject some final drama into this local politics
+diversion, we'll have the Summer Smoke Ring Festival to wrap up their time in
+Bree, and we'll end with some new threat rearing its head, launching us into the
+third and final arc of this little campaign.
+
+
+## Link Roundup
+
+### Miscellaneous
+
+- Interviews with and talks by Irving Finkel:
+  - [Irving Finkel: The Ark Before Noah](https://www.youtube.com/watch?v=s_fkpZSnz2I)
+  - [Tom Scott vs Irving Finkel: The Royal Game of Ur](https://www.youtube.com/watch?v=WZskjLq040I)
+  - [Matt and Tom: Irving Finkel Teaches Us Cuneiform](https://www.youtube.com/watch?v=zOwP0KUlnZg)
+  - [MoAn Inc: A Conversation with IRVING FINKEL About Ancient Mesopotamian Ghosts](https://www.youtube.com/watch?v=Z9cLjQqVtGg)
+- [Ancient Languages are Dead Useful](https://www.youtube.com/@ancientlanguagesaredeaduse2792/videos)
+- [eHammurabi](https://ehammurabi.org/)
+- [KUR.NU.GI4.A](https://kurnugia.web.app/)
