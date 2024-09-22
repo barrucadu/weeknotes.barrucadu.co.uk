@@ -10,6 +10,8 @@ This week I read:
 
 ## [Roleplaying Games]
 
+## [Akkadian]
+
 ## [...]
 
 ## Miscellaneous

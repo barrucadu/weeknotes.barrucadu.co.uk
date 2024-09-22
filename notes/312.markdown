@@ -1,0 +1,129 @@
+---
+date: 2024-09-22
+---
+
+## Books
+
+This week I read:
+
+- [Hounancier][] and [Ibenus][] by Seth Skorkowsky, in his Valducan series
+
+  The Valducan series is about modern-day demon hunters armed with holy weapons:
+  these are the second and third books.  Each book focusses on a different holy
+  weapon and its wielder.  They're pretty quick reads, about 300 pages and
+  pretty fast-paced.  I find them hard to put down once the action starts, and
+  read both of these in a single sitting.
+
+  It's also a cool setting, "secret society of modern-day demon hunters armed
+  with artefacts" is definitely now on the future campaign wishlist.
+
+[Hounancier]: https://skorkowsky.com/hounacier/
+[Ibenus]: https://skorkowsky.com/ibenus/
+
+
+## Roleplaying Games
+
+### The Halls of Arden Vul
+
+This week I thought we might have a TPK.  The party stumbled into the lair of a
+demon and his cult of debased monks.  But, thanks to a good plan which gave them
+a one-round advantage vs the demon and a two-round advantage vs the cult, and
+some poor initiative rolls on my part, the party crushed the demon before it
+could down any of them!
+
+The time advantage was the real killer I think:
+
+- In the first round, the party's heavy hitter crept up to the demon (invisible,
+  in a sphere of silence, and flying: it had no way of telling anything was
+  coming) and got in a strong hit.
+- In the second, the heavy-hitter got another blow in, the demon dealt a
+  non-lethal amount of damage in return while calling its cult to action, and
+  the rest of the party ran up into missile & spell range.
+- In the third, the party decided to focus fire on the demon, *and then won
+  initiative*, so they managed to pummel the demon into oblivion before it or
+  the cult got to act.
+
+Side-based initiative is great, but does lead to very swingy outcomes.
+
+If the enemies had won the initiative in the third round, the demon was going to
+teleport to the other end of the hall, ~100ft away, and spend the next couple of
+turns while the party ran over to it pelting them with spells and summoning in
+other demons, with the comparatively weak cultists harrassing them from behind.
+That would have gone really badly for the players.
+
+
+### The One Ring
+
+This week we had a short session, after doing session 0 for the Troika campaign
+that will be starting next month.
+
+I had plans to come up with some cohesive third arc for the campaign, but it was
+a busy week so I ended up not really having time to prepare anything.  So
+instead I managed to spin out the Summer Smoke Ring Festival to about an hour of
+play, with the party split between trying to catch some young troublemakers (who
+were getting up to hijinks such as stopping up the pipes with gum, or dumping
+water into the pipeweed so it won't burn properly) and actually competing.  One
+PC won!  The other PCs managed to stop the troublemakers!
+
+But I needed to start some sort of adventure, so there's something to do next
+week, and I began the *Kings of Little Kingdoms* scenario from the *Tales from
+the Lone Lands* supplement: also at the festival was a hobbit woman looking for
+Gandalf, or anyone who knows Gandalf, as he has taken her son away on an
+adventure.  In actuality, it's a crook masquerading as Gandalf by wearing a fake
+beard and taking care to avoid Gandalf's usual haunts; so it works well with a
+party who have Gandalf as their patron, as they immediately pick up on how
+uncharacteristic this woman's description of his behaviour is.
+
+Next week we'll continue that adventure, which then has hooks to things
+happening elsewhere in Eriador, and after they're done with all that, the
+players have a couple of reasons to go visit Fornost, where I plan to drop
+another few adventures.  So instead of a unified third arc, it looks like we'll
+actually just have a series of disconnected adventures; but that's fine too.
+
+
+## Akkadian
+
+I've decided to add a recurring section to the weeknote template for my progress
+in learning [Akkadian][], the main language of Mesopotamia from around 2500BC to
+500BC (though it continued to be used as a scholarly language until around 100
+AD).
+
+This week the books I ordered started to come in, Worthington's [Complete
+Babylonian][] among them, which I've started working through; though it's been a
+busy week so I've not had much chance so far.  Initial impression of the book is
+that it presents the material in a sensible way and explains it well, with lots
+of short, focussed, chapters and sections, with plenty of translation exercises.
+It primarily teaches translating from transliterated text, but also has material
+on transliterating cuneiform which I'll dive into later.
+
+I'll give more of an opinion on the *Complete Babylonian* next week, once I'm
+further into it.  I have other textbooks on the way too, so if I get stuck in
+one book I should hopefully be able to use the different presentation in another
+to unblock myself.
+
+I want to actually make a good attempt at this---reading attentively, working
+through the exercises---so I've blocked out some study time in my calendar: a
+little in Monday and Wednesday evenings, and a slightly longer period in
+Saturday afternoons.
+
+[Akkadian]: https://en.wikipedia.org/wiki/Akkadian_language
+[Complete Babylonian]: https://library.teachyourself.com/id007011341/Complete-Babylonian
+
+
+## Miscellaneous
+
+I made a small change to bookdb, now that I'm buying more reference books (like
+RPG rulebooks, or Akkadian dictionaries) that you don't really read
+cover-to-cover.  In addition to "read" and "unread" books I've added a "not
+applicable" / "reference book" category, and taken away the percentage of how
+many books have been read.
+
+It's a little change, but having an ever-growing collection of "unread" books
+made me feel bad.
+
+
+## Link Roundup
+
+### Miscellaneous
+
+- [Getting Started with... Sumerian](https://isaw.nyu.edu/library/blog/getting-started-with-sumerian)
