@@ -1,0 +1,115 @@
+---
+date: 2024-09-29
+---
+
+## Books
+
+This week I read:
+
+- [Redemptor][] by Seth Skorkowsky, in his Valducan series
+
+  What is hidden-magic-world fiction without a secret force of holy warriors
+  based in the Vatican?  No hidden-magic-world fiction I want to be a part of,
+  that's for sure!
+
+[Redemptor]: https://skorkowsky.com/redemptor/
+
+
+## Roleplaying Games
+
+The [Wind Wraith kickstarter][] arrived this week, bringing its bounty of zines:
+
+![The fruits of the Wind Wraith kickstarter](notes/313/wind-wraith.jpg)
+
+I have a grand vision of one day combining all these OSR materials I've got into
+a huge mega-setting, where the tone gradually shifts as you move across the
+world: a kind of generic-European-fantasy western continent, with pockets of
+fairytale whimsy; fantasy China across a great ocean to the east; a wintery
+fantasy-Scandinavia in the far north...
+
+[Wind Wraith kickstarter]: https://www.kickstarter.com/projects/lazylitch/wind-wraith
+
+### The Halls of Arden Vul
+
+This week a new player joined the group.  They listened in last time to get a
+feel for it, and decided to stick around.  They're mute, which will take a bit
+of getting used to; I'll need to make sure I'm giving enough time for them to
+contribute in fast-paced situations.
+
+Other than that, the session was... a little dull.  The players decided to track
+down a hidden tomb they knew the rough location of, and then spent a significant
+amount of time looking everywhere *but* where the secret door actually was.
+They even had a Wand of Secret Door Detection, and used it in the room that held
+the door!  But the player said "well, it's probably not going to be on that
+wall, so let's use it over here so we get a bit of this corridor in as well".
+
+It was indeed on that wall.
+
+Ah well, next time we'll be able to get right to the action, as the session
+ended with them finding the door.
+
+### The One Ring
+
+This week the players succeeded in tracking down and capturing this crook
+masquerading as Gandalf, smearing his... well, not so good name, actually.  The
+reason this guy was able to take some people in is partly because the good folk
+of Bree don't think too highly of Gandalf.  He's basically a tramp who wanders
+in with wild stories from far off lands, and is known to associate with shady
+folk like those Rangers.
+
+But all's well that ends well.
+
+Along the way the players defeated a newly-awakened wight that was digging its
+way out of the grave, and took a *very fancy* elven bow from its tomb: made in
+the First Age, dont you know, enchanted to be especially efficacious against all
+of the creations of Morgoth.
+
+Next week: Fornost.
+
+We have three sessions left before the campaign ends, and while
+adventure-of-the-week is fun, I'd like to come up with some short multi-session
+arc to round out the campaign.  Something that lets the players solve a sizeable
+problem, but which leaves hints that there are greater evils still to overcome.
+I need to rethink what I originally had in mind for Fornost, to make it the
+start of another journey.
+
+
+## Akkadian
+
+This week I worked through the first few chapters of Worthington's *Complete
+Babylonian*, covering nouns and adjectives in the singular and plural, masculine
+and feminine, and the case system.  The book is quite well put together: each
+chapter is very short, explains a single topic and explains it well, and ends
+with a bunch of exercises taken from original Old, Middle, and Standard
+Babylonian texts.
+
+It's quite cool to realise part-way through an exercise that it's actually a
+line from Gilgamesh or the Flood!
+
+I scheduled 1.5 hours on Monday and Wednesday, and 2 hours on Saturday, but I
+need to adjust that as it's currently taking me 2 or more hours to work through
+a chapter and its exercises.  I should get faster as I internalise more of the
+grammar and vocabulary (which is already starting to happen), but in these first
+few weeks particularly it's clear that I'll be spending a lot of time flipping
+around the dictionary.
+
+My goal for next week is to complete chapters 10 (the construct state) and 11
+(possessive suffixes), and make a start on the first big reading: the epithets
+of Assurnaṣirpal II.
+
+
+## Link Roundup
+
+### Roleplaying games
+
+- [What Does a Work Not Need?](https://samsorensen.blot.im/what-does-a-work-not-need)
+- [Eight Intangible Tips for Editing Your TTRPG Manuscript](https://playfulvoid.game.blog/2024/09/17/eight-intangible-tips-for-editing-your-ttrpg-manuscript/)
+
+### Software engineering
+
+- [http:, ftp:, and ... dict:?](https://shkspr.mobi/blog/2024/09/http-ftp-and-dict/)
+
+### Miscellaneous
+
+- [Blogging in Djot instead of Markdown](https://www.jonashietala.se/blog/2024/02/02/blogging_in_djot_instead_of_markdown/)
+- [graphemica](https://graphemica.com/)
