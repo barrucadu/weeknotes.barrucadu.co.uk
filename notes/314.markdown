@@ -1,0 +1,155 @@
+---
+date: 2024-10-06
+---
+
+## Books
+
+This week I read:
+
+- Volume 10 of [Frieren: Beyond Journey's End][] by Kanehito Yamada and Tsukasa Abe
+
+  This continues the story of the previous volume, where a demon turned a city
+  and all of its inhabitants into solid gold, as the culmination of a years-long
+  endeavour to understand human emotions.  I feel that the sense of elapsed time
+  has faded away a bit in this arc, perhaps because it's about things within the
+  span of human memory.  That said, it's still a good story; I just preferred
+  earlier arcs.
+
+- All of [Girls' Last Tour][] by Tsukumizu
+
+  There's not much to say about this, there isn't really a story.  It's just
+  about the long journey of two girls through a post-apocalyptic wasteland,
+  always striving to reach the top of the tiered mega-city / arcology that is
+  their world.  Other than two people they briefly spend time with, they're the
+  only living humans we see.  In their memories, we see them fleeing an attack
+  on their town, but never learn if anyone else survived.  Eventually, they do
+  reach the top, but it costs them their vehicle, their fuel, and their food.
+
+  I guess they die shortly afterwards.  There are no happy endings after a
+  global war that poisons the seas and destroys the foundations of
+  industrialised civilisation.
+
+[Frieren: Beyond Journey's End]: https://en.wikipedia.org/wiki/Frieren
+[Girls' Last Tour]: https://en.wikipedia.org/wiki/Girls%27_Last_Tour
+
+
+## Roleplaying Games
+
+### The Halls of Arden Vul
+
+Big happenings this week, the players:
+
+- Looted the tomb of Thoth's great prophet, Ptoh-Ristus, and the party's poor
+  porter (who was carrying the loot) received a divine visitation that night as
+  he slept.  Thoth cursed him with blindness, unless someone take up the mantle
+  of Thoth's *new* prophet and work devoutly to glorify his name.
+
+  The party cleric cured the blindness the following morning and they decided to
+  return the stolen grave goods pronto (if they hadn't, the blindness would have
+  returned the next day).  But one player has said their next character just
+  might be a Paladin of Thoth...
+
+- Found an incredibly useful magic item: a pair of linked rugs, which allow
+  instantaneous teleportation from one to the other.  They left one in their
+  house in Gosterwick, and one in their room in the Goblin Halls.  So now if
+  they want to conduct some business in town (like getting some magical loot
+  identified at the Arcane Practitioner's Club), it's no longer a 2-day thing.
+
+- Agreed to take Triv-Lok, the ancient Rudishva who the party freed from
+  cryogenic containment some weeks ago, and who has now recovered from her
+  amnesia, to the Varumani.  Unbeknownst to the party, Triv-Lok intends to seize
+  control of the Varumani (who are genetically susceptible to Rudishva
+  authority) and use them to escape from this planet.
+
+  There could be Varumani roaming the Halls actively hunting for the keys to the
+  Obsidian Gates in a matter of weeks!
+
+Any one of those could kick off a major shift in the campaign, so to have all
+three come up at once... things are going to change a lot, and they're going to
+change *quickly*.
+
+### The One Ring
+
+In retrospect, it was a very funny session this week.
+
+I knew we had three sessions left (including this week's) and yet I had a few
+disjoint story threads.  I decided a cool way to end the campaign would be to
+have a three-session arc which brings together those disparate threads, and
+reaches a climax which provides *some* resolution but clearly points to a
+larger, unresolved, issue in the background.  I also wanted this arc to be very
+dwarf-focussed as we've had Bree adventures and elf adventures but no dwarf
+adventures.
+
+I came up with this grand plan, a combination of pre-written adventure sites and
+a fair bit of homebrew to weave it all into a seamless whole.
+
+Then due to a botched combat encounter with some wraiths the whole party was
+killed an hour into the session.
+
+Ah well.
+
+We took a short break, and then reconvened to make an all-dwarf party for the
+final two-and-a-half sessions.  I gave them a bunch of bonus skill points and
+was very transparent about what sort of skills and callings (backgrounds) would
+be most relevant.  We're going to wrap up the campaign having a fun time
+crushing orc skulls beneath our axes... but what the players *don't* know is
+that I'm still going to tie the ending into what came before.  It's not quite
+what I planned, but the campaign-spanning story arc is still there!
+
+
+## Akkadian
+
+Great progress this week, I finished part 2 of Worthington's *Complete
+Babylonian*, which is more than I had hoped to get done.
+
+Next week I'm going to switch to another highly recommended textbook I picked
+up, Huehnergard's *A Grammar of Akkadian*.  I've heard that the two books are
+complementary, they each have a different focus and style.  In particular, the
+exercises in *Complete Babylonian* get you translating actual historical
+sentences from the very beginning, with the author providing translations of
+grammatical constructs the book hasn't covered yet; whereas *A Grammar of
+Akkadian* uses synthetic exercises in the early chapters, which only need what
+you've learned so far.  This then affects the order the books cover the
+material, with *A Grammar of Akkadian* introducing the more common verb forms
+very near the beginning.
+
+I've also started on my own translations of Nanni's complaint letter to
+Ea-Nasir, and the poem *The Descent of Ishtar into the Netherworld*.  It's slow
+going, but very satisfying to see familiar lines (like Nanni's exasperated "what
+/ who do you take me for?") emerge from the gibberish.
+
+I'll publish them on my website when they're done.
+
+
+## Miscellaneous
+
+Speaking of [my website][], I've changed a lot of things around this week.
+
+I had a kind of mental block in place where I felt that only good, finished,
+professional stuff should go on there.  It's been a place to download my CV
+from, and little else, for so long that I'd forgotten the true meaning of a
+"personal website".  A website can be "personal" in that it's about the owner,
+but it can *also* be "personal" in that it doesn't need to be "professional".
+
+It still has my CV, now tucked away on a page entitled "[The Boring Stuff][]",
+but I don't think I've ever actually been contacted via my website for a job.  I
+added [a blogroll][].  I expanded the section of [things I do for fun][].  And
+in a few weeks---I hope---it'll also have some crappy inaccurate Akkadian
+translations too!
+
+I'm considering going *really* old school with it and having different styling
+on different pages.  I'm not a frontend developer, why should I pretend to be
+one with this clean, uniform, website?  Maybe I'll have a big tiling cuneiform
+background image on the Akkadian pages.
+
+[my website]: https://www.barrucadu.co.uk/
+[The Boring Stuff]: https://www.barrucadu.co.uk/boring.html
+[a blogroll]: https://www.barrucadu.co.uk/blogroll.html
+[things I do for fun]: https://www.barrucadu.co.uk/fun.html
+
+
+## Link Roundup
+
+### Miscellaneous
+
+- [Leitner system](https://en.wikipedia.org/wiki/Leitner_system)
