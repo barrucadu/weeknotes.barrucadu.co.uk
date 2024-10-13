@@ -1,0 +1,135 @@
+---
+date: 2024-10-13
+---
+
+## Books
+
+This week I read:
+
+- Volumes 13 and 14 of [Delicious in Dungeon][] by Ryoko Kui
+
+  The end.  These two volumes wrapped up all the open story threads, neatly
+  finishing everything off: the demon was defeated (and we learned some more
+  about what it actually was and why it acted the way it did), and Falin's
+  humanity was restored.  And they did it all by eating things.
+
+  Dungeon meshi.  Ah, dungeon meshi!
+
+- Volume 10 of [The Disappearance of Nagato Yuki-chan][] by Puyo
+
+  I somehow missed this volume when I read the manga as it was coming out: I
+  read volume 9 in 2016.  Though, this last volume focusses on Asakura, Nagato's
+  friend, deciding what to do about her future.  It's almost a side-story, so it
+  was easy to dive back in.  It was a nice conclusion to the series.
+
+- Volume 18 of [That Time I Got Reincarnated as a Slime][] by Fuse
+
+  It's getting a little tricky to keep up with all the characters, as the
+  author's still introducing multiple new major characters in every volume.
+  This is supposed to be the final arc, and it does feel like we're building up
+  to a climax; but I wish new enemy lieutenants didn't keep popping up.
+
+[Delicious in Dungeon]: https://en.wikipedia.org/wiki/Delicious_in_Dungeon
+[The Disappearance of Nagato Yuki-chan]: https://en.wikipedia.org/wiki/The_Disappearance_of_Nagato_Yuki-chan
+[That Time I Got Reincarnated as a Slime]: https://en.wikipedia.org/wiki/That_Time_I_Got_Reincarnated_as_a_Slime
+
+
+## Roleplaying Games
+
+### The Halls of Arden Vul
+
+We were down a player this week, but it was still an eventful session.
+
+But let's take a step back.  Last time, the players agreed to take Triv-Lok to
+the Varumani.  I had already decided that the Varumani would be predisposed to
+accept Rudishva rule, as they're a genetically engineered species who the
+Rudishva turned into loyal troops and good workers: much of their behaviour
+today can be (and is, in the module text) explained as the lingering effects of
+this genetic engineering.
+
+So why not control, too?
+
+In that case, it's a given that Triv-Lok will ultimately take control of the
+Varumani if she stays with them for long enough.  But what's *not* a given is
+how they would react to first meeting Triv-Lok, before she'd taken over.  I had
+previously portrayed the thegn as concerned, but would he maybe be so concerned
+he would refuse to meet with her?  Would he send assassins, to stamp out a
+problem before it develops?
+
+I wracked my brain thinking of how he would handle this.  I'm not a 200-year-old
+intelligent troll-king faced with the prospect of my old masters returning and
+relegating me to a mere servant once more.
+
+Then I remembered that the game already has a solution for this: reaction rolls.
+
+So I gave Triv-Lok a bonus from the genetic predisposition, rolled a few dice,
+and quickly determined that the Varumani's initial attitude would be cautiously
+optimistic.  And so that's how I played it when the meeting happened.
+
+Don't overthink things!
+
+### The One Ring
+
+We wrapped up the campaign this session, a week earlier than originally planned
+due to one player being unavailable next week.
+
+The players tracked the orc war-band back to their fortress, and then returned
+home to raise an army of dwarves to slaughter them all and rescue their enslaved
+kin!  It worked beautifully, I tied it into what came before with the main
+party, and left some open threads in case we ever do return to this campaign.
+
+It was only 11 sessions long, but all in all a very fun campaign, and I would
+like to play The One Ring again some time.
+
+
+## Akkadian
+
+This week I've been studying Huehnergard's *A Grammar of Akkadian*.  It's much
+more "classroom-style" than Worthington's *Complete Babylonian*:
+
+*Complete Babylonian* exclusively has translation exercises, with real
+historical sentences.  It introduces the material slowly, and explains all the
+words and grammatical constructs it's not covered yet in the exercises, so you
+can just translate the bits it has taught so far to get the overall answer.  It
+also doesn't really teach vocabulary, though you do start to pick up the more
+common words.
+
+*A Grammar of Akkadian* has a mixture of pronunciation exercises (breaking a
+word down into syllables and marking where the stress is), translation exercises
+with synthetic sentences both from Akkadian to English and from English to
+Akkadian, and grammatical exercises (conjugate this list of words in this way).
+It also teaches vocabulary: each exercise section starts with a word list, and
+the only words you need are the ones from that list or the ones from prior sets
+of exercises.
+
+To sum up the difference, I'd say *Complete Babylonian* is more fun, but *A
+Grammar of Akkadian* is better for actually learning.  It's good to have both, I
+think from now on I'll switch between them depending on my mood.
+
+I've continued working on my translations this week, I got a few more lines of
+*The Descent of Ishtar into the Netherworld* done, and I'm very nearly half-way
+through Nanni's complaint letter to Ea-Nasir.  I have a week off work coming up
+at the end of the month, so I hope to make some serious progress on both of them
+then.
+
+
+## Miscellaneous
+
+It's the new anime season, though there's slim pickings this time.
+[Dandadan][], [Uzumaki][], and [NegaPosi Angler][] seem the most promising.
+
+Also, it's crazy that I've written over 300 of these posts now.  It all started
+[back in 2018][] as an experiment, I wasn't sure how long I was going to keep it
+up, and now here we are.
+
+[Dandadan]: https://myanimelist.net/anime/57334/Dandadan
+[Uzumaki]: https://myanimelist.net/anime/40333/Uzumaki
+[NegaPosi Angler]: https://myanimelist.net/anime/59425/NegaPosi_Angler
+[back in 2018]: notes/001.html
+
+
+## Link Roundup
+
+### Roleplaying games
+
+- [The Two-Tiered Reaction Roll](https://dicegoblin.blog/the-two-tiered-reaction-roll/)
