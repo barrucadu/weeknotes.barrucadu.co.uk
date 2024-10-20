@@ -1,0 +1,121 @@
+---
+date: 2024-10-20
+---
+
+## Books
+
+This week I read:
+
+- All of [Death Note][] by Tsugumi Ohba and Takeshi Obata
+
+  The anime adaptation, at least what I can remember of it from all those years
+  ago[^keikaku], is really faithful to the manga.  There are a few minor
+  discrepancies but nothing worth writing about.
+
+  I was interested in how I'd perceive the second half of the manga, since the
+  general opinion (which I share) is that the anime really goes downhill after
+  Light kills L and Near and Mello take over.  While I do still think the story
+  would have been better if it ended with the death of L, and that Mello could
+  have been cut entirely, I actually didn't mind the second half so much in the
+  manga.  Plot-wise, it's the same, but somehow it was more enjoyable in in
+  manga form.
+
+  I still think Light was an idiot who could have easily won---e.g. when he made
+  contact with Takada and Mikami he should have just killed the members of the
+  Japanese task force and used Takada's supporters to root out (or just protect
+  him from) Near's team; he didn't actually need to try to outwit Near, he could
+  have set himself up as an untouchable mob boss.  And then, despite all the
+  scheming, Near only won by chance, which was a bit unsatisfying.
+
+[^keikaku]: TL note: "keikaku" means "plan"
+
+[Death Note]: https://en.wikipedia.org/wiki/Death_Note
+
+
+## Roleplaying Games
+
+### The Halls of Arden Vul
+
+A lot happened behind the scenes this week, but the players barely noticed any
+of it.
+
+The thegn sent two varumani hunters to capture some rare prey, to donate to the
+arena in exchange for an audience with the Lord of the Arena to ask him about
+Triv-Lok.  Crellik-Var, of course, didn't remember anything about her.  After a
+few more days of consultation between the thegn and Ashoka, his court sorcerer,
+he called a Moot---a meeting of all the varumani---to discuss what is to be
+done.  Points discussed included:
+
+- That the rumours circulating about a new, non-crazy, rudishva being seen are
+  in fact true
+- That the thegn has met with this rudishva, who is named Triv-Lok
+- That Triv-Lok has been asleep since before the collapse, and was recently
+  found and awoken by some adventurers (the PCs)
+- That she has no desire to rule the varumani, but instead seeks their aid
+- That in return for helping her to return home, she will help them regain
+  access to their ancestral halls
+- That the help she needs is in the form of searching the halls for certain
+  rudishva relics
+
+The varumani are pumped.  They are fully on board with this deal.  They want
+Triv-Lok to come live with them (the PCs were out so they haven't seen the
+messengers yet).  Triv-Lok *will* slowly take control of them, due to them being
+genetically predisposed to rudishva influence, but she's unlikely to abuse that
+position.
+
+But what the thegn *didn't* discuss at the meeting was that Triv-Lok also said
+she'd try her best to reverse the varumani's degeneration.  He wants to be sure
+she can do that first, but if it all works out he will go down as one of the
+greatest thegns: the one who found and negotiated with a rudishva to save the
+varumani in their time of need.
+
+
+## Akkadian
+
+I think I'm coming around to preferring Huehnergard's *A Grammar of Akkadian*.
+Worthington's *Complete Babylonian* does have more fun exercises, but
+Huehnergard explains things better and in a more sensible order.
+
+For instance, Akkadian has several different verb "systems" as well as multiple
+tenses: *A Grammar of Akkadian* teaches covers each tense in the "G system"
+first, as that's the simplest and most common, whereas *Complete Babylonian* has
+a chapter on each tense which covers *all* the systems at once.  It's more to
+take in at once, and the explanation of each individual thing is briefer.
+
+All that aside, I am now actually learning verbs!  I've been able to translate
+half of the complaint letter to Ea-Nasir now, and I hope to finish it and put it
+on my website in the next couple of weeks.
+
+I haven't started cuneiform yet, but hopefully this translation practice will
+mean it's not too tricky, as I have been translating from transliterated
+cuneiform, rather than normalised Akkadian.  So when I do get to cuneiform, the
+new parts will be (1) how to work out which potential reading of a sign is the
+correct one, and (2) how to work out where the word breaks are.  But the
+translation process after that will be the same.
+
+
+## Miscellaneous
+
+This week I migrated from [Promscale][] to [VictoriaMetrics][] [for my personal
+finance dashboard][], as Promscale was discontinued early last year and this
+year had developed an annoying habit of losing data.
+
+I'm pleased to say that VictoriaMetrics works well: it falls into the sweet spot
+of having a Prometheus-compatible query language and API, and also making it
+easy to import historic data.  The API is pretty similar to Promscale, too, so I
+only needed minor changes to my data-loading script to switch over.
+
+[Promscale]: https://github.com/timescale/promscale
+[VictoriaMetrics]: https://victoriametrics.com/
+[for my personal finance dashboard]: https://github.com/barrucadu/nixfiles/pull/305
+
+
+## Link Roundup
+
+### Roleplaying games
+
+- [Describing and Modifing Zombies to Better Evoke Horror](https://elementalreductions.blogspot.com/2024/10/describing-and-modifing-zombies-to.html)
+
+### Software engineering
+
+- [How to Write a Blog Post About How to Monetize a Blog](https://modem.io/blog/blog-monetization-making-of/)
