@@ -1,0 +1,82 @@
+---
+date: 2024-10-27
+---
+
+## Work
+
+I've taken next week off work---time to laze around / work on some projects.
+
+
+## Books
+
+No books this week!
+
+
+## Roleplaying Games
+
+### The Halls of Arden Vul
+
+When I write up my notes for each session[^ns] I like to give them a title
+reflecting the events of the session, to help me find the appropriate file if I
+need to look something up later.
+
+[^ns]: My notes are mostly just bullet points of key details that might come in
+  handy later.
+
+Sometimes a session is really unfocussed and so get a title like "Exploring",
+but this week's was "The Not-So-Great Cavern", as the players realised that some
+caves they were exploring were not in fact the Great Cavern, and they were
+looking in totally the wrong place.
+
+Whoops.
+
+Well, at least they rescued a colony of mushroom-people from a fearsome Black
+Pudding, and gave them a bag of compost as an apology for cutting down a
+mushroom last week.
+
+
+## Akkadian
+
+This week I've been working through various sound changes in Old Babylonian,
+such as:
+
+- **Vowel syncope:** where a sequence of two "light" syllables[^ls] elides the
+  vowel of the second, hence singular "napištum" (na-piš-tum) turning into
+  plural "napšātum" (nap-šā-tum) and not "napišātum" (na-pi-šā-tum).
+
+- **Assimilation of "n":** where an "n" immediately before another consonant
+  usually turns into that consonant instead, hence singular "šaknum" turning
+  into plural "šakittum" and not "šakintum".
+
+- **Consonant loss:** where several proto-Akkadian consonants were lost, which
+  then altered the words which used to have them in a bunch of different ways.
+
+[^ls]: That is, a syllable that ends in a short vowel sound.
+
+These effects (and others) are tricky.  They stack (e.g. a word could undergo
+vowel syncopation which then causes an assimilation of "n") and also give rise
+to "weak verbs", where the root form of the verb changes in strange ways in
+different conjugations.
+
+...plus several other small grammatical points.  Huehnergard does a good job of
+breaking things up and not spending too long on a bunch of similar topics
+(letter changes, in this case) while still explaining everything in sufficient
+detail.
+
+I'm now fully sold on Huehnergard being a better resource than Worthington.
+
+Next week I'm going to change things up a little and use my usual study sessions
+to work through my translation of the complaint tablet to Ea-nasir.  I'm a
+little over half done, and I'm aiming to get it finished and on my website by
+the end of the week.  I'm also going to look into flashcard software (maybe
+Anki?  is that what everyone still uses?) to help with vocab: a key thing is I
+want to be able to sync cards between my phone and my desktop, because being
+able to review cards while commuting would be great, but writing on a phone is
+awful.
+
+
+## Link Roundup
+
+### Software engineering
+
+- [CSS Utility Classes and "Separation of Concerns"](https://adamwathan.me/css-utility-classes-and-separation-of-concerns/)
