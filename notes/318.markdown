@@ -1,0 +1,69 @@
+---
+date: 2024-11-03
+---
+
+## Work
+
+I took this week off work, and mostly used the time to catch up on sleep,[^sl]
+finish the Akkadian work, and really just laze around.  I booked a dentist
+appointment (for the first time in several years).  I bought some new shirts, as
+I almost never buy clothes and an old one was getting pretty worn-out.  I
+emptied the dehumidifier.
+
+A week of relaxation, catching up on chores, and personal stuff.
+
+[^sl]: I don't work long hours, I just find it hard to get to sleep before
+  midnight, but have to be up at 8 on work days.  During time off, I can follow
+  my natural rhythm of falling asleep any time between midnight and 3, and
+  waking up by noon.
+
+Feeling very [Man Returns To Work After Vacation With Fresh, Reenergized Hatred
+For Job][] right now.  I don't *hate* my job, I quite like it in fact and find
+it very satisfying at times: but if I could have the same quality of life as I
+do now while being unemployed, I definitely would.
+
+FIRE can't come soon enough!
+
+Some people say they would get bored in retirement.  I think they might secretly
+be aliens (or managers).
+
+[Man Returns To Work After Vacation With Fresh, Reenergized Hatred For Job]: https://theonion.com/man-returns-to-work-after-vacation-with-fresh-reenergi-1819574342/
+
+
+## Books
+
+No books this week, but I am working my way through a huge single-volume edition
+of the [Lyonesse Trilogy][].
+
+[Lyonesse Trilogy]: https://en.wikipedia.org/wiki/Lyonesse_Trilogy
+
+## Roleplaying Games
+
+### The Halls of Arden Vul
+
+This week the players had their first foray into the Great Cavern, a location
+they've known about and had access to for some time.  Ultimately, not much
+happened (my notes for this session are very brief), just some careful
+exploration of the paths.
+
+Looking back though my notes, the players first gained access to the Great
+Cavern in session 44---5 months ago!---by arranging the secret Goblin / Beastman
+peace treaty.  Nice to finally set foot into it.
+
+
+## Akkadian
+
+I finished my translation of Ea-Nasir, and put up [some Akkadian pages on my
+website][]!
+
+Going to return to study-mode for a while, and next I'll tackle *The Descent of
+Ishtar*.
+
+[some Akkadian pages on my website]: https://www.barrucadu.co.uk/akkadian/
+
+
+## Link Roundup
+
+### Software engineering
+
+- [Australia/Lord_Howe is the weirdest timezone](https://ssoready.com/blog/engineering/truths-programmers-timezones/)
