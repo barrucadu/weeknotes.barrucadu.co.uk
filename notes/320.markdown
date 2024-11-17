@@ -1,0 +1,137 @@
+---
+date: 2024-11-17
+---
+
+## Books
+
+This week I read:
+
+- [Planetes][] by Makoto Yukimura
+
+  The Planetes manga and anime are regarded as masterpieces, but I have to say I
+  think this is actually a rare instance where I prefer the adaptation to the
+  original.  It's still a good story, but I think the pacing kind of sucks.
+
+  The main thing that stood out to me there is the Tanabe / Hachimaki romance:
+  in the anime, Tanabe is introduced very near the beginning (maybe even in the
+  first episode?) and we see the relationship slowly developing over the course
+  of episodes; whereas in the manga she arrives several chapters in and I didn't
+  really get a sense of budding romance at all.  We see a few scenes of them
+  being close, but not really *how* and *why* they became close.
+
+  I got that impression about a lot of the character motivations: it felt like
+  people acted the way they did for the story, not as a consequence of
+  previously established character traits.  It's funny, because not only is the
+  Planetes anime very character-driven, the same author writes Vinland Saga,
+  which I've not read yet but has another very character-driven anime.  Maybe I
+  somehow missed it all in the Planetes manga?
+
+[Planetes]: https://en.wikipedia.org/wiki/Planetes
+
+
+## Roleplaying Games
+
+### The Halls of Arden Vul
+
+A very combat-heavy session this week, though the party crushed it as usual.
+
+They're overly cautious, I think, so it's always a bit one-sided when they do
+finally decide to take a "risk".  There's a bit of tension between the players,
+too: one player is very cautious, always wanting the characters to be fully
+rested and prepared and to spend lots of time and money on information
+gathering; another player is not exactly gung-ho, but just *less* cautious and
+more willing to take risks.  Which sometimes leads to disagreements over the
+party's course of action.  Not sure how to resolve that yet.
+
+Interestingly, we ended the session engaged in a frontal attack on the territory
+of the Cult of Set, which is something the overly-cautious player has been
+advocating for for a while, but the *less-cautious* player has been opposed to!
+An unexpected role-reversal for sure.
+
+
+## Akkadian
+
+### Anki
+
+I'm now one week into using [Anki][] for vocabulary.  I have cards (both English
+to Akkadian and Akkadian to English) for all the vocabulary in Huehnergard up to
+and including chapter 9.
+
+It's tough going.  I find nouns easier than adjectives, and adjectives easier
+than verbs.  Verbs in Akkadian are very regular, and a lot of the verbs that
+have been introduced so far are very similar.  But I can tell that it's helping.
+
+[Anki]: https://apps.ankiweb.net/
+
+### Puns
+
+I came up with a neat ambiguity (calling it a "pun" is a bit of a stretch) the
+other day:
+
+1. Some verbs can take two objects (an English example is "to give", as in "I
+   [subject] gave him [object 1] a hat [object 2]").
+
+2. Adjectives can be used as nouns: generally to mean "a thing that is X", but
+   some have more specific meanings, like "dannatum"---"a [female singular]
+   thing that is strong"---usually means "fortress".
+
+3. If an adjective modifies a noun, the adjective comes immediately after the
+   noun in the sentence and is in the same grammatical case.
+
+So: "šarratam dannatam abqur" could be read as either "I claimed (abqur) the
+fortress (dannatam) from the queen (šarratam)", interpreting "dannatam" as an
+accusative noun, *or* it could be read as "I claimed (abqur) the strong queen
+(šarratam dannatam)", interpreting it as an adjective modifying (and so agreeing
+in case ending with) "šarratam".
+
+I bet this led to centuries of fun over in Babylon.
+
+## Miscellaneous
+
+### Teeth
+
+I went to the dentist for the first time in several years.  I've been *meaning
+to* register with a dentist ever since I moved to London in 2018, but just never
+got around to it.  In that time I've gradually developed a large cavity, so this
+year I felt that it was finally time (and it's November now: I *still* nearly
+didn't make it this year...)
+
+Anyway, I had the appointment, and unfortunately there seems to be quite a lot
+of work needed.  I've got another appointment next week to determine if the big
+cavity is salvageable or not, and then will begin the course of treatment.
+
+### New Chair!
+
+![I got a new chair!](notes/320/chair.jpg)
+
+I got my old chair second hand when I moved to London, so it's 6 years old now,
+and as you can see the seat cover has frayed to the point of giving way,
+exposing the padding which has been disintegrating a little more every day.
+
+I picked up a Secretlab TITAN Evo plus a lumbar pillow as a replacement, and it
+is *so comfortable*.  It's firm, some reviews said too firm but I like it,
+provides good support, and moves very easily.  I am a little concerned about the
+build quality, as it came in pieces that I had to assemble myself and parts of
+it just clip on or are held in place with magnets, but I guess I'll see how well
+it holds up.
+
+### Games
+
+Last weekend I picked up a few new games, and I've tried them all our now:
+
+- [WEBFISHING][] is a lot of fun, it's a very cosy game which makes it easy to
+  while away a few hours fishing and chatting.  The community is very friendly,
+  and the fishing is simple but enjoyable.
+
+- [Path of Achra][] isn't really the game for me.  It's essentially an automated
+  roguelike where the only decisions you make are about your build, which I knew
+  before buying it, but it just didn't really grip me when I tried it.
+
+- [Fields of Mistria][] is ok, I've played a few Harvest Moon-like games, so
+  this is just another one.  I'll play it for a bit but I usually get bored of
+  these games once my farm is raking in a bunch of money: completing it isn't
+  that attractive once I feel I've "figured it out".
+
+[WEBFISHING]: https://store.steampowered.com/app/3146520/WEBFISHING/
+[Path of Achra]: https://store.steampowered.com/app/2128270/Path_of_Achra/
+[Fields of Mistria]: https://store.steampowered.com/app/2142790/Fields_of_Mistria/
