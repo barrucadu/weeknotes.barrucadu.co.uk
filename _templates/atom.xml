@@ -17,6 +17,7 @@
     <link href="{{ note.permalink }}" />
     <id>{{ note.permalink }}</id>
     <published>{{ note.published_iso }}T00:00:00Z</published>
+    <updated>{{ note.published_iso }}T00:00:00Z</updated>
     <summary type="html">
       <![CDATA[
 {{ note.body | safe }}
