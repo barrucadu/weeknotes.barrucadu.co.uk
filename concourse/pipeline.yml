@@ -7,12 +7,6 @@ resource_types:
       password: ((docker-registry-password))
 
 resources:
-  - name: builder-image
-    type: docker-image
-    source:
-      repository: registry.barrucadu.dev/memo-builder
-      username: registry
-      password: ((docker-registry-password))
   - name: weeknotes-git
     type: git
     source:
@@ -35,15 +29,17 @@ jobs:
   - name: build-and-deploy
     serial: true
     plan:
-      - get: builder-image
       - get: weeknotes-git
         trigger: true
       - task: build-site
-        image: builder-image
         params:
           OUT_DIR: weeknotes
         config:
           platform: linux
+          image_resource:
+            type: registry-image
+            source:
+              repository: "nixos/nix"
           inputs:
             - name: weeknotes-git
           outputs:
@@ -54,10 +50,7 @@ jobs:
             args:
               - -cex
               - |
-                virtualenv venv
-                source venv/bin/activate
-                pip install -r requirements-freeze.txt
-                PATH=.:$PATH ./build --out="../site/${OUT_DIR}"
+                nix --extra-experimental-features "nix-command flakes" develop --command bash -c "./build --out=../site/${OUT_DIR}"
       - put: weeknotes-rsync
         params:
           path: site/weeknotes
