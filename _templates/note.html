@@ -1,4 +1,10 @@
 {% extends "_layout.html" %}
+{% block opengraph %}
+<meta property="og:type" content="article" />
+<meta property="article:published_time" content="{{ note.published_iso }}" />
+<meta property="article:modified_time" content="{{ note.published_iso }}" />
+<meta property="article:author" content="https://www.barrucadu.co.uk/" />
+{% endblock %}
 {% block subtitle %}
 {{ note.published_pp }}
 {% endblock %}
