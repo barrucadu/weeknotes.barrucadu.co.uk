@@ -18,16 +18,16 @@ Options:
 import hashlib
 import jinja2
 import json
-import os
 import pypandoc
+import shutil
 import subprocess
-import yaml
 import sys
+import yaml
 
 from bs4 import BeautifulSoup
 from datetime import datetime, timedelta
-from distutils import dir_util, file_util
 from docopt import docopt
+from pathlib import Path
 
 args = docopt(__doc__)
 OUT_DIR = args["--out"]
@@ -47,14 +47,14 @@ DATE_ISO_FORMAT = "%Y-%m-%d"
 DATE_PP_FORMAT = "%b %-d, %Y"
 
 
-def pandocise_note(fname, link, text):
+def pandocise_note(link, text):
     """Render a note's content using pandoc."""
 
     text_hash = hashlib.sha256()
     text_hash.update(text.encode())
-    cache_file = os.path.join(CACHE_DIR, f"sha256-{text_hash.hexdigest()}.json")
+    cache_file = Path(CACHE_DIR, f"sha256-{text_hash.hexdigest()}.json")
     try:
-        cached = json.load(open(cache_file))
+        cached = json.loads(cache_file.read_text())
         return cached["html"]
     except (OSError, json.decoder.JSONDecodeError):
         html = pypandoc.convert_text(
@@ -72,20 +72,21 @@ def pandocise_note(fname, link, text):
 
         # this can't be done as a pandoc filter sadly, because the footnote
         # links don't exist when the filter runs
-        html = html.replace("href=\"#fn", f"href=\"{link}#fn")
+        html = html.replace('href="#fn', f'href="{link}#fn')
 
         try:
-            json.dump({"html": html}, open(cache_file, "w"))
+            cache_file.write_text(json.dumps({"html": html}))
         except OSError as err:
-            print(f"could not cache generated HTML for {fname}: {err.strerror}")
+            print(f"could not cache generated HTML for {link}: {err.strerror}")
 
         return html
 
 
 def render(link, template, **metadata):
     """Render a jinja2 template."""
-    with open(os.path.join(OUT_DIR, link), "w") as f:
-        rendered = JINJA2_ENV.get_template(template).render(
+
+    Path(OUT_DIR, link).write_text(
+        JINJA2_ENV.get_template(template).render(
             base_href=BASE_HREF,
             hashed_links=HASHED_LINKS,
             site_name=SITE_NAME,
@@ -93,39 +94,37 @@ def render(link, template, **metadata):
             permalink=f"{BASE_HREF}{link}",
             **metadata,
         )
-        print(rendered, file=f)
+    )
 
 
 ALL_NOTES = []
-for fname in os.listdir("notes"):
-    fpath = os.path.join("notes", fname)
-    if not os.path.isfile(fpath):
+for fpath in Path("notes").iterdir():
+    if not fpath.is_file():
         continue
 
-    with open(fpath, "r") as f:
-        lines = f.readlines()
-        metadata_end_idx = lines[1:].index("---\n") + 1
-        text_start_idx = metadata_end_idx + 1
-        note = yaml.load("".join(lines[1:metadata_end_idx]), Loader=yaml.SafeLoader)
+    lines = fpath.read_text().splitlines()
+    metadata_end_idx = lines[1:].index("---") + 1
+    text_start_idx = metadata_end_idx + 1
+    note = yaml.load("\n".join(lines[1:metadata_end_idx]), Loader=yaml.SafeLoader)
 
-        note["slug"], _ = os.path.splitext(os.path.basename(fpath))
-        note["link"] = f"{NOTE_DIR}/{note['slug']}.html"
-        note["permalink"] = f"{BASE_HREF}{note['link']}"
+    note["slug"] = fpath.stem
+    note["link"] = f"{NOTE_DIR}/{note['slug']}.html"
+    note["permalink"] = f"{BASE_HREF}{note['link']}"
 
-        note["title"] = f"#{note['slug']}"
-        if "annual_special_for" in note:
-            note["title"] += f" — End of {note['annual_special_for']} Special"
+    note["title"] = f"#{note['slug']}"
+    if "annual_special_for" in note:
+        note["title"] += f" — End of {note['annual_special_for']} Special"
 
-        if "date" not in note:
-            print(f"missing date in metadata for {fpath}")
-            sys.exit(1)
+    if "date" not in note:
+        print(f"missing date in metadata for {fpath}")
+        sys.exit(1)
 
-        note["published_iso"] = note["date"].strftime(DATE_ISO_FORMAT)
-        note["published_pp"] = note["date"].strftime(DATE_PP_FORMAT)
+    note["published_iso"] = note["date"].strftime(DATE_ISO_FORMAT)
+    note["published_pp"] = note["date"].strftime(DATE_PP_FORMAT)
 
-        # render the body
-        note["text"] = "".join(lines[text_start_idx:])
-        note["body"] = pandocise_note(fname, note["link"], note["text"])
+    # render the body
+    note["text"] = "\n".join(lines[text_start_idx:]) + "\n"
+    note["body"] = pandocise_note(note["link"], note["text"])
 
     if note.get("draft", False) and not DRAFT_MODE:
         continue
@@ -139,36 +138,43 @@ for note in reversed(ALL_NOTES):
         prev["next"] = note
     prev = note
 
+
+###############################################################################
+# Here be effects
+
+shutil.rmtree(OUT_DIR, ignore_errors=True)
+shutil.copytree("static", OUT_DIR, dirs_exist_ok=True)
+Path(OUT_DIR, NOTE_DIR).mkdir(exist_ok=True)
+
 HASHED_LINKS = {}
-for fname in os.listdir("hashed-static"):
-    fpath = os.path.join("hashed-static", fname)
-    if not os.path.isfile(fpath):
+for fpath in Path("hashed-static").iterdir():
+    if not fpath.is_file():
         continue
 
     file_hash = hashlib.sha256()
-    with open(fpath, "rb") as f:
+    with fpath.open("rb") as f:
         while True:
             data = f.read(65536)
             if not data:
                 break
             file_hash.update(data)
-    base, ext = os.path.splitext(fname)
-    HASHED_LINKS[fname] = f"{base}-sha256-{file_hash.hexdigest()}{ext}"
-
-
-dir_util.copy_tree("static", OUT_DIR)
-
-for source, target in HASHED_LINKS.items():
-    file_util.copy_file(
-        os.path.join("hashed-static", source), os.path.join(OUT_DIR, target)
+    HASHED_LINKS[fpath.name] = (
+        f"{fpath.stem}-sha256-{file_hash.hexdigest()}{fpath.suffix}"
     )
+    shutil.copy(fpath, Path(OUT_DIR, HASHED_LINKS[fpath.name]))
+
 
 render("robots.txt", "robots.txt")
 render("sitemap.xml", "sitemap.xml", notes=ALL_NOTES)
 
 render("index.html", "index.html", title=SITE_NAME, notes=ALL_NOTES)
-render("atom.xml", "atom.xml", title=SITE_NAME, notes=ALL_NOTES[:10], feed_date=ALL_NOTES[0]["published_iso"])
+render(
+    "atom.xml",
+    "atom.xml",
+    title=SITE_NAME,
+    notes=ALL_NOTES[:10],
+    feed_date=ALL_NOTES[0]["published_iso"],
+)
 
-dir_util.mkpath(os.path.join(OUT_DIR, NOTE_DIR))
 for note in ALL_NOTES:
     render(note["link"], "note.html", title=note["title"], note=note)
