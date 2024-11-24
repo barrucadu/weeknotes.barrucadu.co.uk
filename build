@@ -67,6 +67,7 @@ def pandocise_note(link, text):
             extra_args=[
                 "--no-highlight",
                 "--section-divs",
+                "--wrap=none",
             ],
         )
 
@@ -123,7 +124,7 @@ for fpath in Path("notes").iterdir():
     note["published_pp"] = note["date"].strftime(DATE_PP_FORMAT)
 
     # render the body
-    note["text"] = "\n".join(lines[text_start_idx:]) + "\n"
+    note["text"] = "\n".join(lines[text_start_idx:])
     note["body"] = pandocise_note(note["link"], note["text"])
 
     if note.get("draft", False) and not DRAFT_MODE:
