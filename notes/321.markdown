@@ -1,0 +1,200 @@
+---
+date: 2024-11-24
+---
+
+## Books
+
+This week I read:
+
+- [Delta Green: The Conspiracy][] from Arc Dream Publishing
+
+  This is a sourcebook for running a campaign in the '90s, greatly expanding on
+  the metaplot detailed in the Handler's Guide.  And it is *inspirational.* I
+  now have a pretty good idea for a future Delta Green campaign: more on that
+  below.
+
+- [Delta Green: Iconoclasts][] from Arc Dream Publishing
+
+  A campaign set in Mosul in 2016 where ISIL unwittingly released an ancient
+  monster called Shagash, the Father of War.  I was pleased to see that the
+  Akkadian in this book actually stands up pretty well, which is more than I
+  really expected for a campaign set in such an unusual location: ancient Greece
+  and Rome are the bread and butter of adventure, Mesopotamia not so much.
+
+  This is an interesting campaign, it's fairly short and has two distinct
+  phases.  Firstly a very sandboxy investigation section which might involve
+  travelling around the Middle East and might involve brokering
+  not-entirely-legal deals with foreign intelligence services, but it's entirely
+  up to the players how much they want to investigate before they enter the
+  second phrase, infiltrating Mosul and dealing with the incursion.  There's
+  also a fun prequel scenario where the players take on the role of the ISIL
+  goons who unleash the Father of War and get horribly killed on camers.
+
+  I don't think it would work as a standalone campaign (it's too short) or work
+  for players new to Delta Green (you need out-of-character exposure to spy
+  stuff to even know how to approach the first phase), but it could fit into a
+  larger campaign taking place in the Middle East.
+
+[Delta Green: The Conspiracy]: https://www.delta-green.com/about/
+[Delta Green: Iconoclasts]: https://www.delta-green.com/about/
+
+
+## Roleplaying Games
+
+### The Halls of Arden Vul
+
+A pretty action-packed session this week, the party took out a powerful undead
+(definitely a boss monster) at relatively low cost: one retainer got
+level-drained, which dropped their HP, saves, and to-hit modifier (and then the
+following round they missed an attack which would have hit with the previous
+modifier; that's the scary part of level drain), and the party's heavy-hitter
+*nearly* died but scraped through.  If he'd gone down that would have been a
+pretty major blow; but that player has said their next character will probably
+be a Paladin of Thoth, which would be cool to see.
+
+Amongst the loot they found a scroll of Stone To Flesh which they used to
+un-petrify a thousand-year-old priest of Thoth and questioned him a bit about
+the old days.  He was only a junior cleric, so he didn't really know any secrets
+of the cult (and what secrets he does know he wouldn't share with laymen), but
+he's potentially a valuable source of historical intel.  They palmed him off to
+some NPC in town to teach him the modern language.  He'll probably become a sage
+the players can draw upon.
+
+It feels pretty crazy that we've just played session 70.  Nearly one session a
+week of the same campaign for a year and a half, and still so much more to do!
+
+### The next campaign?
+
+When we eventually move on from Arden Vul (not that I'm in any hurry to) I'll
+next run Delta Green.
+
+I've wanted to do this for a long time---indeed, I was going to run Delta Green
+(specifically *Impossible Landscapes*) *before* Arden Vul, but the group was
+down to only 2 players at that point so we decided to do something more friendly
+to new players dropping in and out---but I've been thinking about it more than
+usual this week after reading *The Conspiracy* and *Iconoclasts* and finally
+have a rough outline for a campaign.
+
+The campaign will begin in the mid '90s and will focus on the Delta Green /
+MAJESTIC struggle.  The characters will start as unaffiliated federal agents
+with a strong interest in UFOs (perhaps even strong enough to try to access
+restricted records) who figure out a pattern in some recent crop circles and, at
+3am hiding in a bush next to an isolated corn field, see something they
+shouldn't have.  They might get noticed by MAJESTIC during this initial
+investigation, which could up the stakes very quickly.  A few weeks after the
+inciting incident Delta Green will reach out.  After recruitment we'll have
+several operations, each revealing a bit of the truth, and the climax will be
+the agents stopping a world-ending threat (or perhaps dying in the attempt,
+along with everyone and everything else).  Along the way we'll have plenty of
+home scenes showing the agents' slow descent into isolation and madness.
+
+In-game, maybe 5 or 6 years will pass.  I'm not sure if I'll incorporate the end
+of MAJESTIC (which in-universe happens in 2001), it could be fun to have the
+final operation being the MAJESTIC decapitation strike.
+
+I'm very keen to play out the Delta Green recruitment process, which sounds
+really fun.  There are 6 steps:
+
+1. **The Incident.**  This will be the first half of my largely scripted first
+   session, where the players see something they shouldn't have, and perhaps
+   have to flee for their lives.  It's closely followed by...
+
+2. **The Interview.**  Delta Green somehow learn that something happened and
+   have looked into the prospective agents, and approach them to try to get at
+   the real truth.  This will be the second half of the first session.
+
+3. **Trial Run.**  The prospective agents are called up for a Delta Green
+   operation with the same agents who interviewed them.  The interviewers want
+   to see how they perform in the field.  This will be a short (1 or 2 session)
+   self-contained scenario that might not have anything to do with MAJESTIC.
+
+4. **Smoke Test.**  Several months later, the prospective agents are sent on an
+   operation by themelves.  The twist is that there's nothing unnatural about
+   this operation, and Delta Green know it.  They want to see if the recruits
+   jump at shadows and attribute everything to supernatural causes.  This will
+   be another short scenario, but I need it to be one that *with the benefit of
+   hindsight* was of course mundane all along: I don't want it to feel like a
+   gotcha, I want the discovery of the final clues to make everything fall into
+   place and the players realise what's going on.  Whereas just about any Delta
+   Green or Call of Cthulhu scenario would work for the trial run, the smoke
+   test will take some thought.
+
+5. **Introductions.**  The prospective agents are pulled into a meeting.  They
+   see a lot of other high-ranking Delta Green agents there from all branches of
+   the federal government, the intent being to dazzle the recruits.  They're
+   given a highly-edited version of Delta Green's history and an explanation of
+   the mission, and asked if they would like to join.  They are *not* told that
+   Delta Green is an unsanctioned conspiracy at this point.
+
+6. **In Too Deep.**  At some point, the agents realise that Delta Green has no
+   official sanction.  But at this point they've committed federal crimes and
+   are kind of stuck with the job.  Whoops!  I'll slip this revelation into
+   either the second or third mission after they officially join Delta Green.
+
+I don't need to plan out the entire campaign in advance of course, but I do have
+a rough idea:
+
+1. **Session 1.**  They predict a crop circle and witness a stand-off between a man
+   in black and the Greys and hear mention of "the accord", they see the Grey
+   effortlessly kill a soldier as a show of force.  So they learn very quickly
+   that the Greys are the bad guys, and that there is a shadowy government
+   organisation working with / for them.  Roleplay out home scenes (if they
+   projected any sanity damage) and the interview.
+
+2. **Sessions 2 & 3.** Some short unrelated scenario, perhaps *Music from a
+   Darkened Room* (or maybe not, I'm tempted to save that for a future haunted
+   house themed campaign).
+
+3. **Sessions 4 & 5.** Another short unrelated (but mundane) scenario, not sure
+   which yet.
+
+4. **Session 6.** The agents have joined Delta Green!  *PX Poker Night*, with
+   them using cover identities and instructions to get the hell out of there if
+   anyone starts probing too deeply into their cover identities.  A second
+   encounter with the Greys and MAJESTIC, and a first encounter with the Mi-Go.
+
+5. **Sessions 7 to ??** A mixture of other scenarios and investigations, mostly
+   related to MAJESTIC and gradually revealing more truth, some unrelated.  I
+   want some sort of alien disease scenario (perhaps *Viscid* or
+   *Extremophilia*), a Mi-Go scenario (perhaps *A Night on Owlshead Mountain*),
+   and to interrupt another scenario with something totally weird (perhaps *The
+   Child*) just to keep them on their toes.  This middle part of the campaign
+   can really go on as long as we like.
+
+6. **Wrap-up.** *Observer Effect*, reskinned to be in 1999 or 2001.  The agents
+   save the world or everything ends.
+
+7. **If we want to go out with a bang.** The agents play a pivotal role in the
+   decapitation strike against MAJESTIC leadership and the overthrow of the
+   Accord: ending Grey activity on Earth.
+
+I only need to have one or two operations planned ahead of where the players
+are, and to adjust things based on their goals and actions: e.g. if they get
+caught by MAJESTIC in *PX Poker Night* the rest of the campaign will take on a
+much more covert-action / spy thriller feel, as they have to cut all ties with
+their previous lives and adopt cover identities to escape the MAJESTIC
+assassins!
+
+No idea when I'll get to run this, but it'll be awesome.
+
+
+## Akkadian
+
+I wasn't really feeling it this week, so I skipped studying (other than keeping
+up with Anki: verbs are still hard).  Next week I'm going to switch back th
+*Complete Babylonian* for a change of pace and maybe start looking at
+translating the *Descent of Ishtar*.
+
+
+## Miscellaneous
+
+I got some new bedroom furniture this week: 5 years after moving in, I finally
+have ample space for my meagre collection of clothes.  Meanwhile, in the living
+room I have over 30m of bookshelves.  Priorities.
+
+
+## Link Roundup
+
+### Roleplaying games
+
+- [Interview with Richard Barton, Author of Arden Vul](https://kellri.blogspot.com/2019/02/interview-with-richard-barton-author-of.html)
