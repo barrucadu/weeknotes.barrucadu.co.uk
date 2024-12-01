@@ -1,0 +1,93 @@
+---
+date: 2024-12-01
+---
+
+## Books
+
+This week I read:
+
+- [Moria: Through the Doors of Durin][] for The One Ring RPG from Free League Publishing
+
+  This is really cool!  There's a lot of great stuff in this book and I want to
+  get it to the table some time.  But it did strike me as so... *empty*.  I
+  mean, that's not really a surprise: Gandalf planned to get the fellowship
+  through Moria by taking advantage of its vast size to just walk through
+  without meeting any orcs, and they'd have managed it too if it wasn't for the
+  incident with the well.  It's big enough that you can travel for days without
+  seeing another living soul.
+
+  The locations that are detailed are highly evocative, but adventuring in Moria
+  would involve a *lot* of empty ruined halls.  I don't think the book supports
+  a campaign where exploration is the goal, it assumes a more mission-oriented
+  approach whee you head into Moria to achieve some set of objectives, and then
+  you return to base camp.  It's a very different sort of megadungeon to Arden
+  Vul, that's for sure.
+
+  It also comes with a lengthy appendix on solo play, where you take the role of
+  one of Balin's captains in his doomed attempt to retake Moria, leading a band
+  of doughty dwarves on daring missions into the deep and the dark.  I'm going
+  to give that a go, and even if it doesn't work for me I've already found its
+  random mission generator useful in my Arden Vul prep (to determine how an NPC
+  faction reacted to an opportunity).
+
+[Moria: Through the Doors of Durin]: https://freeleaguepublishing.com/shop/the-one-ring/moria-through-the-doors-of-durin/
+
+
+## Roleplaying Games
+
+### The Halls of Arden Vul
+
+A pretty eventful session this week: over half the party died, including the one
+PC who had survived from the beginning!  Fortunately, the survivors were able to
+get the bodies back to Gosterwick where they used their connections with the
+temples of Demma and Mitra to get a bunch of resurrections done.  So everyone
+lived in the end.
+
+But the cost was pretty steep: in their rush to return the bodies, the party had
+to give up the secrecy of their magical teleporting rugs that allowed them to
+fast-travel between Gosterwick and their room in the goblin halls.  Lady Alexia
+confiscated one rug and King Weskenim the other, and now there's a *very*
+lucrative magical trade set-up between Gosterwick and the goblins.  The party
+did negotiate free passage, but they've lost the ability to move the rugs
+around.
+
+
+## Akkadian
+
+More Anki this week: verbs are still hard.
+
+I've started an "Advent of Ištar" today, where every day this month up to
+Christmas I will be working through the poem *The Descent of Ištar into the
+Netherworld.*  I'm posting updates [over on the fediverse][].
+
+[over on the fediverse]: https://hacksrus.xyz/notice/AoZyXcHlVPqYOpgAUq
+
+
+## Miscellaneous
+
+I slipped with a kitchen knife and cut my left index finger pretty badly on
+Wednesday, which resulted in a trip to A&E where they glued the wound shut and
+bandaged me up.  I have to keep it covered and dry until the 10th, which is
+pretty inconvenient but what can you do?  I should have been more careful.
+
+There's no ligament or tendon damage so it should be just like normal after
+healing.
+
+The thing that surprised me is how little it hurt.  I slipped and somehow just
+knew I'd cut myself but I don't remember feeling anything; I looked and saw a
+pretty big cut and then the blood started.  A lot of blood.  My kitchen looked
+like a murder scene when I got back home.  But other than when they cleaned and
+glued it at A&E (which hurt a lot) it's just not really caused any pain.  If I
+accidentally put stress on the cut it hurts, but otherwise there's only a slight
+soreness.  Whereas a papercut is agony.
+
+
+## Link Roundup
+
+### Roleplaying games
+
+- [The Problem with Sci-Fi Body Armor](https://acoup.blog/2024/11/29/collections-the-problem-with-sci-fi-body-armor/)
+
+### Software engineering
+
+- [Kubernetes on Hetzner](https://bilbof.com/posts/kubernetes-on-hetzner)
