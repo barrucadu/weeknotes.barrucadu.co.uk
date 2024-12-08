@@ -1,0 +1,87 @@
+---
+date: 2024-12-08
+---
+
+## Books
+
+This week I read:
+
+- [Sword Worlds][] from Mongoose Publishing
+
+  I seem to be working through all my unread RPG books at the moment.  The Sword
+  Worlds Confederation is full of space vikings, or at least that's the
+  stereotype.  It's an interesting region with a lot going on politically, and
+  seems like it would be a good setting for an adventure.
+
+[Sword Worlds]: https://www.mongoosepublishing.com/products/sword-worlds
+
+
+## Roleplaying Games
+
+### The Halls of Arden Vul
+
+After a disastrous near-party-wipe last week, we played it pretty safe this
+session.  We spent most of the time politicking but did get some adventuring in
+at the end.  The party are currently clearing an area full of magical ice and
+snow, and have killed 6 ice-ghouls with ease.
+
+We ended the session with them about to charge into battle with the ice
+elemental trapped here: if they can destroy it, they'll end the magical freeze,
+and more easily search and loot the place.
+
+
+## Akkadian
+
+I'm still working my way through my "Advent of Ištar": now over half done and
+being shared [on the fediverse][].
+
+Once I'm finished I'll put the whole thing up, along with commentary, [on my
+website][].
+
+[on the fediverse]: https://hacksrus.xyz/users/barrucadu
+[on my website]: https://www.barrucadu.co.uk/akkadian/
+
+
+## Miscellaneous
+
+There's a lot of health things going on lately!
+
+### Finger
+
+The bandage for my finger ([which I cut last week][]) comes off tomorrow.  I
+have surprisingly mixed feelings about it.
+
+On the one hand I can tell it's healing well because I have almost full movement
+back without pain (to be clear, there was no ligament or tendon damage, the pain
+comes from putting stress on the cut, not from the "mechanics" of the finger
+being off), but on the other there is still some pain... What if it's healed
+less than expected and I just have to cover it up again (or worse, accidentally
+re-open the cut)?  What if it's actually fully closed up and I just have this
+sore spot?
+
+I still feel pretty stupid about the whole thing.  Holding a potato as you're
+cutting it is obviously a bad idea!  It's a bad idea I've got away with for many
+years, but it only takes one mistake, one slip, one instance of using a little
+too much force...
+
+I'm sure it'll be fine, but there's just a little anxiety.  It also doesn't help
+that I had an allergic reaction to the adhesive on the tape used to hold the
+bandage onto my finger, so the base of my finger developed a gross rash which is
+healing quite slowly.
+
+[which I cut last week]: notes/322.html
+
+### Teeth
+
+A few weeks ago [I went to the dentist for the first time in several years][].
+Since then I've had the staining on my teeth cleaned, learned that I have
+gingivitis and need to floss to keep it at bay, had two fillings, and have had
+appointments for more fillings and a wisdom tooth extraction scheduled for next
+week.  I also have a chipped tooth that will need a root canal and a crown.
+
+It's been a real pain (both physically and metaphorically), but the end is in
+sight (I think).
+
+I'm really not looking forward to the wisdom tooth extraction.
+
+[I went to the dentist for the first time in several years]: notes/320.html
