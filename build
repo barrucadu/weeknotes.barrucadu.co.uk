@@ -3,15 +3,16 @@
 """build
 
 Usage:
-  build [--drafts] [--cache=<dir>] [--out=<dir>] [--root=<url>]
+  build [--drafts] [--wip-summaries] [--cache=<dir>] [--out=<dir>] [--root=<url>]
   build (-h | --help)
 
 Options:
-  -h --help       Show this screen.
-  --drafts        Include draft notes as well.
-  --cache=<dir>   Directory to cache generated HTML in [default: _cache]
-  --out=<dir>     Directory to generate site in [default: _site]
-  --root=<url>    Root of the website [default: https://weeknotes.barrucadu.co.uk/]
+  -h --help        Show this screen.
+  --drafts         Include draft notes as well.
+  --wip-summaries  Include summaryn pages (proof-of-concept).
+  --cache=<dir>    Directory to cache generated HTML in [default: _cache]
+  --out=<dir>      Directory to generate site in [default: _site]
+  --root=<url>     Root of the website [default: https://weeknotes.barrucadu.co.uk/]
 
 """
 
@@ -19,6 +20,7 @@ import hashlib
 import jinja2
 import json
 import pypandoc
+import re
 import shutil
 import subprocess
 import sys
@@ -33,6 +35,7 @@ args = docopt(__doc__)
 OUT_DIR = args["--out"]
 BASE_HREF = args["--root"]
 DRAFT_MODE = args["--drafts"]
+WIP_SUMMARIES = args["--wip-summaries"]
 CACHE_DIR = args["--cache"]
 
 JINJA2_ENV = jinja2.Environment(
@@ -42,12 +45,13 @@ JINJA2_ENV = jinja2.Environment(
 
 SITE_NAME = "barrucadu's weeknotes"
 NOTE_DIR = "notes"
+SUMMARY_DIR = "summaries"
 
 DATE_ISO_FORMAT = "%Y-%m-%d"
 DATE_PP_FORMAT = "%b %-d, %Y"
 
 
-def pandocise_note(link, text):
+def pandocise(link, text, context=None, id_prefix=""):
     """Render a note's content using pandoc."""
 
     text_hash = hashlib.sha256()
@@ -68,17 +72,22 @@ def pandocise_note(link, text):
                 "--no-highlight",
                 "--section-divs",
                 "--wrap=none",
+                f"--id-prefix={id_prefix}",
             ],
         )
 
         # this can't be done as a pandoc filter sadly, because the footnote
         # links don't exist when the filter runs
         html = html.replace('href="#fn', f'href="{link}#fn')
+        # the id-prefix doesn't change this
+        html = html.replace('id="footnotes"', f'id="{id_prefix}footnotes"')
 
         try:
             cache_file.write_text(json.dumps({"html": html}))
         except OSError as err:
-            print(f"could not cache generated HTML for {link}: {err.strerror}")
+            print(
+                f"could not cache generated HTML for {link} ({context}): {err.strerror}"
+            )
 
         return html
 
@@ -125,12 +134,55 @@ for fpath in Path("notes").iterdir():
 
     # render the body
     note["text"] = "\n".join(lines[text_start_idx:])
-    note["body"] = pandocise_note(note["link"], note["text"])
+    note["body"] = pandocise(note["link"], note["text"])
 
     if note.get("draft", False) and not DRAFT_MODE:
         continue
     ALL_NOTES.append(note)
 ALL_NOTES.sort(key=lambda note: note["date"], reverse=True)
+
+ALL_SUMMARIES = []
+if WIP_SUMMARIES:
+    ALL_SECTIONS = {}
+    for note in ALL_NOTES:
+        header = None
+        lines = []
+        for l in note["text"].splitlines():
+            if l.startswith("## "):
+                if header is not None:
+                    ALL_SECTIONS.setdefault(header, []).append((note, "\n".join(lines)))
+                header = l[3:]
+                lines = []
+            else:
+                lines.append(l)
+        if header is not None:
+            ALL_SECTIONS.setdefault(header, []).append((note, "\n".join(lines)))
+
+    for name, entries in ALL_SECTIONS.items():
+        summary = {}
+        summary["title"] = name
+        summary["slug"] = re.sub(r"[\W_]+", "-", summary["title"].lower())
+        summary["link"] = f"{SUMMARY_DIR}/{summary['slug']}.html"
+        summary["permalink"] = f"{BASE_HREF}{summary['link']}"
+        summary["most_recent_note"] = entries[0][0]
+        summary["body"] = "\n".join(
+            [
+                pandocise(
+                    summary["link"],
+                    "\n".join(
+                        [
+                            f"## {note['title']}",
+                            "",
+                            text,
+                        ]
+                    ),
+                    context=f"note {note['slug']}",
+                    id_prefix=f"{note['slug']}-",
+                )
+                for note, text in entries
+            ]
+        )
+        ALL_SUMMARIES.append(summary)
 
 prev = None
 for note in reversed(ALL_NOTES):
@@ -146,6 +198,7 @@ for note in reversed(ALL_NOTES):
 shutil.rmtree(OUT_DIR, ignore_errors=True)
 shutil.copytree("static", OUT_DIR, dirs_exist_ok=True)
 Path(OUT_DIR, NOTE_DIR).mkdir(exist_ok=True)
+Path(OUT_DIR, SUMMARY_DIR).mkdir(exist_ok=True)
 
 HASHED_LINKS = {}
 for fpath in Path("hashed-static").iterdir():
@@ -166,7 +219,11 @@ for fpath in Path("hashed-static").iterdir():
 
 
 render("robots.txt", "robots.txt")
-render("sitemap.xml", "sitemap.xml", notes=ALL_NOTES)
+
+# add summaries to sitemap if I decide to keep them
+permalinks = [note["permalink"] for note in ALL_NOTES]
+# permalinks += [summary["permalink"] for summary in ALL_SUMMARIES] -
+render("sitemap.xml", "sitemap.xml", permalinks=permalinks)
 
 render("index.html", "index.html", title=SITE_NAME, notes=ALL_NOTES)
 render(
@@ -179,3 +236,7 @@ render(
 
 for note in ALL_NOTES:
     render(note["link"], "note.html", title=note["title"], note=note)
+
+# summaries are only generated if WIP_SUMMARIES is set
+for summary in ALL_SUMMARIES:
+    render(summary["link"], "summary.html", title=summary["title"], summary=summary)
