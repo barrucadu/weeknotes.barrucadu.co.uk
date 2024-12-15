@@ -1,0 +1,147 @@
+---
+date: 2024-12-15
+---
+
+## Books
+
+This week I read:
+
+- [Stories of Mars][] by Edgar Rice Burroughs
+
+  Which contains the first three Barsoom stories: *A Princess of Mars*, *The
+  Gods of Mars*, and *The Warlord of Mars*.  It's incredible, this is pulp and
+  planetary romance at its finest.  The main characters are hyper-competent,
+  honourable, likeable, and constantly tricked by the villains, who are
+  sinister, selfish, and evil.  A hero is more likely to be enslaved or
+  imprisoned than killed, just so they get to dramatically escape in the nick of
+  time.
+
+  It's not concerned with questions like "*will* John Carter, Gentleman of
+  Virginia, manage to rescue Dejah Thoris, Princess of Helium, from the camp of
+  the Green Martian warband and make it to safety?", it's more *how* will he do
+  it, *how badass will it be*, *will he steal a flying machine and have a cool
+  sky-battle during the rescue*, and that sort of thing.
+
+  I devoured the book in just a few days, and immediately bought [the
+  roleplaying game][] which I hope to bring to the table for a one-shot some
+  time soon.
+
+[Stories of Mars]: https://en.wikipedia.org/wiki/Barsoom
+[the roleplaying game]: https://modiphius.net/collections/john-carter-of-mars
+
+
+## Roleplaying Games
+
+### The Halls of Arden Vul
+
+The party took out the ice elemental and its ghoul minions easily enough, and
+then commenced to thoroughly loot the place.  Amongst all the treasure they
+found a few notes providing clues to an old mystery they never fully
+resolved... will they revisit it?
+
+I hope so, but say one thing about Arden Vul: there's always something else to
+do.
+
+In my session prep, when I was reviewing all the varumani's data crystals, I
+decided that the thegn would reward the players richly for what they've done.
+They brought him a non-crazy rudishva who claims to be able to reverse the
+varumani degeneration, they brought him a means of viewing their ancient
+records, they brought him a tape of the legendary First Thegn, and furthermore
+their now-viewable ancient records back up what this rudishva is saying.
+
+So he called them into a private meeting and named them "Friends of the
+Varumani".  No longer merely "Triv-Lok's retainers" they had earned his respect
+all by themselves.  He asked them to name any reward that was in his power to
+grant, and they asked for... free use of the lifts.  Which is something I
+considered, and explicitly rejected, in my prep.  It's barely a pittance, it
+saves several gold every few days and they're incredibly rich.
+
+But I guess the players just don't want to have to carry loose change...
+
+
+## Akkadian
+
+I finished the translation part of my [Advent of Ištar][]!  I then took the rest
+of the week off (other than keeping up with Anki).  On the whole I quite like
+the poem.  The grammar and spelling was weird in parts, but my hypothesys of
+line-breaks conveying useful information worked out and so I was able to get
+through it all faster than expected.
+
+Next week I'll compare my translation with existing ones and see where I went
+wrong, as there are some bits I'm *definitely* not certain on.
+
+After that I'll write a blog post about the project, and put together something
+like the annotated line-by-line [Ea-Nāṣir translation][] to go [on my
+website][].  Then back to studying, I guess.  I'll need to pick a new big
+translation project, as I do much prefer actually translating things to just
+studying grammar.
+
+[Advent of Ištar]: https://hacksrus.xyz/users/barrucadu
+[Ea-Nāṣir translation]: https://www.barrucadu.co.uk/akkadian/ea-nasir.html
+[on my website]: https://www.barrucadu.co.uk/akkadian/
+
+
+## Miscellaneous
+
+### Geodistributing my website (+ website changes)
+
+I did a cool little project this week: I set up a mirror of barrucadu.co.uk in
+America, and configured GeoDNS to route American visitors to that instance (and
+the rest of the world to the Europe server).
+
+I wrote a blog post about it: [Geodistributing my Website (with GeoDNS and NixOS)][]
+
+But wait, I don't have a blog!  As a secondary project I added blog posts, an
+atom feed, and markdown support to my website, as well as a bunch of template
+changes (mostly around making it a bit more colourful).  I'm planning to write a
+post about the Advent of Ištar when that's done, but I probably won't write more
+than one or two posts a year, based on past experience.
+
+[Geodistributing my Website (with GeoDNS and NixOS)]: https://www.barrucadu.co.uk/posts/2024/12/geodistribution.html
+
+### Finger
+
+I was quite anxious [last week][] about the potential state of my finger, but
+it's healing well.  When I took the bandage off it was covered in a huge scab,
+but that's mostly flaked off over the week, with just a small bit left at one
+end of the cut.  I realised, too, that the pain I felt from flexing the finger
+was actually due to the scab digging into the flesh, and that's gone now.
+
+So there's still a bit to heal before the cut is fully closed, but it's nearly
+there now.
+
+I've definitely lost some sensitivity on the side of the finger above the cut,
+though that may be temporary: at the beginning of the week it was almost totally
+numb, but now I feel a weird tingling when I touch it.  I guess time will tell
+whether that's permanent.
+
+[last week]: notes/323.html
+
+### Teeth
+
+This week I was due to have a root canal and a wisdom tooth extraction, both of
+which went way better than expected.
+
+The root canal got aborted, as when the dentist got in there he found the decay
+was less severe than expected, so he just did a regular filling instead.
+
+The wisdom tooth extraction was apparently a fairly complicated one, and the
+dentist kept having to inject me with more anaesthetic as I kept feeling it, but
+in the end I didn't feel a thing when the tooth came out and, while it was
+fairly sore for the rest of the day and I'm still eating soft foods, there
+hasn't been much in the way of after-effects.  No swelling, no pain, just a bit
+of soreness.  The strangest part is that I can *feel* the gap.  You don't really
+feel your teeth, but you can really feel when one is freshly gone.
+
+Next week I have no dental work (to give the extraction site time to heal), then
+I'm getting one final (I think) filling on the 23rd.
+
+Look after your teeth!
+
+
+## Link Roundup
+
+### Software engineering
+
+- [Homelab: Setting up Caddy Reverse Proxy with SSL on NixOS](https://aottr.dev/posts/2024/08/homelab-setting-up-caddy-reverse-proxy-with-ssl-on-nixos)
+- [Building a Tiny CDN With pyinfra and Chimera Linux](https://www.wezm.net/v2/posts/2024/tiny-cdn/)
