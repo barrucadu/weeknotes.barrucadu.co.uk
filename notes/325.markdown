@@ -1,0 +1,90 @@
+---
+date: 2024-12-22
+---
+
+## Books
+
+This week I read:
+
+- [John Carter of Mars: Adventures on the Dying World of Barsoom][] from Modiphius Publishing
+
+  I picked this up after tearing through the first three Barsoom novels last
+  week and it sounds like a lot of fun!  I've heard of Modiphius's 2d20 system
+  before, and I've also heard that while it's very good at pulp it's kind of
+  clunky, so I was glad to see that this game is using a *simplified* version of
+  the system.  It does seem like it's got the right amount of mechanical crunch
+  to it: enough to sink your teeth into, but not so much it gets in the way of
+  fast-paced hijinks.  I'm going to run the included adventure as a one-shot for
+  my Sunday group some time.
+
+[John Carter of Mars: Adventures on the Dying World of Barsoom]: https://modiphius.net/collections/john-carter-of-mars
+
+
+## Roleplaying Games
+
+### The Halls of Arden Vul
+
+![A Tube-style map of the rudishva domain.](notes/325/rudishva-domain.png)
+
+The players wanted to check out the Transit Shaft this week, so in my session
+prep I put together a Tube-style map of the rudishva domain: teleporters, the
+Transit Shaft, the Great Pillar, and direct foot routes between those stops.
+Here's [the draw.io source](notes/325/rudishva-domain.drawio).[^tmac]
+
+[^tmac]: I was a bit surprised I couldn't find some sort of transit-map-as-code
+  tool that didn't need me to specify the exact positions of everything.  I
+  expected there to be something that let me specify the graph of points and
+  routes, along with some basic grouping logic, and it would figure out a good
+  map for me.  Maybe a future project...
+
+Between sessions we ran some downtime over Discord, which we've not done before
+but which worked out great as the party had several zero-risk admin things they
+wanted to get done that could have easily eaten up half a session.  So when game
+time arrived we were ready to get straight to adventuring.
+
+This week the players focussed on the rudishva areas.  Last time they found a
+*Bowl of Commanding Water Elementals*, a very potent magic item, and they
+decided to go check out the Residential Pod of the Beacon, using a summoned
+water elemental to clear out the malignant slimes.  So they were able to get
+through that easily enough and find some good loot (including a few---almost
+totally depleted---laser weapons!), then they went off to the Transit Shaft to
+try to find a way beyond the Obsidian Gates.
+
+We ended the session with them stumbling upon an intense three-way magical
+battle in the Engine Pod of the Beacon.  I've run the battle now and know who
+wins, but is it the faction the players wanted to win?  I guess we'll see...
+
+
+## Akkadian
+
+I wrote [a blog post about Advent of Ištar][], and after the Christmas break
+I'll put together a line-by-line annotated translation, similar to what I did
+for the [Ea-Nāṣir translation][].
+
+[a blog post about Advent of Ištar]: https://www.barrucadu.co.uk/posts/2024/12/ishtar.html
+[Ea-Nāṣir translation]: https://www.barrucadu.co.uk/akkadian/ea-nasir.html
+
+
+## Miscellaneous
+
+### Finger
+
+It's nearly recovered now.  The scab is all gone, the cut is fully closed.
+There is a bit of a scar at the moment but I'm not sure how visible it will be,
+as the skin is still healing.  I was having some issues with not being able to
+curl it as tightly as the rest of my fingers, but as the skin has healed more
+flexibility has come back, and it's got almost full movement back now so I
+expect that to totally recover.
+
+There's been no change to the loss of sensitivity this week, so that doesn't
+seem likely to heal any time soon.  I might have permanently numbed it, though
+that's much less severe than the other potential complications.
+
+### Caves of Qud
+
+![Caves of Qud](notes/325/caves-of-qud.jpg)
+
+I picked up [Caves of Qud][] and it's a lot of fun, go check it out!  I am very
+bad at it.
+
+[Caves of Qud]: https://www.cavesofqud.com/
