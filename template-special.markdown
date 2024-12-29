@@ -26,7 +26,7 @@ This year I read *N* books:
 - *category*
   - *books*
 
-My top three books read in *YYYY* are:
+My top three reads of *YYYY* are:
 
 - **title**
 

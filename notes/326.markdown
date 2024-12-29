@@ -1,0 +1,463 @@
+---
+annual_special_for: 2024
+date: 2024-12-29
+---
+
+Another year has gone by, making it time for the Big Weeknote once again.
+
+## Work
+
+I'm still working for [GoCardless][], but early this year I got promoted to
+Senior Developer.
+
+This was very timely as it was approaching the two-year mark since I joined, and
+I was planning to start looking for a new (and more highly paid) job if a
+promotion didn't seem imminent: so well done GoCardless, you kept hold of me!
+The next step up from Senior to Principal is a big one so I think I'll be in
+this role for a while, but it's fairly well paid (and better than the offers I
+get spammed with on Linkedin) so I'm happy for the time being.
+
+I changed teams as part of that and I'm now on a much more merchant-facing team,
+whereas before I was largely working on the internals consumed by other teams.
+So there's been an adjustment, but it's nice to get to learn different areas of
+the codebase and different parts of the business.
+
+I'm currently leading development of a long sought-after feature that we're
+planning to launch in the near future (we've got some beta testers using it
+already).  I won't go into detail now, but it's technically interesting and has
+involved a lot of fairly fundamental internal changes, breaking assumptions that
+have been in place from the beginning, which is a fun challenge to navigate.
+
+Also this year the last project I led on my previous team got launched.  Our
+internal payouts process used to run at 11:00 UK time (this isn't a secret, it's
+[in the documentation][] and it's also when merchants get the majority of their
+webhooks) but now it's fully localised: meaning the pipeline can be scheduled in
+the local time of the destination currency.  This means payouts can be submitted
+to the banks based on local scheme cutoff times (without needing to manually
+adjust the pipeline time as, say, Australian time deviates from UK time across
+the year) which means merchants receive their money a day faster, for some
+currencies.
+
+This wasn't just a matter of updating a crontab, there's a lot of time and date
+logic in the pipeline and in related jobs that we had to review and change.
+
+The rollout happened while I was on holiday in Japan so sadly I didn't get to
+press the metaphorical big red button, but it went off without a
+hitch---Australian payouts are now localised to Sydney time---and the groundwork
+laid for ongoing improvements to payout speed.
+
+[GoCardless]: https://gocardless.com/
+[in the documentation]: https://gocardless.com/legal/payment-timings/
+
+## Finance
+
+Another year of gradual progress: consistency, that's the key.
+
+Though this has been an expensive year in some respects.  I had my three-week
+holiday in Japan (which I largely saved up for in 2023, but then spent all the
+money this year), and more recently I've spent £1340 on dental care as I
+*finally* started seeing a dentist again after a gap of several years and had to
+have a bunch of work done.
+
+Given those extra expenses, my FIRE number has gone up significantly this year,
+and my "runway"---how long it'd take to run out of money if I quit my job right
+now and just lived off the current cash and investments, at today’s market
+value, with no lifestyle changes at all---is still a little below 5 years, the
+same as this time last year.
+
+But with next year's forecasted expenses, those numbers improve significantly.
+
+I plan to make two changes in 2025:
+
+- I want to increase my cash savings a bit, particularly for healthcare, as my
+  existing health budget of £200 (enough to cover sundries like toothpaste,
+  mouthwash, the occasional pills for headache or hayfever, etc) was woefully
+  inadequate.
+
+- I also want to build a small emergency fund for other surprises that aren't
+  covered by (or significantly exceed) an existing budget category.
+
+I used to have an emergency fund, but [I ditched it in 2021][ef].  Part of the
+reason I got rid of it was so I could invest that cash, but my income now is
+such that building an emergency fund won't prevent me from using up my whole ISA
+allowance, so saving that extra cash (rather than pumping it straight into a GIA
+or a SIPP) is an acceptable tradeoff.
+
+[ef]: notes/171.html#finance
+
+## Reading
+
+This year I read 92 books, significantly up from last year, though a bunch of
+that was manga which is much quicker to get through.  The number doesn't really
+matter.
+
+I'm also up to 998 books in bookdb, with 2 more arriving in the next few days!
+Wow, 1000 books!  This year saw some expansion of my (still small) nonfiction
+section, as well as a lot of books (mostly fiction) being thrown out due to
+space considerations.  I don't much like getting rid of a book, but there were
+some that I was just never going to read, and space is at a premium.
+
+This year I also [got rid of the percentage-read stat from bookdb][numread], as
+it made me feel bad about not reading reference books cover-to-cover (and hence
+being "unread" forever).
+
+Here's what I read:
+
+- [Light Novels + Manga](https://bookdb.barrucadu.co.uk/search?keywords=&person=&location=&match=&category=a3bbb1c6-5ff8-4ddf-81f4-820593a2a5ff)
+  - Volumes 1 to 10 of [Frieren: Beyond Journey's End](https://en.wikipedia.org/wiki/Frieren) by Kanehito Yamada & Tsukasa Abe
+  - Volumes 17 & 18 of [That Time I Got Reincarnated as a Slime](https://en.wikipedia.org/wiki/That_Time_I_Got_Reincarnated_as_a_Slime) by Fuse
+  - Volumes 13 & 14 of [Delicious in Dungeon](https://en.wikipedia.org/wiki/Delicious_in_Dungeon) by Ryoko Kui
+  - Volumes 1 to 6 of [Death Note: Black Edition](https://en.wikipedia.org/wiki/Death_Note) by Tsugumi Ohba & Takeshi Obata
+  - Volume 10 of [The Disappearance of Nagato Yuki-chan](https://en.wikipedia.org/wiki/The_Disappearance_of_Nagato_Yuki-chan) by Nagaru Tanigawa & PUYO
+  - Volumes 1 to 6 of [Girls' Last Tour](https://en.wikipedia.org/wiki/Girls%27_Last_Tour) by Tsukumizu
+  - Volumes 1 to 12 of [20th Century Boys: The Perfect Edition](https://en.wikipedia.org/wiki/20th_Century_Boys) by Naoki Urasawa
+  - Volumes 1 & 2 of [Planetes](https://en.wikipedia.org/wiki/Planetes) by Makoto Yukimura
+- [Nonfiction / History](https://bookdb.barrucadu.co.uk/search?keywords=&person=&location=&match=&category=6e7ffdc5-9571-43b3-800b-6e9fc0e0bb92)
+  - [Mystery Cults in the Ancient World](https://www.goodreads.com/book/show/123028454-mystery-cults-in-the-ancient-world) by Hugh Bowden
+  - [cuneiform](https://www.britishmuseumshoponline.org/cuneiform.html) by Irving Finkel & Jonathan Taylor
+  - [The Ark Before Noah: Decoding the Story of the Flood](https://www.theguardian.com/books/2014/feb/13/ark-before-noah-irving-finkel-review) by Irving Finkel
+  - [The First Ghosts: Most Ancient of Legacies](https://www.lrb.co.uk/the-paper/v44/n02/moudhy-al-rashid/roaming-malicious-hooligan-ghosts) by Irving Finkel
+- [Prose Fiction + Graphic Novels](https://bookdb.barrucadu.co.uk/search?keywords=&person=&location=&match=&category=590ac55d-0644-4a71-b902-587faa5b03d9)
+  - [From the Abyss: Weird Fiction, 1907-1945](https://www.handheldpress.co.uk/shop/fantasy-and-science-fiction/d-k-broster-from-the-abyss/) by D. K. Broster
+  - [Stories of Mars](https://en.wikipedia.org/wiki/Barsoom) by Edgar Rice Burroughs
+  - [The Hammer of God](https://en.wikipedia.org/wiki/The_Hammer_of_God_(Clarke_novel)) by Arthur C. Clarke
+  - [American Psycho](https://en.wikipedia.org/wiki/American_Psycho) by Bret Easton Ellis
+  - [Worlds of Exile and Illusion](https://www.ursulakleguin.com/worlds-of-exile-and-illusion) by  Ursula Le Guin
+  - [The Man Who Sold The Moon & Orphans Of The Sky](https://www.goodreads.com/book/show/16130451-man-who-sold-the-moon-orphans-of-the-sky) by Robert A. Heinlein
+  - [Twin Spirits: The Complete Weird Stories of W. W. Jacobs](https://www.goodreads.com/book/show/40642221-twin-spirits) by W. W. Jacobs
+  - [Weird Tales: 100 Years of Weird](https://www.weirdtales.com/100th) edited by Jonathan Maberry
+  - [Perdido Street Station](https://en.wikipedia.org/wiki/Perdido_Street_Station) by China Mieville
+  - [Lud-in-the-Mist](https://en.wikipedia.org/wiki/Lud-in-the-Mist) by Hope Mirrlees
+  - [Hawkmoon: Count Brass](https://www.goodreads.com/book/show/21109987-hawkmoon) by Michael Moorcock
+  - [Von Bek](https://www.goodreads.com/book/show/18683073-von-bek) by Michael Moorcock
+  - [Blue Mars](https://en.wikipedia.org/wiki/Mars_trilogy) by Kim Stanley Robinson
+  - [Dämoren](https://skorkowsky.com/daemoran/) by Seth Skorkowsky
+  - [Hounancier](https://skorkowsky.com/hounacier/) by Seth Skorkowsky
+  - [Ibenus](https://skorkowsky.com/ibenus/) by Seth Skorkowskyy
+  - [Redemptor](https://skorkowsky.com/redemptor/) by Seth Skorkowsky
+  - [The Silmarillion](https://en.wikipedia.org/wiki/The_Silmarillion) by J. R. R. Tolkien
+  - [The Complete Lyonesse](https://en.wikipedia.org/wiki/Lyonesse_Trilogy) by Jack Vance
+  - [The Southern Reach Trilogy: Area X](https://en.wikipedia.org/wiki/Southern_Reach_Trilogy) by Jeff VanderMeer
+  - [Strange Relics: Stories of Archaeology and the Supernatural, 1895-1954](https://www.handheldpress.co.uk/shop/fantasy-and-science-fiction/strange-relics-stories-of-archaeology-and-the-supernatural/) edited by Amara Thornton & Katy Soar
+  - [Kingdoms of Elfin](https://www.handheldpress.co.uk/shop/fantasy-and-science-fiction/sylvia-townsend-warner-kingdoms-of-elfin/) by Sylvia Townsend Warner
+  - [Of Cats and Elfins](https://www.handheldpress.co.uk/shop/fantasy-and-science-fiction/sylvia-townsend-warner-of-cats-and-elfins-short-tales-and-fantasies/) by Sylvia Townsend Warner
+  - [The Best of Roger Zelazny](https://www.goodreads.com/book/show/62125571-the-best-of-roger-zelazny) by Roger Zelazny
+- [RPG](https://bookdb.barrucadu.co.uk/search?keywords=&person=&location=&match=&category=cf921942-f65a-40e3-8e98-2f565bb8d033)
+  - For [ALIEN](https://freeleaguepublishing.com/games/alien/) from Free League Publishing:
+    - ALIEN: Starter Set
+    - Building Better Worlds
+  - For [Delta Green](https://www.delta-green.com/) from Arc Dream Publishing
+    - A Night at the Opera
+    - Black Sites
+    - Control Group
+    - The Conspiracy
+  - For [Ironsworn](https://tomkinpress.com/) by Shawn Tomkin:
+    - Ironsworn: A Tabletop RPG of Perilous Quests
+    - Ironsworn Delve: Perilous Expeditions for the Ironsworn RPG
+    - Ironsworn Lodestar: A Reference Guide for the Ironsworn RPG
+    - Ironsworn Starforged
+  - For [The One Ring](https://freeleaguepublishing.com/games/the-one-ring/) from Free League Publishing:
+    - Moria: Through the Doors of Durin
+    - Ruins of the Lost Realm
+    - Tales from the Lone Lands
+    - Rivendell
+    - The One Ring: Roleplaying in the world of The Lord of the Rings
+    - The One Ring: Starter Set
+  - For [Traveller](https://www.mongoosepublishing.com/collections/traveller-rpgs) from Mongoose Publishing
+    - The Marches Adventures 1 - 5
+  - [Into the Wyrd and Wild](https://www.drivethrurpg.com/en/product/274922/into-the-wyrd-and-wild-revised-edition) by Charles Ferguson-Avery
+  - [John Carter of Mars: Adventures on the Dying World of Barsoom](https://modiphius.net/collections/john-carter-of-mars) from Modiphius Publishing
+  - Issue 4 of [Knock!: An Adventure Gaming Bric-a-brac](https://www.kickstarter.com/projects/896102915/knock-issue-four) from The Merry Mushmen
+  - [Occam's Razor: Seven Modern Era Adventures of Mystery and Death](https://www.drivethrurpg.com/en/product/362442/occam-s-razor-an-anthology-of-modern-day-call-of-cthulhu-scenarios) by Brian M. Sammons
+
+My top three reads of 2024 are:
+
+- **Frieren**
+
+  Ok, ok, this is a series, which is a bit of a cheat.  But it's just so good I
+  would be remiss not to include it.  The eponymous Frieren is a
+  thousand-year-old elven mage, the story is set after her and her adventuring
+  party completed their 10-year quest to defeat the dark lord and save the
+  world.  The defining event of a lifetime for some; a short errand for Frieren.
+  The story touches on the passage of time, loss, and how sometimes you only
+  realise you didn't spend enough time with someone until it's too late.
+
+  There is also a fantastic anime adaptation (with a great soundtrack) which
+  covers up to part way through volume 7, and I hope there'll be more.
+  
+- **Lyonesse**
+
+  I'd previously read Jack Vance's *Tales of the Dying Earth* and knew
+  *Lyonesse* was considered right up there in terms of quality, and it is.  It
+  may not be that well-known now, but at least in the sphere of fantasy
+  roleplaying games it's one of the major influential works.  It's very
+  Arthurian, explicitly so (the round table of the kings of Lyonesse is noted to
+  serve as the inspiration for King Arthur's table), and very fairytale.
+  
+  It would make great game material as while there is a "main quest" throughout
+  the whole work, things also just happen to major characters and waylay them
+  for years at a time as they're trapped inside a fairy forest, or need to save
+  some child slaves from an ogre, or whatever.
+  
+  Fun fact: [Lyonesse is a "real" mythological sunken island][atlantis]!
+  
+- **Delta Green: The Conspiracy**
+
+  This sourcebook for the '90s has totally changed the next campaign I want to
+  run.  I was planning some King in Yellow-esque horror based on the *Impossible
+  Landscapes* campaign but it was looking like quite a lot of work, as I really
+  dislike the latter half of *Impossible Landscapes* so I was changing
+  everything.  Also, *Impossible Landscapes* is a bit of an atypical campaign
+  that plays with free will and apparently works best with players already
+  somewhat familiar with your typical Delta Green campaign, which mine aren't.
+  So the more I got into it, the more it seemed like not a great fit.
+  
+  Reading *The Conspiracy* inspired me to run a much more traditional campaign
+  focussing on UFOs and the fight against MAJESTIC and the Greys.  I have [a
+  rough outline planned][nextgame], and will flesh it out some more before we
+  start.
+
+[atlantis]: https://en.wikipedia.org/wiki/Lyonesse
+[nextgame]: notes/321.html#the-next-campaign
+[numread]: https://github.com/barrucadu/bookdb/pull/382
+
+## Tech
+
+This year I [finally gave up the pretence that I dual-boot azathoth][azathoth],
+and removed the NixOS drive.  I'm now fully on Windows 11 for desktop computing:
+much of what I do is done through a web browser (which is OS independent) or a
+terminal (which I get by SSHing into nyarlathotep or carcosa), and games and
+media make up a large portion of the rest, which just work better on Windows.
+
+2024 was not the Year of the Linux Desktop.
+
+Other than that:
+
+- I migrated all my static sites from docker-based build scripts to Nix flakes.
+  Having the custom pre-built docker image doesn't actually save that much time
+  compared to Nix just fetching all the dependencies on build, and adds
+  significant complexity.
+
+- A lightbulb went on inside my head and I realised I could use
+  [barrucadu.co.uk][] for more than a boring portfolio, so it's now much more
+  fun.
+
+- I [swapped out][ps2vm] [promscale][] for [VictoriaMetrics][] for my personal
+  finance dashboard.  Unfortunately support for promscale was discontinued in
+  2023, and it had developed an annoying habit of losing data, so I had no
+  choice to move.
+
+- I rewrote [bookdb][bookdbrs] and [bookmarks][bookmarksrs] again, in Rust this
+  time (and then later did a couple of smaller rewrites changing the web stack
+  from [actix-web][] to [axum][]).  Now they're entirely self-contained binaries
+  that don't need template files or any other resources to function; just the
+  system libraries and an elasticsearch instance.
+
+- I [switched from][rtf2ts] [rtorrent][] & [flood][] to [transmission][].  I've
+  used rtorrent for many years and like it a lot, but it was really starting to
+  struggle with the number of torrents, there was some issue where the XMLRPC
+  socket would break after a few hours and so I couldn't control it without
+  restarting the process.
+
+- I [geodistributed my static sites between Europe and the US][geo].  This was a
+  pretty cool little project, you should go read the blog post.
+
+- I [switched from][dp2rs] [duplicity][] to [restic][] for backups (and moved
+  files from AWS S3 to Backblaze B2 while I was at it).  This is significantly
+  cheaper, and much easier to use: I actually have confidence that restoring
+  arbitrarily-old backups works now (because I've tried it).
+
+But otherwise things are pretty much the same.  [NixOS][] is still great for
+servers (and for desktops too, it's just more convenient to not dual-boot),
+[Emacs][] is a great text editor, [Firefox][] a great web browser, and
+[Obsidian][] a great note-taking tool.
+
+I might put [a "uses" page][uses] up on barrucadu.co.uk...
+
+No big plans for next year, though I've hit a point where I can't upgrade
+Windows on azathoth any more due to the motherboard being too old (it doesn't
+have a TPM), so I *might* rebuild azathoth but I'm not totally sure as it still
+works just fine.
+
+[azathoth]: https://github.com/barrucadu/nixfiles/pull/281
+[barrucadu.co.uk]: https://www.barrucadu.co.uk/
+[ps2vm]: https://github.com/barrucadu/nixfiles/pull/305
+[promscale]: https://github.com/timescale/promscale/issues/1836
+[VictoriaMetrics]: https://victoriametrics.com/
+[bookdbrs]: https://github.com/barrucadu/bookdb/pull/299
+[bookmarksrs]: https://github.com/barrucadu/bookmarks/pull/535
+[actix-web]: https://actix.rs/
+[axum]: https://github.com/tokio-rs/axum
+[rtf2ts]: https://github.com/barrucadu/nixfiles/pull/295
+[rtorrent]: http://rakshasa.github.io/rtorrent/
+[flood]: https://flood.js.org/
+[transmission]: https://transmissionbt.com/
+[geo]: https://www.barrucadu.co.uk/posts/2024/12/geodistribution.html
+[dp2rs]: https://github.com/barrucadu/nixfiles/pull/257
+[duplicity]: https://duplicity.gitlab.io/
+[restic]: https://restic.net/
+[NixOS]: https://nixos.org/
+[Emacs]: https://www.gnu.org/software/emacs/
+[Firefox]: https://www.mozilla.org/en-GB/firefox/
+[Obsidian]: https://obsidian.md/
+[uses]: https://uses.tech/
+
+## Gaming
+
+This year I fully drifted away from my Saturday group, [a process which began
+last year](notes/276.html#gaming).  The straw that broke the camel's back was a
+very long hiatus (caused by the primary GM having to leave the group) combined
+with a succession of games that just didn't interest me.
+
+- **Sunday Group**
+  - **Run:** Old School Essentials, The One Ring, Black Sword Hack (one-shot), RuneQuest (one-shot), ALIEN (one-shot)
+  - **Played:** Troika, Ironsworn: Starforged
+
+  Somewhat confusingly, this group now has a regular Friday game too: one of the
+  original players, long absent due to life changes, finally had time to commit
+  to a game again, but can only do Friday evenings.  So we've got two campaigns
+  going with a large overlap in people.
+
+  Our first Friday game was Ironsworn: Starforged, a co-operative GMless game.
+  While I like the idea of Ironsworn (and the [Me, Myself and
+  Die!](https://www.youtube.com/@MeMyselfandDieRPG) Ironsworn series is great)
+  we just didn't really get on with it and quit it after a few sessions.
+
+  After Ironsworn I ran a short campaign of The One Ring, which was great fun
+  and does a really good job of feeling like you're in The Hobbit or The Lord of
+  the Rings.  The mechanics produce Tolkien-esque stories, which is exactly what
+  you want from a themed system.
+
+  Then finally the returnee started a Troika campaign, something they've been
+  saying they'd do for years.  It's quite fun, I do get bored easily as a player
+  but Troika is pretty wacky so I get around that by just playing an impulsive
+  character who'll kick open the door, put on the magic hat, or otherwise
+  interact with the obviously-interactable thing in the scene.  This is the
+  first campaign he's run, too, so I think it helps if I do the obvious thing
+  he's signalling.
+
+  The Arden Vul campaign on Sunday is still going strong, we hit session 75 this
+  weekend and while the players have definitely done a lot, they're still very,
+  *very*, far from completing the dungeon, if such a thing is even possible.  We
+  will just have to bring it to an end at some point to play the next thing, but
+  that's far in the future.
+
+- **Ended: Arden Vulgaris**
+  - **Played:** Shadowdark
+
+  I had a rare opportunity to join an open-table game of Arden Vul *as a
+  player*, which I leapt at after confirming with the GM that me knowing all the
+  secrets is fine.  To be honest I wasn't really sure how this would go: I would
+  be taking a backseat role a lot of the time, and I know I get kind of bored as
+  a player.  But on the other hand, Arden Vul is incredible and the opportunity
+  to see how another GM tackles it invaluable.  So I optimistically signed up.
+
+  Ultimately I faded away after a couple of months, though I still kept up with
+  what was going on, and the campaign ended very dramatically.  Glad I tried it,
+  but once my first cool character died a lot of the fun died with him.
+
+- **Ended: Pathfinder Group**
+  - **Played:** Pathfinder 2e
+
+  Towards the end of 2023 I recruited a new player for the Sunday group from
+  Reddit (they ended up leaving due to stylistic differences), and while they
+  were with us they started a side-game of Pathfinder on Friday evenings.
+  Pathfinder's not really my thing, but I went along with it and had an ok time.
+
+  Unfortunately, the group fell apart rather explosively when we ended the first
+  campaign and the GM was preparing the next: I made a character and the GM was,
+  from my point of view, very picky about how I'd built the character to the
+  point of accusing me of intentionally gimping the party and told me he
+  wouldn't accept it.  I knew my character wasn't *optimal*, but they didn't
+  seem so bad to me.  I was unwilling to change, we had a big argument, I quit
+  the group and left the Discord.  Then over the next few days everyone else
+  quit as they took sides in this argument.
+
+  I do feel a bit bad for the GM, as they'd just spent a load of money on a big
+  Foundry module to run the campaign, but... they should have been willing to
+  allow a slightly suboptimal character which nobody else thought would be a
+  problem (admittedly I have mixed feelings on this because, as a GM, I know
+  it's important to be able to rule out problematic characters).
+
+## Akkadian
+
+This year I decided to take my casual interest in the Ancient Near East to the
+next level by [learning Akkadian][akk].  I've been doing that for a few months
+now, and have translated [the complaint tablet to Ea-Nāṣir][eanasir] and [The
+Descent of Ištar into the Netherworld][ishtar].
+
+It's a lot of fun, and very satisfying.  I'm at the point now where---armed with
+a dictionary and grammar reference---I can translate reasonably well from
+transliterated texts.  I've had less success at learning vocabulary: I tried to
+use [Anki][] for about a month and a half but dropped it as I wasn't retaining
+any of the verbs (though nouns and adjectives were fine).
+
+Since Akkadian is a dead language, the ability to quickly recall vocabulary
+isn't so important, though, as I won't need to be able to speak it, to write it,
+or to read anything that needs an immediate translation.  Still, it would be
+nice to be able to do that, if only in principle.
+
+I haven't tackled the script (cuneiform) yet.  That's going to be my next
+project (along with furthering my grammatical knowledge by continuing to work
+through the textbooks I have), and in 2025 I'd like to translate a long piece of
+cuneiform text.
+
+[akk]: https://www.barrucadu.co.uk/akkadian/
+[eanasir]: https://www.barrucadu.co.uk/akkadian/ea-nasir.html
+[ishtar]: https://www.barrucadu.co.uk/posts/2024/12/ishtar.html
+[Anki]: https://apps.ankiweb.net/
+
+## Japan Trip
+
+I spent just over two weeks from mid-April to early-May in Japan with a bunch of
+online friends from a small imageboard, none of whom I'd met in person before.
+I had a really great time!
+
+I had direct flights there and back between Heathrow and Haneda, unlike last
+time I went to Japan to attend a small conference during my Ph.D (which didn't
+give me much opportunity to look around), so these were the longest flights I've
+been on by far.  Still, not so bad, I just kind of zoned out after a while and
+time ceased to exist.
+
+We spent a few days in Tokyo while everyone recovered from jetlag, then a week
+in Osaka, and the final week back in Tokyo.  I also spent a weekend meeting up
+with some other friends in Matsuyama.
+
+While the language was obviously a difficulty, I was very impressed with how
+good Google Lens was at translating signs, menus, and any other written text I
+pointed it at.  Sometimes it got things wrong, but it was close enough that I
+could get by.
+
+I paused weeknotes during the trip, and wrote [a single long weeknote with some
+summarising thoughts][292] once I got home.
+
+[292]: notes/292.html
+
+## King James Programming
+
+This year I resurrected [King James Programming][], a tumblr blog that posts
+once a day the curated output of a Markov chain trained on the King James Bible
+and the Structure and Interpretation of Computer Programs.  I also set it up [on
+the Fediverse][].
+
+I rewrote the generator code to make the output easier to visually scan for the
+crossover points where it switches from one corpus to the other, as those are
+where the fun bits are, but it's still quite a lot of tedious work.  So unless I
+am suddenly struck by a desire to do more, KJP will end on the 28th of February.
+I've picked out a quote that has a degree of finality to it to be the last one.
+
+[King James Programming]: https://kingjamesprogramming.tumblr.com/
+[on the Fediverse]: https://hacksrus.xyz/users/kjpbot
+
+## Miscellaneous
+
+Another notable thing that happened this year was my first trip to A&E: I
+slipped and cut my left index finger badly in late November.
+
+I'm pleased to say that while it's still not 100% it's healing quite well.
+There's a faint scar and I very nearly have full movement back.  The more
+concerning thing is the near total loss of feeling on the side of the cut,
+between the cut and the fingertip.  That might just be gone forever, or it might
+come back in several months time.  Impossible to say.
+
+Be careful with knives.
