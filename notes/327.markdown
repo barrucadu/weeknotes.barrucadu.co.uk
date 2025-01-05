@@ -1,0 +1,79 @@
+---
+date: 2025-01-05
+---
+
+## Books
+
+This week I read:
+
+- [Atomic Habits][] by James Clear
+
+  I'm not a new years resolutions guy, but I can't deny that I probably felt
+  like reading this book (which has sat on my shelf unread for years) this week
+  of all weeks due to them.  Cultural conditioning is a powerful force.  And,
+  funnily enough, one the book mentions.
+
+  I'm a bit skeptical of the self-help genre as obviously these authors are in
+  the business of convincing people that they have problems which can only be
+  solved by buying more books, rather than being in the business of actually
+  solving problems.  But I really enjoyed this book, it's clear the author does
+  actually want to help you fix things, and provides good straightforward advice
+  to help you stick with good habits and break bad habits.
+
+  I've already put it into practice.  I am really bad at remembering to floss my
+  teeth: it's unpleasant, so I don't like doing it.  Isn't just using more
+  mouthwash enough? (no) Anyway, on the advice of this book, I made a small
+  simple change to make flossing more attractive: I decided to floss my teeth
+  *in the shower*.  I greatly enjoy my long, hot, morning shower.  It helps wake
+  me up and relaxing beneath the water just feels nice.  I already shave in the
+  shower, so I just added flossing in as well, and so far I've flossed three
+  days in a row which might be a new record.
+
+  Going back to new years resolutions, the reason I don't like them is because
+  they encourage you to make a bunch of big changes at once, inevitably fail,
+  and get frustrated.  I do have some more ideas for habit changes from the
+  book, but I'm going to stagger them, rather than fall into the very same trap.
+
+[Atomic Habits]: https://jamesclear.com/atomic-habits-summary
+
+
+## Roleplaying Games
+
+### The Halls of Arden Vul
+
+Every week I ask the players what they plan to do next, and almost every week
+something happens to derail that.  Ah well, it's why we play: it would be boring
+if everything went as planned all the time.
+
+This time the players found a secret door, a secret back entrance to a sublevel
+they've previously only glimpsed the main entrance to.  There's some weird stuff
+going on, they're not quite sure what happened here, but one thing's for sure:
+they can make *a lot* of money if they're able to remove the loot without
+angering the animated statues or powerful ghost!
+
+
+## Akkadian
+
+I took this week off as well (as it was still partly December) but now it's time
+to hit the books again.  I think I'll stick with my previous schedule of
+Mondays, Wednesdays, and Saturdays; but I need to make sure I'm balancing study
+time with translation time, as translating real texts is much more fun than just
+working through grammar exercises.
+
+
+## Miscellaneous
+
+I've been playing a *lot* of [Caves of Qud][] this week.  Definitely a new
+favourite.  I'm slowly getting the hang of it, there have been many character
+deaths (last one got dismembered by fish), but each time I learn from my
+mistakes and die in a different way!
+
+[Caves of Qud]: https://www.cavesofqud.com/
+
+
+## Link Roundup
+
+### Software engineering
+
+- [Things we learned about LLMs in 2024](https://simonwillison.net/2024/Dec/31/llms-in-2024/)
+- [Sanding UI](https://blog.jim-nielsen.com/2024/sanding-ui/)
