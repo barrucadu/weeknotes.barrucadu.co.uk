@@ -1,0 +1,95 @@
+---
+date: 2025-01-12
+---
+
+## Books
+
+This week I read:
+
+- [Moorcock's Multiverse][] by Michael Moorcock
+
+  Which is a collection of three early stories that isn't at all the same thing
+  as [Michael Moorcock's Multiverse][], confusingly enough.  While I liked the
+  stories they're much more different to the Eternal Champion stuff than the
+  blurb made me expect, so that was a bit of a failure on the publisher's part I
+  feel.  They should have just marketed it as a collection of early stories.
+
+  That aside, *The Sundered Worlds* was my favourite.
+
+[Moorcock's Multiverse]: https://www.gollancz.co.uk/titles/michael-moorcock/moorcocks-multiverse/9780575092587/
+[Michael Moorcock's Multiverse]: https://en.wikipedia.org/wiki/Michael_Moorcock%27s_Multiverse
+
+
+## Roleplaying Games
+
+### The Halls of Arden Vul
+
+I found [this classical Latin cover of "everybody wants to rule the
+world"][oomr] and I can't stop listening to it, I'm sure this is the sort of
+thing they enjoyed back in the Archontean Golden Age.
+
+Anyway, back to the game... last week the players found the Lost Chambers of
+Arden and their greed was piqued by seeing so many valuable statues.  Well, we
+talked logistics between sessions (moving 500lb statues up 350ft of stairs and
+then deadlifting them into a teleporter is *not easy*), and this week the
+players spent 19 days carting out one statue a day.  They used the time to do
+some spell research, too.
+
+They made a fortune, but there will be consequences for dropping all their other
+priorities for the best part of a month... The Priscians they rescued and raised
+from the dead recovered from their fatigue and returned to Arden Vul without the
+party's help, so that's a valuable opportunity to befriend a powerful faction
+gone (at least for now).  I think, too, that the Varumani will be a bit cool to
+the party as they've not been helping Triv-Lok with her goals in that time, and
+Triv-Lok is the only one the Varumani know of who can halt their racial decline.
+I had decided that the Set Cult were hiring assassins to go after the party:
+those assassins are hired now, and I upgraded how tough they are.  I'm sure
+there are more things that happened in that time, I'll think about it.
+
+[oomr]: https://www.youtube.com/watch?v=Xtt78SW-mgg
+
+### Delta Green
+
+This week I broached the topic of when we were going to start the next campaign,
+and we've decided to keep Arden Vul running for the foreseeable future, with the
+occasional pause to run a Delta Green operation.  This works well because none
+of us want to end Arden Vul before we're done with it (and gods know when that
+will be) and the Delta Green campaign will be very episodic (though with an
+overarching story).  Also two past players who have had to drop out of the
+Sunday game because they can't commit to the schedule have said they might be
+able to join something more sporadic.
+
+I suppose I need to stop sitting around and finally iron out the details of that
+first operation, then.
+
+
+## Akkadian
+
+Back into study this week.  I realised why I was putting it off: I find doing
+the exercises really boring.  So I've decided to drop those for now (but still
+read through the textbook) and just do more actual translations to get the
+practice in.  I need to pick something to go for, but I'd like it to be a short
+cuneiform text, maybe a royal inscription or something.  I'll seek one out.
+
+
+## Miscellaneous
+
+Attended the birthday party for my friend's toddler yesterday---there were
+several 2-year-olds running around a soft-play area---and also got to see their
+newborn who's just a few weeks old.  Also in attendance was another
+schoolfriend, with her husband, her 2-year-old, and was pregnant again herself
+with the baby due in a few months.
+
+I'm happy for them all, they seem to derive a lot of meaning out of parenthood,
+and obviously liked it enough to have a second one, but wow these past few years
+have *really* reinforced how much I don't want children.  It instantly takes
+over your whole life.  "How does the child fit into this?" becomes a
+consideration in everything you do.  I value my freedom too much to want any
+part of that.
+
+
+## Link Roundup
+
+### Software engineering
+
+- [A 2-ply minimax chess engine in 84,688 regular expressions](https://nicholas.carlini.com/writing/2025/regex-chess.html)
