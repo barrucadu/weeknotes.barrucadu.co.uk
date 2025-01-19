@@ -1,0 +1,71 @@
+---
+date: 2025-01-19
+---
+
+## Books
+
+This week I read:
+
+- [The Nomad of Time][] by Michael Moorcock
+
+  Now this is the sort of thing I'm looking for in a Michael Moorcock story:
+  universe-hopping steampunk.  It's really impressive that he can write three
+  very similar stories which are still fun to read back-to-back.  Also, "Una
+  Persson" is a great name for a mysterious character.
+
+[The Nomad of Time]: https://www.gollancz.co.uk/titles/michael-moorcock/the-nomad-of-time/9780575092693/
+
+
+## Roleplaying Games
+
+### The Halls of Arden Vul
+
+Last week I said I would give the players some consequences for spending weeks
+hauling statues out of the dungeon and neglecting their other projects, but I
+decided not to do that.  The only consequence now is that the Set Cult, which
+the party are enemies with, has hired assassins to hunt them down; all the
+factions they're friendly with are just as friendly as they were *before* the
+party ditched them for the best part of a month.
+
+I have a bit of difficulty balancing faction stuff with dungeoneering stuff, but
+try to skew towards whatever the players are more interested in at the
+time---since that's why we're playing---so while the players are off
+dungeoneering, factions can just fade into the background.  I don't want them to
+feel like going to the effort to befriend a faction then forces them to spend
+time appeasing the faction to keep their good will.
+
+So, *this week*, the players did some exploring, found some loot, and were 1HP
+off losing the party's strongest fighter with no way to recover the body.  But
+they managed to flee.  I'll get them next time!
+
+We did some downtime over Discord before the session, this is the second time
+we've done it now and I like it.  It lets us get a lot of procedural stuff
+(talking to NPCs, shopping, using divination spells to gather information, etc)
+out of the way beforehand, so we can get straight to the action when the game
+starts.  I'm going to suggest we keep doing it.
+
+
+## Akkadian
+
+This week I've been learning about business contracts (despite deciding last
+week to stop doing the exercises, I did some this week as they were from actual
+texts).  I've dialled my dedicated study time down to just Monday evenings,
+since I can always do more if I feel like it: today I did some on Tuesday as
+well.
+
+
+## Miscellaneous
+
+I've decided to upgrade azathoth.  I built it in 2020 using hardware that would
+have been cutting edge a few years previously---the graphics card, specifically,
+is of the 2016 generation---and I've recently hit a couple of issues due to its
+age.  The motherboard is from just before TPMs became commonplace, and so I
+can't upgrade to the latest version of Windows 11, and the graphics card
+couldn't handle a blog post I tried to read about WebGL shaders.  I could
+upgrade the motherboard (or get a separate TPM) and graphics card, but if I'm
+doing that why not do the whole thing?
+
+I'm going to order the new GeForce GTX 5090 when that releases at the end of the
+month, but the rest of the hardware is all on the way.  I'll take a few days off
+in February when everything's here to set it up and play around with having a
+brand new cutting-edge machine for the first time ever.
