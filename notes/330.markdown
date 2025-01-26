@@ -1,0 +1,99 @@
+---
+date: 2025-01-26
+---
+
+## Books
+
+This week I read:
+
+- [Ur of the Chaldees][] by Sir Leonard Woolley
+
+  An account of the excavations at Ur in the '20s; Ur being the city that
+  Abraham---yes, *that* [Abraham][]---supposedly came from.  It's pretty dry
+  reading if you're not into Mesopotamian history, but if you are this book is
+  gold.  I knew how archaeology worked in the abstract, but reading about all
+  the little details really made me appreciate how difficult it is.  Things like
+  pouring molten wax over artefacts they've uncovered, so they can lift the
+  whole thing out of the ground and then clean away the dirt (and wax) without
+  disturbing the relative arrangement of all the components: much harder work
+  (the author says) than just documenting what you see, taking all the pieces
+  out, and putting them back together; but it gets you *the exact thing* and not
+  merely a reconstruction.
+
+  I also found it interesting how people back then just built on top of old
+  buildings: filling the ground level up with dirt and using the old walls as
+  new foundations.  It sounds like harder work to me than just flattening the
+  building you want to replace, but maybe I'm just biassed by modern
+  construction tools and techniques.
+
+  They found evidence of the Flood, too.  Excellent.
+
+- [Beyond the Pale][] by Yochai Gal
+
+  A Jewish folklore-inspired old-school D&D adventure (written for [Cairn][] but
+  these things are all pretty inter-convertable) in which a malevolent spirit
+  gets summoned and weird stuff starts happening.  I'm not familiar at all with
+  Jewish folklore so I really enjoyed this, but I think it'd be a pretty hard
+  adventure to just drop into an existing campaign; unless you're playing with a
+  bunch of Jews.
+
+  There are a bunch of unfamiliar mythological creatures (including three
+  totally different sorts of disembodied spirit), and the adventure is on a
+  tight timeline: catastrophe looms in a few days, so if the players come into
+  this not even knowing what a dybbuk is or what its tell-tale signs are, they'd
+  probably spend so much time trying to figure out what's going on that they
+  wouldn't be able to solve anything.
+
+  I don't think this this adventure would work in your typical
+  pseudo-Western-Europe-with-Christian-elements D&D campaign setting.  It would
+  be jarring.  I really do think you'd need to run a much more Jewish campaign
+  setting.
+
+[Ur of the Chaldees]: https://www.goodreads.com/book/show/20899849-ur-of-the-chaldees
+[Abraham]: https://en.wikipedia.org/wiki/Abraham
+[Beyond the Pale]: https://www.kickstarter.com/projects/lost-pages/beyond-the-pale-a-folktale-adventure
+[Cairn]: https://cairnrpg.com/
+
+
+## Roleplaying Games
+
+### The Halls of Arden Vul
+
+An incredibly impactful session this week, which is going to change the whole
+campaign going forward.  This is truly one of the great turning points, like
+allying with the goblins and handing them control over the main entrances into
+Arden Vul was.
+
+The players got over their teleporter-phobia and found the Cloister.  In the
+Cloister they found the body of Captain Leil-Jor, and on her corpse a yellow
+keycard.  The yellow keycard opens everything.  They then travelled down the
+Transit Shaft to the officer's quarters, and looted the place: finding the Keys
+to the Obsidian Gates in the process.
+
+At a stroke, they've become the most valuable individuals in the dungeon.
+*Everyone* wants what they have, and will kill for it if they find out.
+
+Next week is going to be crazy.
+
+
+## Akkadian
+
+I've decided to drop the regular study time for now---I'm not really feeling
+it---and just go back to having a casual interest in Mesopotamian history.  I'll
+be back some time, I still want to translate a cuneiform text, after all.
+
+
+## Miscellaneous
+
+New-azathoth is nearly done, I just need to buy the new graphics card when it's
+released next week (or so I hope, it occurred to me the other day that if the AI
+scalpers are still going after graphics cards that might be tricky).  Using the
+onboard graphics I was able to install Windows and configure everything, but I'm
+too used to multiple monitors to start using it before I have a proper GPU.
+
+
+## Link Roundup
+
+### Roleplaying games
+
+- [Mode, Not Genre or Type](https://monstersandmanuals.blogspot.com/2025/01/mode-not-genre-or-type.html)
