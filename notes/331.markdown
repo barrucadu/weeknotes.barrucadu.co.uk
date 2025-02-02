@@ -1,0 +1,68 @@
+---
+date: 2025-02-02
+---
+
+## Books
+
+This week I read:
+
+- [Kane of Old Mars][] by Michael Moorcock
+
+  Which contains the stories *Warriors of Mars*, *Blades of Mars*, and
+  *Barbarians of Mars*.  I was due to read this earlier, but decided to put it
+  off for a bit after reading Edgar Rice Burrough's Barsoom stories rather than
+  read *two* Martian trilogies back-to-back.  Well, these stories could almost
+  be stories of Barsoom, if you just changed some names and details around:
+  they're very much in the same sword-and-planet pulp style.  Even the framing
+  device is the same: a man ends up on Mars through strange circumstances, has
+  wild adventures, and comes back to tell his tale to a surprisingly credulous
+  confidant.  The first story even significantly involves overcoming unfamiliar
+  customs to win the heart of a princess.
+
+  Michael Moorcock is very clear that these stories are a homage to
+  Barsoom---his take on the same premise---and they're very fun.
+
+[Kane of Old Mars]: https://www.gollancz.co.uk/titles/michael-moorcock/kane-of-old-mars/9780575092525/
+
+
+## Roleplaying Games
+
+### The Halls of Arden Vul
+
+A very exposition-heavy session this week, with the players learning the dark
+secret of the varumani, opening the Obsidian Gates, and setting foot onto the
+Midnight Road: where they found [the corpses of their companions from half a
+campaign ago][n292]!
+
+We ended with them hiding out in the Troll Pits from the kaliyani, who have
+extended their control over a few more rooms since last we saw them.  They want
+to escape to tell Triv-Lok and the thegn that the Troll Pits are intact, but
+first they've promised to Ashoka, the court sorcerer, that they would seek out
+and remove evidence of Rudiga's betrayal, to avoid collapsing the balance
+between the four clans... Will they succeed before they're forced to retreat?
+Find out next time, in the Halls of Arden Vul!
+
+[n292]: notes/292.html#roleplaying-games
+
+
+## Miscellaneous
+
+Well, I failed to get an nvidia 5090 on release day for new-azathoth.  I was
+ready at 2pm, but all the retailers I was checking immediately went down under
+the load, and when things came back up several minutes later, everything was
+sold out.
+
+I really dislike this artificial limiting of stock to drive hype.  There's
+nothing stopping them from just *making more cards*, but that doesn't instil the
+same urgency to purchase in consumers, or lead to the same "sold out in 5
+minutes!" news stories.
+
+So now I'm on waitlists with a few stores.  I don't imagine I'll be able to get
+the Founders Edition card, which is the one I really wanted as it's only a
+2-slot design whereas all the third-party ones are 4-slot designs and (for some
+reason) cost hundreds of pounds more, so I'm currently hoping to get the MSI
+GeForce RTX 5090 Suprim 32GB.
+
+In other news, I spent almost all of my free time this week playing Caves of
+Qud.  I think I'm getting the hang of it!  But it may be becoming something of
+an obsession...
