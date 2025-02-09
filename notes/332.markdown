@@ -1,0 +1,73 @@
+---
+date: 2025-02-09
+---
+
+## Books
+
+This week I read:
+
+- Volume 1 of the [Yokohama Kaidashi Kikou][] Deluxe Edition by Hitoshi Ashinano, which contains the first 24 chapters
+
+  24 chapters is a weird amount, because that's all of volumes 1 to 3, plus the
+  first chapter of volume 4.  Normally these combined editions are just a number
+  of volumes put into one book.  But that doesn't matter so much for YKK,
+  because unlike most other things there isn't really a plot.
+
+  Set in a post-apocalyptic Japan which feels more like the '90s than the far
+  future, the world is sinking beneath a rising sea.  Alpha, an android, runs an
+  out-of-the-way cafe that her owner left to her.  There isn't really a plot,
+  it's just about Alpha's slow life and finding happiness in the little things.
+
+  I've actually read this before---it's a classic---but I find I remember barely
+  any of it.  So each chapter is a new little joy.
+
+[Yokohama Kaidashi Kikou]: https://en.wikipedia.org/wiki/Yokohama_Kaidashi_Kikou
+
+
+## Roleplaying Games
+
+### The Halls of Arden Vul
+
+We hit another major factional milestone this week: the players found the
+remains of Druva, second thegn, put his unquiet spirit to rest (through extreme
+violence), and returned his bones and sword to the Troll Thegn.  Returning
+either of those two would have won best-friends-forever status with the trolls,
+so to do both, *after* already delivering to the trolls the means to end their
+racial degradation (in the person of Triv-Lok), *and* opening *two* routes to
+the trolls ancestral home (opening the Obsidian Gates and also finding the
+secret exodus route) is... well... there isn't a way to portray how much the
+trolls love these guys.
+
+The only thing left for the players to do is to actually bring Triv-Lok to the
+troll pits and let her grow some trolls in a vat.
+
+But now *I* have to figure out what exactly a troll crusade to reclaim their
+ancestral halls looks like.  Oh boy.
+
+
+## Miscellaneous
+
+I guess 2025 is the year I get really into video games, as I spent almost all my
+spare time this week playing [Ostranauts][], which is a very fun (but definitely
+early access quality) game about being a self-employed space salvager.  You've
+got a ship with a hefty mortgage, a bunch of medical problems due to growing up
+in low-G, and a dream.  A dream to get rich.
+
+It is a bit clunky---sometimes it just gets into a weird state and you have to
+reload, character AI is pretty dumb, and the UI lags occasionally---but it's a
+lot of fun.  One thing I think the game really needs in a future version,
+though, is some sort of shipyard / ship building system.  Making large
+structural modifications to an existing ship is pretty tedious and involves a
+lot of micro-management.  It would be ideal if you could pay to commission a new
+ship which then gets you an interface to, at least, draw out the hull.  It's ok
+if there's limited component availability and a huge markup: the effort saving
+would make it worth it.
+
+I've also picked up [Exogate Initiative][], a game about managing Stargate
+Command (but they're exogates for licensing reasons), and [Return to Moria][]
+which is by any objective measure a bad game, but it's Lord of the Rings themed
+so that gets it a pass.
+
+[Ostranauts]: https://store.steampowered.com/app/1022980/Ostranauts/
+[Exogate Initiative]: https://store.steampowered.com/app/1681060/Exogate_Initiative/
+[Return to Moria]: https://store.steampowered.com/app/2933130/The_Lord_of_the_Rings_Return_to_Moria/
