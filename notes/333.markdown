@@ -1,0 +1,92 @@
+---
+date: 2025-02-16
+---
+
+## Books
+
+This week I read:
+
+- Volume 2 and 3 of the [Yokohama Kaidashi Kikou][] Deluxe Edition by Hitoshi Ashinano (chapters 25--82)
+
+  I thought I'd read YKK before, but now I'm sure I haven't.  Or at least, not
+  all of it, as there's so much that's new to me in these books.  Since it's
+  never before had an official English translation, the fan translation I read
+  must have just been very incomplete.
+
+[Yokohama Kaidashi Kikou]: https://en.wikipedia.org/wiki/Yokohama_Kaidashi_Kikou
+
+
+## Roleplaying Games
+
+### The Halls of Arden Vul
+
+An action-packed session this week, as the players joined the varumani in their
+crusade to reclaim the ancestral halls!
+
+Since last time I'd decided the conquest would go like this:
+
+1. Confraternity of Hunters clears out the secret route (there's a basilisk den)
+   and scouts the branching caves for any immediate threats.  This would take
+   about 2 hours.
+2. Ashoka (the court sorcerer) along with half of the Thegn's housecarls would
+   go to secure the ancestral halls.
+3. Once secure, they dispatch a runner to fetch the Thegn, Triv-Lok, Glif
+   (Ashoka's apprentice), and the other half of the housecarls.
+4. Triv-Lok, Ashoka, and the Thegn start growing new varumani in vats.
+5. The hunters go to pursue the nearby kaliyani, while the housecarls scout out
+   the Midnight Road.
+
+And this is all happening *right now* whether the players join in or not.  This
+isn't a video game where the quests stick around for the players to be ready:
+sometimes that happens, but this is core to the varumani's goals and it wouldn't
+make any sense for them to delay.
+
+The players decided to go deal with some personal stuff while the hunters dealt
+with the basilisks, and got back in time to join the trip to secure the
+ancestral halls.  From there it was a pretty combat-heavy session: an
+explanation of the Troll Pits was interrupted by half-formed rancid burbling
+blobs emerging when Triv-Lok tried to purge the pits, and then after dealing
+with that they went after the kaliyani and found themselves the victims of their
+mental attacks.
+
+I came up with a totally custom kaliyani statblock, as the one in the book
+references AD&D psionics which I don't have.  My kaliyani are basically
+mindflayers, but with some tweaks to compensate for not having the whole "devour
+your brain, instantly killling you" thing.
+
+In both combats the players ran both their characters and their varumani allies,
+which was a great way to keep them engaged and stop it being me running 8+
+characters at the same time.
+
+Next week we pursue the two kaliyani who managed to flee!
+
+
+## Miscellaneous
+
+Had an emergency root canal treatment this week, then spent three days feeling
+like rubbish recovering: having the wisdom tooth out wasn't this bad!  An
+infection hit me out of nowhere on Monday and by the end of the day I was in so
+much pain I couldn't even sleep.  I had the treatment on Tuesday, but had to go
+back on Wednesday as there was a lot of swelling.  The dentist prescribed me
+some antibiotics, and things have recovered since.  I'll be back next week for
+some follow-up treatment.
+
+Not very fun, as I thought all my dental problems had been worked out when I had
+all the work done in November / December.
+
+In more positive news, my computer upgrade is done!  I decided to go for a GTX
+5080, rather than holding out for a 5090, due to pricing and availability.  It's
+still a massive upgrade on the 1060 I had previously.
+
+Here's the final part list:
+
+- **CPU:** AMD Ryzen 9 7950X3D
+- **Cooler:** Thermalright Phantom Spirit 120 EVO
+- **Motherboard:** ASRock X870E Taichi
+- **Memory:** Corsair Vengeance 2x48GB
+- **Storage:** WD Black 4TB M.2 SSD
+- **Graphics:** Gigabyte AORUS MASTER ICE GeForce RTX 5080
+- **Case:** Fractal Design Torrent
+- **Power:** be quiet! Dark Power Pro 13
+
+![I knew the 50 series graphics cards were big, but they really are so stupidly big.](notes/333/5080.jpg)
