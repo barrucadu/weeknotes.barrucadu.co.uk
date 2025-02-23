@@ -1,0 +1,82 @@
+---
+date: 2025-02-23
+---
+
+## Books
+
+No books this week!
+
+
+## Roleplaying Games
+
+I've got some new acquisitions on the way: the new [Realms of the Three Rings][]
+supplement for The One Ring; [Beyond Corny Gron][], a fantasy sandbox based on
+Polish folklore; and I backed [the recent Kult kickstarter][].
+
+I still plan to run Delta Green as the next campaign (which may start some time
+this year in parallel with Arden Vul), and then maybe Ars Magica after that, but
+I'm also increasingly coming around to the idea of a Jewish and Slavic inspired
+fantasy setting for a future campaign.
+
+[Realms of the Three Rings]: https://freeleaguepublishing.com/shop/the-one-ring/realms-of-the-three-rings/
+[Beyond Corny Gron]: https://shop.lostpages.co.uk/products/beyond-korny-gron
+[the recent Kult kickstarter]: https://www.kickstarter.com/projects/helmgast/kult-divinity-lost-dark-realms-and-other-horrors
+
+### The Halls of Arden Vul
+
+Another action-packed session this week, but the thing I'm most happy with is
+something I'd planned working out *exactly* the way I wanted it to.
+
+For some time now the players have been aware of an area of the dungeon which
+venerates Arden, the legendary hero.  Arden isn't a god, but evidently she had
+some sort of cult following back in the day.  The players have managed to piece
+together that there was some sort of rebellion down here, with cultists turning
+on each other as the city fell in the civil war.
+
+There's also one undead hanging around---a corpse whispering about "duty", and
+about the need to "protect the relics"---the players wanted rid of it, as it's a
+liability.
+
+They've discussed various plans over the weeks, but one in particular that
+caught my eye is using illusion magic to conjure up an image of Arden, to tell
+the ghost that he did well, that it's time for him to rest.  It's a brilliant
+idea that I would normally have let work, except for one thing: Arden isn't a
+god *as far as everyone knows*, but she has, in fact, ascended to demigodhood
+due to the devotion given to her since her death, and so the players would be
+conjuring the image of a demigod in her own temple in order to deceive her last
+remaining loyal follower.
+
+So when the player cast the spell I described how they felt a sense of intense
+disapproval slam down upon them, as the illusion was instantly dispelled.
+
+Cue "wait, Arden isn't a god, is she?"
+
+Exactly what I wanted to happen.
+
+
+## Miscellaneous
+
+This week I played [Chants of Sennaar][], a short (took me 9 hours) Tower of
+Babel-themed puzzle game.  Each floor of the tower has its own language you need
+to figure out to solve the puzzles and make it to the next floor, with a larger
+overarching story (mostly told through environmental storytelling) about how the
+current situation came to be.  Along the way you can use your knowledge of
+multiple languages to reunite the scattered peoples of the tower.  Each floor of
+the tower has its own visual theme, and the soundtrack is really nice.
+
+It's a very fun game, though one that has probably zero replayability value.
+
+![A view from the outside of the tower.](notes/334/sennaar.jpg)
+
+[Chants of Sennaar]: https://store.steampowered.com/app/1931770/Chants_of_Sennaar/
+
+
+## Link Roundup
+
+### Roleplaying games
+
+- [Add This To Your Hexcrawl Map: Natural Campsites](https://dicegoblin.blog/add-this-to-your-hexcrawl-map-natural-campsites/)
+
+### Software engineering
+
+- [OKLCH in CSS: why we moved from RGB and HSL](https://evilmartians.com/chronicles/oklch-in-css-why-quit-rgb-hsl)
