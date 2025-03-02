@@ -1,0 +1,79 @@
+---
+date: 2025-03-02
+---
+
+## Work
+
+Long time since I've written anything about work.
+
+We've had a month of, not exactly "downtime" since we launched the project I was
+leading (I don't think there's any public documentation yet so I'll refrain from
+going into details, but suffice to say we're selling it and the feedback so far
+is great), but a period of assorted non-project work.
+
+Amongst other things, I've been making some improvements to our dashboard
+reporting feature: which is pretty basic right now, and the implementation makes
+it hard to address the two major pain-points, which are that (1) the numbers
+only update once a day, and (2) the way the timeseries data is stored makes it
+inherently non-localisable to anything but UTC.  I've got an idea for how to
+solve both those problems by switching to an event-driven implementation which
+stores timeseries data at an hourly resolution, so it can be localised to
+different timezones when we're aggregating things like daily or monthly totals.
+
+Of course, the devil is in the details.
+
+
+## Books
+
+This week I read:
+
+- [The Terror][] by Dan Simmons
+
+  There's a very good [TV adaptation][] which I saw years ago, and which
+  inspired me to pick up the book.  I've tried reading this before, but couldn't
+  get into it; this time, however, I found it really gripping.  I particularly
+  appreciated the long bibliography at the end---as the story is a fictionalised
+  version of real events---so if I feel like reading more about Arctic
+  exploration (which seems pretty interesting), I have a good starting point.
+
+- Volume 11 of [Frieren: Beyond Journey's End][] by Kanehito Yamada and Tsukasa Abe
+
+  Which finishes the Golden City arc that I enjoyed, but not as much as earlier
+  parts of the story.  The volume ended on a time-travel cliffhanger, so I guess
+  I'll see what happens when volume 12 is released later this month.
+
+[The Terror]: https://en.wikipedia.org/wiki/The_Terror_(novel)
+[TV adaptation]: https://en.wikipedia.org/wiki/The_Terror_(TV_series)
+[Frieren: Beyond Journey's End]: https://en.wikipedia.org/wiki/Frieren
+
+
+## Roleplaying Games
+
+### The Halls of Arden Vul
+
+A very quiet session, especially compared to prior weeks.  The players got up to
+some exploration and found some neat areas but also retreated from a lot of
+those areas due to monsters.  We ended the session with a bunch of zombies
+animating in the room they just set foot into, but I expect they'll just close
+the door and go somewhere else.
+
+The players are fairly close to having a fortified base though, which means that
+the cleric player's army of holy fanatics will start to arrive, and the players
+can finally set their major objective in motion: wiping out the Cult of Set.
+We'll have to crack out some mass combat rules for that!
+
+
+## Miscellaneous
+
+2025 is definitely the Year of Video Games, as this week I replayed [The Talos
+Principle][] so that I had the story fresh in my mind to begin [The Talos
+Principle 2][], which I'd had on my wishlist for some time but only picked up a
+few days ago.
+
+I was a little concerned playing a puzzle game and its sequel back-to-back might
+not be fun, but the puzzles in 2 are interestingly different, and so is the
+story.  I love these mythological stories that hint at a deeper meaning to
+everything; sometimes I think I'd be happy as a forest-dwelling mystic.
+
+[The Talos Principle]: https://store.steampowered.com/app/257510/The_Talos_Principle/
+[The Talos Principle 2]: https://store.steampowered.com/app/835960/The_Talos_Principle_2/
