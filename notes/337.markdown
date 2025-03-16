@@ -1,0 +1,110 @@
+---
+date: 2025-03-16
+---
+
+## Books
+
+This week I read:
+
+- [A Deepness in the Sky][] by Vernor Vinge
+
+  This is kind of a prequel to [A Fire Upon the Deep][] (which [I read in
+  2022][]) but can easily be read a standalone novel, there's no references to
+  *Fire* in this book.  Stylistically it's pretty similar, with two parallel
+  stories from the very beginning of the book that slowly converge towards the
+  end: one story following the "spiders", intelligent inhabitants of a world
+  orbiting a strange star that's dormant for roughly 200 out of every 250 years,
+  and the other following the human groups who have come to trade with or
+  dominate the spiders.
+
+  One thing I really liked, which was also similar to *Fire* now that I think
+  about it, is that the spider sections were narrated as if they were human.
+  Expressions, language, aesthetics, were all "translated".  Just like the
+  hive-mind dog-creatures in *Fire*.  But when the humans of the story finally
+  meet the spiders the viewpoint shifts to a human one, and the spiders are
+  horrifying!  Big ten-limbed creatures living in dark, low-ceilinged dwellings
+  with uncomfortably hairy carpets, that speak by hissing and clicking, and
+  emote with rapid, predatory gestures.
+
+- Volumes 4 and 5 of the [Yokohama Kaidashi Kikou][] Deluxe Edition by Hitoshi Ashinano (chapters 83--140)
+
+  There's not really much to say here, there isn't much of a story, each chapter
+  is fairly self-contained: the only story really is that time passes and things
+  change and come to an end, but also new things begin.  It's well worth a read.
+
+[A Deepness in the Sky]: https://en.wikipedia.org/wiki/A_Deepness_in_the_Sky
+[A Fire Upon the Deep]: https://en.wikipedia.org/wiki/A_Fire_Upon_the_Deep
+[I read in 2022]: notes/194.html
+[Yokohama Kaidashi Kikou]: https://en.wikipedia.org/wiki/Yokohama_Kaidashi_Kikou
+
+
+## Roleplaying Games
+
+### The Halls of Arden Vul
+
+This week was one of those funny sessions where loads happened from the
+perspective of the players, but actually very little happened that *I* need to
+keep track of in my notes.
+
+They did some exploration, killed a giant snapping turtle that had nearly eaten
+the party's frontline fighter a few sessions back, found some treasure, and we
+ended the session with them breaking into a tomb and awakening its guardian: the
+greater mummy Neferet, Beloved of Thoth, wielder of the Iron Circlet of Ghanor
+and one of the more powerful individual foes in the setting.
+
+Next week will begin with a fight to remember.
+
+
+## Miscellaneous
+
+### House Buying
+
+Things have progressed really well this week:
+
+- **Monday:** I rang the estate agent to make an offer on the house, and they
+  got back to me a couple of hours later with the news that the sellers
+  accepted.  I then submitted the mortgage application and enlisted a
+  conveyancer.
+- **Tuesday:** I got a quote from a surveyor.
+- **Wednesday:** I went into the bank to provide some ID, as the automated check
+  had failed.  I also instructed the surveyor to go ahead with booking that in
+  ASAP.
+- **Thursday:** I received a mortgage offer from the bank, and printed, signed,
+  and posted a statement about my [LISA][]: the last piece of documentation the
+  conveyancer needed to get started.
+- **Friday:** The survey happened.
+
+Two and a half days from mortgage application to offer has to be some kind of
+record.  I'm going to contact the surveyor tomorrow to confirm when I can expect
+the report, but after that I've done my side of the process: I'm now entirely
+reactive, just providing whatever information and signatures the other parties
+ask for.
+
+I've let the sellers know that ideally I'd like to complete and move in by the
+29th of May, though unless they get a move on I doubt that's going to happen.
+I'll have to put all my stuff into storage and spend a fortune on temporary
+accommodation for a week or two... but it can't be helped.  If only my landlord
+had told me sooner she intended to evict me and sell the flat...
+
+I've been having fun for the last few evenings planning out how to furnish each
+room.  It's just a rough draft until I get into the house and can measure
+everything properly (I don't 100% trust estate agent floorplans)---noting down
+where all the radiators, power sockets, and other obstructions are---but I'm
+starting to get a good idea of some parts.  For instance, I'm going to get a new
+bed.  My current bedframe doesn't really fit in with the other bedroom
+furniture---it's metal whereas everything else is wood---so I'll get a new wood
+one, and make it a bit larger and replace the cheap mattress and flat pillows
+while I'm at it.  I've even been looking into the really mundane things like
+bins and toilet brushes; I find often a space looks really nice except for these
+little things that get overlooked as you just get something cheap and basic that
+does the job.  But I want everything to look nice.
+
+[LISA]: https://www.gov.uk/lifetime-isa
+
+
+## Link Roundup
+
+### Software engineering
+
+- [Writing My Own Dithering Algorithm in Racket](https://amanvir.com/blog/writing-my-own-dithering-algorithm-in-racket)
+- [Ditherpunk — The article I wish I had about monochrome image dithering](https://surma.dev/things/ditherpunk/)
