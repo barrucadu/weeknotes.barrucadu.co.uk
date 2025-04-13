@@ -1,0 +1,149 @@
+---
+date: 2025-04-13
+---
+
+## Books
+
+This week I read:
+
+- Volume 1 of the new [Rozen Maiden][] anniversary edition by Peach-Pit
+
+  It's been a long time since I read, or last watched, Rozen Maiden.  I don't
+  want to say it's just nostalgia that makes it enjoyable, I think it does have
+  some inherent worth in it, but if it came out for the first time today I don't
+  think I'd pick it up.  I wonder how many things I would enjoy that I overlook
+  these days because the premise doesn't immediately grab my attention.
+
+- Volume 19 of [That Time I Got Reincarnated as a Slime][] by Fuse
+
+  I think this series is definitely suffering the Dragonball Z problem now, as
+  the defeated enemies get replaced with new ones a tier higher, and the good
+  guys power up to overcome this new threat, which awakens the next tier of
+  ancient evils, and so on.  This volume we saw the pretty rapid defeat of the
+  most powerful angel in all of creation, the one multiple books had built up to
+  the the big bad of the series, and oh wait: another evil sensed this
+  disturbance in the Force and has started to stir!
+
+  At this rate the final enemy will be god himself (or the main character will
+  become god, something that has been hinted at).
+
+  I think it doesn't help that the author admitted in the postscript that he
+  doesn't really know where the story is going.  He knows how many volumes there
+  will be, but has now got so far ahead of what he planned that he's making it
+  up at he goes along.  It's still fun, but it's definitely not as good as the
+  earlier volumes.
+
+- Volume 12 of [Frieren: Beyond Journey's End][] by Kanehito Yamada and Tsukasa Abe
+
+  I was a bit negative on the last few volumes of Frieren, but this one returned
+  to what the series is best at: the passage of time, and what that means for
+  people.  Volume 11 ended with a cliffhanger: Frieren somehow got sent back in
+  time, swapping places with the Frieren of 80 years previously in the party of
+  the Hero.  This volume is about trying (and failing) to get back home, but
+  it's also about how Frieren, changed with experience, suddenly reunited with
+  the friends she has missed so much but knowing she has to be careful to avoid
+  changing the future, adjusts to this unexpected situation.
+
+- [Cities that Shaped the Ancient World][] by John Julius Norwich
+
+  I wouldn't recommend this book.  I picked it up because I like ancient history
+  and I enjoyed John Julius Norwich's history of Byzantium, but this book was a
+  bit of a disappointment.  Each city gets only a few pages, most being 2 or 3
+  pages, and it's just not enough.  Reading a series of brief introductions just
+  isn't very interesting.
+
+- [Let Us Build a Tower][] by Caleb Wimble
+
+  This is a "depthcrawl", like the *Gardens of Ynn* or *Stygian Library* by Emmy
+  Allen, where locations are randomly generated based on how far you are into
+  the dungeon.  In this case, the setting is a mythic Shinar, incorporating a
+  mixture of Biblical, Akkadian, and Sumerian mythology, to present a Tower of
+  Babel after the gods afflicted man with the curse of languages for their
+  hubris.
+
+  A cool twist is that there was war in Heaven between Enlil, king of the gods
+  and the one who opposed the Tower, and the others: so the other gods are now
+  wandering the Earth (and the Tower) as greatly diminshed, but still incredibly
+  powerful, spirits.  There's a lot of thematic overlap with *Godbound*, and I
+  don't think it would be too hard to combine the two.
+
+  Mythic Babylon is definitely up there in terms of future campaign settings I'd
+  like to run, but there are *so many* potential games!
+
+[Rozen Maiden]:https://en.wikipedia.org/wiki/Rozen_Maiden
+[That Time I Got Reincarnated as a Slime]: https://en.wikipedia.org/wiki/That_Time_I_Got_Reincarnated_as_a_Slime
+[Frieren: Beyond Journey's End]: https://en.wikipedia.org/wiki/Frieren
+[Cities that Shaped the Ancient World]: https://www.goodreads.com/book/show/20784166-cities-that-shaped-the-ancient-world
+[Let Us Build a Tower]: https://www.kickstarter.com/projects/calebwimble/let-us-build-a-tower
+
+
+## Roleplaying Games
+
+### The Halls of Arden Vul
+
+It was a pretty eventful session this week.  The party completed the First
+Labour of Arden (nearly dying in the attempt), which has got them one step
+closer to meeting the deified Arden herself, whose cult chambers they're in the
+process of looting.  That'll be an interesting meeting for sure.
+
+After that, following up on intel they'd gained about the location of the
+remains of Gennadius, fabled first leader of the Beastmen, they went to
+negotiate with the Cult of Bastet.  They played it smart and brought a lot of
+food for the cats, to get in the priestess's good books, but were tasked with
+finding a stolen relic first.  This is all in pursuit of their goal to eliminate
+the Cult of Set, so if you're keeping track here's the quest tree:
+
+- Eliminate the Cult of Set
+  - Summon a holy army
+    - DONE: Get Ethelflad to level 9
+    - DONE: Clear out a stronghold
+  - Ensure the Sun-Scarred Knights don't interfere
+    - Get other factions to put pressure on the Knights
+      - DONE: Befriend the Varumani
+        - DONE: Find a cure for the racial degradation of the Varumani
+        - DONE: Return the Varumani to their ancestral halls
+      - Befriend the Beastmen:
+        - DONE: Find the relics of Rex
+        - **Find the relics of Gennadius**
+          - Find a stolen relic of Bastet
+      - DONE: Befriend the Goblins
+        - DONE: Eliminate the Halflings
+        - DONE: Find the Goblin Sceptre
+
+One of the players realised they'd seen this relic before so they were able to
+fetch it pretty quickly.  Unfortunately for them, Gennadius's restless spirit
+materialised and said he would not permit his remains to be taken to the witch
+who enslaved his men: he wants Deino dead.  The beastmen, however, love and
+revere Deino as their "mother".  We have a bit of an impasse.
+
+The players are now thinking about bringing Count Skleros, the head of the
+beastmen after Deino, to meet the spirit of Gennadius and foment a rebellion
+against Deino.  They're also considering just assassinating Deino, so that Count
+Skleros takes over, and then presenting him with the remains of Gennadius.
+Interesting times ahead!
+
+Finally, they accompanied Sir Sixth back to the cave where he wandered in his
+madness, to complete his quest to check up on the weapons pod of the Beacon.
+There, they saw the partially eaten bodies of Sir Sixth's varlets, and he
+realised pretty quickly what had happened.  They didn't bring anywhere near
+enough supplies to keep him alive all the time he was crazed...
+
+
+## Miscellaneous
+
+### House Buying
+
+This week I received the mortgage deed and other paperwork to sign, and have
+sent that back to the conveyancer.  I've also arranged building insurance.
+
+Other than agreeing on the date (when the seller and both sets of conveyancers
+are ready), that's my entire side of the legal process done!  And once the date
+is agreed, I can arrange the move itself.
+
+
+## Link Roundup
+
+### Miscellaneous
+
+- [Modern Babylon: Ziggurat Skyscrapers and Hugh Ferriss' Retrofuturism](https://publicdomainreview.org/essay/modern-babylon-ziggurat-skyscrapers-and-hugh-ferriss-retrofuturism/)
+- [Photo sensor from smartphones helps with antimatter research at CERN](https://www.tum.de/en/news-and-events/all-news/press-releases/details/photo-sensor-from-smartphones-helps-with-antimatter-research-at-cern)
