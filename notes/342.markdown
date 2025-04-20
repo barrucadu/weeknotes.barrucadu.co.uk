@@ -1,0 +1,121 @@
+---
+date: 2025-04-20
+---
+
+## Books
+
+No books this week.
+
+
+## Roleplaying Games
+
+### The Halls of Arden Vul
+
+The session this week was a bit all over the place, one player was absent and
+another dropped out part way through due to feeling unwell, so we mostly just
+wrapped up a few loose ends, gathered some rumours, communed with the gods, and
+carried out some treasure.
+
+
+## Miscellaneous
+
+### AI
+
+Inspired by a blog post about "[Stevens][]", an AI assistant that sends the
+creator a daily briefing based on their calendar, emails, and things they've
+asked it to remember, I decided to have a go at making my own.
+
+So here is [Willikins][]: a discord bot that pulls data from my calendar, and
+can also subscribe to and summarise RSS feeds.  Here's an example of the daily
+briefing:
+
+> Good morning, sir. I present your daily briefing for Saturday, the 19th of
+> April, 2025.
+>
+> **Today**
+>
+> You have Weekly chores scheduled from 10:00 to 11:30 this morning.
+>
+> **Looking Ahead**
+>
+> For tomorrow, Sunday the 20th, you have your regular Halls of Arden Vul
+> engagement from 17:00 to 20:00, with preparation beforehand at 16:30.
+> Following the session, you have time allocated for writing notes and
+> scheduling the next event at 20:00, and Weeknotes at 21:00.
+>
+> Monday the 21st is a Bank Holiday, so you will not be working.
+>
+> You will be working from the office on Thursday, the 24th.
+>
+> You are scheduled to be on call beginning Monday, the 28th of April through to
+> Monday, the 5th of May.
+>
+> Is there anything else you require today, sir?
+
+Will it be useful?  I don't know.  I think I just need to experiment with it a
+bit.  I do like being warned a week in advance if I'm going to be on-call, that
+was a good idea.  Adding a weather integration (like Stevens) could be handy.
+
+In fact, when I asked Willikins what other data sources might be useful he gave
+me some good suggestons:
+
+> Sir, considering your current requirements, several additional data sources
+> might prove beneficial:
+>
+> Email integration would allow me to monitor important correspondence and
+> include relevant information in your briefings.
+>
+> Weather forecasts would enable me to advise you on appropriate attire or
+> travel considerations.
+>
+> News feeds on topics of interest could keep you informed of relevant
+> developments.
+>
+> A task management system would help track your priorities beyond calendar
+> appointments.
+>
+> Public transport status updates might be valuable for office days.
+>
+> Would you like me to explore adding any of these data sources to enhance my
+> service to you?
+
+Working with an LLM has been interesting, I've not really found them that useful
+before, but summarising text is obviously something they're really good at.
+[Tool use][] is definitely a cool development in this space, and is what
+underlies Willikins' memory and feed functionality.  Though, funnily enough,
+when I first implemented a memory tool Willikins would usually not use it, I'd
+tell him to remember something and he'd just say something like "certainly sir":
+the solution to that was adding to the system prompt:
+
+> Before responding to the user, use the create_memory tool to record any
+> reminders or any other information that might be useful to reference later.
+
+...but that made him overzealous, so I quickly followed that up with:
+
+> You do not need to commit the calendar entries to memory.
+
+It's still not quite right, but it's pretty close now.
+
+I decided to write Willikins in Haskell, as I've not used it in so long.  It
+took a few hours to get back into it, and the library ecosystem seems to be
+worse than I remember (I got part way through implementing a PEM decoder before
+I decided to authenticate with GCP (for the calendar) by just shelling out to
+`gcloud`...), but I do find it fun to write.
+
+[Willikins]: https://github.com/barrucadu/willikins
+[Tool use]: https://docs.anthropic.com/en/docs/build-with-claude/tool-use/overview
+
+### House Buying
+
+Not much news this week, on Monday we got the replies to the questions we'd sent
+to the seller's conveyancer, but it wasn't anything major.  Just waiting until
+everyone's ready to agree on the date, now.
+
+
+## Link Roundup
+
+### Software engineering
+
+- [Stevens: a hackable AI assistant using a single SQLite table and a handful of cron jobs][Stevens]
+
+[Stevens]: https://www.geoffreylitt.com/2025/04/12/how-i-made-a-useful-ai-assistant-with-one-sqlite-table-and-a-handful-of-cron-jobs
