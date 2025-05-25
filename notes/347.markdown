@@ -1,0 +1,101 @@
+---
+date: 2025-05-25
+---
+
+## Books
+
+This week I read:
+
+- [Exhalation][] by Ted Chiang
+
+  I said it [last time][] and I'll say it again: Ted Chiang is a master at
+  taking a weird premise and running with it.  Every story is essentially "what
+  would it be like to live in a world where this is true? how would it change
+  how people think and act?"
+
+  In this collection my favourite stories were: *Exhalation*, which is about
+  entropy and the heat-death of the universe, but told through the medium of
+  robots powered by air pressure (and the way he reveals they're robots by
+  rapidly building up all the weird inhuman aspects of their bodies and lives,
+  without ever speaking about them as if they're anything but living creatures,
+  is brilliant); and *Omphalos*, which is about a world where young-earth
+  creationism is literally true and has physical evidence (mummies with no
+  navels, fossilised trees with no growth rings), but where it turns out that
+  Earth is *not* the centre of the universe, that a newly discovered planet
+  *is*, and so Earth is, what, a practice run? An accident?  What does that mean
+  for a deeply religious world?
+
+[Exhalation]: https://en.wikipedia.org/wiki/Exhalation:_Stories
+[last time]: notes/270.html
+
+
+## Roleplaying Games
+
+### The Halls of Arden Vul
+
+I thought this was going to be a diplomacy-heavy session, but the players
+decided to put that off for a week until some drugs they've bought for the
+beastmen arrive, to serve as a final negotiating chip.  Instead, this session
+hit two of the pillars of dungeoncrawling: exploration *and* combat, both of
+which went pretty well.
+
+We started with some rumour-gathering, where the players learned that the story
+of their fight with Jellik's Jarls had mutated somewhat: word in the hall is
+that Jellik's Jarls offended the Goblin King, or perhaps one of his advisors,
+and the party was sent to deal with the insult.  It's not entirely inaccurate,
+and they decided to let it stand for now.  We also learned that the Sun-Scarred
+Knight who had been stationed with the Cult of Set left some weeks ago, which
+led to much pondering of the inscrutable motives of the Knights.  Is it a good
+sign?  Bad?  Who knows.
+
+After that they finished exploring the lair of a hag who they'd killed a few
+weeks ago, and finished reassembling the dismantled statue of a Thothian
+priestess: which turned out to the magic statue of a priestess who had
+voluntarily been transformed into this form to serve as a permanent conduit
+between Thoth and this world.  She thanked them for reassembling her, quizzed
+them about recent developments in the Halls, and bid them good day.
+
+Then we got onto the *real* dungeoncrawling.  The players knew that there was
+some connection between the Halls of Thoth and the caves north of the Forum of
+Set, but nothing on their map looked like it would link up.  They hypothesised
+there must be a secret door *somewhere* and set out to find it.  They did, and
+while they didn't find the link to the caves, they did wipe out a Setite guard
+patrol and have a few new promising avenues of exploration open to them now.
+That said, the battle was right next to the main temple of Set, so while
+reinforcements didn't arrive in time for the poor guards, there definitely will
+be a much increased presence there for a while at least.
+
+
+## Miscellaneous
+
+### House Buying
+
+We have exchanged, with completion set for the 29th!
+
+This weekend I've packed away all the nonessentials (i.e. everything I'm not
+going to need in the next week and a half or so), and after the bank holiday on
+Tuesday I'll ring a few removals companies to ask about moving some time late
+the following week.  Unfortunately I'm on-call for work on the Friday (I was
+able to swap the whole rest of the week), so that likely means moving on either
+Thursday the 5th or Saturday the 7th.
+
+I've also started sorting out utilities, council tax, preorders, and all the
+other things on my long list that need updating with the change of address.
+Unfortunately I won't have internet in the new place until the 11th, but at
+least it'll be symmetric gigabit when I do have it, at under half the price of
+my current (most definitely *not* symmetric gigabit) internet.
+
+After the move I'll need to come back to the current flat to give it a really
+thorough clean, take final gas & elextricity metre readings, and drop off the
+keys.  I'll probably do that on the Saturday or Sunday.
+
+
+## Link Roundup
+
+### Roleplaying games
+
+- [Traveller Distinctives: Speculative Trade](https://grognardia.blogspot.com/2025/05/traveller-distinctives-speculative-trade.html)
+
+### Miscellaneous
+
+- [The Logistics of Road War in the Wasteland](https://acoup.blog/2025/05/23/collections-the-logistics-of-road-war-in-the-wasteland/)
