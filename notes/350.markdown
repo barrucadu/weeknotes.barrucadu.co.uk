@@ -1,0 +1,101 @@
+---
+date: 2025-06-15
+---
+
+## Books
+
+This week I read:
+
+- [Last Days][] by Adam Nevill
+
+    I felt like re-reading either this or *The Ritual*, and by great coincidence
+    the very first box I opened (I've not unpacked my books after the move yet)
+    had this in it, which I took as a sign.  I really need to pick up some more
+    of Adam Nevill's books.
+
+[Last Days]: https://en.wikipedia.org/wiki/Last_Days_(Nevill_novel)
+
+
+## Roleplaying Games
+
+### The Halls of Arden Vul
+
+This week we picked up from last time's cliffhanger: the players had found a
+route into the caverns of the Cult of Set, found the escaped slaves, and brought
+them back to the brink of safety; they just needed to get past one last
+guardpost.
+
+Which they did, easily, though at the cost of a powerful illusion scroll.
+
+We then spent most of the rest of the session engaging in diplomacy with the
+goblins and the varumani.  This is part of the grand plan to destroy the Cult of
+Set: they need to ensure the Sun-Scarred Knights won't show up to kick their
+asses for disturbing their precious status quo, so they're getting the goblins,
+beastmen, and varumani to back them up when they go to negotiate with the
+Knights right before the war kicks off.
+
+Since this is a big thing, I asked for a plan from the players a while back, and
+I spent some time thinking it through.  I'd decided that the three factions
+would basically back them up (unless they asked for something ridiculous),
+though they each have their reasons (they're cashing in some pretty big favours
+with the goblins, whereas the beastmen and varumani have their own ulterior
+motives to participate in this meeting), and the Knights would grill them pretty
+harshly (I've prepared a list of questions intended to cast doubt on the moral
+high ground they're justifying this all with) but ultimately accede after
+demanding some heavy concessions from the party; and then we get to the actual
+war itself!
+
+For the war we're going to use the [By this Poleaxe][] mass combat rules, which
+we're all really looking forward to as we've not done any mass combat in any
+campaign so far!
+
+[By this Poleaxe]: https://www.drivethrurpg.com/en/product/141199/by-this-poleaxe
+
+
+## Miscellaneous
+
+This week I baked my first loaf of bread after the move, and maybe it's just the
+general sense of change in my life right now, but afterwards while munching on a
+delicious sandwich (corned beef, onion chutney, and sundried tomato) I felt like
+trying out different sorts of bread.  So I've ordered some spelt flour to try
+out in my next loaf.  I think I'll also have another go at making a rye
+bread---I use a rye starter, but typically with white bread flour---which I
+previously dropped after a few disappointing loafs.
+
+### House Buying
+
+I think this will be the last "house buying" update, as the process is really
+all done now.
+
+This week I got my internet connection set up, though I seem to be having
+problems with torrenting and with [yt-dlp][] which could be related to my ISP's
+use of CGNAT.  I've got a support ticket open asking about static IP
+addresses---so I bypass the CGNAT layer entirely---which they advertised on
+their website when I first looked into them, but oddly enough there's no mention
+now.
+
+I also returned to work.  Unfortunately, the 4G signal here isn't great, so
+tethering from my phone would have been difficult (coincidentally I've decided
+to upgrade my phone, and have a Pixel 9, which has 5G support, on the way), and
+the internet didn't get enabled until Saturday due to a need to send out an
+engineer, so I ended up commuting to the office 4 out of 5 days this week.  The
+journey is long, but not so bad as the bulk of it is a train journey, on which
+you can just sit and read.  The cost was the worst part, as I'd budgeted assumed
+buying 1 or 2 tickets a week, and those in advance to take advantage of the
+lower prices; but this week I ended up buying 4 tickets all on the day.
+
+I'm still largely living out of boxes, as I want to redecorate first.  I'm still
+waiting for the paint samples to arrive (Dulux are so slow at sending them out I
+wonder if they even want to sell paint), but when those finally get here and I
+make up my mind, I'll book in the painting work.  The carpets are all ready to
+go the week after next.  So hopefully I'll be fully unpacked and settled in by
+the mid July.
+
+[yt-dlp]: https://github.com/yt-dlp/yt-dlp
+
+
+## Link Roundup
+
+### Roleplaying games
+
+- [A Social Truth about Fun](https://bankuei.wordpress.com/2014/05/18/a-social-truth-about-fun/)
