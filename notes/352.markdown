@@ -1,0 +1,115 @@
+---
+date: 2025-06-29
+---
+
+I'm feeling a bit under the weather today, so a very abbreviated weeknote.
+
+
+## Books
+
+This week I read:
+
+- [The Ritual][] by Adam Nevill
+
+  Last read [in 2020][]!  I've also picked up a few more Adam Nevill books to
+  read over the coming weeks.
+
+[The Ritual]: https://en.wikipedia.org/wiki/The_Ritual_(novel)
+[in 2020]: notes/095.html
+
+
+## Roleplaying Games
+
+### The Halls of Arden Vul
+
+This week was mostly preparation for beginning the big war against the Cult of
+Set, which we're aiming to begin in session 100: next week.  The major happening
+is the negotiation with the Sun-Scarred Knights.  Unfortunately, we had to cut
+the session a bit short as I started to have internet issues (more on that
+below), so we'll probably finish off negotiations via chat before next time.
+
+
+## Miscellaneous
+
+I've been having periodic bouts of slow internet since it was set up, that
+appeared to be Google specific:
+
+- The youtube web interface is laggy, taking a noticeably long time to load and
+  sometimes times out
+- When I download a youtube video, the download speed hovers around 50KiB/s
+- My Pixel phone took about 8 hours to download a 3.12GB update
+- Pulling docker images from mirror.gcr.io (the Google Container Registry)
+  frequently times out
+- Articles on Blogspot (owned & operated by Google) load slowly, and images
+  frequently fail to load
+- This week: Discord voice chat, which goes through Google Cloud, became
+  unusably garbled
+
+The internet connection in general appears to be fine otherwise, and
+speedtest.net shows consistently good speeds even while I'm simultaneously
+having issues with Google.
+
+Firing up [mtr][] revealed some bad news:
+
+```
+nyarlathotep (10.0.0.3) -> youtube.com (142.250.180.14)                 2025-06-28T03:05:14+0100
+                                                                  Packets               Pings
+ Host                                                 Loss%   Snt   Last   Avg  Best  Wrst StDev
+ 1. 10.0.0.1                                           0.2%  2500    0.1   0.1   0.1   1.7   0.1
+ 2. 31.41.250.97                                       7.4%  2500    3.9  44.2   3.0 3108. 282.9
+    31.41.250.109
+ 3. 195.72.67.241                                      7.4%  2500    4.3  53.2   2.8 3040. 312.7
+    31.41.250.109
+ 4. 213.200.113.34                                     8.1%  2500    3.7  53.9   2.8 3123. 330.6
+    31.41.250.109
+ 5. 87.119.95.130                                      7.4%  2500    4.1  54.8   2.8 3100. 330.7
+    31.41.250.109
+ 6. 192.178.97.49                                      7.3%  2500    5.2  58.5   4.2 3111. 339.3
+    31.41.250.109
+ 7. 142.251.54.31                                      7.4%  2500    4.4  55.0   3.6 3084. 325.9
+    31.41.250.109
+ 8. 142.250.180.14                                     7.1%  2500    4.5  55.5   3.5 3072. 325.9
+```
+
+Oof.  7% packet loss with ping occasionally spiking to 3s.  Here's a trace to
+barrucadu.co.uk:
+
+```
+nyarlathotep (10.0.0.3) -> barrucadu.co.uk (116.203.34.201)             2025-06-29T20:34:10+0100
+                                                                  Packets               Pings
+ Host                                                 Loss%   Snt   Last   Avg  Best  Wrst StDev
+ 1. 10.0.0.1                                           0.0%  2500    0.2   0.1   0.1  39.6   0.8
+ 2. 31.41.250.97                                       0.0%  2500    4.2   3.9   3.1   6.8   0.4
+ 3. 31.41.250.6                                        0.0%  2500    4.5   3.9   3.2   6.9   0.5
+ 4. 195.66.227.209                                     0.0%  2500   15.5  15.0  14.4  16.4   0.4
+ 5. 213.239.252.169                                    4.2%  2500   20.0  19.7  19.1  21.0   0.3
+ 6. 213.239.237.237                                    0.0%  2500   20.0  19.8  19.2  32.1   0.4
+ 7. 213.239.203.102                                    0.0%  2500   20.2  30.8  19.1 764.5  57.2
+ 8. 213.133.112.106                                    0.2%  2500   20.9  24.2  19.7 116.0  11.3
+ 9. (waiting for reply)
+10. 49.12.140.149                                      0.0%  2500   19.9  19.7  19.0  21.0   0.4
+11. 116.203.34.201                                     0.0%  2500   20.1  19.9  19.3  21.4   0.4
+```
+
+Much better.
+
+10.0.0.1 is my router, so it certainly appears to be something in the ISP's
+network.  Notably, 31.41.250.109 doesn't appear in the good trace, whereas in
+the youtube trace some packets went via 31.41.250.97 and some via 31.41.250.109.
+So maybe 31.41.250.109 is the issue.
+
+For some reason my ISP only lets you submit support tickets during working
+hours, so I'll be doing that first thing tomorrow.
+
+[mtr]: https://www.cloudflare.com/en-gb/learning/network-layer/what-is-mtr/
+
+
+## Link Roundup
+
+### Roleplaying games
+
+- [Your High-Level NPCs Should Ride Dragons](https://forlornencystment.blogspot.com/2025/06/your-high-level-npcs-should-ride-dragons.html)
+
+### Software engineering
+
+- [Solving `Passport Application` with Haskell](https://jameshaydon.github.io/passport/)
