@@ -1,0 +1,73 @@
+---
+date: 2025-08-17
+---
+
+## Books
+
+This week I read:
+
+- [Cunning Folk][] by Adam Nevill
+
+  Compared to the other two Adam Nevill books I've read, this was rather
+  straightforward.  It also didn't have a sudden tonal shift towards the end,
+  which could be a good thing or a bad thing: I've not minded it but I know it's
+  a point a lot of people criticise him for.  The book was enjoyable, but if
+  this had been my first Adam Nevill story I probably wouldn't have felt as
+  compelled to check out the rest of his bibliography.
+
+- [Algebraic Models for Accounting Systems][] by Rambaud et al
+
+  I'd had my eye on this for a while, as it's *the* book that gets recommended
+  if you're into mathematical treatments of accounting, but personally I felt it
+  was a bit of a let-down.  The book was *interesting* but not *insightful*.
+  For example, after defining an algebraic model of an accounting system, the
+  authors show how the standard algebraic notion of a quotient system can be
+  used to derive standard accounting reports.  That's interesting!  But then
+  they go on to point out that the number of quotient systems increases
+  exponentially with the number of accounts, so any nontrivial accounting system
+  will have a *lot* of quotient systems, the vast majority of which will not
+  correspond to any useful accounting ideas.
+
+  What I had hoped to get from this book was "here's how we can model accounting
+  systems with abstract algebra, and having done that we can now derive
+  interesting results about accounting."  The book had the first part, but had
+  nothing for the second part.
+
+- [Clans of the Aslan][] (preorder PDF) from Mongoose Publishing
+
+  I love the Aslan, my favourite alien race in Traveller.  This book goes into a
+  lot more detail about how their society works, gives an overview of some
+  important Aslan worlds, provides adventure hooks and suggested campaign
+  outlines, and gives expanded rules on creating Aslan characters.  The only
+  thing I really felt was missing was any discussion of what typical Aslan city
+  looks like, which is something I've complained about in other Traveller
+  supplements dealing with the Aslan.
+
+[Cunning Folk]: https://www.goodreads.com/book/show/58851564-cunning-folk
+[Algebraic Models for Accounting Systems]: https://www.worldscientific.com/worldscibooks/10.1142/7445
+[Clans of the Aslan]: https://www.mongoosepublishing.com/products/clans-of-the-aslan
+
+
+## Roleplaying Games
+
+### The Halls of Arden Vul
+
+Due to illness and unavailability, it was only me and one other player this
+week.  Thankfully it was the player of the cleric who's now in charge of the
+Forum of Set, so we just spent the session doing admin: going through all the
+rooms and gathering up loot, hiring staff, bringing in merchants to start to
+offload some of the loot, unconsecrating the Temple of Set, and so on.
+
+After this second pass for loot a bunch of characters levelled up again.
+They've gained a *lot* of XP in the last few sessions: the party is something
+like 200,000gp richer, and they also earned bonus XP from my house rules for
+destroying a faction, establishing a safe haven, and exploring a bunch of
+territory.
+
+
+## Link Roundup
+
+### Software engineering
+
+- [Index 1,600,000,000 Keys with Automata and Rust](https://burntsushi.net/transducers/)
+- [Fun with finite state transducers](https://blog.yossarian.net/2025/08/14/Fun-with-finite-state-transducers)
