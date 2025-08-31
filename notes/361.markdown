@@ -1,0 +1,73 @@
+---
+date: 2025-08-31
+---
+
+## Books
+
+This week I read:
+
+- [Greatest Hits][] by Harlan Ellison
+
+  That's the "I Have No Mouth And I Must Scream" guy.  I'd never read any of his
+  stories before, but I knew that title: I didn't know what I expected, but it
+  wasn't what I got (a sci-fi horror that culminates in the protagonist being
+  turned into a blob creature with no mouth).  This book caught my eye because
+  the editor is J. Michael Straczynski, the [Babylon 5][] guy.
+
+  There's some really good stuff in here, my favourite was definitely *Paladin
+  of the Lost Hour* which is about the hereditary guardian of a pocket watch
+  that's stopped at 11, which if it ever strikes 12 will cause the end of time.
+  I had to pass on *I'm Looking For Kadak*, which is about a Jewish alien (a
+  literal alien, not a foreigner), because it felt like every other noun was in
+  Yiddish.
+
+- [Righteous Blood, Ruthless Blades][] from Osprey Publishing
+
+  RBRB is a wuxia RPG system ([review by Seth Skorkowsky here][]) that really
+  seems to hit all the genre notes.  I've not tried it out yet, but it looks
+  fairly straightforward (once you've got a handle on all the many unique
+  martial arts abilities) and feels like it would actually emulate a wuxia story
+  pretty well.  I look forward to trying it.
+
+[Greatest Hits]: https://en.wikipedia.org/wiki/Harlan_Ellison_bibliography#Short_story_collections
+[Babylon 5]: https://en.wikipedia.org/wiki/Babylon_5
+[Righteous Blood, Ruthless Blades]: https://www.ospreypublishing.com/uk/righteous-blood-ruthless-blades-9781472839367/
+[review by Seth Skorkowsky here]: https://www.youtube.com/watch?v=i9-pC3TisEA
+
+
+## Roleplaying Games
+
+### The Halls of Arden Vul
+
+This was a very exciting session, as the players not only found the Gemini
+Blades they'd been tasked to recover (and slew a demon that was guarding them),
+they also broke into the Inn of the Lost and found Isocorax!  They solved the
+mystery of why he eats people: he's a vampire!  Kept drugged and chained to a
+table in some sort of alchemical laboratory, a terrified prisoner nearby begging
+to be rescued and not fed to "that thing"; the PCs brought Isocorax and the poor
+man out through secret passages into the VIP room they'd taken.
+
+Now they just need to get out, and away.
+
+
+## Miscellaneous
+
+After finishing [Thunderbolt Fantasy][] on Monday I was in a bit of a wuxia
+mood, so not only did I pick up [Righteous Blood, Ruthless Blades][], I also
+watched a few films: [Hero][], [Detective Dee and the Mystery of the Phantom
+Flame][], and [Crouching Tiger, Hidden Dragon][].  I enjoyed *Hero* the most of
+those.  I've got a few more on the list, too.  I love all the dumb tropes and
+over-the-top acting, I'm definitely going to have to run a wuxia one-shot some
+time.
+
+[Thunderbolt Fantasy]: https://en.wikipedia.org/wiki/Thunderbolt_Fantasy
+[Hero]: https://www.imdb.com/title/tt0299977/
+[Detective Dee and the Mystery of the Phantom Flame]: https://www.imdb.com/title/tt1123373/
+[Crouching Tiger, Hidden Dragon]: https://www.imdb.com/title/tt0190332/
+
+
+## Link Roundup
+
+### Software engineering
+
+- [Blocky Planet — Making Minecraft Spherical](https://www.bowerbyte.com/posts/blocky-planet/)
