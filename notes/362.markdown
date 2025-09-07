@@ -1,0 +1,93 @@
+---
+date: 2025-09-07
+---
+
+## Books
+
+This week I read:
+
+- [The Odyssey][], translated by Emily Wilson
+
+  I've had my eye on this since reading Emily Wilson's translation of the Iliad
+  [back in April][].  It's a very different sort of story, but I enjoyed it a
+  lot.  It does refer to some of the things I was surprised weren't in the
+  Iliad, like the Trojan Horse and the death of Achilles; references to the lost
+  epics that would have been common knowledge at the time of the Odyssey's
+  composition, I suppose.  The poem repeatedly mentions the wrath of Athena
+  against the Greeks for defiling her temple in Troy, which must also be from
+  one of the lost epics.
+
+  I had to laugh at this part where Poseidon saves Ajax, but then immediately
+  changes his mind and kills him for his boast:
+
+  > Ajax was drowned; his ships were sunk.  Poseidon<br>
+  > first drove him to the rocks of Gyrae, then<br>
+  > rescued him from the sea; he would have lived,<br>
+  > despite Athena's hatred, but he made<br>
+  > a crazy boast---that he survived the waves<br>
+  > against the wishes of the gods.  Poseidon<br>
+  > heard his rash words.  At once, he seized his trident<br>
+  > in mighty hands, and struck the Gyran rock.<br>
+  > One half remained; the other, on which Ajax<br>
+  > sat as he boasted, cracked right off and fell<br>
+  > into the sea, and carried him deep down.
+  > The boundless waves washed over him; he drank<br>
+  > the salty brine, and died.
+
+  So many times in the poem we see people attributing things to the gods, it
+  seems the default explanation for anything unexpected.  The Greeks must have
+  seen their world as a chaotic place ruled by the whims of powerful and
+  capricious immortals.
+
+[The Odyssey]: https://en.wikipedia.org/wiki/Odyssey
+[back in April]: notes/340.html
+
+
+## Roleplaying Games
+
+### The Halls of Arden Vul
+
+The players saved Isocorax!  They managed to rig up a rope to get him out
+unseen, and then acted as if nothing unusual had happened when they left in the
+morning.  The players got a bit of a lore dump as thanks, and have received a
+*strong hint* that Melok-Ri, the other rudishva vampire, is still alive and
+still running the Sun-Scarred Knights, when their own Sun-Scarred Knight, Sir
+Sixth, saw Isocorax and briefly looked as if he'd seen a ghost (Isocorax and
+Melok-Ri look pretty similar, being the only two rudishva vampires on the
+planet).
+
+I'd previously rolled a die to determine when Thegan would realise Isocorax was
+missing, and got the following day.  I had decided that Thegan would immediately
+flee, as he knows the jig is up and Isocorax would be out for revenge.  I hadn't
+expected the players to let Isocorax go so quickly.  So now I need to decide if
+Isocorax went to kill Thegan immediately, or if there's a chance he escaped.
+
+Then the players decided to go visit the fishmen in an attempt to make friends,
+and got a bit overconfident.  Once the fishmen realised they were understood
+(thanks to a *Tongues* spell) they just kept urging the party to come with them.
+The two who had magical means of waterbreathing (one PC and one retainer) did,
+followed them all the way to their home base, and got jumped by 20 fishmen.  The
+retainer got paralysed by their poison in the first round of combat, and then
+beaten to unconsciousness (nonlethal damage).  The PC has been holding on,
+barely: they have really high AC, but no way to attack more than one enemy in a
+round, so it's a battle of attrition as they try to pull the retainer out.
+
+We've played out the first few rounds of combat over Discord, and I have no idea
+which way this'll go!  Half the fishmen failed a morale check after the PC
+killed a bunch of them, but if the PC pursues into the coral tunnels to save the
+retainer, I think those panicking fishmen will recover in a few rounds and then
+even if the PC manages to save the retainer they'll have to fight their way
+through a wall of fishmen.
+
+I've decided that if the PC just decides to leave the retainer and run the
+fishmen will let them go---they've proven themselves a threat, and the fishmen
+have a captive already.
+
+Will the player sacrifice a valued retainer to save their character?
+
+
+## Miscellaneous
+
+This week the replacement frame for a picture that fell off the wall and cracked
+a few weeks ago arrived, so now everything I had planned up front for the
+interior of the house is *done*.
