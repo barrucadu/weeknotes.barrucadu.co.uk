@@ -1,0 +1,57 @@
+---
+date: 2025-09-14
+---
+
+## Books
+
+No books this week.
+
+
+## Roleplaying Games
+
+### The Halls of Arden Vul
+
+Last week we ended on a cliffhanger with one PC and one retainer being isolated
+from the rest of the party and jumped by fishmen.  We played that out via
+Discord between sessions and it was a very close thing indeed, the fishmen
+knocked out the retainer and very nearly managed to abscond with her deep into
+their lair, but the PC was able to pull her out at the last moment with a very
+good use of a cone of fear!
+
+With that behind us, this time we did some more adventuring, identified some
+more of the haul of magic items the players got by defeating the Cult of Set,
+and further narrowed down where one of the missing rudishva survivors,
+Ravatorus, is.  We ended the session with them hot on his trail.  It'll be very
+fun when the players discover they've tracked him down to the territory of the
+fishmen, the very same fishmen who tried to abduct them as "material for the
+master".
+
+
+## Miscellaneous
+
+This week I got really back into Crusader Kings 3 and spent a lot of my evenings
+*actually learning to play the game properly*, which honestly I don't think I
+really did previously.  I just sort of carried over my uunderstanding of CK2,
+and so I was just bad at CK3.  I'd always give up a game a few generations in
+because I'd have too little money, be losing my land to neighbouring kingdoms,
+be dealing with frequent vassal rebellions... but this morning I finished a
+play-through at the game end date (which I'd never got close to reaching before)
+with a powerhouse of an empire.  Looking forward to more games where I know what
+I'm doing!
+
+I've taken next week off work, so maybe I'll do another long CK3 game, but I'm
+also kind of feeling like getting back into Dyson Sphere Program, as I've not
+played that properly since they added the Dark Fog.
+
+
+## Link Roundup
+
+### Roleplaying games
+
+- [How Do You Handle the "Inside" of a Hex?](https://knightattheopera.blogspot.com/2025/09/how-do-you-handle-inside-of-hex-george.html)
+- [Landmark Sites - Dwelling](https://www.bastionland.com/2025/03/landmark-sites-dwelling.html)
+- [Pick Two Inspirations and Combine Them](https://www.prismaticwasteland.com/blog/pick-two-inspirations-and-combine-them)
+
+### Software engineering
+
+- [Simon Peyton Jones: Pursuing a Trick a Long Way, Just To See Where It Goes](https://www.youtube.com/watch?v=Ow55c-m-_Ak)
