@@ -1,0 +1,91 @@
+---
+date: 2025-09-21
+---
+
+## Work
+
+I took this week off.
+
+
+## Books
+
+This week I read:
+
+- Volume 3 of the [Rozen Maiden][] anniversary edition by Peach-Pit
+
+  We've now crossed the point where the anime adaptation diverges from the
+  manga, though the remake addresses some of it.  I remember the ending of the
+  anime being fairly rushed and confusing so I'm interested to see where the
+  manga goes.
+
+- [The Borderland][] from Mongoose Publishing
+
+  Most of the Traveller setting books cover a whole sector, or at least a
+  substantial portion of one, which is a vast region of space.  You get a short
+  section about each system, but by necessity it can't really go into much
+  detail.  They tend to focus on cross-system concerns like politics.  The
+  Borderland isn't like that, it covers just 16 systems in the "borderland"
+  region of the Trojan Reach, and it goes into a lot more detail.  Each system
+  gets a star map, with information about all the bodies of note---not just the
+  mainworld!  We get multiple adventure hooks for each system and ideas about
+  how to tie them all together, there's even an included adventure that has the
+  players caught up in a natural disaster.  It's everything you'd need to run a
+  very local sandbox campaign.
+
+[Rozen Maiden]: https://en.wikipedia.org/wiki/Rozen_Maiden
+[The Borderland]: https://www.mongoosepublishing.com/products/the-borderland
+
+
+## Roleplaying Games
+
+It seems now is the time long-delayed kickstarters finally come to fruition.
+This week I received the Tome of Worldbuilding and the Nomicon (supposed to
+arrive in June), got the dispatch notification for Yoon-Suin (supposed to arrive
+in September... 2023), and (if the distributor is to be believed) next week my
+Dolmenwood package (now a year overdue) will be posted.
+
+### The Halls of Arden Vul
+
+Hit a bit of technical difficulty this week with my aging headset (a HyperX
+Cloud Alpha Pro) finally giving up the ghost, and the left audio channel died.
+Not ideal but we powered through and I've ordered a new headset (a Beyerdynamic
+MMX 330 Pro) which should be here tomorrow.
+
+Putting that aside, the big news from this session is that the players met
+Ravatorus, the insane rudishva survivor and progenitor of the fishmen!  The
+players realised that his lair, that they'd followed clues to, was in fishman
+territory so they made a hasty retreat and decided to pass along a message.  The
+fishmen are kind of idiots, but with a bit of coaxing and lots of mention of
+"the master", the players managed to get them to deliver a clay tablet upon
+which they'd inscribed a message in the rudishva language.
+
+Now, Ravatorus isn't *totally* disinterested in non-fishmen, the module notes
+that if anyone manages to make it to his lair he'll likely talk to them, but
+with a 50/50 chance every turn of deciding they need to be turned into fishmen.
+So how would he react to the message?  I figured he'd most likely ignore it, but
+I gave a 1-in-6 chance of him being intrigued enough to come see what was going
+on: and I hit it.  After an hour and a half of waiting, the players about to
+give up, a strange mutated form emerged from the water...
+
+He was, predictably, totally uninterested in leaving the planet.  But he did
+make sure to offer, several times, to turn people into fishmen if they'd like.
+
+
+## Miscellaneous
+
+This week I picked up [Timberborn][], a city-builder game where you manage a
+colony of intelligent beavers on post-apocalyptic Earth.  I'd had my eye on it
+for a while.  It's honestly pretty cool, the devs really leaned into the beaver
+theme by making water management a very core aspect of the game, with frequent
+droughts (and floods of polluted water) that you need to deal with: so what do
+your beavers do?  They build a dam of course!
+
+Another interesting aspect is that there are two factions of beavers, with
+different buildings and playstyles.  You start with the nature-friendly faction
+first, and unlock the more industry-focussed one when you get a colony to 15
+happiness, which isn't too tricky once you've got the basics down.
+
+It's still in early access, and has been since 2021, but it gets a major update
+every so often, so they are still working on it.
+
+[Timberborn]: https://store.steampowered.com/app/1062090/Timberborn/
