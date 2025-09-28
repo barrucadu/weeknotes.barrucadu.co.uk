@@ -1,0 +1,90 @@
+---
+date: 2025-09-28
+---
+
+## Books
+
+This week I read:
+
+- [The Anechoic Chamber][] a collection of short stories by Will Wiles
+
+  Pretty good, I would say *A Private Square of Sky* was my favourite, but *Meat
+  Stream* was definitely the most weird.  A lot of people kind of went nuts
+  during the pandemic, didn't they...
+
+- Volume 20 of [That Time I Got Reincarnated as a Slime][] by Fuse
+
+  Building on what I said [when I read volume 19](notes/341.html), the series
+  has just got bad now.  Very little actually happened in this volume, it's
+  almost entirely one long fight which doesn't even get resolved, it ends on a
+  cliffhanger.  I'm too far in now to drop it without feeling bad, but I hope
+  the author doesn't keep dragging this out.
+
+- [The Reddening][] by Adam Nevill
+
+  I find Adam Nevill a bit hit or miss.  This one was definitely better than
+  [Cunning Folk](notes/359.html), not up to the standards of [The
+  Ritual](notes/352.html) or [Last Days](notes/350.html), but still pretty good.
+  The main criticism I have is that the villains are a bit incompetent,
+  "mysterious rural disappearances ultimately due to cult sacrifices" is a good
+  premise, but there were too many disappearances, which is what led to their
+  downfall admittedly, but the cult had supposedly been operating for decades
+  without being noticed.
+
+  I have seen that his short stories are pretty universally liked, even by those
+  who don't like his novels, so I should check those out some time.
+
+[The Anechoic Chamber]: https://www.saltpublishing.com/products/the-anechoic-chamber-9781784633288
+[That Time I Got Reincarnated as a Slime]: https://en.wikipedia.org/wiki/That_Time_I_Got_Reincarnated_as_a_Slime
+[The Reddening]: https://www.goodreads.com/book/show/45718831-the-reddening
+
+
+## Roleplaying Games
+
+Dolmenwood is here!
+
+![Dolmenwood: GM screen, special edition books, cloth maps, all the adventures, dice bag, and soundtrack.](notes/365/dolmenwood.jpg)
+
+### The Halls of Arden Vul
+
+This week the players worked through three more of the Trials of Arden: they've
+now done five of twelve.  Really, they're not that hard for a party as high
+level and well-equipped as we've got, though there are some difficulty spikes
+coming up: the sixth trial potentially involves wandering a forest for several
+days, which could prove fatal for an underprepared party; the eighth involves
+evading a nigh-indestructible golem; the ninth requires fighting through an
+endless horde of undead (or, alternatively, slaying *over a thousand ghasts*);
+the tenth can, if you're unlucky, involve a lich; and the eleventh requires
+stealing an egg from two ancient dragons.
+
+The ninth is the real challenge, I think.
+
+And the reward... is a mixed blessing.  Upon completing all the trials, the
+champion can meet Arden herself, now ascended to demigodhood, who presents them
+with her holy spear and tasks them with purging the heqeti.  I say it's a mixed
+blessing because we've previously said that battling the heqeti would trigger
+the end of the campaign: it's such a big, high-stakes, dramatic, narratively
+satisfying challenge, that any other ending after that would feel much less
+exciting.  Better to end on a high note.
+
+Still, what a way to end things.
+
+
+## Miscellaneous
+
+I watched season 3 of [Foundation][] this week.  The show is consistently good,
+which is nice for an adaptation.  I found Demerrzel's ending quite sad, as she
+was so close to freedom; and found the twist of the Mule's identity confusing.
+I was expecting a twist---there's one in the book---but I'm not sure how it
+works given that we see the supposed-Mule using psionics while far separated
+from the actual-Mule; was the supposed-Mule still a psion, just one in service
+to the actual-Mule?
+
+[Foundation]: https://en.wikipedia.org/wiki/Foundation_(TV_series)
+
+
+## Link Roundup
+
+### Miscellaneous
+
+- [The Tyranny of Structurelessness](https://www.jofreeman.com/joreen/tyranny.htm)
