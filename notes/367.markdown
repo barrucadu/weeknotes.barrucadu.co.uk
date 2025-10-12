@@ -1,0 +1,70 @@
+---
+date: 2025-10-12
+---
+
+## Books
+
+This week I read:
+
+- The [Dolmenwood Player's Book][] from Necrotic Gnome
+
+  I ran a Dolmenwood campaign a few years ago and it was a lot of fun, but that
+  was back before there was a Dolmenwood *system*, it was still OSE with some
+  house rules and new classes.  This is the first time I've really looked into
+  the new (well, not so new, the draft version was released ages ago) system
+  itself.  I like it a lot, it's very similar to OSE, just incorporating a lot
+  of nice little tweaks from the previous Dolmenwood material and from the
+  Carcass Crawler zines.  I could see using it as a base for non-Dolmenwood OSR
+  games, too.
+
+[Dolmenwood Player's Book]: https://necroticgnome.com/pages/about-dolmenwood
+
+
+## Roleplaying Games
+
+### The Halls of Arden Vul
+
+Total deviation from the Trials of Arden this week: the players looted a tomb,
+and then cleared out some earth-spirit things in the vicinity of where one
+player wanted to set up a dwarven colony.  Now they're talking about going to
+find a lost dwarven forge.  What happened to the trials!
+
+We're still on track to the endgame, but my confidence in them completing the
+trials this month is shaken.  Ah well, that just gives me more time to read up
+on Ars Magica.
+
+
+## Miscellaneous
+
+I've been looking into [Uiua][], an array-oriented programming language, this
+weekend.  It's kind of interesting, but it's very heavy on unicode which set me
+on the path of a yak in need of shaving... you see, I run Windows on my desktop
+machine, and have a permanent SSH session open to my home server for all my
+Linux needs (for instance, I'm typing this weeknote right now via emacs running
+on the server).
+
+I used the venerable [PuTTY][] for SSH, but upon trying Uiua I hit a snag: my
+default font didn't have all the required unicode characters.  No problem, I
+thought, Uiua provides a font.  I'll just install and use that.  Well, for
+whatever reason, PuTTY wouldn't let me choose it.  The font selection in Putty
+is very abbreviated in fact, with only a fraction of my installed fonts
+available.
+
+So that, plus PuTTY's general clunkiness, led me to finally look for an
+alternative Windows SSH tool.  After some (very little) research, I settled on
+[Tabby][], which does work with all my fonts and is quite nice to use.  I keep
+falling afoul of keybindings that clash with my emacs ones, but it's getting
+there, and it does feel a lot nicer than PuTTY ever did.
+
+[Uiua]: https://www.uiua.org/
+[PuTTY]: https://www.chiark.greenend.org.uk/~sgtatham/putty/
+[Tabby]: https://tabby.sh/
+
+
+## Link Roundup
+
+### Software engineering
+
+- [Programming Sucks](https://www.stilldrinking.org/programming-sucks)
+- [Word2Vec Tutorial - The Skip-Gram Model](https://mccormickml.com/2016/04/19/word2vec-tutorial-the-skip-gram-model/)
+- [Word2Vec Tutorial Part 2 - Negative Sampling](https://mccormickml.com/2017/01/11/word2vec-tutorial-part-2-negative-sampling/)
