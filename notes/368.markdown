@@ -1,0 +1,61 @@
+---
+date: 2025-10-19
+---
+
+## Books
+
+This week I read:
+
+- The [Dolmenwood Campaign Book][] from Necrotic Gnome
+
+  I've not read any of this since my abortive work campaign in 2022, and even
+  then I was working off the draft material as it existed for my prior campaign,
+  some months previously.  Since then the material has been modified to suit the
+  new rules, as well as benefiting from a lot of review and feedback.  It's been
+  a fun read, it is mostly as I remember, but there are a few new things.
+
+  One thing I particularly liked---which may have been there before but I just
+  didn't notice---is in the rules for exploring a hex.  I always found it a bit
+  unsatisfying to give the players *all* the hidden features when they explored
+  a hex, as that makes it hard to add new features (like a dungeon) to a hex
+  that the players have already visited.  And also a six mile hex of woodland is
+  a huge area to search, finding everything there is to find in a few hours
+  doesn't seem reasonable.  The book now clarifies that finding all the hidden
+  features is the default, but you can instead opt to reveal just one hidden
+  feature (i.e. the next one they haven't found), or even roll for whether they
+  find a hidden feature.  I really like the rolling option: it means you can
+  never really know for sure that you've found everything, and even familiar
+  locations you've visited many times can still surprise you.
+
+[Dolmenwood Campaign Book]: https://necroticgnome.com/pages/about-dolmenwood
+
+
+## Roleplaying Games
+
+### The Halls of Arden Vul
+
+This week, more exploration.  The players found their way down to the base of
+the chasm and met Vingelok, a niravairi havildar in the Order of Planar
+Explorers and rescued him from a band of demonic hunters.  Now I need to read up
+on a whole sublevel that I thought the players would never find!  I expect the
+players to visit Level 10 in the climax of the campaign, so we *may* end up
+visiting every level and sublevel this campaign: all that's left is SL11, the
+Tomb of Isadora, which they'll get a hint towards when they complete the Trials
+of Arden.
+
+Vingelok is going to spend a few days recuperating before setting off, so next
+session will be about killing time.  Will they return to the Trials of Arden..?
+
+### Righteous Blood, Ruthless Blades
+
+We've picked the date for our next campaign break: the 9th, and possibly 16th,
+of November.  I'll be running *The Obsidian Bat*, the sample adventure in the
+rulebook.  I've never run a wuxia game before, it'll be fun!  The thing to keep
+in mind is just to have all the characters' behaviour be totally over-the-top.
+
+
+## Link Roundup
+
+### Roleplaying games
+
+- [Consent and How Mechanics Imply Flavor](https://srasu.org/posts/mechanics-imply-flavor/)
