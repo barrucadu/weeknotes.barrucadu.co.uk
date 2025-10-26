@@ -1,0 +1,96 @@
+---
+date: 2025-10-26
+---
+
+## Books
+
+This week I read:
+
+- The [Dolmenwood Monster Book][] from Necrotic Gnome
+
+  It's a book of monsters, what more is there to say?
+
+[Dolmenwood Monster Book]: https://necroticgnome.com/pages/about-dolmenwood
+
+
+## Roleplaying Games
+
+The ALIEN Evolved Edition kickstarter arrived this week:
+
+![The core rolebook, a GM screen, and a patch.](369/alien.jpg)
+
+### The Halls of Arden Vul
+
+Pretty eventul session this week.
+
+Firstly, as this is the last session before Halloween (we play on Sundays) I
+called this the "Halloween Special" and said all the goblins were wearing carved
+pumpkins over their heads.
+
+But, putting that aside, the players completed the 8th trial of Arden, and also
+saved the legendary Forge of Zhorak from doppelgangers, just in the nick of
+time.  As written, doppelgangers are there and planning to destroy it, but I
+decided to give the players a chance to beat them to it.
+
+I had the Survivors of the Stone (an NPC dwarven adventuring group) looking for
+the Forge.  They had a map to it via teleporter but didn't know how to get back,
+so they were wary of just going (but would do so as a last resort).  I had
+determined in advance when doppelgangers would ambush them, steal the map, and
+destroy the Forge.  Four days before the attack, the players decided to go talk
+to those dwarven adventurers they'd heard were looking for the Forge.  There's a
+PC dwarf so they shared intel.  On the day of the attack, the human member of
+the Survivors of the Stone escaped (she fell down a 50ft gap and the
+doppelgangers left her for dead), and came to the PCs for help.
+
+The players had a rough plan to make teleporters between the Forge of Zhorak and
+the Arden Cult level by (1) sending a spellcaster to Zhorak, (2) getting back
+with a Bead of Escape, and (3) using the rudishva Fire Pits of Creation to make
+a pair of linked teleporters.  So they *quickly* enacted that by sending an
+invisible spellcaster to Zhorak to scout it out and learn the area well enough
+to make the teleporter, then all rushed through and took out the doppelgangers
+before they could destroy the Forge.
+
+Next week we'll see if the players inadvertently release the fire elemental, or
+trigger the iron golem defense mechanism, or get killed by the spectre of
+Zhorak.
+
+As this was the last session of November, allow me to recant my suggestion that
+the players would complete the Trials of Arden this month.  They changed focus
+and are well behind where I expected them to be---players, how can you predict
+them?
+
+### Ars Magica
+
+The Dolmenwood books are great, but what I really want to run next is [Ars
+Magica][].
+
+I've put together most of a pitch for the next campaign, after we finish Arden
+Vul.  Here's the intro:
+
+> In Ars Magica you play a **magum** (male "magus", female "maga", plural
+> "magi") who lives in a **covenant**, that is to say a castle (or whatnot) with
+> a group of other magi (your fellow player characters), getting up to whatever
+> they want really, while also being part of a Europe-spanning wizard community
+> called the **Order of Hermes**.
+>
+> The ability to work magic is called **the Gift**, and while it conveys magical
+> power, it is off-putting to people and animals.  To get around this, each
+> magum has a **companion**, played by a different player, who is a non-Gifted
+> but plot-significant character.  Finally, there are the everyday servants,
+> farmers, labourers, and so on who make the covenant function: these are called
+> grogs and should be treated as **expendable redshirts**.
+>
+> A campaign of Ars Magica, called a **saga**, often lasts **decades of game
+> time**, with a single session covering anywhere from a few days (if in the
+> middle of an adventure) to multiple years (if the magi are just working in
+> their labs).  A typical adventure will feature at most one magum, possibly one
+> or two companions, and a gaggle of grogs.
+>
+> The year is AD 1220: Henry III is King of England, Frederick II is Holy Roman
+> Emperor, Honorius III is Pope, the Fifth Crusade is in full force, and Gothic
+> architecture is in style at the time.
+
+One of the players is visiting me in a couple of weeks, and I'm going to pitch
+it to them then.
+
+[Ars Magica]: https://en.wikipedia.org/wiki/Ars_Magica
