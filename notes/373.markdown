@@ -1,0 +1,68 @@
+---
+date: 2025-11-23
+---
+
+## Work
+
+I changed teams at work this week, my old team is being relocated to the new
+Lisbon office so all the London members are being rotated out.  For the time
+being I'm back on my previous team, the one I was on about two years ago, doing
+some more work on core money movement logic.  It's quite nice to get stuck back
+into some difficult technical stuff, things had slowed down quite a bit with the
+other team due to the rotation.
+
+
+## Books
+
+This week I read:
+
+- [The Magus][] by John Fowles
+
+  This was a weird book, I'm still not sure what happened.  It was really good,
+  it's just hard to say what it was about or what the moral (if any) of it was:
+  at first it seems to be about a man being inducted into some sort of mystical
+  knowledge, of ghosts and other worlds; then it becomes an elaborate role-play
+  as experimental treatment for mental disorders; then some sort of trick played
+  on the poor suffering protagonist; then a cult of experimental psychologists;
+  then back to an role-play, but one with the goal of *freeing your mind*; and
+  I'm not sure if that's all or if there are other layers I missed.  The
+  protagonist is a man adrift in society, who undergoes a profound experience
+  which ought to change him, and he feels it has, but in the end... he acts like
+  he did at the start.  He was unable to grow.
+
+[The Magus]: https://en.wikipedia.org/wiki/The_Magus_(novel)
+
+
+## Roleplaying Games
+
+### The Halls of Arden Vul
+
+A pretty busy session this week!  The players started out by finishing their
+exploration of the Forge of Zhorak, now that they had his ring that would open
+the secret door they found.  Beyond the door lay the body of Zhorak where he
+starved to death, trapped by an apprentice trying to steal his secrets.  The
+players put down the vengeful spirit of Zhorak and burned the body to stop it
+coming back.  They explored around a little more, found some more treasure, then
+called it a day.
+
+After that they resolved two long-standing plot threads.
+
+Firstly, they healed the murderously insane rudishva, which was the *last thing
+left* before Triv-Lok could leave!  That done, they escorted her and the
+rudishva to the shuttle bay, where to their surprise Kerbog Khan teleported in
+to join the group too!  Triv-Lok and KK worked on final launch preparations,
+then they all piled into the shuttle.  The party waved goodbye as they took off,
+blowing a hole through the cliff face (through the ankles of the colossus of
+Arden in fact), and headed to the stars...  The players first met Triv-Lok in
+session 52, and this was session 119.  Over a year of real time has passed, and
+8 months of game time.
+
+Secondly, they restored sanity to Lankios and learned his story: cursed by
+Ardenia Tessaeron for forsaking his responsibilities to his men and for being
+unable to render judgement in a case involving his friend and his unrequited
+love.  He asked the players to go see the tombs of Kaitor and Guivrel and render
+judgement for him.  The party, containing two clerics of Ardenia Tessaeron, of
+course agreed.  Ultimately they decided Kaitor was guilty, which is one of the
+acceptable answers (different things happen depending on what they choose), and
+returned to Lankios to tell him their choice.  The players first met Lankios in
+session 14, over two years ago!
