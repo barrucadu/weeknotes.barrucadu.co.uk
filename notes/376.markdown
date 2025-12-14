@@ -1,0 +1,53 @@
+---
+date: 2025-12-14
+---
+
+## Books
+
+This week I read:
+
+- [The Wide Carnivorous Sky & Other Monstrous Geographies][wcs] a collection of short stories by John Langan
+
+  The first story in this collection was pretty weak---a poor first
+  impression---but the rest made up for it.  My favourites were *Technicolor*
+  and *Mother of Stone*.  Langan experiments with writing style: one story is
+  written like a play, one as a collection of scenes, and *Mother of Stone* is
+  written in second-person present which I don't think I've ever seen before.
+
+  I thought John Langan's name was familiar, and it turns out he wrote one of my
+  favourite stories from volume 2 of *Black Wings of Cthulhu*, which [I read
+  back in 2021][w122].
+
+[wcs]: https://www.goodreads.com/book/show/17839778-the-wide-carnivorous-sky-and-other-monstrous-geographies
+[w122]: notes/122.html
+
+
+## Roleplaying Games
+
+### The Halls of Arden Vul
+
+This week the players returned to the Trials of Arden and completed the 9th
+trial, which if you just try to brute-force it requires killing 1,234 ghasts and
+a banshee.  The actual solution is to find some way to distract the ghasts and
+make your way over to the banshee to defeat it in a musical duel.  The players
+prepared pretty well for this, they spent a month of downtime learning various
+musical instruments, and in the trial itself had a loud fight drawing the
+attention of the undead while another character was turned invisible and hurried
+off to deal with the banshee.
+
+After that they briefly considered going straight into the 10th trial, but opted
+for a bit of exploration instead.  Evidently with a taste for undead meat, they
+went to the Necropolis of Set.  We ended the session with them confronting
+Meskenit, the Greater Mummy, and his servitors: a horde of ghasts and ghouls,
+with a wight and a regular mummy in the mix as well.
+
+Right off the bat, four of the retainers got paralysed with fear, and Meskenit
+has a collection of spells and magic items at his disposal.  We'll pick it up
+next time and see what happens.
+
+
+## Link Roundup
+
+### Software engineering
+
+- [How Google Maps quietly allocates survival across London’s restaurants](https://laurenleek.substack.com/p/how-google-maps-quietly-allocates)
