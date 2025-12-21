@@ -1,0 +1,71 @@
+---
+date: 2025-12-21
+---
+
+## Work
+
+Done with work for the year now, I'm back on the 5th.
+
+The big news is that my employer is being acquired.  Nothing material changes
+until the deal completes around mid next year, but one very nice upside of this
+is that the CEO has taken back his mandate that everyone needs to be in the
+office three days a week as of June, to align our working policies with our new
+owner, who leave that decision up to individual teams.  I find it a bit
+disappointing that the policy being wildly unpopular isn't what changed things,
+money is, but it's still a welcome change.
+
+
+## Books
+
+This week I read:
+
+- [The Fifth Head of Cerberus][] by Gene Wolfe
+
+  This is a collection of three stories set on a pair of closely orbiting
+  worlds, one of which had a native population of shapeshifters.  Or maybe it
+  didn't, maybe they were stories made up by the settlers.  Or maybe the
+  aboriginals killed and replaced the settlers, because how would you even be
+  able to tell with a shapeshifter?  Along with colonialism, mimicry and
+  identity are big themes in each story, and some characters are arguably just
+  different aspects of others.
+
+[The Fifth Head of Cerberus]: https://en.wikipedia.org/wiki/The_Fifth_Head_of_Cerberus
+
+
+## Roleplaying Games
+
+### The Halls of Arden Vul
+
+This week we opened with the fight against Meskenit: he won initiative and
+immediately killed six of the party members with a magic item.  No save, just
+dead.  That's pretty much what I expected to happen.  Then the remaining three
+members of the party beat him up as, due to some lucky initiative rolls, they
+managed to make him lose his next turn, and prevented him from casting any
+spells.
+
+After that, a few weeks of downtime to bring the dead party members back,
+followed up by more exploration of the Set necropolis area.  One of the players
+said they felt we were getting close to the end of Arden Vul: they can have most
+of the party die and shrug it off like it was nothing, and also they've achieved
+most of their big goals.  Triv-Lok has left, Kerbog Khan going with her.  The
+Varumani have been restored.  Lankios healed.  The Cult of Set vanquished.  The
+Temple of Thoth restored.  What's left?
+
+One player wants to finish the Trials of Arden, another wants to find out what's
+going on with the heqeti.  After a bit of discussion I gave them the hint that
+they should do the Trials of Arden before seriously going after the heqeti.  So
+that's what they're going to focus on first.
+
+The campaign is finally coming to an end.  A bit later than I expected, but
+still via the route I thought it would.
+
+
+## Link Roundup
+
+### Roleplaying games
+
+- [Sleuthing Out Tlaukhu Details](https://greatdungeonnorth.blogspot.com/2025/12/sleuthing-out-tlaukhu-details.html)
+
+### Software engineering
+
+- [Introducing CSS Grid Lanes](https://webkit.org/blog/17660/introducing-css-grid-lanes/)
