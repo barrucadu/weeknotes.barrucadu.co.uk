@@ -1,0 +1,263 @@
+---
+annual_special_for: 2025
+date: 2025-12-28
+---
+
+I bought a house!
+
+
+## Work
+
+Still at [GoCardless][], for the fourth annual update in a row, though I suppose
+this will be the last: the news has broken that [Mollie will be acquiring
+GoCardless][gcm], so if I'm still around in a year's time it'll be my first year
+at Mollie instead.  The deal doesn't actually complete until around mid 2026, so
+nothing materially changes with my job until then.
+
+One very welcome bit of news is that, a little while ago, the CEO announced that
+we'd all have to be in the office three days a week from June 2026---a widely
+unpopular decision that's contributed to many people leaving---and with the news
+of the acquisition, that's been rolled back as we're going to adopt Mollie's
+policy of leaving it up to individual teams instead.  I'm glad that the decision
+has been changed (I was planning to leave if it didn't), but a bit put out that
+it wasn't changed due to its unpopularity amongst existing staff, it was changed
+due to money.
+
+GoCardless opened a new office in Lisbon, and my team was the first to get moved
+over, with new staff hired in Lisbon followed by a transition period of a few
+months with the existing London staff being gradually rotated out to other
+teams.  I got moved back to my original team.  I'm actually supposed to be on a
+different team to lead a big project, but there have been some timing issues
+which mean they won't actually be ready to start that until some time next year,
+so this is just a temporary assignment.  It's nice to have a change, I'd been
+doing dashboard stuff for so long.
+
+[GoCardless]: https://gocardless.com/
+[gcm]: https://gocardless.com/blog/mollie-to-acquire-gocardless/
+
+
+## Finance
+
+The big news this year is that I freed myself from the yoke of rent, by
+attaching myself to the yoke of mortgage payments instead.
+
+Every year, when it was time to renew my tenancy agreement, I would think
+"should I just buy somewhere instead?", well, this year the choice was made for
+me as the landlord decided to sell the flat.  Rather than find somewhere new to
+rent and keep paying someone else's mortgage, I decided this was the time to
+buy.
+
+So I now have a nice two-bedroom house in Peterborough.  The commute to work is
+about two hours, but I only need to go in one day a week.  I spent a few months
+redecorating and furnishing the place, and it's now very nice.  Next year I'm
+tackling the garden.  There are other projects too, but nothing urgent.
+
+However, the downside is that the house deposit wiped out my investments (I put
+down as large a deposit as I could, £125,000), and everything else took a big
+chunk out of my cash savings.  But I've been rebuilding the cash savings this
+year, and from next tax year I'll be filling my ISA again.  I'm also overpaying
+the mortgage to clear that a little faster than the 20-year term I took out.
+
+Something I often see in personal finance circles is that homeownership is more
+expensive than renting, don't just assume you'll be saving loads more money by
+buying a house!  This has always struck me as obvious nonsense as, putting aside
+the costs associated with actually buying a house (stamp duty, legal fees, etc),
+renting *obviously* has to cost more than buying as otherwise nobody would buy
+houses to let them out as they wouldn't make a profit; rent has to have all the
+mandatory costs (mortgage, repairs, insurance, the letting agent's cut, etc)
+factored in.  And having done it myself now for around 6 months, I think it's
+only more expensive because there's more stuff you can (but do not have to)
+spend money on.  While I have spent more per-month than I did on my flat, it's
+just because I would never have thought to throw away my money on getting a
+rental flat painted, or to replace the aging carpet, or to make any of the other
+small improvements that only add to the property's value and can't really be
+taken with you.
+
+Homeownership is more expensive because you *want* to improve the place.
+
+
+## Reading
+
+This year [bookdb][] hit **1000 books** (it's 1042 at the time of writing, and I
+still need to add the books I got for Christmas), which is a pretty big
+milestone.  I would have hit it long ago had I not started to prune my
+collection in 2024.  There's less need of that now (I have much more space), but
+there's still a limit to where you can sensibly fit bookcases in a house, so I
+expect the absolute size of my collection to continue growing at a slower rate
+than pre-2024, even if I still acquire new books at the same rate.
+
+[bookdb]: https://bookdb.barrucadu.co.uk/
+
+This year I read 60 books:
+
+- [Light Novels + Manga](https://bookdb.barrucadu.co.uk/search?keywords=&person=&location=&match=&category=a3bbb1c6-5ff8-4ddf-81f4-820593a2a5ff)
+  - Volumes 11 & 12 of [Frieren: Beyond Journey's End](https://en.wikipedia.org/wiki/Frieren) by Kanehito Yamada and Tsukasa Abe
+  - Volumes 1 to 3 of [Rozen Maiden: Collector's Edition](https://en.wikipedia.org/wiki/Rozen_Maiden) by Peach-Pit
+  - Volumes 19 & 20 of [That Time I Got Reincarnated as a Slime](https://en.wikipedia.org/wiki/That_Time_I_Got_Reincarnated_as_a_Slime) by Fuse
+  - Volumes 1 to 5 of [Yokohama Kaidashi Kikou: Deluxe Edition](https://en.wikipedia.org/wiki/Yokohama_Kaidashi_Kikou) by Hitoshi Ashinano
+- [Nonfiction / Economics + Finance](https://bookdb.barrucadu.co.uk/search?keywords=&person=&location=&match=&category=8a8b44cd-65c1-49ed-a126-2b05acc82539)
+  - [Algebraic Moels for Accounting Systems](https://www.worldscientific.com/worldscibooks/10.1142/7445) by Salvador Cruz Rambaud *et al*
+- [Nonfiction / History](https://bookdb.barrucadu.co.uk/search?keywords=&person=&location=&match=&category=6e7ffdc5-9571-43b3-800b-6e9fc0e0bb92)
+  - [Cities that Shaped the Ancient World](https://www.goodreads.com/book/show/20784166-cities-that-shaped-the-ancient-world) by John Julius Norwich
+  - [Ur of the Chaldees](https://www.goodreads.com/book/show/20899849-ur-of-the-chaldees) by Sir Leonard Woolley
+- [Nonfiction / Miscellaneous](https://bookdb.barrucadu.co.uk/search?keywords=&person=&location=&match=&category=fb2dd601-883a-4254-a294-fcf0a0f98d2f)
+  - [Atomic Habits](https://jamesclear.com/atomic-habits-summary) by James Clear
+  - [The Great Indoors](http://emilyanthes.com/thegreatindoors/) by Emily Anthes
+  - [Why We Sleep](https://www.penguin.co.uk/books/295665/why-we-sleep-by-walker-matthew/9780141983769) by Matthew Walker
+- [Prose Fiction + Graphic Novels](https://bookdb.barrucadu.co.uk/search?keywords=&person=&location=&match=&category=590ac55d-0644-4a71-b902-587faa5b03d9)
+  - [Absolution](https://en.wikipedia.org/wiki/Absolution_(VanderMeer_novel)) by Jeff VanderMeer
+  - [The Anechoic Chamber and Other Weird Tales](https://www.saltpublishing.com/products/the-anechoic-chamber-9781784633288) by Will Wiles
+  - [Behold the Man](https://en.wikipedia.org/wiki/Behold_the_Man_(novel)) by Michael Moorcock
+  - [Cunning Folk](https://www.goodreads.com/book/show/58851564-cunning-folk) by Adam Nevill
+  - [A Deepness in the Sky](https://en.wikipedia.org/wiki/A_Deepness_in_the_Sky) by Vernor Vinge
+  - [Exhalation](https://en.wikipedia.org/wiki/Exhalation:_Stories) by Ted Chiang
+  - [The Fifth Head of Cerberus](https://en.wikipedia.org/wiki/The_Fifth_Head_of_Cerberus) by Gene Wolfe
+  - [Greatest Hits](https://en.wikipedia.org/wiki/Harlan_Ellison_bibliography#Short_story_collections) by Harlan Ellison
+  - [Kane of Old Mars](https://www.gollancz.co.uk/titles/michael-moorcock/kane-of-old-mars/9780575092525/) by Michael Moorcock
+  - [Last Days](https://en.wikipedia.org/wiki/Last_Days_(Nevill_novel)) by Adam Nevill
+  - [The Magus](https://en.wikipedia.org/wiki/The_Magus_(novel)) by John Fowles
+  - [Moorcock's Multiverse](https://www.gollancz.co.uk/titles/michael-moorcock/moorcocks-multiverse/9780575092587/) by Michael Moorcock
+  - [The Nomad of Time](https://www.gollancz.co.uk/titles/michael-moorcock/the-nomad-of-time/9780575092693/) by Michael Moorcock
+  - [Pavane](https://en.wikipedia.org/wiki/Pavane_(novel)) by Keith Roberts
+  - [Permutation City](https://en.wikipedia.org/wiki/Permutation_City) by Greg Egan
+  - [The Reddening](https://www.goodreads.com/book/show/45718831-the-reddening) by Adam Nevill
+  - [The Ritual](https://en.wikipedia.org/wiki/The_Ritual_(novel)) by Adam Nevill
+  - [Solaris](https://en.wikipedia.org/wiki/Solaris_(novel)) by Stanislaw Lem
+  - [Tales from the End of Time](https://en.wikipedia.org/wiki/The_Dancers_at_the_End_of_Time#Legends_from_the_End_of_Time) by Michael Moorcock
+  - [The Terror](https://en.wikipedia.org/wiki/The_Terror_(novel)) by Dan Simmons
+  - [Unfinished Tales: Of Númenor and Middle-Earth](https://en.wikipedia.org/wiki/Unfinished_Tales) by J. R. R. Tolkien
+  - [The Wide, Carnivorous Sky: & Other Monstrous Geographies](https://www.goodreads.com/book/show/17839778-the-wide-carnivorous-sky-and-other-monstrous-geographies) by John Langan
+  - [The Wizard Knight](https://en.wikipedia.org/wiki/The_Wizard_Knight) by Gene Wolfe
+- [RPG / D&D + OSR](https://bookdb.barrucadu.co.uk/search?keywords=&person=&location=&match=&category=99569e4e-d52c-4e3b-8c2b-8e69e2ff29b7)
+  - [Beyond the Pale](https://www.kickstarter.com/projects/lost-pages/beyond-the-pale-a-folktale-adventure) by Yochai Gal
+  - [Dolmenwood: Campaign Book](https://necroticgnome.com/pages/about-dolmenwood) by Gavin Norman
+  - [Dolmenwood: Monster Book](https://necroticgnome.com/pages/about-dolmenwood) by Gavin Norman
+  - [Dolmenwood: Player's Book](https://necroticgnome.com/pages/about-dolmenwood) by Gavin Norman
+  - Volume 5 of [Knock!: An Adventure Gaming Bric-a-brac](https://www.kickstarter.com/projects/896102915/knock-issue-5) from the Merry Mushmen
+  - [Let Us Build a Tower](https://www.kickstarter.com/projects/calebwimble/let-us-build-a-tower) by Caleb Wimble
+- [RPG / The One Ring](https://bookdb.barrucadu.co.uk/search?keywords=&person=&location=&match=&category=833cfe57-0092-4acb-9bb2-5211f5c89016)
+  - [Realms of the Three Rings](https://freeleaguepublishing.com/shop/the-one-ring/realms-of-the-three-rings/) from Free League Publishing
+- [RPG / Traveller](https://bookdb.barrucadu.co.uk/search?keywords=&person=&location=&match=&category=d8d4ee9d-e5d8-4d4d-8a78-65ebc23fc451)
+  - [The Borderland](https://www.mongoosepublishing.com/products/the-borderland) from Mongoose Publishing
+  - [Clans of the Aslan](https://www.mongoosepublishing.com/products/clans-of-the-aslan) from Mongoose Publishing
+  - [The Deep and the Dark](https://www.mongoosepublishing.com/products/the-deep-and-the-dark) from Mongoose Publishing
+  - Volumes 13 to 18 of [The Journal of the Traveller's Aid Society](https://wiki.travellerrpg.com/Mongoose_2nd:_Journal_of_the_Travellers%27_Aid_Society) from Mongoose Publishing
+- [RPG / Miscellaneous](https://bookdb.barrucadu.co.uk/search?keywords=&person=&location=&match=&category=70196ec9-dd61-4241-afc9-dd6be7be30a6)
+  - [Righteous Blood, Ruthless Blades](https://www.ospreypublishing.com/uk/righteous-blood-ruthless-blades-9781472839367/) by Brendan Davis and Jeremy Bai
+- [Verse](https://bookdb.barrucadu.co.uk/search?keywords=&person=&location=&match=&category=217f8eaa-b54a-466c-83f8-3f569f46732e)
+  - [The Iliad](https://en.wikipedia.org/wiki/Iliad) by Homer
+  - [The Odyssey](https://en.wikipedia.org/wiki/Odyssey) by Homer
+
+My top three reads of 2025 are:
+
+- **Ur of the Chaldees**
+
+  This is the first---well, only---archaeology book I've read.  Sir Leonard
+  Woolley tells the story of the excavations at Ur, and not only is it really
+  interesting, it's also very entertaining.  It's not just a dry account of
+  things dug up.
+
+  It's full of story about how these people probably lived and what the finds
+  were probably for; it's got many, many complaints about the last guy to
+  excavate this place, who was from the cowboy era of just digging things up and
+  sticking them in a museum, who had a habit of smashing through walls and
+  damaging anything he judged boring; it's got really interesting tidbits about
+  archaeological practices that I'd never considered before.  For example, at
+  one point Woolley describes how they took a piece of jewellery out of the
+  ground by pouring molten wax over it so they could lift out the whole thing
+  without disturbing the relative arrangement of the components, to then be
+  cleaned and studied later.
+
+  And there's evidence of the flood, too.
+  
+- **The Wizard Knight**
+
+  Wizard Knight is Gene Wolfe, which is really all that needs to be said to
+  vouch for its quality---he's like Jack Vance, you just know if you see his
+  name on the cover, it's an excellent (and confusing) book.  My copy has an
+  introduction which I really appreciated as it primed me to pick up on some of
+  the deeper meaning of the book, though it certainly didn't explain everything.
+
+  Fundamentally, it's a coming-of-age story, told from the perspective of an
+  American teenager, in a fantasy world with a heavy dose of Norse and Catholic
+  theology sprinkled on top.  It's amazing really how well the two combine
+  without anything like an awkward join in the middle, and how leaning the
+  metaphysical underpinnings of the story really changes how you see things.
+  
+- **The Iliad**
+
+  *I* knew the story of the Iliad, *everyone* knows the story of the Iliad!
+  Eris throws the golden apple, which leads to Paris abducting Helen, and the
+  war on Troy which ends with the wooden horse leading to the sack of Troy,
+  wrapping up just in time for the Odyssey.  Everyone knows that!
+
+  Actually no, turns out most of that is in other tales.  The Iliad proper just
+  covers part of the war: not the beginning, not the end, it doesn't even have
+  the horse!
+
+  I picked up the Emily Wilson translation, which was excellent.  Very easy to
+  read, the vocabulary and sentence structure didn't feel forced (always a risk
+  when translating poetry into poetry), and just a good action-packed story.
+  Often people think the classics are stuffy dry tomes, only for academics and
+  the elite.  But this was pop culture back in its day!
+
+No RPG book in the top three this year!  I've just been running Arden Vul all
+year, so the RPG books I have read have only been for casual interest, not to
+seriously bring to the table.  But I'm pretty confident there'll be an RPG book
+here again for 2026.
+
+
+## Tech
+
+A pretty tame year for tech, really.
+
+On the software side the only substantial change is dropping PuTTY as my Windows
+SSH client of choice for [Tabby][], which has a much more sleek UI and handles
+all my fonts (PuTTY refused to show most of them for some reason).  As part of
+that I started using the [Uiua][] font, though my Uiua learning dropped off
+pretty quickly.
+
+Hardware is a bit more exciting as I rebuilt azathoth, my desktop machine, which
+was last overhauled in 2020 with components that would have been cutting edge
+in 2016.  I have tweaked it since then---more RAM, a new case---but it was
+basically the same machine.  The straw that broke the camel's back was trying to
+read an article about WebGL that had loads of examples, and it just couldn't
+render the page.  So I'm now using an AMD Ryzen 9 7950X3D processor with a
+Gigabyte AORUS MASTER ICE GeForce RTX 5080 graphics card, and 96GB of RAM (with
+space for two more sticks if I need them).  It's pretty good.
+
+[Tabby]: https://tabby.sh/
+[Uiua]: https://www.uiua.org/
+
+
+## Gaming
+
+Most of this year's gaming was the weekly Arden Vul campaign on Sundays, today
+we played session 124: that's 49 sessions out of 52 weeks!  There were a few one
+shots too, and for a little while there was Troika on Fridays, but it's mostly
+been Arden Vul.
+
+The campaign, however, is finally coming to an end.  The players feel it's time
+to bring it to a close.  Through a combination of magic items, the ability to
+raise the dead, and alliances with powerful factions, there's not that much
+challenge any more.  They can have most of the party die and shrug it off like
+it was nothing, and also they’ve achieved most of their big goals.  Triv-Lok has
+left, Kerbog Khan going with her.  The racial degradation of the Varumani has
+been reversed.  Lankios healed.  The Cult of Set vanquished.  The Temple of
+Thoth restored.  What’s left?
+
+Just two things: completing the Trials of Arden, and leading a glorious crusade
+against the Heqeti and their evil ziggurat at the base of the dungeon.  There
+are more things we *could* do, like find all the regalia or move into the
+political game, but those are the two things the players are most interested in.
+We want to end on a dramatic finale, not drag it out with minutiae.
+
+I expect the game will be over by April; but I had previously predicted the game
+would be over by the end of this year (when they first got seriously into the
+Trials and were completing two a week) and then they shifted focus and we're
+only just entering the "pre-endgame" now.  The real endgame will begin when they
+complete the 12th trial...
+
+It'll be sad to leave Arden Vul behind, but it's been a lot of fun.
+
+Our next campaign will be Ars Magica.
