@@ -1,0 +1,51 @@
+---
+date: 2026-01-11
+---
+
+## Books
+
+This week I read:
+
+- [Shaman][] by Kim Stanley Robinson
+
+  KSR is more known for his Mars trilogy, which I've read and greatly enjoyed,
+  so I was interested to check this book out but I'd say Shaman was just *ok*.
+  I probably wouldn't have picked it up if it had been by a different author.
+  It was entertaining enough I suppose, it had action and excitement, I read the
+  book fairly quickly, but it just wasn't up to the same standard really.
+
+[Shaman]: https://en.wikipedia.org/wiki/Shaman_(novel)
+
+
+## Roleplaying Games
+
+### The Halls of Arden Vul
+
+This week the players decided to go after Kel Bormol's lair, to try to find the
+password for his secret stash.  This led them into the Tower of Scrutiny, which
+is one of the first locations it's possible to enter in Arden Vul (you can get
+there from the surface) but which they'd never been in before.  Well, they
+decided not to spend much time there after seeing several wraiths descend,
+screaming, through a cloud of magical darkness above them.
+
+After that, they went in search of Marius Tricotor's outpost at the base of the
+chasm, which led to meeting the vampire Cinna Minnux.  He knew he was outclassed
+and bluffed a bit by acting all-knowing and "allowing" the PCs to leave his
+domain which worked, the players left and tried another route.  We ended the
+session with them at the base of the chasm.
+
+I wasn't expecting them to head down there so I was improvising a lot of it,
+I'll be better prepared for next week.  There's plenty of interesting stuff down
+there, nasty too.
+
+
+## Miscellaneous
+
+I played some [Disco Elysium][] this week for the first time.  I went in almost
+totally blind, all I knew about the game was that you play a detective who has
+lost their memory and that people think this is one of the greatest RPGs ever
+made.  It's certainly unconventional, and interesting.  I made it about an hour
+and a half before my character had a mental breakdown and quit his job to go
+live under a bridge.  I'm going to have to give it another shot.
+
+[Disco Elysium]: https://en.wikipedia.org/wiki/Disco_Elysium
