@@ -1,0 +1,78 @@
+---
+date: 2026-01-18
+---
+
+## Books
+
+This week I read:
+
+- [Solo Game Master's Guide][] from Geek Gamers
+
+  I picked this up because I've been getting more into solo RPGs this year and
+  have enjoyed a few of the Geek Gamers videos on youtube, but there wasn't that
+  much here which was new to me.  I think it would be a good starting point for
+  someone totally new to solo RPGs, but if you've watched some videos and read
+  some articles already it's of limited use.
+
+  The one neat idea I did take from it, however, was using books as oracles.
+  Stuck for an idea?  Flip to a random page (roll up the page number), skim to
+  the first new paragraph, read it, and try to interpret it in the context of
+  your current situation.
+
+[Solo Game Master's Guide]: https://www.dungeonland.co.uk/home/Solo-Game-Masters-Guide-p547128452
+
+
+## Roleplaying Games
+
+### The Halls of Arden Vul
+
+Very combat-heavy session this week.
+
+We started on the base of the chasm with the PCs looking for Marius Tricotor's
+outpost.  Upon ascending onto a heqeti causeway they were ambushed by 2 demon
+hunters (that is, hunters who are demons, not hunters of demons) with 4
+hellhounds: the hunters attacking with bows from the tops of the nearby giant
+mushrooms, and the hounds attacking in melee.
+
+The PCs had Protection from Evil, which prevents melee attacks from connecting,
+so I figured the demons would know what that is when they saw how the hounds
+were acting.  So they commanded the hounds to jump up at the PCs and obstruct
+them, so they couldn't move away without attacking a hound and so breaking the
+protection.
+
+Ultimately the battle ended with the hounds dead, and the severely wounded
+hunters nodding respectfully at the party and teleporting off.
+
+Upon arriving at the outpost, they had to fight two animated statues which had
+been guarding it from all intruders for the past thousand years.  After getting
+by them, they made it inside but were driven off by a vengeful spirit.  First
+time they've ran from a fight in a while.
+
+They took a couple of days downtime for magical healing and then decided to go
+check out the locked rooms of the Third Mystery of Set, and we ended the session
+with them defeating the behir.
+
+Next time: the 11th Trial of Arden!
+
+
+## Miscellaneous
+
+I thought [the grass in my garden was coming back][], and more patches of green
+have been appearing in the garden over the past month and a half.  But I went
+out today to have a closer look and it's not grass: it's moss!  That's much
+nicer, a moss lawn with wildflowers will be pretty cool.
+
+The yellow rattle has started to sprout and I'm a bit concerned with how much of
+it there is, the garden will be very yellow, but I can always prune it back if
+it's too much.  It'll also look different once all the other flowers are there,
+but I won't be sowing them until March.  It'll be spring next year when I first
+get a good idea of what my new grass-free garden will look like.
+
+[the grass in my garden was coming back]: notes/375.html
+
+
+## Link Roundup
+
+### Roleplaying games
+
+- [Vassal Clans Revisited](https://greatdungeonnorth.blogspot.com/2026/01/vassal-clans-revisited.html)
