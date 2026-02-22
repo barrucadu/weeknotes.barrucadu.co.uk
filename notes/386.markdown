@@ -1,0 +1,95 @@
+---
+date: 2026-02-22
+---
+
+## Books
+
+This week I read:
+
+- Volume 1 of [The Book of the New Sun][], by Gene Wolfe
+
+  Which I last read in 2020.  It made a little more sense this time, I saw some
+  things (like the towers of the Citadel being grounded rockets) much more
+  easily, but there's still so much that's hard to figure out.  Like what is
+  Dr. Talos' play about?  There's a couple of good podcasts (or so I've heard)
+  about Gene Wolfe, I should really check them out some time as it's enjoyable
+  to try to figure out what he's talking about just from the text, but I must be
+  missing so much.
+
+[The Book of the New Sun]: https://en.wikipedia.org/wiki/The_Book_of_the_New_Sun
+
+
+## Roleplaying Games
+
+### The Halls of Arden Vul
+
+This week the players said "we want to explore some heqeti areas" and then
+proceeded to get distracted at the first opportunity and go explore Kerbog
+Khan's base and then deal with some feral varumani which had been killing and
+eating adventurers.
+
+Things continue to tick along in the background: the Master of the Sun-Scarred
+Knights has read the players' petition for aid in the war against the heqeti and
+in two more days one of the Knights will be sent to scout the heqeti "ruins"
+(now re-occupied) near the varumani domain.  Discovering the ruins are
+reoccupied will put the varumani on high alert, and the PCs will be summoned to
+a conclave.
+
+The module says that "under no circumstances" will the Knights invite
+adventurers (or anyone outside their Order) into their citadel.  But it's such a
+cool location and ruling it out---making it inaccessible to all but evil parties
+who decide to attack the Knights and seize their territory---is unsatisfying.
+As we're coming towards the end of the campaign I want to show off some of these
+cool locations.
+
+
+## Miscellaneous
+
+My heating stopped working this week and I had to get a plumber in to fix it.
+
+It broke for the first time on Friday last week.  I realised it was a bit chilly
+in the evening, went to put the heating on, but the boiler just displayed an
+error code.  After a little research, I found that the manufacturer offered
+repairs: one fee to come, diagnose the problem, and fix it including any
+replacement parts.  "This is clearly what I want," I thought, but alas I was
+wrong.  The plumber visited Saturday morning and quickly determined that the
+problem wasn't with the boiler, so the £400 I paid didn't actually cover
+anything in this case.  He did discover that my water pressure was too low,
+which is why the heating had stopped working: low water pressure = too little
+water flowing through the boiler, so it can't exhaust the heat quickly enough =
+shut down for safety reasons.  He topped up the water in the heating system (for
+free) and that was that.  He also said it sounded like my circulation pump (the
+thing that pushes hot water through the heating system) was on its way out and
+would need replacing at some point.
+
+So I essentially paid £400 to have someone come turn on a tap.
+
+On Monday, the heating stopped working for the second time.  This time the
+pressure was still ok, and the boiler wasn't showing any error code, or anything
+at all.  I thought it was a bit of a coincidence to stop working so soon, so I
+contacted a different plumber.  They charged £79 for diagnosis, which is under a
+quarter of what I paid the manufacturer's guy.  They came over Tuesday morning.
+I explained the previous visit, they had a look, and concluded that not only was
+the circulation pump now totally dead, but the reason the water pressure had
+been low is because there were a couple of dripping valves.  I needed a new pump
+and new valves.  This (including the £79 diagnosis fee) would come to about
+£1000.  The earliest they could come to fix it would be Friday.
+
+I passed a very cold week, and then on Friday they called to say they were
+really busy and couldn't come until Monday.  Thankfully they were actually able
+to come today, Sunday, though it's been a pretty mild weekend so the lack of
+heating wasn't so bad.
+
+I'm a bit disappointed that I paid for a plumbing survey before I got the house
+and everything was rated as "good" or "excellent": I feel that a pump completely
+failing in under a year, plus some valves that had evidently been dripping since
+before I bought the house as there was a crusty old towel beneath them which I
+hadn't noticed when I viewed it, is neither of those things.  Anyway, it's all
+fixed now.
+
+
+## Link Roundup
+
+### Miscellaneous
+
+- [How far back in time can you understand English?](https://www.deadlanguagesociety.com/p/how-far-back-in-time-understand-english)
