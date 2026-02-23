@@ -58,7 +58,7 @@ jobs:
             args:
               - -cex
               - |
-                nix --extra-experimental-features "nix-command flakes" develop --command bash -c "./build --wip-summaries --out=../site/${OUT_DIR}"
+                nix --extra-experimental-features "nix-command flakes" develop --command bash -c "./build --out=../site/${OUT_DIR}"
       - put: weeknotes-rsync--carcosa
         no_get: true
         params:
