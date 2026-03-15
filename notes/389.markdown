@@ -1,0 +1,114 @@
+---
+date: 2026-03-15
+---
+
+## Books
+
+This week I read:
+
+- A Field Guide to, and The Dark of, [Hot Springs Island][] by Jacob Hurst
+
+  I've been reading a lot of RPG material lately, planning for the next
+  campaign.  More thoughts on that below.
+
+[Hot Springs Island]: https://shop.swordfishislands.com/books/
+
+
+## Roleplaying Games
+
+### The Halls of Arden Vul
+
+Not much in terms of *action* this week, but pretty big in terms of
+*consequences*.  The players scouted out much of the cavern of the Ziggurat of
+Kauket, including the route back to the chasm floor, without being discovered.
+They now have a map of the area and know where to march their army.
+Simultaneously, they had their army moving massive amounts of treasure (via the
+pair of linked teleporters they set up) between the Tomb of Isadora and their
+secure vault.  This culminated in over *3 million XP*, which levelled up all the
+PCs and brought their entire army (over 200 guys) up from 1st to 3rd level.
+
+Discussion between the players after the session basically came down to "we've
+got two things left: destroy the ziggurat, then take down the dragon".
+
+So the end is nigh.
+
+We've decided not to use mass combat rules when they go for the ziggurat.  We
+did for the war on the Cult of Set but it was slow and also felt a bit
+anticlimactic, as the only Setite leader we fought in a personal-scale combat
+was Stephania.  So for the ziggurat, we're going to abstract the larger battle
+into the background (I'll have a look at the relative strength of the heqeti and
+the players' troops and make something up), and the players will instead switch
+between controlling their characters, a group of 8 Sun-Scarred Knights who will
+be accompanying them, and 4 Varumani Hunters.  These three groups will be going
+after the heqeti leaders and securing strategic locations, but also the
+Sun-Scarred Knights and the Varumani have their own objectives which I've
+included to foster some interesting roleplaying.
+
+Still working them out, but broadly what I have for the Knights is:
+
+1. Survive, as the loss of even a single knight is a diffficult cost to bear
+2. Weaken the varumani if we can do so without being caught, they're getting too powerful
+3. Avoid using our most powerful weapons as recharging them is difficult
+
+And for the Varumani:
+
+1. Win glory, go out with a bang if death is inevitable
+2. Find our comrade Bedara, or her remains
+3. Survive
+
+Very different priorities on survival!  Possible secret betrayal from the
+Knights!  Fun times and excitement ahead.
+
+### The next campaign?
+
+I *was* going to run Ars Magica.  It's a game I've wanted to play for a long
+time, and the new Definitive Edition got me very excited for it.  But... that
+was a while ago, Arden Vul has gone on for so much longer that the excitement
+has cooled.  And so I've been looking at OSR things again.
+
+Hot Springs Island is a strong contender for the next game.  It's a very dense
+island hexcrawl with a lot of faction play and weirdness.  It's much more "5e"
+than "OSR" in tone I think, but still doable (you'd just need to use a system
+with slightly more powerful characters than, say, OSE).  The lore is cool.  It
+comes with a player-facing book, presented as an in-world document from the
+local Adventurers' Guild.  I think it could be a lot of fun.
+
+But there's some not so great aspects too.
+
+Firstly, it's system neutral, and not in the hepful way that a lot of OSR
+products are (providing minimal stats), it provides *no* stats and just
+describes everything through prose.  What's the relative power level of any two
+creatures in the bestiary?  No way of telling.  I'd need to stat out all the
+creatures, magic items, and anything else that interacts with game mechanics
+myself.
+
+Secondly, the dungeons kind of suck, they're somewhat linear as each one
+basically exists to tell a story, and they're not really keyed, you're supposed
+to roll to determine what's going on in each room every time the players visit.
+Also they have maps but no scales, so it's hard to tell how big anything is.  So
+I would probably want to substantially change the dungeons, maybe even replace
+some of them entirely.
+
+Thirdly, the author clearly has some sort of sex-thing going on, as the ancient
+elves are obsessed with pregnancy and have orgy contests where teams would
+compete to have the most orgasms in a certain time, the efreet faction has sex
+slaves, and the ogre faction (who are former slaves (workers, not sex) who
+rebelled and broke away from the efreet faction) kidnap strong female
+adventurers and transform them into ogres to produce lots of ogre babies.  The
+only faction which doesn't have a sex-thing going on is the nereids, who are
+all... beautiful women... oh dear.
+
+Overall I'd say the major weakness of Hot Springs Island is that the book is
+very high-concept, but for actual at-the-table use you need detail, which it
+doesn't give you much of.  It's usable, but will take work.  It reminds me of
+Veins of the Earth in that way, which I complained about a couple of weeks ago.
+
+
+## Link Roundup
+
+### Roleplaying games
+
+- [How I build Random Encounter Tables](https://swamphead.substack.com/p/how-i-build-random-encounter-tables)
+- [Most Adventures are Bad - An Adventure Writing Process](https://alldeadgenerations.blogspot.com/2025/03/most-adventures-are-bad-adventure.html)
+- [Coinage and the Tyranny of Fantasy ‘Gold’](https://acoup.blog/2025/01/03/collections-coinage-and-the-tyranny-of-fantasy-gold/)
+- [Warfare in Dune, Part II: The Fremen Jihad](https://acoup.blog/2026/03/13/collections-warfare-in-dune-part-ii-the-fremen-jihad/)
