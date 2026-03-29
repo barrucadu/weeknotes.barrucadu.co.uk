@@ -1,0 +1,86 @@
+---
+date: 2026-03-29
+---
+
+## Books
+
+This week I read:
+
+- [Ultraviolet Grasslands and the Black City][] (2nd edition) by Luka Rejec
+- [Whitehack][] (4th edition) by Christian Mehrstam
+
+  More on these below.
+
+[Ultraviolet Grasslands and the Black City]: https://www.exaltedfuneral.com/products/uvg-2e
+[Whitehack]: https://whitehackrpg.wordpress.com/
+
+
+## Roleplaying Games
+
+### The Halls of Arden Vul
+
+Well, they did it.
+
+Last session the PCs got down to the base of the chasm with their army, the
+varumani, and 8 Sun-Scarred knights.  They sent the knights & army south-east,
+the varumani into the marsh, and themselves headed north-east and took out the
+guards at the heqeti breeding ponds.  We weren't using mass combat rules, so I
+essentially hand-waved the majority of the fight and decided that everyone the
+PCs brought with them were tying up most of the heqeti and the real battle would
+be over once the ziggurat itself was conquered.
+
+The players emerged onto a summoning platform and saw a scene of chaos and
+nightmare: varumani fighting maybe 60 heqeti, 3 12ft tall demons, and 2 huge
+corpse-white worms.  Before them was a heqeti casting some sort of spell.  Atop
+the ziggurat were two heqeti spellcasters with maybe a dozen guards, one bowed
+with age who at a gesture of his wrinkled hand reduced several varumani to ash.
+
+The heqeti on the summoning platform summoned a third great white worm, so the
+players had to fight their way through that and two spellcasters to engage the
+ziggurat.  Good use of a couple of silence spells shut down the spellcasters on
+the ziggurat, and the party's heavy hitter got teleported to the top of the
+ziggurat.  A wall of fire was used to shut down the stairs so that
+reinforcements couldn't get up.  But those giant demons are no joke!  The
+players eventually triumphed but it was two and a half hours of pretty dynamic
+combat: splitting their forces, moving between vantage points, focussing on
+different enemies, it didn't get stale at all.  We spent the final 30 minutes
+just wandering around the area to see what heqeti life was like.
+
+We're doing one final session next week to wrap up some loose ends---one player
+wants to fight the dragon on the surface, another wants to attempt the Tower of
+Pol---and then that'll be it!
+
+### The next campaign?
+
+This week I read Ultraviolet Grasslands, which was the other strong contender
+for the next campaign.  In fact I was wondering if I could combine it with Hot
+Springs Island (the grasslands connects to a port city that has ships which go
+to the archipelago), but they're just too tonally different.  I'd have to make
+UVG significantly less weird, in which case there's not much point using it.
+
+I am toying with the idea of connecting them temporally though.  I could have
+something distinctive and memorable in my Hot Springs Island setting, that
+reappears later on when I run a UVG campaign but it's from *way in the past*,
+but that's more of an easter egg.
+
+So I'm going to go for Hot Springs Island next.
+
+The question then becomes: which system do I use?  It's a system neutral book so
+basically anything D&D-ish would work, but it does seem to be written assuming
+fairly competent PCs: they'll be dealing with elementals and extraplanar
+shenanigans.  Initially I was thinking [Worlds Without Number][] which is an OSR
+system that has somewhat more high-powered characters, but [Whitehack][] also
+came to mind.  Whitehack is interesting as it has a very flexible magic system,
+whereas Worlds Without Number has a fairly standard spell list.  They'd both
+work, but I am leaning towards Whitehack at the moment.  I'll be running
+one-shots of both before deciding though.
+
+[Worlds Without Number]: https://www.drivethrurpg.com/en/product/348809/worlds-without-number-free-edition
+
+
+## Miscellaneous
+
+I played through [Esoteric Ebb][] this week, it was a lot of fun.  It's
+basically what you would get if you combined Disco Elysium and D&D.
+
+[Esoteric Ebb]: https://esotericebb.com/
