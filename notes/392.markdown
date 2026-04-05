@@ -1,0 +1,55 @@
+---
+date: 2026-04-05
+---
+
+## Books
+
+This week I read:
+
+- Volume 13 of [Frieren: Beyond Journey's End][] by Kanehito Yamada and Tsukasa Abe
+
+  In this volume Frieren escapes from the past, but is then confronted by
+  another relic of the past: a group of mage-hunters, tasked with killing her
+  long ago who had almost given up hope until she happens to travel through the
+  village which one of them had been stationed in for so long he had married,
+  had children, and become an old man.
+
+[Frieren: Beyond Journey's End]: https://en.wikipedia.org/wiki/Frieren
+
+
+## Roleplaying Games
+
+### The Halls of Arden Vul
+
+It is done!
+
+We wrapped up a few remaining player goals (including slaying a dragon) and then
+went through every character and the players gave a short epilogue of what
+they're up to in the coming months and years.  Some faded into obscurity,
+preferring the quiet life; others became great leaders and respected heroes.  I
+concluded with one final epilogue regarding the heqeti:
+
+> Deep beneath the earth, several miles from the great Ziggurat of Kauket, the
+> fleeing heqeti pilgrims arrive at the closest of their underdark habitations,
+> a major temple-city with a population of thousands, which lies on the shores
+> of the vast underground ocean: the Silent Sea.  Other travellers carry the
+> news to Lissak-Tol, the city of the Kaliyani, and to the hidden Duregar
+> enclaves, so secret that none but the Duregar themselves know their names.
+> The news of this third loss of the Ziggurat, and of the much-loved and
+> well-respected Great Tongue Reepsiq rocks heqeti society.  Some whisper that
+> Kauket has turned his back on his Ziggurat, as punishment for the heqeti's
+> failures; but this is never said in the hearing of the priests.  The Tongues,
+> Great and Lesser, each a powerful Cleric who presides over a temple-city or a
+> shrine, exchange correspondence, consult the omens, and gather in small
+> groups, to debate what must be done.  But for a time, a few generations at
+> least, Evil is driven from the Halls of Arden Vul.
+
+Next week is the debrief session, and then on to a couple of months of oneshots
+while I prepare the next campaign: Hot Springs Island!
+
+
+## Miscellaneous
+
+I've been playing a lot of [Timberborn][] this week.  Like... a *lot*.
+
+[Timberborn]: https://store.steampowered.com/app/1062090/Timberborn/
