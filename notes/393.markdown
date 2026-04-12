@@ -1,0 +1,48 @@
+---
+date: 2026-04-12
+---
+
+## Books
+
+No books this week!
+
+
+## Roleplaying Games
+
+### The Halls of Arden Vul
+
+We had our debrief session this week: three hours of answering questions,
+explaining lore, and pointing out the paths not taken.  It still feels weird
+that it's all over.
+
+Next week: Call of Cthulhu for our first one-shot!
+
+### Hot Springs Island
+
+I started preparation in earnest this week, converting a bunch of monsters,
+coming up with character backgrounds (species, vocation, and affiliation groups)
+and working out the necessary house rules (basically just the Dolmenwood rules
+for hexcrawling, camping, fishing, foraging, and hunting).
+
+I'm putting together a couple of little booklets, which I'm doing with LaTeX and
+it's a lot of fun to make something nice looking:
+
+![A selection of pages from both books.](notes/393/pages.png)
+
+I've still got about two thirds of the monsters to convert, but I think I've got
+into the swing of things now so I intend to finish those next week.  I still
+need to figure out some setting details (like how much it costs to get to the
+island and how frequent ships are, which will affect how long the players need
+to camp out) but it's all coming together.
+
+
+## Miscellaneous
+
+Things are going poorly in the garden.
+
+For the past several weeks mushrooms had been popping up all over the place,
+especially along my woodchip path so it was looking like I'd have a
+mushroom-lined path which would be quite nice, but they all died off at the
+start of this week.  Also, a lot of weeds have started to pop up.  I'm pretty
+sure they're weeds, as they don't look like the flowers I've planted---in fact
+there's no sign of the flowers yet.
