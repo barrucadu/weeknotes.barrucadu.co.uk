@@ -1,0 +1,44 @@
+---
+date: 2026-05-03
+---
+
+## Books
+
+This week I read:
+
+- [The Living Stone: Stories of Uncanny Sculpture 1858--1943][] a collection from Handheld Press
+
+  All pretty good really, it's hard to pick a favourite.  Most were ghost tales,
+  but there was some weird fiction too.  I think the weakest of the bunch was
+  Hypnos, by Lovecraft, which is barely about a statue so I'm not really sure
+  why it was included, as there's another (much better) Lovecraft story (The Man
+  of Stone) also included and the introduction said that some worthy stories had
+  to be left out for space.
+
+[The Living Stone: Stories of Uncanny Sculpture 1858--1943]: https://www.waterstones.com/book/the-living-stone/henry-bartholomew/9781912766765
+
+## Roleplaying Games
+
+### One Shots
+
+This week I ran [Operation FULMINATE][] from the Delta Green rulebook.  I had a
+bit of difficulty with the timing of the adventure, because as written the
+player characters arrive at the mystery location in the morning but the meat of
+the scenario doesn't begin until night.
+
+The players knew something was up, so they were trying to investigate, but there
+wasn't really much for them to do.  So I just brought everything forward and had
+the action kick off back at the primary location when they were out
+investigating somewhere else: they heard an explosion, ran back, and got caught
+up in the action.  But the first half of our session was a bit slow and in
+hindsight I should have handled it differently.  We had fun, though.
+
+[Operation FULMINATE]: https://www.youtube.com/watch?v=1qUPqHfctMk
+
+
+## Miscellaneous
+
+Since GitHub is having multiple outages a week at this point, I've decided to
+check out [Forgejo][].  This weeknote is published by Forgejo Actions!
+
+[Forgejo]: https://forgejo.org/
