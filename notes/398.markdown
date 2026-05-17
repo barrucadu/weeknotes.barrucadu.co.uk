@@ -1,0 +1,88 @@
+---
+date: 2026-05-17
+---
+
+## Books
+
+This week I read:
+
+- [A Voyage to Arcturus][] by David Lindsay
+
+  This is a hard book to describe.  I stumbled upon it in a Reddit thread which
+  mentioned it as a major influence on C. S. Lewis's [Space Trilogy][], but even
+  more allegorical if possible.  On the face of it, things just seem to happen
+  to our protagonist: he is taken to an alien world and just kind of bumbles
+  around, meeting people one at a time (and always conveniently finding the next
+  companion after the last departs, often by dying), travelling with them for a
+  while, and being driven entirely by circumstance with little free will of his
+  own.  He kills a man for no good reason.  He falls deeply in love with, and
+  then greatly mourns the death of, a woman who he barely knows.  He's even
+  mocked for this ("you spent all night mourning a woman you knew for six
+  hours") by another character.
+
+  But looking a little deeper, each of his companions is a kind of puppet figure
+  exhibiting a concept.  Emotion.  Reason.  Action.  Duty.  Spiritual oneness
+  between Man and Woman.  Spiritual oneness between Man and God.  Love.  Pain.
+  At the climax of the story is a very gnostic scene: the God that everyone on
+  this alien world worships is depicted as a great cloud surrounding Creation,
+  with life streaming in and through this "creator" from the greater spiritual
+  world beyond, trapped within the cloud yet every striving to return to the
+  source.  God is the Demiurge and the character who had been cast as the Devil
+  is the True God.
+
+  It feels like a book that would benefit from a careful re-read.
+
+[A Voyage to Arcturus]: https://en.wikipedia.org/wiki/A_Voyage_to_Arcturus
+[Space Trilogy]: https://en.wikipedia.org/wiki/The_Space_Trilogy
+
+
+## Roleplaying Games
+
+### Hot Springs Island
+
+No game this week, so I took the time to work some more on my Hot Springs Island
+prep.  I had an outline of everything for Whitehack, but as one player didn't
+like Whitehack and wanted something more like OSE I chose to use Dolmenwood,
+which is basically just OSE + some more rules for overland exploration, if
+you're not using the Dolmenwood setting.
+
+To summarise, it's a human-only setting with a bespoke set of classes, and a
+slightly simplified hexcrawling procedure (since the entire island is basically
+one terrain type).  I'm also bringing back bonus XP for exploration and
+milestones as that worked well in Arden Vul, though I'm simplifying it to a flat
+5% bonus for every achievement (rather than having tiers of 2%, 5%, and 10%
+depending on the size of the milestone).
+
+The classes are:
+
+- **Druid:** a combo of the OSE Druid and Dolmenwood Friar.
+- **Elementalist:** the OSE Kineticist (kinetic powers reflavoured as elemental
+  powers) plus the ability to speak the elemental language (giving a positive
+  reaction modifier) and (when 9th level) conjure powerful elementals to fight
+  for them.
+- **Explorer:** the Dolmenwood Hunter.
+- **Marine:** the Dolmenwood Fighter.
+- **Treasure Hunter:** the Dolmenwood Thief, except that they can use all types
+  of weapon and armour (though they can't sneak in heavy armour) and can
+  accurately appraise treasure (whereas other characters will just get a
+  ballpark value).
+- **Wizard:** the Dolmenwood Magician, but with all the spells from Dolmenwood,
+  OSE, and OSRIC available.
+
+All that's left is converting the monsters---but that should be fairly easy as I
+think for most of them there'll be an existing OSE or Dolmenwood monster I can
+just use with minor tweaks.
+
+
+## Miscellaneous
+
+So many birds have discovered my garden I think I'm going to be financially
+ruined by the cost of birdseed.  They're emptying the feeder every two days now
+whereas once it would last the better part of a fortnight!
+
+
+## Link Roundup
+
+### Software engineering
+
+- [Compressing Icelandic name declension patterns into a 3.27 kB trie](https://alexharri.com/blog/icelandic-name-declension-trie)
