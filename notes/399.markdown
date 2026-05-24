@@ -1,0 +1,84 @@
+---
+date: 2026-05-24
+---
+
+## Books
+
+No books this week!
+
+
+## Roleplaying Games
+
+### Hot Springs Island
+
+I have finally---finally---finished statting up all the monsters.  There's no
+reason it took so long, I knew several weeks ago that we weren't going to be
+using Whitehack, I was just lazy and put things off.
+
+There's a pretty nice variety of monsters in the setting actually.  Very few of
+them are just normal creatures you'd find in any old fantasy RPG.  Almost all of
+them have some twist; even most of the animals you can find on the island are
+different.
+
+They're definitely clustered towards the low--mid levels (a lot of 3 to 6 HD
+creatures)[^hd], but that's probably fine: we played Arden Vul for 3 years and
+the highest level PC was level 11.  There are some higher level creatures too,
+including a couple of very powerful ones, so if it looks like the players are
+somehow stomping the island way too quickly I can pull out the big guns.  But I
+think it'll be fine, I'm having to remind myself that part of the reason the
+players had a relatively easy time of things in Arden Vul is because they found
+some very good magical combat gear early on; whereas the magic items in Hot
+Springs Island are more utility-focussed.  In fact, they're *so*
+utility-focussed it's a bit of a problem and I am going to have to scatter
+around a few magic swords and whatnot.
+
+[^hd]: "But if you statted them up couldn't you make them any level you want?"
+    Yes and I did.  Some of the wildlife is pretty scary, but a lot of it is,
+    like, a fantasy dodo.  So most animals are going to be 1--3HD.  For
+    intelligent enemies, the island is (pretty much) split betwen two major
+    factions, neither of which is strong enough to just wipe out the other, so
+    that implies that at least those two factions are relatively equal in
+    strength.
+
+    The question then becomes whether there's a massive power gap
+    between the intelligent inhabitants of the island and the wildlife.  It
+    doesn't sound very fun if there is, as then the players would need to grind
+    against wild animals for ages before they could interact with the factions.
+
+    But fear not, the faction leaders are notably tougher than the rank and file,
+    some of the wildlife is a significant threat, and there's one monster which is
+    just a reskinned tarrasque.
+
+Next week was going to be session 0, but we sorted all that out over Discord.
+We've run through the house rules.  The players have their characters.  We're
+ready to go!
+
+I'm going to start them shipwrecked on the island (seems to be a common start)
+outside the entrance to a small dungeon recently revealed by a rock-slide (not
+part of the module, one I'll be adding).  I'll use the dungeon to introduce some
+of the island's history and put a minor magical item in it for one of the
+characters (we have a Hunter, a Marine, and a Wizard), then they'll have to
+climb up the cliffs they crashed into and hike across the island to Hot Springs
+City, to be picked up by the regular Martel transport ship.  Ideally this will
+take several days and they'll encounter a bunch of weird and scary things along
+the way.  At some point in the journey they'll find a dead guy who has a copy of
+the *Field Guide* in his pack.
+
+I think that'll be a good opening.
+
+
+## Miscellaneous
+
+Growth in the garden has really exploded over the past month.  The whole thing
+is green now, there are plenty of shoots almost up to my knee and a couple of
+very large things.  Unfortunately, there's also a lot of things that are
+*definitely* unpleasant weeds and not pretty wildflowers so I guess I'll be
+spending much of my bank holiday Monday weeding.
+
+
+## Link Roundup
+
+### Roleplaying games
+
+- [Sandbox Settlements: Downtime](https://elmc.at/sandbox-settlements-downtime/)
+- [Difficulty in Ironsworn](https://rusalka9.bearblog.dev/difficulty-in-ironsworn/)
