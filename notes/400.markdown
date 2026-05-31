@@ -1,0 +1,77 @@
+---
+date: 2026-05-31
+---
+
+## Books
+
+This week I read:
+
+- [Underworlds][] by Stephen Ellcock
+
+  This is more of a photo collection with narration than a typical book.  I
+  picked it up on a whim from the British Museum Shop while I was in there a
+  couple of weeks ago, and I think it will be good for inspiration.
+
+[Underworlds]: https://www.thamesandhudson.com/products/underworlds
+
+
+## Roleplaying Games
+
+### Hot Springs Island
+
+![Hot Springs Island!](notes/400/hsi.jpg)
+
+Today was the first session and, you know, things never quite go as planned but
+it still went pretty well I think.
+
+I started the players out shipwrecked in front of the entrance to the
+dungeon---a rich elf's party basement that I made by converting a map from *Gods
+of the Forbidden North*---which took around 2 hours to complete.  They did find
+most of the things in the dungeon, which I wasn't really expecting, I thought
+they'd focus on the more easily-accessible treasure (decorative golden strips
+embedded into the ceiling) and be deterred from fully exploring it and finding
+the *good stuff* by the orange sludge and giant spiders.  But that's fine.
+
+After that, they spent a few hours climbing along the base of the cliffs until
+they descended enough to get onto the island proper.  After a bit of discussion,
+they decided to work their way around the coast, sticking to the top of the
+cliffs, to get to the ruins of Hot Springs City where they could hopefully catch
+a boat.  Sticking the the coast did pose a bit of a problem for me, the GM,
+because there aren't any points of interest in most of those hexes.  They're not
+part of the Hot Springs Island hexmap proper, they're only on the diegetic
+player map which has a less jagged coast and so crosses into more hexes.  I did
+move over one POI (a big stone face carved into a rock looking out to sea) and
+rolled for encounters based on the neighbouring hexes so it wasn't completely
+empty, but I think the intended experience is that every time you move into a
+hex, you arrive at a POI.
+
+I think this is something that will kind of resolve itself when the players do
+find an in-world map (which will happen next session or the one after) as that
+numbers all the same hexes as the GM map, meaning a lot of the coastal hexes
+they're travelling through right now don't have numbers.  If they ask an NPC
+about it, they'll say something like "oh yeah, not much happens at the coast so
+the guild didn't bother numbering it."
+
+We wrapped up with them meeting a salamander chasing a water elemental.  One
+character speaks Fire Elemental and they got a good reaction roll, so the
+situation ended with them getting invited to the New Moon Party at the volcano,
+as "the boss always likes to meet the adventuring sort."
+
+All in all, a successful first session.  It'll be far less quiet once they
+actually start exploring the island interior, rather than sticking to the
+coastline.
+
+
+## Miscellaneous
+
+![A flower!](notes/400/flower.jpg)
+
+The wildflowers are starting to bloom, at last!  There's a few more each day,
+though I think this one in the picture is the best so far.  I was worried
+something was wrong as all the poppies that have flowers have lost their petals
+by the end of the day, but apparently poppies are just like that.
+
+I have noticed the pigeons getting more aggressive about chasing off other birds
+when I put out the peanuts, and the magpies haven't got any for the last few
+days.  I'll have to do something about that, as I want lots of birds to visit my
+garden and not just the same three pigeons all the time.
