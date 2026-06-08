@@ -1,0 +1,112 @@
+---
+date: 2026-06-07
+---
+
+## Books
+
+No books this week!
+
+
+## Roleplaying Games
+
+### Hot Springs Island
+
+This week the players kept working their way around the coast to the city (after
+spending a few more hours with Trouble the salamander and realising than an
+elemental's idea of "soon" might not be the same as theirs).  They eventually
+made it to the city and explored around there a bit, before catching the boat
+back to the mainland and banking their treasure.
+
+I had planned a few things out to teach them some more lore: Ruston, the thief
+NPC tagging along with the party, was going to spark up a conversation about the
+division of the loot when they next camped, and in so doing discover that the
+nereid portrait had changed (revealing that it was magic); and then the
+following day, I'd fudge the first random encounter and kill him off quickly
+with an unconventional creature (maybe a predatory plant) to get the players
+scared, and to make them more excited when they finally found the Field Guide
+(which I planned to happen next session).  But things didn't go according to
+plan, with the players encountering and disturbing a snake, and really the only
+reasonable target was one of the PCs---who died, and that player took over
+Ruston.
+
+I shuffled things around a little to adjust.  The snake proved to be a good
+teaching encounter as they discovered that the snake meat is good eating for a
+few days, and also the scales are made of actual copper which can be sold.  So
+now they know there's reason to hunt and fight the creatures on the island, at
+least in some cases.  The portrait I had them discover when they were selling
+their loot, and they decided to keep it to investigate further, which is what I
+had hoped for.
+
+They also made it to the city a bit faster than I expected, so I gave them the
+Field Guide this week as I wanted them to have it before they left the island.
+My concern was the players going to join the local adventurers' guild now that
+they've got a bit of experience, and the Field Guide is given out to all guild
+members.  I did want them to *find* the Field Guide out in the wilds in a
+dangerous place, as getting it for free wouldn't be as satisfying.  But they
+didn't engage with the guild at all, they just sold their treasure and went
+straight back to the island, so I *could* have left it to next week.  Oh well.
+
+The city itself was another good teaching moment, as it's both a source of great
+wealth and infested with highly aggressive lizardmen who set traps, and I made
+sure that they saw both of these things.
+
+I think they have now been exposed to a lot of the basics of the setting
+(especially if they take the time to read the Field Guide), which should lead to
+more exciting and focussed adventuring going forward; while "go to a dangerous
+place and find treasure" is fun, it's *more* fun if the players are also
+consciously engaging with factions and *weird things* and have more of a goal
+than just get as rich as possible.
+
+This will be a much shorter campaign than Arden Vul.  The island isn't that big,
+and there's only so much for a group of highly active PCs to do.  If they're
+diligent about treasure they'll level up every two or three sessions, and once
+they're all level 10 they'll be a serious force on the island that only entire
+factions can threaten.  There are a few individuals that could give a group of 3
+level 10s a run for their money, but not many.
+
+Still, a ~30 session campaign is a good amount of time---that would mean
+finishing in late December if we never miss a week---so I'm ok with that.
+
+
+## Miscellaneous
+
+This week I participated in a really intense multiplayer Stardew Valley game
+with 10 other people, using a mod called [Archipelago][] that adopts a really
+interesting approach.
+
+It locks elements of your game (like an item recipe, or the key for a door, or
+the season of Spring, or an item at the shop, and so on) behind *another* player
+doing something in *their* game.  Each player also has their own win condition,
+and when you hit that it unlocks everything that others are depending on you
+for.
+
+For example, in my game I couldn't increase my friendship level with the NPCs.
+Instead, other people had to do things (like harvest a particular crop) to
+increase them.  My goal was to get married and have two children, so who I'd
+marry was essentially totally up to the other players: I'd just take whoever I
+first got to 10 hearts with.  The marriage I could do as soon as I got to the
+required hearts, but *the babies* are also locked in other people's games.
+Right now I have one child, but to get the other another player needs to kill 60
+Void Spirits in their mines; but *they can't get to their mines yet* because
+another thing the mod does is randomise the connections between doors and
+interiors, and they've *not found their mines yet!*  We're pretty confident
+where it is (after 6 days there's not many doors left to try), but to get there
+a *third player* needs to brew some vodka in their game, which will remove the
+landslide to the railway station in the second player's game, which is where we
+think their mine entrance is, which will let them go into the mines and kill
+void spirits to get me a second baby.
+
+And the really cool thing is that Archipelago supports more than just Stardew
+Valley.  You could have, say, one player in Stardew Valley, and another in Dark
+Souls III, and another in Factorio, and another in Hollow Knight, and another in
+... you get the picture.  And it works across games, everyone will have things
+in their games locked behind others doing things in their games, even when those
+are completely different games.  It's a really impressive piece of work, and
+also super interesting from a graph theory / constraint satisfaction problem, as
+it must be pretty difficult to ensure you don't generate an unwinnable game,
+where there's a cycle in the dependencies locking someone out from their goal.
+
+It's been a lot of fun, but also very intense.  I've played 40 hours of Stardew
+Valley this week.
+
+[Archipelago]: https://archipelago.gg/
