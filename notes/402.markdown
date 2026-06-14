@@ -1,0 +1,83 @@
+---
+date: 2026-06-14
+---
+
+## Books
+
+This week I read:
+
+- [Paradise Lost and Paradise Regained][] by John Milton
+
+  I last read this 13 years ago and remember liking Paradise Lost a lot more
+  than Paradise Regained, and also generally thinking that Satan came across as
+  an alright guy in large parts of it and God as the bad guy.  I didn't feel
+  exactly the same about it on this reread, but still fairly close.
+
+  Satan's actions seems somewhat justified: God presents his Son to the angels
+  and tells them to obey him as they would God, and Satan's reaction is "who's
+  this new guy and why should we care?"  He does then, admittedly, lead a third
+  of the angelic host in rebellion which is a bit far, but the original
+  sin---questioning the right of this newcomer, the Son, to rule over the
+  angels---doesn't seem excessive to me.  When Satan sets off to Eden to tempt
+  Adam and Eve, God knows that the Fall will occur.  He sets angels to watch out
+  for Satan, but tells them that it's no use.  Then when Adam and Eve succumb to
+  temptation, as God knew and said they would, He sends the angels to cast them
+  out of Eden.  But he tells the Archangel Michael to give Adam a vision of the
+  future, of all the sins of man up to the Flood, and the eventual redemption by
+  Jesus.
+
+  Adam weeps at how merciful God is for giving them this eventual salvation.
+
+  Why?  Why does God do this?  The poem takes pains to emphasise that it is the
+  *choice* of Satan to rebel, the *choice* of Eve to eat the apple, the *choice*
+  of Adam to do the same and so fall with her rather than stay in paradise, that
+  is why they must all be punished.  But simultaneously, the poem emphasises
+  that God knows all, he knows what you will do before you do it, he knows the
+  entire future of the world.  I am unable to square **free will** with
+  **complete predetermination**.
+
+  If God didn't want Adam to sin, He should have created Adam differently.  Adam
+  as he is had no choice but to sin.  God puts people in situations where they
+  are forced to sin, punishes them for it, and then expects them to thank Him
+  when He eventually stops.  Where is the mercy in this?  This is abuse.
+
+  Christian mythology is weird.
+
+[Paradise Lost and Paradise Regained]: https://en.wikipedia.org/wiki/Paradise_Lost
+
+
+## Roleplaying Games
+
+### Hot Springs Island
+
+This week the players returned to the island and explored the hexes around Hot
+Springs City some more, having decided that the city itself is a bit too
+dangerous for them right now.  Along the way they bumped into an earth elemental
+who spend the next two days talking about the geological history of the island
+in great detail, though they did get a couple of pieces of potentially useful
+historical information.
+
+We also pulled out the hunting rules for the first time, and the players killed
+a duecadre (kind of like an ostrich) which produced way more food than they
+could carry.  I was a bit unsure about the Dolmenwood hunting rules, as they
+seem to produce a *lot* of food, but we talked about it and decided to go with
+the rule as written: it feels in the right ballpark when compared with
+real-world game animals, also it produces *fresh* rations, which will spoil in a
+matter of days if not preserved, and the players are hardly carrying around
+sacks of salt or barrels of vinegar so it becomes something of a logistical
+challenge (and they've already been talking about setting up a permanent camp
+with a smokehouse).
+
+It's been terrible weather for the past few days, but we kept forgetting and a
+couple of times I ruled things in a way that wouldn't really make sense when
+there's lots of wind and rain going on (e.g., they heard the buzz of an
+approaching giant mosquito during a torrential downpour: firstly, they shouldn't
+have heard that, secondly the bug probably wouldn't be out in that weather).
+Not a major deal, but I'll just have to pay closer attention to the weather
+going forward.
+
+We also had a few *great* moments when I described a creature and the players
+consulted the Field Guide to figure out what it might be.  That is *exactly*
+what I wanted to happen, and it's very gratifying when I describe a giant bug
+and one player says "I think that's a Vyderac Seeker, be careful of its spit".
+Brilliant!
