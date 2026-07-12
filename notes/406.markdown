@@ -1,0 +1,91 @@
+---
+date: 2026-07-12
+---
+
+## Books
+
+This week I read:
+
+- [The Hobbit][] by J. R. R. Tolkien
+
+  I've not read this in like 15 years!  I thought it was time to revisit it, and
+  I was struck by how tonally different it is to Lord of the Rings.  Obviously
+  it's a children's book, but I do have the revised version in which Tolkien
+  made it a bit more consistent with the later books, and yet it really does
+  feel like a very different world.  We get the sense that while wizards are
+  rare, they are around somewhat; as opposed to LotR where there's a very small,
+  fixed, number.  Magic feels much more commonplace.  Elves are, obviously,
+  incredibly different, being much more the jolly fey type as opposed to the
+  Serious Elder Peoples of LotR and the Silmarillion.  Language just isn't a
+  concern at all, everyone---even monsters---speaks the common tongue (something
+  I imagine irking Tolkien greatly even though he carried that forth into the
+  later books).  Giants live in the mountains.  There's a werebear that's never
+  explained.  There's a king of birds.  There's implied to still be a king of
+  men.
+
+  It's a much more whimsical world.  There's a great article in, I think, issue
+  1 of KNOCK! about the implied setting of The Hobbit, and I think I'll have to
+  revisit that too.
+
+[The Hobbit]: https://en.wikipedia.org/wiki/The_Hobbit
+
+
+## Roleplaying Games
+
+No Hot Springs Island this week, one player was away and another had a
+megadungeon they wanted to playtest so I and the other remaining player did
+that.  This might become a regular fixture, something that's done when we're not
+all here.
+
+### New Games
+
+I've been trying out a lot of new systems this year, mostly solo but a few
+others.  I thought it was about time I made a list:
+
+- **Thousand Year Old Vampire:** played it previously, and revisited it a couple
+  of times this year.  It's ok, but definitely more of a creative writing
+  exercise than a game.
+- **Morkin:** this is a really great solo game I discovered late last year
+  which, for me, sits at the sweet spot between creative writing and boardgame.
+  It doesn't feel weird to roleplay (as it does with a boardgame), and yet it's
+  structured enough that you're also not racking your brain for inspiration all
+  the time.
+- **Lichdom:** another journalling game, in the same vein as Thousand Year Old
+  Vampire but with enough mechanics to it that I think you can actually describe
+  this one as a game and not just a tool to help you write.
+- **Legend in the Mist:** by the same authors as, and similar to, City of Mist,
+  which was the first system I really played.  I tried out a short solo game but
+  found it pretty creatively taxing, I think it would go better with a group.
+- **Ker Nethalas:** a dungeoncrawling game, but definitely far over to the
+  boardgame end of the spectrum.  Roleplaying feels about as satisfying as it
+  would in Monopoly, there's no NPCs to interact with, it's just purely about
+  exploring a randomly generated endless dungeon until you die.  Fun in short
+  bursts.
+- **ASTROPRISMA:** only looked through the book and tried out some of the
+  mechanics so far, but this looks a lot of fun and I'm looking forward to
+  playing more of it.
+- **Across a Thousand Dead Worlds:** a sci-fi horror game by the same author as
+  Ker Nethalas, but this introduces enough stuff that it's definitely an RPG and
+  not just a boardgame.  It's basically [Gateway][] but as an RPG.
+- **Ironsworn:** played it in the past, had difficulty getting into it, played
+  it again more recently and had a slightly easier time but still it doesn't
+  quite click.  I think I'm learning that I prefer solo games that have a fairly
+  well-defined core gameplay loop that can drive the action without needing me
+  to constantly be creative.
+- **Riftbreakers:** another game by the Ker Nethalas author, this one intends to
+  emulate the feel of an MMO, which is interesting for a solo game.  There are
+  online communities that play it individually but together, with events passing
+  between different games, and people trading items and resources.  I've only
+  gone through the character creation (which is structured as a tutorial level),
+  but am looking forward to more.
+- **The Five Kingdoms of the Icemark:** a sequel to Morkin, by the same author.
+  The kickstarter completed only this week and we don't have the rules yet, but
+  I'm really excited for this one, as Morkin has been my favourite solo game so
+  far.
+- **HELLPIERCERS:** not a solo game at all, and also not my usual sort of RPG,
+  as it's a tactics-heavy skirmish game.  But it's drawn me in with its gnostic
+  theme (god is dead, we killed him, and now we're invading hell to liberate the
+  souls of the dead) and I want to see if this could work as a low-prep game
+  when we can't do the regular weekly campaign for whatever reason.
+
+[Gateway]: https://en.wikipedia.org/wiki/Gateway_(novel)
