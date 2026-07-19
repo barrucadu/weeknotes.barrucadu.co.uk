@@ -1,0 +1,74 @@
+---
+date: 2026-07-19
+---
+
+## Work
+
+I've taken next week off work, I plan to spend the whole time sleeping in and
+doing nothing of importance.
+
+
+## Books
+
+No books this week.
+
+
+## Roleplaying Games
+
+### Hot Springs Island
+
+This week's session was taken up by the four-day New Moon Party at the island's
+central volcano.  This was a single extended social encounter, with some
+set-piece events, and we all had a good time.  I came up with a little system
+for running competitions (see below), and the players got to interact with some
+NPCs and finally meet Svarku, the head of one of the major factions on the
+island.
+
+Svarku's a real charmer---genuinely interested in people, friendly, bestows
+gifts, hands out quests---and so it was a real downer for the players when
+Svarku declared that business was over, it was time to *relax*, and with a clap
+of his hands summoned forth 17 enslaved nereid strippers.  Just as intended.
+
+I came up with 8 competitions that would happen over the 4-day event (along with
+social encounters, exploration of the volcano, meeting Svarku, and so on).  Each
+had an associated skill check, and if the players succeeded the check then they
+did fairly well in the contest; if they failed the check, nothing bad happened,
+they just did poorly.  I'd hand out a random minor arcana tarot card for the
+player to use as inspiration to narrate how they did.
+
+But if they passed the check they could choose to gamble: save vs doom to get a
+*major* arcana card, and either do incredibly well or make a complete fool of
+themselves.  Win or lose, people would take note and talk.  Furthermore, on a
+missed save vs doom, the character would lose half their HP (representing
+injuring themselves badly in the contest), and if they failed two contests
+they'd be left at 1 HP and too injured to enter any others.
+
+It worked pretty well.  The players generally did gamble on the save vs doom,
+and only one character got knocked out.  The contests were:
+
+- **Grand Melee:** melee attack roll vs AC 12
+- **Skeet Shooting:** ranged attack roll vs AC 12
+- **Javelin Toss:** STR check
+- **Lava Rock Skipping:** DEX check
+- **Obstacle Course:** DEX or STR (whichever is worse) check
+- **Race:** CON check
+- **Drinking:** CON check
+- **Boasting:** CHA check
+
+In addition to these contests there were also general carnival games, which
+resulted in one character winning a plush steam elemental core.
+
+
+## Miscellaneous
+
+The garden has been suffering in the heat and drought these past few weeks, it's
+gone a bit brown and crunchy.  I've watered it a little, but not much as there's
+a hosepipe ban.  In principle it should spring back when the rain finally comes,
+but it's a bit discouraging to see it fade away after it finally began to bloom.
+
+
+## Link Roundup
+
+### Roleplaying games
+
+- [The first combat of Mork’s Warband!](https://fivekingdoms-game.com/the-first-combat-of-morks-warband/)
