@@ -1,0 +1,104 @@
+---
+date: 2026-08-02
+---
+
+## Books
+
+This week I read:
+
+- [The Two Towers][] by J. R. R. Tolkien
+
+  Many more differences to the films that I'd forgotten and, like Fellowship,
+  some instances where pivotal moments are treated almost casually, resolved in
+  very little text compared to everything around them.  For instance, when
+  Gandalf heals Theoden in the film we see that Saruman is magically controlling
+  (or at least influencing) Theoden and there's that cool line, "I draw you,
+  Saruman, as poison is drawn from a wound."  In the book, we don't see a
+  *direct* involvement from Saruman, only the *indirect* involvement via
+  Wormtongue, and the healing of Theoden is a much simpler and less magical
+  matter.
+
+  The treatment of the Ents is, I think, better in the book.  In the film the
+  Ents decide not to go to war, but Merry and Pippin trick Treebeard into
+  approaching Isengard and being so outraged by the devastation that he sees red
+  and calls the Ents, who come marching out of the trees just a moment later as
+  if they'd been waiting there all along.  But in the book Treebeard wants war
+  and the Ents decide in favour.
+
+  Two major differences, of course, are how Sam and Faramir are treated.
+  There's no trip to Osgiliath in the book, Faramir considers the matter and
+  decides he wants no part in this Ring business, setting them free to go about
+  their quest.  And Gollum does not trick Frodo into banishing Sam, the two
+  remain fast friends throughout.
+
+  Onto the Return of the King!
+
+[The Two Towers]: https://en.wikipedia.org/wiki/The_Two_Towers
+
+
+## Roleplaying Games
+
+### Hot Springs Island
+
+There's a new Swordfish Islands book: [Shipwrecked on the Swordfish Islands][]!
+I had a quick look through and it's good, once I've read through it properly
+I'll bring it into our campaign.  I'm planning to put several of the missing
+nereids on other islands, and I'm also going to situate the [Scenic
+Dunnsmouth][] somewhere with the Time Cube being a way to free Meltalia from the
+time-loop.
+
+But enough about that, we also played today.  Sadly we had to cut the session
+short, but in the time we played the players returned to the Lapis Observatory
+and started exploring it in earnest, as the translations of some brochures
+they'd taken last time were now done, promising sights such as the "Conservatory
+of Extraplanar Delights" and the "Observatory Museum".  There's also a magic
+sword I put in that tower some sessions ago which I'm hoping they'll find, as
+they don't have any magic weapons yet.
+
+They're not sure yet what to do about Svarku, but the mood seems to be turning
+towards getting in contact with the Night Axe ogres, which will be fun.  I hope
+they find Svarku's missing gem, as that'll *really* get things going.
+
+It's hard to predict how long this campaign will last as it *could* go on for
+quite some time, if the players are determined to explore things carefully and
+thoroughly, but there's also several objects and individuals scattered around
+that, if disturbed, could radically alter the status quo.  I expect the campaign
+to come to a sudden fiery end just when least expected.
+
+[Shipwrecked on the Swordfish Islands]: https://www.drivethrurpg.com/en/product/571636/shipwrecked-in-the-swordfish-islands
+[Scenic Dunnsmouth]: https://www.drivethrurpg.com/en/product/127039/scenic-dunnsmouth
+
+
+## Miscellaneous
+
+I found myself in the unfortunate position this week of needing to buy a new USB
+C hub, as my current one sometimes disconnects randomly.
+
+I'm not sure if it's just me, but it seems weirdly difficult to get a good one.
+And by good I mean that it has several ports and also supports USB C Power
+Delivery (so you can also use it to charge a phone or something).  Everything
+that supports Power Delivery has at most 4 ports (and usually fewer).  Similar
+difficulties finding hubs that support USB C Video.  I don't need to transmit
+video over USB C, but it's *weird* that there aren't really any hubs that
+support that.
+
+Is there something in the spec that makes a fully-featured USB C hub just
+difficult to produce?
+
+I ended up buying a 7-port hub but it doesn't support Video or Power Delivery.
+I can just keep plugging my phone into the wall I guess.
+
+And if you try upgrading to the next generation, by getting a Thunderbolt hub,
+those seem limited by spec to only support 4 connections (one of which will be
+used to plug it into your PC).  Again, it feels *weird* that these three things
+are simultaneously true: (1) almost every new device is USB C; (2) desktop
+motherboards commonly only have two or three USB C ports; (3) fully-featured USB
+C hubs have maybe four (if you're lucky) additional ports.
+
+
+## Link Roundup
+
+### Roleplaying games
+
+- [LAW, ORDER, & DOLMENWOOD: Bringing Courts, Calendars, and Consequences To A Fantasy Setting](https://icastlight.blogspot.com/2026/07/law-order-dolmenwood-bringing-courts.html)
+- [who approved this dragon?!](https://beeboobubie.substack.com/p/who-approved-this-dragon)
