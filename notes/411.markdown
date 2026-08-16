@@ -1,0 +1,57 @@
+---
+date: 2026-08-16
+---
+
+## Books
+
+No books this week!  I thought I'd finish [The Return of the King][] last night,
+but then it turned out those pesky appendices have a smaller font size...
+
+[The Return of the King]: https://en.wikipedia.org/wiki/The_Return_of_the_King
+
+
+## Roleplaying Games
+
+### Hot Springs Island
+
+This week I gave my players the run-down on the rest of the Swordfish Islands,
+as I had finally read [Shipwrecked][].  They can go explore Marlo's Mire and
+chat with the wizard if they want---I said there's a weekly ship to / from
+Swordfish Port---though I have decided my version of Marlo's Mire doesn't have
+the airship, but that should be a fairly minor adjustment; and I've said that
+there will be adventures on the other islands, but likely not full hexcrawls.
+
+I'm going to set [Scenic Dunnsmouth][] on the creepy spiderweb island (I'll
+replace the spider-people with the spider cultists from the adventure), and I'm
+going to scatter 10 of the nereid paintings around the rest.
+
+Anyway, this week was spent mostly exploring the Lapis Observatory.  The players
+found a magic sword, killed a giant snake, were imprinted upon by a tall naked
+golem, befriended a lizardman, and made off with thousands of gold worth of
+gaudy decorations.  A pretty successful time really.
+
+[Shipwrecked]: https://www.drivethrurpg.com/en/product/571636/shipwrecked-in-the-swordfish-islands
+[Scenic Dunnsmouth]: https://www.drivethrurpg.com/en/product/127039/scenic-dunnsmouth
+
+
+## Miscellaneous
+
+[The hedgehog][] hasn't come by all week.  The food sits untouched in its little
+house.
+
+[The hedgehog]: notes/410.html#miscellaneous
+
+In other news, I've switched away from Trello for my to-do list.  Atlassian
+haven't done anything terrible to it *yet* but I'm sure it's just a matter of
+time before some AI nonsense gets forced in there.  I've set up [donetick][] for
+my chores, as it does a list of repeating tasks very well, and [vikunja][] for
+the rest of the to-do list, as it has a kanban-style interface which is what I
+like.
+
+I'm pretty happy with them so far, and going through everything in my Trello
+board as I manually copied data across prompted me to rethink or remove some
+things that had been there for a while.  I need to get better at pruning old
+tasks, I think.
+
+[donetick]: https://donetick.com/
+[vikunja]: https://vikunja.io/
