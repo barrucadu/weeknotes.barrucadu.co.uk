@@ -1,0 +1,99 @@
+---
+date: 2026-08-23
+---
+
+## Books
+
+This week I read:
+
+- [The Return of the King][] by J. R. R. Tolkien
+
+  The thrilling final instalment!  I always forget just how long the time spent
+  hanging around in Gondor is after the defeat of Sauron, I *know* it's quite a
+  while, but it's always more than that.  But I think it's necessary for the
+  book, everyone deserves an epilogue.  I have mixed feelings about the film
+  omitting the Scouring of the Shire.  It's a very important part of the story
+  thematically, I feel; that war isn't only something that happens in far off
+  lands, in foreign parts, places where people are *different*, that it can
+  strike even the cosy familiarity of the British countryside.  Sorry, I mean
+  Hobbiton countryside, Tolkien was *quite clear* that there is *absolutely
+  nothing allegorical* in The Lord of the Rings.  I can see why it was left out
+  of the film, it was that or cut something else, or make a fourth film, but is
+  a shame.
+
+  The appendices are something else.  I'm not sure I've ever read them fully
+  before.  I wasn't expecting an explanation of how the names were translated.
+
+[The Return of the King]: https://en.wikipedia.org/wiki/The_Return_of_the_King
+
+
+## Roleplaying Games
+
+### Hot Springs Island
+
+W're still playing alternate weeks, so no game this week.  But I did spend a few
+hours preparing the wider Swordfish Islands setting.
+
+I rolled up a village for [Scenic Dunnsmouth][] and reskinned it as a research
+expedition: there's two research groups who hate each other (and each considers
+*their* group in charge around here), a group of poorly-paid labourers, and the
+wealthy expedition funders.  They're here to study tropical swamp animals.
+
+I also used [Into the Wyrd and Wild][] to roll up a little pointcrawl for
+another of the islands, but I'm not completely sold on it.  It needs some work.
+
+Anyway, I've determined where all the nereids are trapped and have at least
+vague ideas of adventures for each of them, so I can just flesh these out a few
+at a time and deliver adventure hooks to the players as I have them.
+
+[Scenic Dunnsmouth]: https://www.drivethrurpg.com/en/product/127039/scenic-dunnsmouth
+[Into the Wyrd and Wild]: https://www.drivethrurpg.com/en/product/274922/into-the-wyrd-and-wild-revised-edition
+
+
+## Miscellaneous
+
+Good news everyone, the hedgehog is back!
+
+Or at least, something is eating the food.  I think it's most likely a hedgehog:
+I can't think of many small (no larger than hedgehog-sized) nocturnal creatures
+that frequent British suburbs and willingly crawl into small ground-level holes.
+Birds don't like enclosed spaces.  Bats prefer to be high up.  Squirrels aren't
+nocturnal, and the squirrel that visits the garden prefers stealing nuts from
+the birds anyway.  So even though I haven't seen it, I think on the balance of
+probabilities it is likely a hedgehog.
+
+![I put a smaller pile of food by the entrance to entice any passing 'hogs.](notes/412/hedgehog-food.jpg)
+
+In trying-out-new-software news, I'm still happy with [donetick][] and
+[vikunja][] as a Trello replacement, and I've made some more changes this week.
+
+Firstly, I set up [Authelia][] for SSO, now that I have donetick and vikunja and
+grafana which all have their own user management.  I'm using the [file backend
+for Authelia][authelia-file] and have all the users (which is just me) defined
+in my NixOS secrets, giving me declarative user management.
+
+Secondly, I'm trying out [hister][] as a replacement for my basic home-made
+[bookmarks search engine][bookmarks].  I've not really had chance to play around
+with it yet, but it certainly *looks* nice.  I've got it up and running with
+backups and SSO, and have gone through all my bookmarks and imported the small
+fraction of them that I was actually interested in keeping.  I have a couple of
+blogs I want to look through too to make sure I have everything interesting
+stored ([ACOUP][] and [The Great Dungeon of the North][]).
+
+Something I found a bit sad while looking through my existing 1000+ bookmarks is
+that a *lot* of the links are now dead.  One thing that's cool about Hister is
+that it stores a local copy of the page HTML and shows that in the search
+results, so even if a page is gone, I can still at least get the text content.
+
+I'm toying with the idea of setting up a feed reader too, so I can migrate off
+[The Old Reader][], but I haven't looked into options at all yet.
+
+[donetick]: https://donetick.com/
+[vikunja]: https://vikunja.io/
+[Authelia]: https://www.authelia.com/
+[authelia-file]: https://www.authelia.com/configuration/first-factor/file/
+[hister]: https://hister.org/
+[bookmarks]: https://github.com/barrucadu/bookmarks
+[The Great Dungeon of the North]: https://greatdungeonnorth.blogspot.com/
+[ACOUP]: https://acoup.blog/
+[The Old Reader]: https://theoldreader.com/
