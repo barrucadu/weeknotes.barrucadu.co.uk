@@ -1,0 +1,76 @@
+---
+date: 2026-08-30
+---
+
+## Books
+
+This week I read:
+
+- [Robot][] by Adam Wiśniewski-Snerg
+
+  This was a weird book.  The protagonist is a humanoid robot, indistinguishable
+  from a real human (and, as we later learn, a perfect physical copy of a real
+  person) sent to infiltrate a huge underground shelter and carry out the orders
+  of its creator, "the Mechanism".  Except, the Mechanism doesn't seem to convey
+  any orders at all.  The first third of the story might be a dream or
+  hallucination (I suspect there's symbolism here that would be more clear if I
+  were to go back and re-read it).  Characters reoccur but have no memory of
+  meeting the protagonist previously, or think he's somebody else.  The book is
+  about alien abduction, but more than that it's about the limits of perception
+  and imagination, but even more than that it's about free will and what that
+  means.
+
+[Robot]: https://en.wikipedia.org/wiki/Adam_Wi%C5%9Bniewski-Snerg
+
+
+## Roleplaying Games
+
+### Hot Springs Island
+
+A player who had been absent for the last few sessions returned this week, so we
+started with a long recap.  Then straight back to exploration.  The players
+ended up finding the Temple of Tranquility and accepting a bet to go down to the
+third basement level, but ran away when they attracted the attention of the
+giant albino centipede.  They want to go back some time, but not to win a bet,
+for *revenge.*
+
+Much discussion was had about getting a ship so they can travel between the
+islands without needing to rely on the Martel schedule, but no decisions were
+made yet.  I'll prepare things just in case.
+
+Finally, they decided to go make friends with the ogres.  We ended the session
+with them a couple of hexes away from Glavrok Village.  Despite encountering a
+load of boars and other animals with parts the ogres value (and which the
+players *know* the ogres value), they haven't killed anything to bring as a
+peace offering.  So I'm interested to see what their approach will be.
+
+
+## Miscellaneous
+
+[Hister][] is pretty cool.
+
+I started using it like [bookmarks][], manually adding stuff to the index that I
+thought I'd want to return to in the future, but that's a lot of effort and I've
+come around to appreciate using the browser extension to just add every page I
+visit and using exclusion rules to filter out things I *don't* want.  I have 987
+pages[^987] indexed so far, with 55 rules (most of them excluding an entire
+domain, but it allows arbitrary regex).  I've also chosen to exclude forum-like
+sites (reddit, hackernews, lobsters) from the index so in practice a lot of
+things I read are never going to get indexed, but I chose to do that because
+these sites have a *lot* of pages, and I barely ever want to return to, say, an
+old reddit thread.
+
+I've got it set as my default search engine in Firefox, with fallback to Google
+if it can't find something[^mn].  It's working well!
+
+[^987]: That includes all 412 (as of the time of writing this) weeknotes, so
+  I've visited around 575 unique pages this week that were interesting enough to
+  not immediately blacklist from the index.
+
+[^mn]: I tried using [Marginalia][] as my fallback search engine, but it's sadly
+  just not good enough.  Almost everything I searched Marginalia for I had to go
+  back to Google.
+
+[Hister]: https://hister.org/
+[bookmarks]: https://github.com/barrucadu/bookmarks
+[Marginalia]: https://marginalia-search.com/
