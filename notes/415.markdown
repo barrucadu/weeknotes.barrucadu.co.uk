@@ -1,0 +1,62 @@
+---
+date: 2026-09-13
+---
+
+## Books
+
+This week I read:
+
+- [The King of Elfland's Daughter][]
+
+  I think this is probably the best "real-world fairytale" ever written.  Lord
+  Dunsany is great at this sort of writing (as aptly demonstrated in his more
+  fantastical stories, which themselves inspired Lovecraft's dreamlands), and
+  *The King of Elfland's Daughter* takes that style of writing but grounds it
+  *just enough* to fit in some nonspecific part of fairytale-England.  Another
+  great book along the same lines is his *The Blessing of Pan* which I'm now
+  feeling a craving to re-read.
+
+[The King of Elfland's Daughter]: https://en.wikipedia.org/wiki/The_King_of_Elfland%27s_Daughter
+
+
+## Roleplaying Games
+
+Ars Magica arrived at last!  Now I just need to spend the rest of my life
+searching for four other people who want to play it.
+
+![Ars Magica Definitive Edition](notes/415/arm.jpg)
+
+### Hot Springs Island
+
+This week felt a little bit unfocussed.  The players wandered around the island
+some, properly met the ogres for the first time (and learned some of their
+backstory due to a good reaction roll), and had their first hostile encounter
+with the salamanders.  Really, they should have had several hostile salamander
+encounters by now, I'd just been putting it off for no good reason.  But at
+least they've got the picture now that not everyone is friendly if you just talk
+to them.
+
+
+## Miscellaneous
+
+I set up a little home gym in my conservatory back in July.  I wasn't using the
+space for anything, and I've periodically tried to get fitter but always fallen
+out of the habit, so I thought why not give it another try but add on a bit of
+sunk cost fallacy for motivation?
+
+Well, seven weeks in it appears to be working.  I've been following the [Hybrid
+Calisthenics][] routine, along with alternating [Couch to 5k][] and a basic
+dumbbell routine (bicep curls, cross-body hammer curls, lateral raises, and
+rows).  I have one rest day a week which moves around based on what I'm doing,
+but is usually Tuesday.  Things that were very hard at the beginning are now
+much less hard, I've been able to follow Couch to 5k as written, and I've
+progressed to harder variations of the calisthenics exercises and to heavier
+weights for the strength workout.
+
+A few weeks in I started stretching in the morning with the goal of being able
+to touch my toes, but I haven't made any progress with that at all and the
+stretches don't feel challenging, so I think I need to find a different routine.
+But the workout routine is working well.
+
+[Hybrid Calisthenics]: https://www.hybridcalisthenics.com/routine
+[Couch to 5k]: https://www.nhs.uk/better-health/get-active/get-running-with-couch-to-5k/couch-to-5k-running-plan/
