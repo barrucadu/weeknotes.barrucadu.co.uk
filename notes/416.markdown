@@ -1,0 +1,108 @@
+---
+date: 2026-09-20
+---
+
+## Work
+
+Well, since GoCardless has been acquired by Mollie we don't have the annual GC
+Live anymore: instead we have Mollieverse, which was this week, in Brussels.
+
+Never been on the Eurostar before, it was a very good experience.  The departure
+lounges (both in London and in Brussels) felt a lot like an airport departure
+lounge which, you know, makes sense: it's a space lots of people need to hang
+out in with luggage for a while.  The queue at St Pancras was terrible, but the
+actual passport control & security check was much more straightforward than
+flight.  I could imagine taking it for a day trip or something.
+
+
+## Books
+
+This week I read:
+
+- [Dangerous Games][] by Joseph P. Laycock
+
+  Seth Skorkowsky did [an amazing video on this book][] which covers the three
+  waves of RPG moral panics in the USA: the first wave was that players would
+  lose the ability to distinguish between reality and fiction; the second was
+  that by imagining demons and gods players were actually opening themselves to
+  real occult influence (i.e., the Satanic Panic); the third that these games
+  glamorised and encouraged murder and other immoral behaviour.
+
+  But it's not just a dry history, the author constructs two very compelling and
+  well-researched arguments.  Firstly, he ties these into the wider cultural
+  fears at the time to explain *why* these specific fears rose up and why
+  roleplaying games were the target.  Secondly, throughout the book he refers to
+  "frames" of truth, arguing that the post-Enlightenment world, and particularly
+  Protestantism, have been so highly suspicious of imagination, collapsing all
+  the ways in which something could be "true" or "meaningful" into two
+  modes---backed up by empirical evidence, or totally meaningless
+  speculation---resulted in a culture poorly-equipped to deal with highly
+  imaginative games.
+
+  I read most of this while on trains and I intend to go back through it and
+  take notes, as it's really well written and has a lot of references I want to
+  look into.
+
+- [Last Days][] by Brian Evenson
+
+  Not to be confused with *Last Days* by Adam Nevill, which is also a horror
+  novel about a weird cult.  I suppose it's a good title for religious horror.
+  I picked this up after enjoying Brian Evenson's short story collection *A
+  Collapse of Horses* and this novel apparently started as a short story that
+  got expanded.  It's about a weird self-mutilation cult called "The Brotherhood
+  of Mutilation" that draw in a guy who lost his hand, wanting to use him for
+  their own ends.  It opens with Matthew 5:29--30:
+
+  > And if thy right eye offend thee, pluck it out, and cast it from thee... And
+  > if thy right hand offend thee, cut it off, and cast it from thee.
+
+  It's basically an action movie in book form, it's horror-themed but definitely
+  not written with the intend to instil fear.  But despite that it's great, I
+  suppose you could call it a thriller.
+
+[Dangerous Games]: https://www.ucpress.edu/books/dangerous-games/paper
+[Last Days]: https://en.wikipedia.org/wiki/Last_Days_(Evenson_novel)
+[an amazing video on this book]: https://www.youtube.com/watch?v=OpjV-melB-c
+
+
+## Roleplaying Games
+
+No game this week!  I was away this weekend (see below).
+
+
+## Miscellaneous
+
+This weekend I attended [VeXpo][], the UK VTuber convention.  I've never been
+before, I wasn't even into VTubers this time last year, but now I am, and I
+decided to check it out.  It was a lot of fun.
+
+With the Mollieverse timing, this did unfortunately mean I had to cart around a
+bunch more stuff with me, which was fairly inconvenient.  I had to be at
+St. Pancras for the Eurostar at 05:30 on Thursday so I stayed in London
+overnight on Wednesday, meaning I had my work laptop, personal laptop, dirty
+clothes from Wednesday, changes of clothes for Thursday to Monday, etc.  I was
+tempted to skip Mollieverse---these big company gatherings, they're not that
+fun---but foolishly, despite knowing the VeXpo dates months in advance, I hadn't
+booked the Friday off work, and attending Mollieverse was *strongly encouraged*
+so I felt bad about booking it off on relatively short notice.  A lesson for
+next time I suppose.
+
+Anyway, I wasn't really sure what to expect.  While I do watch VTubers, I almost
+exclusively watch tiny indie VTubers, so I only knew a couple of names amongst
+all the meet & greets, panels, and performances, and they weren't people I'd
+watched.  In retrospect, I should probably have just booked a couple of meet &
+greets at random to see what's what.  The panels were fun, that's where I spent
+most of the time.  I missed the concerts due to poor ticket planning on my part
+(they sell out very fast!) so another lesson for next year.  I met a small
+VTuber that I follow and she gave me a sticker, and I saw a few others that I'm
+kind of aware of but don't watch around the con.  There were some very good
+cosplays too.  Overall, it was a good time, and I'll be back next year.
+
+[VeXpo]: https://vexpo.uk/
+
+
+## Link Roundup
+
+### Roleplaying games
+
+- [The Ruin of Torigrarg](https://fivekingdoms-game.com/the-ruin-of-torigrarg/)
