@@ -1,0 +1,56 @@
+---
+date: 2026-10-04
+---
+
+## Books
+
+No books this week.
+
+
+## Roleplaying Games
+
+### Asher's Ridge
+
+This week I and one of the other players tried out [Asher's Ridge][], which is a
+GMless 1--4 player game designed to produce an episode of a small-town paranomal
+mystery TV show, like Twin Peaks (or other shows it references that I've not
+watched).  Specifically, it produces *episodes of a show*, you're not just
+roleplaying the characters but also making explicit reference to TV show
+concepts such as "loglines", "scenes", and "acts" to structure the session.
+It's got some interesting mechanics too, being completely diceless, instead
+using a deck of cards and a set of Scrabble tiles.
+
+We found it a little slow to get into, mostly due to lack of familiarity with
+the source material, but I think once we got over that hump and things started
+to flow it worked pretty well.  I definitely want to come back to it in the
+future, not necessarily for a campaign but definitely for more one-shots.
+
+[Asher's Ridge]: https://www.montfordtales.com/ashers-ridge/
+
+
+## Miscellaneous
+
+You may recall I saw a hedgehog back in August and [bought it a little
+house][hh].  *Something* had been eating the food I was leaving out, but I never
+actually saw it.  Until Friday, that is, when I opened the box as usual to check
+if the food needed topping up and look what I found:
+
+![Hedgehog in the hoghouse!](notes/418/hoghouse.png)
+
+In other news, I've been trying to cut down on how much frozen food I eat.  I
+used to always have chips, pizzas, pies, (etc) in the freezer ostensibly for
+emergencies but in practice I ate that sort of thing quite often.
+
+Last month I started freezing sliced bread (I already bake my own bread) so if I
+was out of all other food I could easily just make a sandwich, and it has worked
+wonderfully.  I've not bought anything frozen since.  All I need to do is bake
+bread a little more often than before.
+
+[hh]: notes/410.html
+
+
+## Link Roundup
+
+### Roleplaying games
+
+- [Witchcraft (for use with Dolmenwood)](https://elmc.at/witchcraft/)
