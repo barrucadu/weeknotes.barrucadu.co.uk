@@ -1,0 +1,84 @@
+---
+date: 2026-10-11
+---
+
+## Books
+
+This week I read:
+
+- [Reading and Writing in Babylon][] by Dominique Charpin
+
+  It's been on my shelf for a while (I've really fallen behind on the Akkadian
+  stuff) but I'm glad I finally got around to it.  It makes some arguments that
+  I've seen in *The Oxford Handbook of Cuneiform Culture* (a very large book I
+  am slowly working my way through) about how widespread literacy was, and
+  concludes that actually despite how complex cuneiform seems (to us), there is
+  enough evidence to conclude that many people could read, and even write, to
+  some degree.  Literacy wasn't just the domain of professional scribes or the
+  king.
+
+  For fun, I tried translating some of the personal names mentioned in the book,
+  as Akkadian names all meant something.  Typically it's a short statement about
+  divine protection, faith, or some wish the parents have for the child.  I got
+  quite a few of the names, but others were a bit of a mystery, so I did a
+  little research and found that there's a foundational reference book on
+  Akkadian names, that catalogues all known ones, breaking them down into their
+  components and giving translations... but it's in German, as so much early
+  Akkadian research is.  I'll have to look for an English translation.
+
+[Reading and Writing in Babylon]: https://www.hup.harvard.edu/books/9780674049680
+
+
+## Roleplaying Games
+
+### Hot Springs Island
+
+Hot Springs Island came to an end this week.
+
+Earlier in the week one of the three players, who's had to miss several
+sessions, said that they had to drop out for personal reasons.  Unfortunate, but
+it happens.
+
+Simultaneously, I'd been thinking about the game.  I've been enjoying it, but
+not *as much* as I thought I would, which manifested as putting off prep and
+just generally putting less effort into it.  But there is a game I'd be more
+interested in playing: [The Lions of Tell Arn][], which is a Bronze Age
+megadungeon, city, and associated adventures.  I was planning to combine Tell
+Arn with a few other Bronze Age resources I've got (e.g. [Let Us Build a
+Tower][]) and come up with a fun Mesopotamian setting full of adventure.  So I
+was leaning towards telling the players this week "hey, I'm having fun, but
+something else has caught my eye; it'll be a few weeks for me to get everything
+ready, so I'm not ending the campaign *right now*, but let's work towards some
+sort of conclusion."
+
+But about an hour before the session another player dropped the bombshell that
+they were feeling burned out on OSR stuff and were going to drop out.
+
+So we had an emergency meeting, and we're going to pivot to something else.
+They wanted a mechanical change, and also adventures where the character
+motivation is something more than "I go into the dungeon because it is there."
+Next week we're going to have a one-shot of *Pioneer* (the near-future Traveller
+game) and then after that most likely a *Traveller* campaign.  It's been quite
+some time since we did Traveller so I'm looking forward to it!
+
+[The Lions of Tell Arn]: https://www.drivethrurpg.com/en/product/510134/the-lions-of-tell-arn-part-i
+[Let Us Build a Tower]: https://sojournrpg.itch.io/lubat
+
+
+## Miscellaneous
+
+I picked up a little A6 pocket notebook this week (a Midori MD notebook with
+gridded paper) mostly to keep track of my workouts but also to give journaling a
+go, if I feel the inclination.  I've tried keeping a diary before but don't
+really do enough day-to-day to make it worthwhile.  But I do have a problem with
+how I've been tracking my workouts: during the workout itself I had to keep
+switching between the stopwatch and my notes app.  But with a separate journal I
+can just use the phone for timing and scribble down what I've done on the paper,
+no flipping between apps (or pages) needed at all.
+
+I'm not using the journal for to-do lists (I'm very happy with Vikunja and
+Donetick for that; at most I'd use the journal to note something down to add to
+one of those tools later) or shopping lists (I already keep a cheap flip
+notebook with tear-away pages and a pen in the kitchen for that), so it's pretty
+much just for workouts at the moment, but who knows how things will change when
+I get into it.
