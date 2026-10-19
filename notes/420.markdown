@@ -1,0 +1,105 @@
+---
+date: 2026-10-19
+---
+
+## Books
+
+This week I read:
+
+- [Inanna][] by Kim Echlin
+
+  I decided to re-read this to see if there was anything I could draw upon for
+  my Bronze Age worldbuilding project (see below) but, eh, not really.  It's
+  pretty simplistic, and the translations take some significant linguistic
+  liberties in ways that I don't think actually improve the stories.  It's ok as
+  an introduction, but I've read much better stuff by now.
+
+- Volume 14 of [Frieren: Beyond Journey's End][] by Kanehito Yamada and Tsukasa Abe
+
+  Had this one sitting on the shelf for a while and totally forgot I had it.
+  The story has definitely changed focus.  Early on, it was very much focussed
+  on Frieren and how she experiences the passage of time differently to the
+  shorter lived races, but gradually it's widened in scope to being more
+  generally about the old world order being left behind.  The current story arc
+  is about a plan to assassinate Seerie, one of the three great elven mages
+  (Frieren is one of the others, and the third is said to have died somewhat
+  recently).  It is still good, it's definitely not suffering from the same
+  power- and scope-creep that *That Time I Got Reincarnated As A Slime* is, but
+  I did prefer it earlier on, when the stakes were more personal.
+
+[Inanna]: https://www.goodreads.com/book/show/868597.Inanna
+[Frieren: Beyond Journey's End]: https://en.wikipedia.org/wiki/Frieren
+
+
+## Roleplaying Games
+
+### Pioneer
+
+This week I ran the adventure from the Pioneer rulebook, *Rescue at Low Earth
+Orbit*, in which the players are called for an emergency rescue mission.  A
+tourist vessel has been struck by space debris which damaged its heat shield and
+vented most of its atmosphere: they can't return to Earth, and they only have
+enough oxygen for 36 hours.
+
+Despite being mechanically almost identical to Traveller, it felt very different
+in practice.  We focussed on the little details so much more: the countdown
+before takeoff, adjusting the ship's trajectory to avoid its own set of space
+debris, performing a spacewalk to fix a bent actuator, performing a Hohmann
+transfer between orbits, and so on.  And at the end no gratitude, just a
+grilling by the oversight committee probing into all the decisions they made and
+questioning how even minor mishaps could have been foreseen and prevented.
+
+I could imagine running this more in the future.
+
+### Worldbuilding
+
+I started building my Bronze Age setting this week.  I've decided to focus on
+the kingdom of Larsa, which is in the south by the Persian Gulf, for now.  [The
+Lions of Tell Arn][] will be nearby Isin, as it's suffered from a period of
+decline and has been recently conquered which feels like a good fit for the city
+of Kurhan in the module.  I've made up Akkadian names for the other important
+locations in Tell Arn:
+
+- Makkalet, a settlement that sees a lot of trade: Tamkār, "merchant"
+- Lambsblood, a small village near the Tell: Dāmimrum, "lambsblood"
+- Tell Arn: Tīl Qubūrī, "Mound of Graves"
+
+and the real historical city of Uruk will fill the role of the nearby town of
+Isa.
+
+[Let Us Build a Tower][] will, obviously, be in Babylon.  I haven't thought
+about what else is going on there yet, but I have some sources to read.
+
+I did some research into trade routes too.  I couldn't find a good map, but I
+could find where goods come from, and so inferred how they would arrive in
+Mesopotamia.  From the Persian Gulf I have copper, ivory, pearls, and
+semiprecious stones; from Egypt, precious metals; from both Elam and the Levant,
+wood; and from Afghanistan (via Elam), lapis lazuli, gold, and tin.
+International trade was a huge deal in the Bronze Age and I want it to be a big
+part of my setting.
+
+I'm wondering if I can draw ideas from Ultraviolet Grasslands or Traveller for a
+trader campaign, treating the setting as a pointcrawl with overland and river
+routes between cities and other points of interest.  I'm not really sure what
+the "default action" of the setting will be, but that's very important to figure
+out.
+
+[The Lions of Tell Arn]: https://www.drivethrurpg.com/en/product/510134/the-lions-of-tell-arn-part-i
+[Let Us Build a Tower]: https://sojournrpg.itch.io/lubat
+
+
+## Miscellaneous
+
+I've now been using my journal for a week, jotting a couple of sentences about
+each day and logging my workouts.  I'm not pressuring myself to write a lot, if
+I find that valuable it'll happen naturally over time.  I find the small paper
+size of A6 makes writing something brief down feel much less intimidating than
+when I've tried with A4 (or even A5) notebooks before.
+
+Thursday's entry is:
+
+> Pigeons very antsy today, they're trying to get fed earlier + earlier.  One
+> perched on the back door ext. window and looked in at me.  Might have another
+> intrusion soon if not careful.
+
+which is four and a half lines on this small paper.
